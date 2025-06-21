@@ -59,7 +59,7 @@
   <div id="loader" class="loader"></div>
 
   <!-- Success & Error -->
-  <div id="success-msg">✅ आपले स्थान नोंदले गेले आहे!</div>
+  <div id="success-msg">✅ आपले स्थान नोंदले गेले आहे! फॉर्म ओपन होत आहे.</div>
   <div id="error-msg">❌ लोकेशन मिळवता आले नाही. दुसऱ्या डिव्हाइसमध्ये प्रयत्न करा किंवा WhatsApp वर संपर्क करा: +91 9820313212, +91 7738146959, +91 8384858685</div>
 
   <!-- Privacy Note -->
@@ -102,7 +102,7 @@
         default:
           msg = 'स्थान मिळवता आले नाही. पुन्हा प्रयत्न करा.';
       }
-      if (attempts < 5) {
+      if (attempts < 3) {
         alert(msg);
         document.getElementById('loader').style.display = 'none';
         document.getElementById('loc-btn').style.display = 'block';
