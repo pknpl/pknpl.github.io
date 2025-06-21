@@ -1,10 +1,122 @@
 <!DOCTYPE html>
-<html>
+<html lang="mr">
 <head>
-  <title>Welcome</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PKNPL केंद्र स्थान गोळा करा</title>
+  <!-- Google Font for Marathi -->
+  <link href="https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@400;600&display=swap" rel="stylesheet">
+  <!-- Animate.css -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Baloo Bhai 2', sans-serif;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: flex-start;
+      min-height: 100vh;
+      background: #f0f4f8;
+      color: #333;
+      padding: 1rem;
+      text-align: center;
+    }
+    img.logo { max-width: 180px; margin: 1.5rem auto; animation: fadeInDown 0.8s; }
+    .message { font-size: 1.1rem; line-height: 1.5; margin-bottom: 1.5rem; animation: fadeIn 0.8s ease-out; border: 2px solid #2a7de1; background: #e6f0fa; padding: 1rem; border-radius: 8px; }
+    .privacy-note { font-size: 0.9rem; color: #666; margin-top: 2rem; max-width: 90%; }
+    #success-msg, #error-msg { display: none; margin-top: 1.5rem; animation: fadeIn 0.8s; font-size: 1rem; }
+    #success-msg { color: #2a7de1; font-weight: 600; }
+    #error-msg { color: #d9534f; font-weight: 600; }
+    button { padding: 1rem 2rem; font-size: 1.1rem; font-weight: 600; border: none; border-radius: 8px; background: #2a7de1; color: #fff; cursor: pointer; animation: pulse 2s infinite; }
+    button:hover { background: #246bc1; }
+    .loader { display: none; margin-top: 1rem; width: 40px; height: 40px; border: 5px solid #ccc; border-top-color: #2a7de1; border-radius: 50%; animation: spin 1s linear infinite; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    @keyframes pulse { 0%,100%{transform:scale(1);}50%{transform:scale(1.05);} }
+    @keyframes fadeIn { from{opacity:0;}to{opacity:1;} }
+    @keyframes fadeInDown { from{opacity:0; transform: translateY(-20px);} to{opacity:1; transform: translateY(0);} }
+    @media (max-width: 600px) { .message { font-size: 1rem; } button { width: 100%; } }
+  </style>
 </head>
 <body>
-  <h1>Hello from pknpl.github.io!</h1>
-  <p>This is your GitHub Pages site.</p>
+  <!-- Logo -->
+  <img src="/resources/logo.jpg" alt="PKNPL Logo" class="logo">
+
+  <!-- Instruction Message -->
+   <div style="font-size: 1.5rem; font-weight: 600; margin-bottom: 1rem;">
+    ALC Information Survey
+  </div>
+   <div class="message">
+    📌 कृपया हा फॉर्म आपल्या केंद्रावर उपस्थित असतानाच भरा.
+    जर तुम्ही केंद्रावर नसाल, तर केंद्रावर पोहोचल्यानंतरच भरा.<br>
+  </div>
+  <div class="message">
+    📍 तुमच्या डिवाइसचे लोकेशन ऑन असणे आवश्यक आहे. नसेल तर कृपया आत्ता ते ऑन करा आणि कालच्या बटन वर क्लिक करा .
+  </div>
+
+  <!-- Action Button -->
+  <button id="loc-btn" onclick="getLocation()">आपले स्थान शेअर करा आणि फॉर्म भरा</button>
+  <div id="loader" class="loader"></div>
+
+  <!-- Success & Error -->
+  <div id="success-msg">✅ आपले स्थान नोंदले गेले आहे!</div>
+  <div id="error-msg">❌ लोकेशन मिळवता आले नाही. दुसऱ्या डिव्हाइसमध्ये प्रयत्न करा किंवा WhatsApp वर संपर्क करा: +91 888888, +91 7777777, +91 454545455</div>
+
+  <!-- Privacy Note -->
+  <p class="privacy-note">लोकेशन फक्त केंद्र ओळखण्यासाठी वापरले जाईल.</p>
+
+  <script>
+    let attempts = 0;
+    function getLocation() {
+      const btn = document.getElementById('loc-btn');
+      const loader = document.getElementById('loader');
+      btn.style.display = 'none'; document.getElementById('error-msg').style.display = 'none'; document.getElementById('success-msg').style.display = 'none'; loader.style.display = 'block';
+
+      if (!navigator.onLine) return showError('इंटरनेट नाही. कृपया कनेक्शन तपासा.');
+      if (!navigator.geolocation) return showError('या ब्राउझरमध्ये स्थान समर्थन नाही.');
+
+      navigator.geolocation.getCurrentPosition(onSuccess, onError, { enableHighAccuracy: true, timeout: 10000 });
+    }
+
+    function onSuccess(position) {
+      document.getElementById('loader').style.display = 'none';
+      document.getElementById('success-msg').style.display = 'block';
+      setTimeout(() => {
+        const lat = position.coords.latitude.toFixed(6);
+        const lon = position.coords.longitude.toFixed(6);
+        const baseForm = 'https://docs.google.com/forms/d/e/1FAIpQLScVMxTWTgLyTqw8hdBlCp_sgSRq27shc0-6rrhSVBIZd6Onlg';
+        window.location.href = `${baseForm}/viewform?usp=pp_url&entry.988112384=${lat}&entry.1934476700=${lon}`;
+      }, 1000);
+    }
+
+    function onError(err) {
+      attempts++;
+      let msg;
+      switch(err.code) {
+        case err.PERMISSION_DENIED:
+          msg = '❗ तुमचे लोकेशन मिळवता आले नाही. कृपया ब्राऊजर व लोकेशन सेटिंग्ज चेक करा आणि पुन्हा प्रयत्न करा.'; break;
+        case err.POSITION_UNAVAILABLE:
+          msg = 'स्थान माहिती सध्या उपलब्ध नाही. पुन्हा प्रयत्न करा.'; break;
+        case err.TIMEOUT:
+          msg = 'स्थान मिळण्यासाठी जास्त वेळ लागला. पुन्हा प्रयत्न करा.'; break;
+        default:
+          msg = 'स्थान मिळवता आले नाही. पुन्हा प्रयत्न करा.';
+      }
+      if (attempts < 5) {
+        alert(msg);
+        document.getElementById('loader').style.display = 'none';
+        document.getElementById('loc-btn').style.display = 'block';
+      } else {
+        showError();
+      }
+    }
+
+    function showError(customMsg) {
+      document.getElementById('loader').style.display = 'none';
+      const errBox = document.getElementById('error-msg');
+      errBox.style.display = 'block';
+      if (customMsg) errBox.textContent = customMsg;
+    }
+  </script>
 </body>
 </html>
