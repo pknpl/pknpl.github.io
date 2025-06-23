@@ -73,7 +73,7 @@
       btn.style.display = 'none'; document.getElementById('error-msg').style.display = 'none'; document.getElementById('success-msg').style.display = 'none'; loader.style.display = 'block';
 
       if (!navigator.onLine) return showError('इंटरनेट नाही. कृपया कनेक्शन तपासा.');
-      if (!navigator.geolocation) return showError('या ब्राउझरमध्ये स्थान समर्थन नाही.');
+      if (!navigator.geolocation) return showError('या ब्राउझरमध्ये लोकेशन सपोर्ट नाही.');
 
       navigator.geolocation.getCurrentPosition(onSuccess, onError, { enableHighAccuracy: true, timeout: 10000 });
     }
