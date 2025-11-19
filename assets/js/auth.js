@@ -74,10 +74,10 @@ function injectHelpModal() {
             
             <div style="background:#f1f5f9; padding:12px; border-radius:8px; margin-bottom:15px;">
                 <div style="font-size:0.8rem; color:#64748b; text-transform:uppercase;">Support Hotline</div>
-                <div style="font-size:1.2rem; font-weight:bold; color:#334155;">+91 8989898989</div>
+                <div style="font-size:1.2rem; font-weight:bold; color:#334155;">+91 8384858685</div>
             </div>
 
-            <a href="https://wa.me/918989898989?text=pknpl%20oncet%20quiz%20help%20:-" target="_blank" class="whatsapp-btn">
+            <a href="https://wa.me/918384858685?text=pknpl%20oncet%20quiz%20help%20:-" target="_blank" class="whatsapp-btn">
                 <span>Chat on WhatsApp</span>
             </a>
             
