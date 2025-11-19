@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "question": "MS Word 2019 is used for creating what type of documents?",
+    "options": [
+      "Audio",
+      "Video",
+      "Text Documents",
+      "Games"
+    ],
+    "answer": 2,
+    "explanation": "MS Word 2019 is used primarily for creating text documents."
+  },
+  {
+    "id": 2,
+    "question": "The default file extension of Word 2019 is?",
+    "options": [
+      ".txt",
+      ".docx",
+      ".xlsx",
+      ".pdf"
+    ],
+    "answer": 1,
+    "explanation": "The default file extension for Word 2019 documents is .docx."
+  },
+  {
+    "id": 3,
+    "question": "Which tab contains Font group?",
+    "options": [
+      "Insert",
+      "Home",
+      "Layout",
+      "View"
+    ],
+    "answer": 1,
+    "explanation": "The Font group, which allows font changes, is found under the Home tab."
+  },
+  {
+    "id": 4,
+    "question": "Shortcut for Save command?",
+    "options": [
+      "Ctrl S",
+      "Ctrl C",
+      "Ctrl X",
+      "Ctrl A"
+    ],
+    "answer": 0,
+    "explanation": "Ctrl + S is the shortcut to save a document in MS Word."
+  },
+  {
+    "id": 5,
+    "question": "To print a document, which tab is used?",
+    "options": [
+      "Insert",
+      "File",
+      "Home",
+      "View"
+    ],
+    "answer": 1,
+    "explanation": "The File tab contains the print option in MS Word."
+  },
+  {
+    "id": 6,
+    "question": "What is the use of Bold command?",
+    "options": [
+      "Underline text",
+      "Darken the text",
+      "Italic text",
+      "Change color"
+    ],
+    "answer": 1,
+    "explanation": "Bold command darkens the text making it stand out."
+  },
+  {
+    "id": 7,
+    "question": "Which key is used to undo last action?",
+    "options": [
+      "Ctrl U",
+      "Ctrl Y",
+      "Ctrl Z",
+      "Ctrl X"
+    ],
+    "answer": 2,
+    "explanation": "Ctrl + Z is the shortcut to undo the last action."
+  },
+  {
+    "id": 8,
+    "question": "Header and Footer are inserted from which tab?",
+    "options": [
+      "Insert",
+      "Layout",
+      "Design",
+      "Home"
+    ],
+    "answer": 0,
+    "explanation": "Header and Footer are inserted from the Insert tab."
+  },
+  {
+    "id": 9,
+    "question": "What does MS stand for in MS Word?",
+    "options": [
+      "Microsoft",
+      "Micro System",
+      "Mega Soft",
+      "Mini Server"
+    ],
+    "answer": 0,
+    "explanation": "MS in MS Word stands for Microsoft."
+  },
+  {
+    "id": 10,
+    "question": "Which feature checks spelling and grammar?",
+    "options": [
+      "AutoCorrect",
+      "Find",
+      "Review",
+      "Mailings"
+    ],
+    "answer": 2,
+    "explanation": "Review feature checks spelling and grammar."
+  },
+  {
+    "id": 11,
+    "question": "Page Orientation can be changed from which tab?",
+    "options": [
+      "Layout",
+      "Insert",
+      "Home",
+      "Review"
+    ],
+    "answer": 0,
+    "explanation": "Page Orientation is changed from the Layout tab."
+  },
+  {
+    "id": 12,
+    "question": "Shortcut to create a new document?",
+    "options": [
+      "Ctrl O",
+      "Ctrl N",
+      "Ctrl P",
+      "Ctrl S"
+    ],
+    "answer": 1,
+    "explanation": "Ctrl + N is the shortcut to create a new document."
+  },
+  {
+    "id": 13,
+    "question": "Which feature allows inserting pictures?",
+    "options": [
+      "Layout",
+      "Insert",
+      "Design",
+      "File"
+    ],
+    "answer": 1,
+    "explanation": "Pictures are inserted using the Insert tab feature."
+  },
+  {
+    "id": 14,
+    "question": "Track Changes feature is available in which tab?",
+    "options": [
+      "View",
+      "Home",
+      "Review",
+      "Layout"
+    ],
+    "answer": 2,
+    "explanation": "Track Changes feature is found in the Review tab."
+  },
+  {
+    "id": 15,
+    "question": "To view document in full screen which option is used?",
+    "options": [
+      "Zoom",
+      "Print Layout",
+      "Read Mode",
+      "Outline"
+    ],
+    "answer": 2,
+    "explanation": "Full screen view option is Read Mode."
+  },
+  {
+    "id": 16,
+    "question": "Which key is used to select all text?",
+    "options": [
+      "Ctrl C",
+      "Ctrl A",
+      "Ctrl X",
+      "Ctrl V"
+    ],
+    "answer": 1,
+    "explanation": "Ctrl + A is used to select all text."
+  },
+  {
+    "id": 17,
+    "question": "To insert a table, which tab is used?",
+    "options": [
+      "Insert",
+      "Home",
+      "Layout",
+      "Design"
+    ],
+    "answer": 0,
+    "explanation": "Table insertion is done via the Insert tab."
+  },
+  {
+    "id": 18,
+    "question": "Smart Lookup helps in?",
+    "options": [
+      "Searching meaning",
+      "Saving document",
+      "Printing",
+      "Deleting"
+    ],
+    "answer": 0,
+    "explanation": "Smart Lookup helps in searching meaning of words."
+  },
+  {
+    "id": 19,
+    "question": "Default font in Word 2019 is?",
+    "options": [
+      "Arial",
+      "Calibri",
+      "Times New Roman",
+      "Verdana"
+    ],
+    "answer": 1,
+    "explanation": "Calibri is the default font in Word 2019."
+  },
+  {
+    "id": 20,
+    "question": "The shortcut for Print command?",
+    "options": [
+      "Ctrl S",
+      "Ctrl P",
+      "Ctrl O",
+      "Ctrl N"
+    ],
+    "answer": 1,
+    "explanation": "Ctrl + P is the shortcut for printing."
+  }
+]

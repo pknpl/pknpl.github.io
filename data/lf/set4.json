@@ -1,72 +1,362 @@
 [
   {
     "id": 1,
-    "question": "In MS-Word 2019, which feature is used to create a visually appealing document by applying a set of formatting choices including colors, fonts, and effects?",
-    "options": ["Find and Replace", "Styles", "Spelling Grammar", "Word Count"],
-    "answer": 1,
-    "explanation": "Styles in MS-Word allow you to apply consistent formatting throughout your document with a single click."
+    "question": "What is the file extension for an Excel workbook in Excel 2019?",
+    "options": [
+      ".xlsx",
+      ".docx",
+      ".pptx",
+      ".xlsm"
+    ],
+    "answer": 0,
+    "explanation": "The correct file extension for an Excel 2019 workbook is .xlsx."
   },
   {
     "id": 2,
-    "question": "Which view in MS-Word 2019 shows how the document will look when printed?",
-    "options": ["Draft View", "Print Layout View", "Web Layout View", "Outline View"],
+    "question": "Which feature allows quick summarization (sum, avg) at the bottom of a range?",
+    "options": [
+      "Format Painter",
+      "Status Bar calculations",
+      "Goal Seek",
+      "Solver"
+    ],
     "answer": 1,
-    "explanation": "Print Layout View displays the document as it will appear when printed, including margins, headers, and footers."
+    "explanation": "Status Bar calculations show quick summary like sum and average at the bottom of a selected range."
   },
   {
     "id": 3,
-    "question": "What is the purpose of the Thesaurus feature in MS-Word 2019?",
-    "options": ["Check spelling errors", "Find synonyms and antonyms", "Count words and characters", "Insert special characters"],
-    "answer": 1,
-    "explanation": "The Thesaurus helps you find synonyms words with similar meanings and antonyms words with opposite meanings."
+    "question": "Which function returns the current date?",
+    "options": [
+      "NOW",
+      "DATE",
+      "TODAY",
+      "TIME"
+    ],
+    "answer": 2,
+    "explanation": "The TODAY function returns the current date without the time component."
   },
   {
     "id": 4,
-    "question": "Which feature in MS-Word 2019 allows you to see the structure of your document with headings and subheadings?",
-    "options": ["Print Layout", "Navigation Pane", "Read Mode", "Draft View"],
-    "answer": 1,
-    "explanation": "The Navigation Pane displays the structure of your document based on heading styles, making it easy to navigate through long documents."
+    "question": "What is the shortcut to copy selected cells in Excel?",
+    "options": [
+      "Ctrl + C",
+      "Ctrl + V",
+      "Ctrl + X",
+      "Ctrl + Z"
+    ],
+    "answer": 0,
+    "explanation": "Ctrl + C is the shortcut used to copy selected cells in Excel."
   },
   {
     "id": 5,
-    "question": "What is the function of Mail Merge in MS-Word 2019?",
-    "options": ["To send emails directly from Word", "To combine a main document with a data source for personalized documents", "To merge multiple Word documents into one", "To compress Word files for email attachment"],
-    "answer": 1,
-    "explanation": "Mail Merge allows you to create personalized documents like letters or labels by combining a main document with a data source containing recipient information."
+    "question": "Which of the following is NOT a valid Excel formula?",
+    "options": [
+      "=SUM(A1:A10)",
+      "=AVERAGE(A1:A10)",
+      "=MULTIPLY(A1:A10)",
+      "=IF(A1>10, \"High\", \"Low\")"
+    ],
+    "answer": 2,
+    "explanation": "MULTIPLY is not a valid Excel function; multiplication is done using the * operator."
   },
   {
     "id": 6,
-    "question": "Which tab in MS-Word 2019 contains options to insert tables, pictures, and shapes?",
-    "options": ["Home Tab", "Insert Tab", "Design Tab", "Layout Tab"],
-    "answer": 1,
-    "explanation": "The Insert Tab contains all the options to insert various elements like tables, pictures, shapes, charts, headers, footers, etc."
+    "question": "How do you create a chart in Excel?",
+    "options": [
+      "Insert tab > Chart",
+      "Home tab > Chart",
+      "Review tab > Chart",
+      "View tab > Chart"
+    ],
+    "answer": 0,
+    "explanation": "Charts are created in Excel from the Insert tab under the Chart group."
   },
   {
     "id": 7,
-    "question": "What does the Format Painter tool do in MS-Word 2019?",
-    "options": ["Changes the color of text", "Copies formatting from one text to another", "Paints background colors in documents", "Applies artistic effects to images"],
+    "question": "Which symbol is used for absolute cell reference in Excel?",
+    "options": [
+      "#",
+      "$",
+      "@",
+      "&"
+    ],
     "answer": 1,
-    "explanation": "Format Painter allows you to copy formatting like font, size, color, etc. from one piece of text and apply it to another."
+    "explanation": "The $ symbol is used to fix the row or column in a cell reference, making it absolute."
   },
   {
     "id": 8,
-    "question": "Which feature in MS-Word 2019 protects a document with a password?",
-    "options": ["Track Changes", "Restrict Editing", "Document Inspector", "Check Accessibility"],
+    "question": "What does the IF function do in Excel?",
+    "options": [
+      "Perform addition",
+      "Perform conditional test",
+      "Create chart",
+      "Format cells"
+    ],
     "answer": 1,
-    "explanation": "The Restrict Editing feature allows you to protect your document with a password, limiting what changes others can make."
+    "explanation": "The IF function performs a conditional test and returns different values based on the result."
   },
   {
     "id": 9,
-    "question": "What is the purpose of Smart Art in MS-Word 2019?",
-    "options": ["To create professional-looking diagrams and visuals", "To automatically correct spelling mistakes", "To convert text to speech", "To translate documents to other languages"],
-    "answer": 0,
-    "explanation": "SmartArt allows you to create professional-looking diagrams, process flows, organizational charts, and other visual representations."
+    "question": "What is the default number of worksheets in a new Excel workbook?",
+    "options": [
+      "1",
+      "3",
+      "5",
+      "10"
+    ],
+    "answer": 1,
+    "explanation": "By default, a new Excel workbook contains 3 worksheets."
   },
   {
     "id": 10,
-    "question": "Which option in MS-Word 2019 allows you to see the document without margins, headers, and footers?",
-    "options": ["Print Layout View", "Web Layout View", "Read Mode", "Draft View"],
+    "question": "Which ribbon contains the Sort and Filter options?",
+    "options": [
+      "Home",
+      "Data",
+      "Insert",
+      "View"
+    ],
+    "answer": 1,
+    "explanation": "Sort and Filter options are found on the Data ribbon in Excel."
+  },
+  {
+    "id": 11,
+    "question": "What does CTRL + Z do in Excel?",
+    "options": [
+      "Copy",
+      "Paste",
+      "Undo",
+      "Redo"
+    ],
+    "answer": 2,
+    "explanation": "CTRL + Z is the keyboard shortcut to Undo the last action in Excel."
+  },
+  {
+    "id": 12,
+    "question": "Which function is used to find the maximum value in a range?",
+    "options": [
+      "MAX",
+      "MIN",
+      "AVERAGE",
+      "SUM"
+    ],
+    "answer": 0,
+    "explanation": "The MAX function returns the largest value in the specified range."
+  },
+  {
+    "id": 13,
+    "question": "What is the main purpose of the VLOOKUP function?",
+    "options": [
+      "Calculate sum",
+      "Find data in a table",
+      "Create charts",
+      "Format text"
+    ],
+    "answer": 1,
+    "explanation": "VLOOKUP is used to search for a value in the first column of a table and return a value in the same row from another column."
+  },
+  {
+    "id": 14,
+    "question": "Which Excel feature allows you to protect a worksheet?",
+    "options": [
+      "Freeze Panes",
+      "Data Validation",
+      "Protect Sheet",
+      "Conditional Formatting"
+    ],
+    "answer": 2,
+    "explanation": "Protect Sheet option allows locking a worksheet to restrict editing."
+  },
+  {
+    "id": 15,
+    "question": "How do you insert a new row in Excel?",
+    "options": [
+      "Right-click > Insert",
+      "Double-click row number",
+      "Press Delete key",
+      "Home > Cut"
+    ],
+    "answer": 0,
+    "explanation": "Right-clicking on a row number and selecting Insert will add a new row."
+  },
+  {
+    "id": 16,
+    "question": "What is the shortcut key for saving a workbook?",
+    "options": [
+      "Ctrl + S",
+      "Ctrl + P",
+      "Ctrl + N",
+      "Ctrl + O"
+    ],
+    "answer": 0,
+    "explanation": "Ctrl + S is used to save the current workbook."
+  },
+  {
+    "id": 17,
+    "question": "Which function calculates the sum of numbers in a range?",
+    "options": [
+      "SUM",
+      "PRODUCT",
+      "AVERAGE",
+      "COUNT"
+    ],
+    "answer": 0,
+    "explanation": "SUM function adds all numbers in a specified range."
+  },
+  {
+    "id": 18,
+    "question": "What is the file extension for PowerPoint presentations?",
+    "options": [
+      ".ppt",
+      ".pptx",
+      ".xls",
+      ".docx"
+    ],
+    "answer": 1,
+    "explanation": ".pptx is the default file extension for PowerPoint presentations."
+  },
+  {
+    "id": 19,
+    "question": "Which shortcut key is used to open a new workbook?",
+    "options": [
+      "Ctrl + N",
+      "Ctrl + O",
+      "Ctrl + P",
+      "Ctrl + W"
+    ],
+    "answer": 0,
+    "explanation": "Ctrl + N opens a new workbook in Excel."
+  },
+  {
+    "id": 20,
+    "question": "In Excel, what does the COUNT function do?",
+    "options": [
+      "Count numbers",
+      "Count text",
+      "Count cells with comments",
+      "Count blank cells"
+    ],
+    "answer": 0,
+    "explanation": "COUNT counts the number of cells that contain numbers."
+  },
+  {
+    "id": 21,
+    "question": "Which feature allows merging of cells?",
+    "options": [
+      "Merge & Center",
+      "Wrap Text",
+      "Format Painter",
+      "Data Validation"
+    ],
+    "answer": 0,
+    "explanation": "Merge & Center feature merges selected cells into one and centers the content."
+  },
+  {
+    "id": 22,
+    "question": "How can you freeze the top row in Excel?",
+    "options": [
+      "View > Freeze Panes > Freeze Top Row",
+      "Insert > Freeze",
+      "Data > Freeze",
+      "Home > Freeze Panes"
+    ],
+    "answer": 0,
+    "explanation": "Freeze Panes in the View tab allows freezing the top row for easy scrolling."
+  },
+  {
+    "id": 23,
+    "question": "Which function finds the average of numbers in a range?",
+    "options": [
+      "SUM",
+      "AVERAGE",
+      "MAX",
+      "MIN"
+    ],
+    "answer": 1,
+    "explanation": "AVERAGE function calculates the mean of numbers in the selected range."
+  },
+  {
+    "id": 24,
+    "question": "What does the CONCATENATE function do?",
+    "options": [
+      "Splits text",
+      "Joins text",
+      "Formats text",
+      "Deletes text"
+    ],
+    "answer": 1,
+    "explanation": "CONCATENATE joins multiple text strings into one."
+  },
+  {
+    "id": 25,
+    "question": "How do you delete a column in Excel?",
+    "options": [
+      "Right-click > Delete",
+      "Press Delete key",
+      "Home > Clear",
+      "Insert > Delete"
+    ],
+    "answer": 0,
+    "explanation": "Right-clicking the column header and selecting Delete removes the column."
+  },
+  {
+    "id": 26,
+    "question": "Which of the following is used to protect an Excel workbook?",
+    "options": [
+      "Password protection",
+      "Data Filtering",
+      "Sort",
+      "Conditional Formatting"
+    ],
+    "answer": 0,
+    "explanation": "Password protection secures an Excel workbook from unauthorized access."
+  },
+  {
+    "id": 27,
+    "question": "What is the default font in Excel 2019?",
+    "options": [
+      "Calibri",
+      "Arial",
+      "Times New Roman",
+      "Verdana"
+    ],
+    "answer": 0,
+    "explanation": "Calibri is the default font in Excel 2019."
+  },
+  {
+    "id": 28,
+    "question": "Which of the following is NOT an Excel chart type?",
+    "options": [
+      "Pie Chart",
+      "Bar Chart",
+      "Scatter Chart",
+      "Audio Chart"
+    ],
     "answer": 3,
-    "explanation": "Draft View shows a simplified version of the document without margins, headers, footers, or page breaks, focusing only on the text content."
+    "explanation": "Audio Chart is not a valid Excel chart type."
+  },
+  {
+    "id": 29,
+    "question": "How do you apply conditional formatting?",
+    "options": [
+      "Home > Conditional Formatting",
+      "Insert > Conditional Formatting",
+      "Review > Conditional Formatting",
+      "View > Conditional Formatting"
+    ],
+    "answer": 0,
+    "explanation": "Conditional Formatting is applied from the Home tab in Excel."
+  },
+  {
+    "id": 30,
+    "question": "What does the COUNTIF function do?",
+    "options": [
+      "Counts all cells",
+      "Counts cells meeting criteria",
+      "Counts blank cells",
+      "Counts text cells"
+    ],
+    "answer": 1,
+    "explanation": "COUNTIF counts the number of cells meeting specified criteria."
   }
 ]
