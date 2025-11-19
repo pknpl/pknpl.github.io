@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+    <header class="main-header">
+        <div class="header-left">
+            <img src="assets/logo.jpg" alt="Logo" class="logo">
+        </div>
+        <div class="header-center">
+            <h1>Dashboard</h1>
+        </div>
+        <div class="header-right">
+            <div class="user-badge">
+                <strong>AO ID</strong>
+                <span id="header-user-id">--</span>
+            </div>
+            <button onclick="openHelp()" class="btn-icon" style="margin-right:5px;">?</button>
+            <button onclick="logout()" class="btn-logout">Logout</button>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="card" style="text-align: center;">
+            <h2 style="color: var(--text-main); margin-bottom: 30px;">Select Role</h2>
+            <div style="display: flex; flex-direction: column; gap: 20px; max-width: 400px; margin: 0 auto;">
+                <div id="btn-cc" class="card" style="border: 2px solid var(--primary); cursor: pointer; padding: 20px;" onclick="location.href='menu.html?role=cc'">
+                    <h3 style="color: var(--primary); font-size: 1.5rem;">CC</h3>
+                    <p>Center Coordinator</p>
+                </div>
+                <div id="btn-lf" class="card" style="border: 2px solid var(--secondary); cursor: pointer; padding: 20px;" onclick="location.href='menu.html?role=lf'">
+                    <h3 style="color: var(--secondary); font-size: 1.5rem;">LF</h3>
+                    <p>Learner Facilitator</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="assets/js/auth.js"></script>
+    <script>
+        const user = checkSession();
+        if(user.role === 'cc') document.getElementById('btn-lf').style.display = 'none';
+        if(user.role === 'lf') document.getElementById('btn-cc').style.display = 'none';
+    </script>
+</body>
+</html>

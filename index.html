@@ -3,21 +3,36 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PKNPL Exam Portal</title>
+    <title>Login | PKNPL</title>
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
-    <div class="container">
-        <header>
-            <h1>PKNPL Exam Portal</h1>
-            <p style="color: var(--text-muted);">Select your domain to begin practice</p>
-        </header>
+    <header class="main-header">
+        <div class="header-left">
+            <img src="assets/logo.jpg" alt="PKNPL" class="logo">
+        </div>
+        <div class="header-center">
+            <h1>PKNPL Portal</h1>
+        </div>
+        <div class="header-right">
+            <!-- Help Button -->
+            <button onclick="openHelp()" class="btn-icon" title="Help">?</button>
+        </div>
+    </header>
 
-        <div class="card" style="text-align: center; padding: 40px;">
-            <a href="menu.html?role=cc" class="btn" style="width: 80%;">Center Coordinator (CC)</a>
-            <br><br>
-            <a href="menu.html?role=lf" class="btn btn-outline" style="width: 80%;">Learner Facilitator (LF)</a>
+    <div class="container">
+        <div class="card login-form">
+            <h2 style="color: var(--primary-dark); margin-bottom: 5px;">Enter AO Code</h2>
+            <p style="color: var(--text-muted); font-size: 0.9rem;">Authorized Center Access</p>
+            
+            <input type="text" id="ao-code-input" class="login-input" placeholder="e.g. 112233" maxlength="10" autocomplete="off" inputmode="numeric">
+            <p id="error-msg" style="color: #dc2626; display: none; margin-bottom: 15px; font-weight: bold;"></p>
+
+            <button onclick="attemptLogin()" class="btn btn-primary">Verify & Login</button>
         </div>
     </div>
+
+    <script src="data/users.js"></script>
+    <script src="assets/js/auth.js"></script>
 </body>
 </html>

@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "question": "What does MS-CIT stand for?",
+    "options": [
+      "Maharashtra State Course in Internet Technology",
+      "Maharashtra State Certificate in Information Technology",
+      "Maharashtra Software Certification in IT",
+      "Maharashtra Science Computer Integration"
+    ],
+    "answer": 1,
+    "explanation": "MS-CIT stands for Maharashtra State Certificate in Information Technology."
+  },
+  {
+    "id": 2,
+    "question": "When was MS-CIT launched?",
+    "options": ["1999", "2002", "2005", "2010"],
+    "answer": 1,
+    "explanation": "MS-CIT was launched in 2002."
+  },
+  {
+    "id": 3,
+    "question": "MS-CIT is jointly certified by which two bodies?",
+    "options": [
+      "MSBTE and MKCL",
+      "MKCL and MHRD",
+      "AICTE and MKCL",
+      "MSBTE and NCERT"
+    ],
+    "answer": 0,
+    "explanation": "MS-CIT is jointly certified by MSBTE Maharashtra State Board of Technical Education and MKCL Maharashtra Knowledge Corporation Limited."
+  },
+  {
+    "id": 4,
+    "question": "The main goal of MS-CIT is to",
+    "options": [
+      "Promote coding competitions",
+      "Bridge the digital divide",
+      "Develop mobile apps",
+      "Provide scholarships"
+    ],
+    "answer": 1,
+    "explanation": "The main goal of MS-CIT is to bridge the digital divide by making digital literacy accessible to all."
+  },
+  {
+    "id": 5,
+    "question": "Which AI tools are included in the 2025 curriculum?",
+    "options": [
+      "Midjourney and Gemini",
+      "ChatGPT and DALLE",
+      "Bard and Copilot",
+      "Canva and Photoshop"
+    ],
+    "answer": 1,
+    "explanation": "The 2025 curriculum includes ChatGPT and DALLE as part of AI literacy."
+  },
+  {
+    "id": 6,
+    "question": "What kind of literacy does MS-CIT promote?",
+    "options": [
+      "Financial",
+      "Environmental",
+      "Digital and AI Literacy",
+      "Political"
+    ],
+    "answer": 2,
+    "explanation": "MS-CIT promotes Digital and AI Literacy to empower individuals in the digital age."
+  },
+  {
+    "id": 7,
+    "question": "MS-CIT follows which learning approach?",
+    "options": [
+      "Reading only",
+      "Learn by Doing",
+      "Theoretical",
+      "Online Exam only"
+    ],
+    "answer": 1,
+    "explanation": "MS-CIT follows the Learn by Doing approach to ensure practical understanding."
+  },
+  {
+    "id": 8,
+    "question": "On which platform is MS-CIT delivered?",
+    "options": ["SOLAR", "ERA", "ExamLive", "Biometric"],
+    "answer": 1,
+    "explanation": "MS-CIT is delivered on the ERA eLearning Revolution for All platform."
+  },
+  {
+    "id": 9,
+    "question": "How long is the MS-CIT course duration?",
+    "options": ["1 month", "2 months", "3 months", "6 months"],
+    "answer": 1,
+    "explanation": "The MS-CIT course duration is 2 months."
+  },
+  {
+    "id": 10,
+    "question": "Total hours of MS-CIT course?",
+    "options": ["120 hours", "144 hours", "160 hours", "200 hours"],
+    "answer": 1,
+    "explanation": "The MS-CIT course has a total duration of 144 hours."
+  },
+  {
+    "id": 11,
+    "question": "Who can become an ALC?",
+    "options": [
+      "Only schools",
+      "Only government institutions",
+      "Schools, colleges, NGOs, training institutions",
+      "Only MKCL employees"
+    ],
+    "answer": 2,
+    "explanation": "Schools, colleges, NGOs, and training institutions can become Authorized Learning Centers (ALCs)."
+  },
+  {
+    "id": 12,
+    "question": "What does ALC stand for?",
+    "options": [
+      "Authorized Learning Center",
+      "Advanced Learning Course",
+      "Academic Level Center",
+      "Applied Literacy Center"
+    ],
+    "answer": 0,
+    "explanation": "ALC stands for Authorized Learning Center."
+  },
+  {
+    "id": 13,
+    "question": "What is the key advantage of becoming an ALC?",
+    "options": [
+      "Free Government License",
+      "Socially Impactful Partnership",
+      "Franchise Only in Pune",
+      "No Support from MKCL"
+    ],
+    "answer": 1,
+    "explanation": "The key advantage of becoming an ALC is the socially impactful partnership that contributes to digital literacy."
+  },
+  {
+    "id": 14,
+    "question": "Which framework supports online exams?",
+    "options": ["ExamLive", "Solar", "MKNet", "ChatBot"],
+    "answer": 0,
+    "explanation": "ExamLive is the framework that supports online exams for MS-CIT."
+  },
+  {
+    "id": 15,
+    "question": "MS-CIT content is available in which languages?",
+    "options": [
+      "English, Marathi, Hindi",
+      "Only English",
+      "Hindi, Gujarati, English",
+      "Tamil"
+    ],
+    "answer": 0,
+    "explanation": "MS-CIT content is available in English, Marathi, and Hindi to cater to diverse learners."
+  },
+  {
+    "id": 16,
+    "question": "What kind of modules does MS-CIT include?",
+    "options": [
+      "Gamified AI-Powered",
+      "Text-based only",
+      "Coding only",
+      "Hardware training"
+    ],
+    "answer": 0,
+    "explanation": "MS-CIT includes gamified and AI-powered modules to make learning engaging and effective."
+  },
+  {
+    "id": 17,
+    "question": "How many learners have completed MS-CIT since 2002?",
+    "options": ["50 lakh", "1 crore", "More than 2 crore", "5 crore"],
+    "answer": 2,
+    "explanation": "Since 2002, more than 2 crore learners have completed the MS-CIT course."
+  },
+  {
+    "id": 18,
+    "question": "Which certification do learners get after course completion?",
+    "options": ["Only MKCL", "MSBTE MKCL", "AICTE MKCL", "NCERT"],
+    "answer": 1,
+    "explanation": "After course completion, learners receive a joint certification from MSBTE and MKCL."
+  },
+  {
+    "id": 19,
+    "question": "What is the purpose of KLiC courses?",
+    "options": [
+      "Creative Learning Career Skills",
+      "Coding Only",
+      "Sports Education",
+      "Free Courses for Schools"
+    ],
+    "answer": 0,
+    "explanation": "KLiC Knowledge-Literacy-in-Computer courses focus on creative learning and career skills development."
+  },
+  {
+    "id": 20,
+    "question": "What software benefit is given to ALCs?",
+    "options": [
+      "Linux WPS",
+      "Windows 10 MS Office 2019",
+      "MacOS Adobe",
+      "Android Studio"
+    ],
+    "answer": 1,
+    "explanation": "ALCs receive Windows 10 and MS Office 2019 as software benefits."
+  },
+  {
+    "id": 21,
+    "question": "Where can one apply for ALC authorization?",
+    "options": [
+      "MKCL Office",
+      "register.mkcl.org",
+      "mscit.mkcl.org",
+      "Offline only"
+    ],
+    "answer": 1,
+    "explanation": "One can apply for ALC authorization at register.mkcl.org."
+  },
+  {
+    "id": 22,
+    "question": "What is the EOI form?",
+    "options": [
+      "Expression of Interest",
+      "Enrollment of Institute",
+      "Education Online Interface",
+      "Examination Order Input"
+    ],
+    "answer": 0,
+    "explanation": "EOI stands for Expression of Interest form for ALC authorization."
+  },
+  {
+    "id": 23,
+    "question": "Which department approves ALC applications?",
+    "options": [
+      "LLC MKCL",
+      "RLC Only",
+      "MSBTE Only",
+      "AICTE"
+    ],
+    "answer": 0,
+    "explanation": "ALC applications are approved by LLC Lead Learning Center and MKCL."
+  },
+  {
+    "id": 24,
+    "question": "What is MKCLs full form?",
+    "options": [
+      "Maharashtra Knowledge Corporation Limited",
+      "Maharashtra Knowledge Computer Lab",
+      "Modern Knowledge Council Ltd",
+      "Maharashtra Key Coding League"
+    ],
+    "answer": 0,
+    "explanation": "MKCL stands for Maharashtra Knowledge Corporation Limited."
+  },
+  {
+    "id": 25,
+    "question": "Which frameworks are part of MKCLs system?",
+    "options": [
+      "SOLAR, ERA, ExamLive, Biometric",
+      "Moodle, Canva, Firebase",
+      "WordPress, ExamPro, GitHub",
+      "ChatGPT"
+    ],
+    "answer": 0,
+    "explanation": "SOLAR, ERA, ExamLive, and Biometric are part of MKCLs comprehensive system."
+  },
+  {
+    "id": 26,
+    "question": "What is the Mastering Series?",
+    "options": [
+      "Advanced Skill Development Courses",
+      "Basic IT Course",
+      "Government Certificate",
+      "Hardware Workshop"
+    ],
+    "answer": 0,
+    "explanation": "The Mastering Series consists of advanced skill development courses offered by MKCL."
+  },
+  {
+    "id": 27,
+    "question": "What support does MKCL provide to ALCs?",
+    "options": [
+      "Technical, Training, Promotional",
+      "Financial only",
+      "None",
+      "Limited"
+    ],
+    "answer": 0,
+    "explanation": "MKCL provides technical, training, and promotional support to ALCs."
+  },
+  {
+    "id": 28,
+    "question": "Which organization conducts MKCL Olympiad Movement MOM?",
+    "options": ["MKCL", "MSBTE", "AICTE", "NCERT"],
+    "answer": 0,
+    "explanation": "MKCL conducts the MKCL Olympiad Movement MOM to promote talent."
+  },
+  {
+    "id": 29,
+    "question": "What is the Career Inclination Test?",
+    "options": [
+      "Students Career Interest Assessment",
+      "IQ Test",
+      "Typing Speed Test",
+      "Coding Competition"
+    ],
+    "answer": 0,
+    "explanation": "The Career Inclination Test assesses students career interests and aptitudes."
+  },
+  {
+    "id": 30,
+    "question": "What is the main message of MS-CIT 2026 initiative?",
+    "options": [
+      "Become AI Certified",
+      "Empower Communities with Digital AI Literacy",
+      "Learn Coding for Free",
+      "Online Job Portal"
+    ],
+    "answer": 1,
+    "explanation": "The main message of MS-CIT 2026 is to empower communities with Digital and AI Literacy."
+  }
+]

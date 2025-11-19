@@ -2,47 +2,100 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Quiz Mode</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Exam Mode</title>
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
+    <!-- HEADER -->
+    <header class="main-header">
+        <div class="header-left">
+            <img src="assets/logo.jpg" alt="Logo" class="logo">
+        </div>
+        
+        <!-- Title (Hidden on Mobile) -->
+        <div class="header-center">
+            <h1 id="set-title">Set Loading...</h1>
+        </div>
+
+        <div class="header-right">
+            <div class="user-badge">
+                <strong>ID</strong>
+                <span id="header-user-id">--</span>
+            </div>
+            <!-- Help Button -->
+            <button onclick="openHelp()" class="btn-icon" title="Help">?</button>
+            <!-- Exit Button -->
+            <button onclick="confirmExit()" class="btn-logout">Exit</button>
+        </div>
+    </header>
+
     <div class="container">
-        <header>
-            <h2 id="quiz-title">Set Loading...</h2>
-            <div style="display: flex; justify-content: space-between; color: var(--text-muted);">
-                <span id="q-progress">Question 1/--</span>
-                <span id="score-tracker">Score: 0</span>
+        
+        <!-- QUIZ CARD -->
+        <div id="quiz-ui" class="card">
+            <!-- Stats -->
+            <div class="info-grid">
+                <div class="info-box"><h4>Total</h4><p id="total-q">--</p></div>
+                <div class="info-box"><h4>Solved</h4><p id="solved-count">0</p></div>
+                <div class="info-box"><h4>Passing</h4><p style="color:#16a34a;">60%</p></div>
             </div>
-            <div style="width: 100%; background: #333; height: 4px; margin-top: 10px; border-radius: 2px;">
-                <div id="progress-bar" style="width: 0%; background: var(--accent); height: 100%;"></div>
-            </div>
-        </header>
+            <hr style="border:0; border-top:1px solid var(--border); margin: 15px 0;">
 
-        <!-- Question Card -->
-        <div id="quiz-card" class="card">
-            <h3 id="question-text" class="question-text">Loading Question...</h3>
-            <div id="options-container">
-                <!-- Options go here -->
+            <!-- Timer -->
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <span style="font-weight:bold; color:var(--text-muted);">Q <span id="curr-num">1</span></span>
+                <span id="timer-display" class="timer-badge">00:00</span>
             </div>
+
+            <!-- Question -->
+            <div id="question-text" class="question-box">Loading...</div>
+            <div id="options-area"></div>
+
+            <!-- Navigation -->
+            <div class="nav-buttons">
+                <button id="btn-prev" class="btn btn-outline btn-nav">Prev</button>
+                <button id="btn-next" class="btn btn-primary btn-nav">Next</button>
+            </div>
+
+            <!-- Number Grid -->
+            <div id="num-grid" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin-top: 20px; padding-top: 20px; border-top: 1px solid var(--border);"></div>
         </div>
 
-        <!-- Results Card (Hidden initially) -->
-        <div id="result-card" class="card" style="display: none; text-align: center;">
-            <h2>Set Completed!</h2>
-            <div class="score-box" id="final-score">0 / 0</div>
-            <p id="final-msg">Great job!</p>
-            <button onclick="location.reload()" class="btn">Retry</button>
-            <button onclick="history.back()" class="btn btn-outline">Back to Sets</button>
-        </div>
-
-        <!-- Navigation Buttons -->
-        <div class="controls" id="quiz-controls">
-            <button id="btn-prev" class="btn" disabled>Previous</button>
-            <button id="btn-next" class="btn">Next</button>
+        <!-- RESULT CARD -->
+        <div id="result-ui" class="card" style="display: none;">
+            <div style="text-align: center; margin-bottom: 20px;">
+                <h2 style="color: var(--primary);">Result</h2>
+                <div id="score-val" style="font-size: 3rem; font-weight: 800; margin: 10px 0;">0/0</div>
+                <div id="pass-fail-text" style="font-size: 1.5rem; font-weight: bold;">--</div>
+            </div>
+            <div id="review-list"></div>
+            <div style="text-align: center; margin-top: 30px;">
+                <button onclick="location.reload()" class="btn btn-primary">Retry</button>
+                <button onclick="window.location.href='dashboard.html'" class="btn btn-outline">Dashboard</button>
+            </div>
         </div>
     </div>
 
+    <!-- HELP MODAL -->
+    <div id="help-modal" class="modal-overlay">
+        <div class="modal-card">
+            <h2 style="color: var(--primary-dark);">Need Help?</h2>
+            <p style="color: #666; margin: 15px 0;">If you are facing technical issues with the OnCeT Quiz, contact support.</p>
+            
+            <div style="background:#f8fafc; padding:10px; border-radius:8px; margin-bottom:10px;">
+                <strong>📞 Support:</strong> <br> +91 8384858685
+            </div>
+
+            <a href="https://wa.me/918384858685?text=pknpl%20oncet%20quiz%20help%20:-" target="_blank" class="whatsapp-btn">
+                Send issue on Whatsapp
+            </a>
+            
+            <button onclick="closeHelp()" style="margin-top: 15px; background: transparent; border: none; color: #999; cursor: pointer;">Close</button>
+        </div>
+    </div>
+
+    <script src="assets/js/auth.js"></script>
     <script src="assets/js/quiz.js"></script>
 </body>
 </html>

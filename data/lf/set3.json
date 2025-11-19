@@ -1,0 +1,142 @@
+
+   [ {
+        "id": 1,
+        "question": "What is the full form of AI?",
+        "options": ["Artificial Information", "Artificial Intelligence", "Automated Internet", "Advanced Interface"],
+        "answer": 1,
+        "explanation": "Artificial Intelligence is the full form of AI."
+    },
+    {
+        "id": 2,
+        "question": "Which of the following is an example of an AI tool used for chatting?",
+        "options": ["ChatGPT", "Canva", "Excel", "Photoshop"],
+        "answer": 0,
+        "explanation": "ChatGPT is an AI tool used for chatting."
+    },
+    {
+        "id": 3,
+        "question": "What does Machine Learning mean?",
+        "options": ["A process where machines automatically improve from experience", "A process of manual programming of machines", "A type of internet-based learning", "A learning system without data"],
+        "answer": 0,
+        "explanation": "Machine Learning means a process where machines automatically improve from experience."
+    },
+    {
+        "id": 4,
+        "question": "Which AI tool is used to create images from text?",
+        "options": ["DALL-E", "ChatGPT", "Excel", "Photoshop"],
+        "answer": 0,
+        "explanation": "DALL-E is an AI tool used to create images from text."
+    },
+    {
+        "id": 5,
+        "question": "What is the main purpose of using AI in education?",
+        "options": ["To replace teachers", "To make learning personalized and effective", "To reduce the number of students", "To make exams harder"],
+        "answer": 1,
+        "explanation": "The main purpose of using AI in education is to make learning personalized and effective."
+    },
+    {
+        "id": 6,
+        "question": "Which company created ChatGPT?",
+        "options": ["Microsoft", "Google", "OpenAI", "IBM"],
+        "answer": 2,
+        "explanation": "ChatGPT was created by OpenAI."
+    },
+    {
+        "id": 7,
+        "question": "What does NLP stand for in AI?",
+        "options": ["Natural Language Processing", "Neural Learning Program", "Network Learning Protocol", "Non-linear Programming"],
+        "answer": 0,
+        "explanation": "NLP stands for Natural Language Processing in AI."
+    },
+    {
+        "id": 8,
+        "question": "Which AI tool helps in generating voice?",
+        "options": ["Synthesia", "DALL-E", "ChatGPT", "Canva"],
+        "answer": 0,
+        "explanation": "Synthesia is an AI tool that helps in generating voice."
+    },
+    {
+        "id": 9,
+        "question": "AI is mainly based on which component?",
+        "options": ["Software", "Hardware", "Data", "Electricity"],
+        "answer": 2,
+        "explanation": "AI is mainly based on data."
+    },
+    {
+        "id": 10,
+        "question": "Which AI tool is useful for making videos?",
+        "options": ["Synthesia", "Excel", "PowerPoint", "Canva"],
+        "answer": 0,
+        "explanation": "Synthesia is an AI tool useful for making videos."
+    },
+    {
+        "id": 11,
+        "question": "What is the benefit of AI in daily life?",
+        "options": ["It makes work harder", "It improves efficiency and saves time", "It causes unemployment", "It wastes resources"],
+        "answer": 1,
+        "explanation": "AI improves efficiency and saves time in daily life."
+    },
+    {
+        "id": 12,
+        "question": "Which AI tool is used for design work?",
+        "options": ["Canva", "Excel", "ChatGPT", "DALL-E"],
+        "answer": 0,
+        "explanation": "Canva is an AI tool used for design work."
+    },
+    {
+        "id": 13,
+        "question": "What is the major risk of AI?",
+        "options": ["Better productivity", "Data privacy issues", "More creativity", "Faster communication"],
+        "answer": 1,
+        "explanation": "Data privacy issues are a major risk of AI."
+    },
+    {
+        "id": 14,
+        "question": "Which AI tool can generate video from text prompts?",
+        "options": ["Synthesia", "ChatGPT", "Canva", "DALL-E"],
+        "answer": 0,
+        "explanation": "Synthesia can generate video from text prompts."
+    },
+    {
+        "id": 15,
+        "question": "Which AI tool can convert text to speech naturally?",
+        "options": ["Google Text-to-Speech", "Excel", "Photoshop", "Canva"],
+        "answer": 0,
+        "explanation": "Google Text-to-Speech can convert text to speech naturally."
+    },
+    {
+        "id": 16,
+        "question": "Which AI tool helps in summarizing long text automatically?",
+        "options": ["ChatGPT", "Canva", "Excel", "Photoshop"],
+        "answer": 0,
+        "explanation": "ChatGPT helps in summarizing long text automatically."
+    },
+    {
+        "id": 17,
+        "question": "Which AI tool is used for generating music or sound effects?",
+        "options": ["AIVA", "DALL-E", "ChatGPT", "Canva"],
+        "answer": 0,
+        "explanation": "AIVA is used for generating music or sound effects."
+    },
+    {
+        "id": 18,
+        "question": "Which AI tool can enhance or upscale photos automatically?",
+        "options": ["Let's Enhance", "Excel", "Photoshop", "Canva"],
+        "answer": 0,
+        "explanation": "Let's Enhance can enhance or upscale photos automatically."
+    },
+    {
+        "id": 19,
+        "question": "Which AI tool is used for creating presentations automatically?",
+        "options": ["Beautiful.ai", "ChatGPT", "Excel", "Canva"],
+        "answer": 0,
+        "explanation": "Beautiful.ai is used for creating presentations automatically."
+    },
+    {
+        "id": 20,
+        "question": "AI tools are designed to help in?",
+        "options": ["Making work easier", "Making work harder", "Causing errors", "Reducing productivity"],
+        "answer": 0,
+        "explanation": "AI tools are designed to help in making work easier."
+    }
+]

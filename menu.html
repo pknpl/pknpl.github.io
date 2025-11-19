@@ -7,35 +7,63 @@
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
-    <div class="container">
-        <header>
-            <h1>Select Question Set</h1>
-            <p id="role-display" style="color: var(--accent);">Loading...</p>
-            <a href="index.html" style="color: var(--text-muted); text-decoration: none;">&larr; Back</a>
-        </header>
+    <header class="main-header">
+        <div class="header-left">
+            <img src="assets/logo.jpg" alt="Logo" class="logo">
+        </div>
+        <div class="header-center">
+            <h1 id="role-title">Sets</h1>
+        </div>
+        <div class="header-right">
+            <div class="user-badge">
+                <strong>AO ID</strong>
+                <span id="header-user-id">--</span>
+            </div>
+            <button onclick="openHelp()" class="btn-icon" style="margin-right:5px;">?</button>
+            <button onclick="logout()" class="btn-logout">Logout</button>
+        </div>
+    </header>
 
-        <div id="sets-container" class="sets-grid">
-            <!-- Javascript will fill this with 50 buttons -->
+    <div class="container">
+        <div class="card">
+            <p id="loading-msg" style="text-align:center; color: var(--text-muted);">Scanning...</p>
+            <div id="sets-grid" class="grid-menu"></div>
+            <p id="no-sets-msg" style="text-align:center; color: red; display: none;">No sets found.</p>
+        </div>
+        <div style="text-align: center; margin-top: 20px;">
+            <a href="dashboard.html" class="btn btn-outline" style="width: auto; padding: 10px 30px;">Back</a>
         </div>
     </div>
 
+    <script src="assets/js/auth.js"></script>
     <script>
-        // Get Role from URL (cc or lf)
-        const urlParams = new URLSearchParams(window.location.search);
-        const role = urlParams.get('role') || 'cc';
+        checkSession();
+        const params = new URLSearchParams(window.location.search);
+        const role = params.get('role') || 'cc';
+        document.getElementById('role-title').innerText = role === 'cc' ? "Coordinator Sets" : "Facilitator Sets";
         
-        document.getElementById('role-display').innerText = role === 'cc' ? "Center Coordinator" : "Learner Facilitator";
+        const grid = document.getElementById('sets-grid');
+        const MAX_SETS = 50;
+        let found = 0, checked = 0;
 
-        const container = document.getElementById('sets-container');
-        
-        // Generate 50 Set Buttons
-        for (let i = 1; i <= 50; i++) {
-            const link = document.createElement('a');
-            link.href = `quiz.html?role=${role}&set=${i}`;
-            link.className = 'btn btn-outline';
-            link.style.textAlign = 'center';
-            link.innerText = `Set ${i}`;
-            container.appendChild(link);
+        for(let i = 1; i <= MAX_SETS; i++) {
+            const btn = document.createElement('a');
+            btn.className = 'btn btn-outline';
+            btn.innerText = `Set ${i}`;
+            btn.href = `quiz.html?role=${role}&set=${i}`;
+            btn.style.display = 'none';
+            btn.id = `btn-${i}`;
+            grid.appendChild(btn);
+
+            fetch(`data/${role}/set${i}.json`, { method: 'HEAD' })
+                .then(res => { if(res.ok) { document.getElementById(`btn-${i}`).style.display = 'inline-block'; found++; } })
+                .finally(() => {
+                    checked++;
+                    if(checked === MAX_SETS) {
+                        document.getElementById('loading-msg').style.display = 'none';
+                        if(found === 0) document.getElementById('no-sets-msg').style.display = 'block';
+                    }
+                });
         }
     </script>
 </body>
