@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Mode</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h2 id="quiz-title">Set Loading...</h2>
+            <div style="display: flex; justify-content: space-between; color: var(--text-muted);">
+                <span id="q-progress">Question 1/--</span>
+                <span id="score-tracker">Score: 0</span>
+            </div>
+            <div style="width: 100%; background: #333; height: 4px; margin-top: 10px; border-radius: 2px;">
+                <div id="progress-bar" style="width: 0%; background: var(--accent); height: 100%;"></div>
+            </div>
+        </header>
+
+        <!-- Question Card -->
+        <div id="quiz-card" class="card">
+            <h3 id="question-text" class="question-text">Loading Question...</h3>
+            <div id="options-container">
+                <!-- Options go here -->
+            </div>
+        </div>
+
+        <!-- Results Card (Hidden initially) -->
+        <div id="result-card" class="card" style="display: none; text-align: center;">
+            <h2>Set Completed!</h2>
+            <div class="score-box" id="final-score">0 / 0</div>
+            <p id="final-msg">Great job!</p>
+            <button onclick="location.reload()" class="btn">Retry</button>
+            <button onclick="history.back()" class="btn btn-outline">Back to Sets</button>
+        </div>
+
+        <!-- Navigation Buttons -->
+        <div class="controls" id="quiz-controls">
+            <button id="btn-prev" class="btn" disabled>Previous</button>
+            <button id="btn-next" class="btn">Next</button>
+        </div>
+    </div>
+
+    <script src="assets/js/quiz.js"></script>
+</body>
+</html>

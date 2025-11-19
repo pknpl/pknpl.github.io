@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Select Set</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Select Question Set</h1>
+            <p id="role-display" style="color: var(--accent);">Loading...</p>
+            <a href="index.html" style="color: var(--text-muted); text-decoration: none;">&larr; Back</a>
+        </header>
+
+        <div id="sets-container" class="sets-grid">
+            <!-- Javascript will fill this with 50 buttons -->
+        </div>
+    </div>
+
+    <script>
+        // Get Role from URL (cc or lf)
+        const urlParams = new URLSearchParams(window.location.search);
+        const role = urlParams.get('role') || 'cc';
+        
+        document.getElementById('role-display').innerText = role === 'cc' ? "Center Coordinator" : "Learner Facilitator";
+
+        const container = document.getElementById('sets-container');
+        
+        // Generate 50 Set Buttons
+        for (let i = 1; i <= 50; i++) {
+            const link = document.createElement('a');
+            link.href = `quiz.html?role=${role}&set=${i}`;
+            link.className = 'btn btn-outline';
+            link.style.textAlign = 'center';
+            link.innerText = `Set ${i}`;
+            container.appendChild(link);
+        }
+    </script>
+</body>
+</html>

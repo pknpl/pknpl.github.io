@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "question": "Who is authorized to prepare the center setup as per the guidelines?",
+    "options": [
+      "Any interested organization",
+      "Only the shortlisted Eligible AO",
+      "Local Government bodies",
+      "MKCL directly"
+    ],
+    "answer": 1,
+    "explanation": "Only the shortlisted Eligible AO is authorized."
+  },
+  {
+    "id": 2,
+    "question": "What is the minimum area required for the dedicated educational space?",
+    "options": [
+      "150 sq. feet",
+      "200 sq. feet",
+      "250 sq. feet",
+      "300 sq. feet"
+    ],
+    "answer": 1,
+    "explanation": "200 sq. feet is the standard requirement."
+  },
+  {
+    "id": 3,
+    "question": "The dedicated space for the center should NOT be used for:",
+    "options": [
+      "Computer Laboratory",
+      "Counselling",
+      "Sales or other business",
+      "Lecture Room"
+    ],
+    "answer": 2,
+    "explanation": "The space must be strictly educational."
+  }
+]
