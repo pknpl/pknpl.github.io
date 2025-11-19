@@ -1,0 +1,14 @@
+[
+  {
+    "id": 101,
+    "question": "pknpl",
+    "options": [
+      "Center Code",
+      "Batch ID",
+      "Email ID",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Center Code"
+  }
+]
