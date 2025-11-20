@@ -151,3 +151,73 @@ body {
 .info-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 5px; text-align: center; margin-bottom: 15px; }
 .info-box h4 { font-size: 0.7rem; color: var(--text-muted); text-transform: uppercase; }
 .info-box p { font-size: 1.1rem; font-weight: bold; color: var(--primary-dark); }
+
+/* --- NEW ADDITIONS FOR WHATSAPP FEATURES --- */
+
+/* WhatsApp Green Share Button */
+.btn-whatsapp {
+    background: #25D366;
+    color: white;
+    width: 100%;
+    display: inline-block;
+    text-decoration: none;
+    margin-bottom: 15px;
+    font-weight: bold;
+    box-shadow: 0 4px 6px rgba(37, 211, 102, 0.3);
+    transition: background 0.2s;
+}
+.btn-whatsapp:hover {
+    background: #1da851;
+    color: white;
+}
+
+/* Small Report Icon in Review Cards */
+.report-btn {
+    text-decoration: none;
+    font-size: 1.2rem;
+    cursor: pointer;
+    opacity: 0.7;
+    transition: opacity 0.2s, transform 0.2s;
+    flex-shrink: 0; /* Prevent icon from squishing */
+    margin-left: 10px;
+}
+.report-btn:hover {
+    opacity: 1;
+    transform: scale(1.1);
+}
+
+/* Adjustment for result button container to stack nicely */
+#result-ui .btn {
+    margin: 5px 0;
+}
+
+/* Append to style.css */
+.btn-whatsapp {
+    background: #25D366;
+    color: white;
+    width: 100%;
+    display: inline-block;
+    text-decoration: none;
+    margin-bottom: 15px;
+    font-weight: bold;
+    box-shadow: 0 4px 6px rgba(37, 211, 102, 0.3);
+    transition: background 0.2s;
+}
+.btn-whatsapp:hover {
+    background: #1da851;
+    color: white;
+}
+
+.report-btn {
+    text-decoration: none;
+    font-size: 1.2rem;
+    cursor: pointer;
+    opacity: 0.7;
+    transition: opacity 0.2s, transform 0.2s;
+    flex-shrink: 0;
+    margin-left: 10px;
+}
+.report-btn:hover {
+    opacity: 1;
+    transform: scale(1.1);
+}

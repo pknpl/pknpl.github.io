@@ -1,0 +1,362 @@
+[
+  {
+    "id": 181,
+    "question": "What is the minimum total Carpet Area required for a new MS-CIT Center?",
+    "options": [
+      "150 sq. feet",
+      "200 sq. feet",
+      "300 sq. feet",
+      "500 sq. feet"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: 200 sq. feet. This includes the Counseling Area, Lecture Room, and Computer Laboratory."
+  },
+  {
+    "id": 182,
+    "question": "What is the minimum carpet area required specifically for the Computer Laboratory?",
+    "options": [
+      "50 sq. feet",
+      "100 sq. feet",
+      "150 sq. feet",
+      "200 sq. feet"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: 100 sq. feet. This is the compulsory dedicated space for the computer lab."
+  },
+  {
+    "id": 183,
+    "question": "Which document is mandatory for the finalization of the New Center Registration Process?",
+    "options": [
+      "Driving License",
+      "PAN Card",
+      "Voter ID",
+      "Ration Card"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: PAN Card. AOs can upload other IDs initially, but PAN is mandatory for finalization."
+  },
+  {
+    "id": 184,
+    "question": "What is the minimum number of Client Computers required for the lab setup?",
+    "options": [
+      "5 Clients",
+      "10 Clients",
+      "15 Clients",
+      "20 Clients"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: 10 Clients. The minimum setup is 1 Server + 10 Clients."
+  },
+  {
+    "id": 185,
+    "question": "Which processor is required for the Server in the minimum IT infrastructure (2026 guidelines)?",
+    "options": [
+      "Intel i3",
+      "Intel i5 6th Generation",
+      "Dual Core",
+      "Intel Pentium"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Intel i5 6th Generation. This is the minimum requirement for the Server."
+  },
+  {
+    "id": 186,
+    "question": "What is the minimum RAM requirement for the Server computer?",
+    "options": [
+      "4 GB",
+      "8 GB",
+      "16 GB",
+      "32 GB"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: 8 GB. The server requires at least 8 GB of RAM."
+  },
+  {
+    "id": 187,
+    "question": "What represents the 'ONCET' in the context of MKCL?",
+    "options": [
+      "Online Network Computer Exam for Teachers",
+      "Online Certification Test",
+      "Offline Network Center Test",
+      "Only New Center Exam Test"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Online Certification Test. It is mandatory for Learning Facilitators and Coordinators."
+  },
+  {
+    "id": 188,
+    "question": "What is the duration of the ONCET exam for Learning Facilitators (Faculty)?",
+    "options": [
+      "30 Minutes",
+      "45 Minutes",
+      "60 Minutes",
+      "90 Minutes"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: 60 Minutes. The exam consists of 50 questions."
+  },
+  {
+    "id": 189,
+    "question": "What are the total marks for the Learning Facilitator (Faculty) ONCET exam?",
+    "options": [
+      "30 Marks",
+      "50 Marks",
+      "100 Marks",
+      "25 Marks"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: 50 Marks. There are 50 questions of 1 mark each."
+  },
+  {
+    "id": 190,
+    "question": "What is the passing criteria (minimum marks) for the Learning Facilitator ONCET exam?",
+    "options": [
+      "10 Marks (20%)",
+      "15 Marks (30%)",
+      "20 Marks (40%)",
+      "25 Marks (50%)"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: 20 Marks (40%)."
+  },
+  {
+    "id": 191,
+    "question": "What is the duration of the ONCET exam for Center Coordinators?",
+    "options": [
+      "30 Minutes",
+      "60 Minutes",
+      "45 Minutes",
+      "90 Minutes"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: 30 Minutes. The exam has 30 questions."
+  },
+  {
+    "id": 192,
+    "question": "What is the minimum RAM requirement for Client computers?",
+    "options": [
+      "2 GB",
+      "4 GB",
+      "8 GB",
+      "16 GB"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: 4 GB. Client machines must have at least 4 GB RAM."
+  },
+  {
+    "id": 193,
+    "question": "What type of Hard Disk is required for the Server computer?",
+    "options": [
+      "500 GB HDD",
+      "1 TB HDD",
+      "1 TB SSD",
+      "500 GB SSD"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: 1 TB SSD. Solid State Drives are required for better performance."
+  },
+  {
+    "id": 194,
+    "question": "What is the minimum storage (SSD) required for Client computers?",
+    "options": [
+      "128 GB",
+      "256 GB",
+      "500 GB",
+      "1 TB"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: 256 GB. Client computers need a minimum of 256 GB SSD."
+  },
+  {
+    "id": 195,
+    "question": "Which Operating System edition is required for the Center's computers?",
+    "options": [
+      "Windows 7 Professional",
+      "Windows 10 Home",
+      "Windows 10 Enterprise (64-bit)",
+      "Windows 11 Home"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: Windows 10 Enterprise (64-bit). MKCL provides licenses for this specific version."
+  },
+  {
+    "id": 196,
+    "question": "Which Office Suite version is required for the Center?",
+    "options": [
+      "MS Office 2010",
+      "MS Office 2013",
+      "MS Office 2019 Standard (64-bit)",
+      "OpenOffice"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: MS Office 2019 Standard (64-bit)."
+  },
+  {
+    "id": 197,
+    "question": "What is the minimum Internet Speed required for the Center?",
+    "options": [
+      "10 Mbps",
+      "20 Mbps",
+      "50 Mbps",
+      "100 Mbps"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: 50 Mbps. A broadband connection of this speed is required."
+  },
+  {
+    "id": 198,
+    "question": "Is a Biometric Device compulsory for the Center Setup?",
+    "options": [
+      "No, it is optional",
+      "Yes, minimum 1",
+      "Yes, minimum 2",
+      "Only for urban centers"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Yes, minimum 1. It is a compulsory peripheral."
+  },
+  {
+    "id": 199,
+    "question": "What is the minimum resolution required for the Printer and Scanner?",
+    "options": [
+      "300 dpi",
+      "600 dpi",
+      "1200 dpi",
+      "100 dpi"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: 600 dpi. Both printer and scanner must meet this resolution."
+  },
+  {
+    "id": 200,
+    "question": "Is CCTV compulsory for the Center Setup?",
+    "options": [
+      "Yes, Compulsory",
+      "Optional",
+      "Only for large centers",
+      "Only for exam time"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Yes, Compulsory. CCTV surveillance is a mandatory requirement."
+  },
+  {
+    "id": 201,
+    "question": "What is the recommended distance between Electrical and LAN wiring if they run parallel?",
+    "options": [
+      "6 inches",
+      "1 foot",
+      "2 feet",
+      "They can touch"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: 2 feet. This distance is required to avoid interference."
+  },
+  {
+    "id": 202,
+    "question": "Are 'Xtenda' or 'Thin Client' setups allowed for MS-CIT centers?",
+    "options": [
+      "Yes, fully allowed",
+      "Yes, partially allowed",
+      "No, not allowed",
+      "Allowed with special permission"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: No, not allowed. Each client must be a standalone desktop or laptop."
+  },
+  {
+    "id": 203,
+    "question": "What is the compulsory Power Backup requirement?",
+    "options": [
+      "Generator only",
+      "UPS or Inverter with Battery",
+      "Solar Power",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: UPS or Inverter with Battery. It must support all computers."
+  },
+  {
+    "id": 204,
+    "question": "Which area in the center layout is optional?",
+    "options": [
+      "Lecture Room",
+      "Computer Laboratory",
+      "Staff Room",
+      "Counseling Area"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: Staff Room. The other three areas are compulsory."
+  },
+  {
+    "id": 205,
+    "question": "Is a Toilet facility compulsory in the center?",
+    "options": [
+      "Yes, Clean Toilet is compulsory",
+      "No, it is optional",
+      "Only for female staff",
+      "Only for male staff"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Yes, Clean Toilet is compulsory."
+  },
+  {
+    "id": 206,
+    "question": "Can the dedicated center space be used for other businesses like sales or storage?",
+    "options": [
+      "Yes, if space permits",
+      "No, strictly prohibited",
+      "Yes, after class hours",
+      "Yes, with permission"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: No, strictly prohibited. The space must be dedicated to educational services."
+  },
+  {
+    "id": 207,
+    "question": "How many Learning Facilitator nominations are allowed per center for ONCET?",
+    "options": [
+      "Minimum 1, Maximum 3",
+      "Minimum 2, Maximum 5",
+      "Only 1",
+      "Unlimited"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Minimum 1, Maximum 3."
+  },
+  {
+    "id": 208,
+    "question": "What is the fee for the Center Coordinator ONCET Exam per person?",
+    "options": [
+      "Rs. 100/-",
+      "Rs. 250/-",
+      "Rs. 500/-",
+      "Rs. 1000/-"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Rs. 250/-. This fee is non-refundable."
+  },
+  {
+    "id": 209,
+    "question": "Is the Processing Fee of Rs. 500 refundable?",
+    "options": [
+      "Yes, fully",
+      "Yes, 50%",
+      "No, Non-Refundable",
+      "Yes, if rejected"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: No, Non-Refundable."
+  },
+  {
+    "id": 210,
+    "question": "What happens if an Applicant Organization fails to upload documents within the stipulated date?",
+    "options": [
+      "Application is paused",
+      "Full refund is given",
+      "Application is rejected and no refund is given",
+      "Penalty is charged"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: Application is rejected and no refund is given."
+  }
+]

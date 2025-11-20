@@ -1,0 +1,362 @@
+[
+  {
+    "id": 271,
+    "question": "What is the minimum admission criteria for Urban/Semi-Urban centers?",
+    "options": [
+      "50 admissions",
+      "100 admissions",
+      "120 admissions",
+      "200 admissions"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: 120 MS-CIT Admissions."
+  },
+  {
+    "id": 272,
+    "question": "What is the minimum admission criteria for Rural centers?",
+    "options": [
+      "30 admissions",
+      "60 admissions",
+      "100 admissions",
+      "120 admissions"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: 60 MS-CIT Admissions."
+  },
+  {
+    "id": 273,
+    "question": "What constitutes 'Basic IT Awareness' in the exam pattern?",
+    "options": [
+      "Practical questions",
+      "Objective questions",
+      "Typing test",
+      "Coding test"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Objective questions."
+  },
+  {
+    "id": 274,
+    "question": "Which skill is NOT part of the MS-CIT Syllabus 2025 pillars?",
+    "options": [
+      "Office Productivity Skills",
+      "Prompt Engineering Skills",
+      "Mechanical Engineering Skills",
+      "Netiquettes and Cyber Security"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: Mechanical Engineering Skills."
+  },
+  {
+    "id": 275,
+    "question": "What is the duration of the daily session in the MS-CIT course?",
+    "options": [
+      "1 Hour (Theory) + 1 Hour (Lab)",
+      "4 Hours",
+      "30 Minutes",
+      "3 Hours"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: 1 Hour (Theory) + 1 Hour (Lab) generally."
+  },
+  {
+    "id": 276,
+    "question": "What is the 'Welcome Course' offered by MKCL?",
+    "options": [
+      "A paid demo",
+      "A free demo course for potential learners",
+      "A course for parents",
+      "A course for staff"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: A free demo course for potential learners."
+  },
+  {
+    "id": 277,
+    "question": "Which document is required for student admission proof?",
+    "options": [
+      "Photo ID proof",
+      "Bank statement",
+      "Recommendation letter",
+      "Health certificate"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Photo ID proof."
+  },
+  {
+    "id": 278,
+    "question": "Are 'Seating Stools' permitted in the lab?",
+    "options": [
+      "Yes",
+      "No",
+      "Only for kids",
+      "Only for staff"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: No."
+  },
+  {
+    "id": 279,
+    "question": "What is the 'Learning Facilitator'?",
+    "options": [
+      "The student",
+      "The Faculty / Trainer",
+      "The Center Owner",
+      "The Computer"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: The Faculty / Trainer."
+  },
+  {
+    "id": 280,
+    "question": "What is the 'Center Coordinator'?",
+    "options": [
+      "The person managing the center's administration",
+      "The technical support staff",
+      "The cleaner",
+      "The student leader"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: The person managing the center's administration."
+  },
+  {
+    "id": 281,
+    "question": "Can one person be both Center Coordinator and Learning Facilitator?",
+    "options": [
+      "Yes, if they pass both exams",
+      "No, they must be different people",
+      "Yes, but no exam needed",
+      "No, strictly forbidden"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Yes, if they pass both exams (implied, though roles are distinct, small centers often overlap)."
+  },
+  {
+    "id": 282,
+    "question": "What is the minimum number of biometric devices required?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "0"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: 1."
+  },
+  {
+    "id": 283,
+    "question": "What is the main purpose of the 'Server' in the center?",
+    "options": [
+      "To play games",
+      "To manage the network and store data",
+      "To print documents",
+      "To show movies"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: To manage the network and store data."
+  },
+  {
+    "id": 284,
+    "question": "Which edition of Windows 10 is NOT allowed?",
+    "options": [
+      "Windows 10 Home",
+      "Windows 10 Enterprise",
+      "Windows 10 Pro (if upgraded)",
+      "Windows 10 Education"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Windows 10 Home (Enterprise is the standard provided/required)."
+  },
+  {
+    "id": 285,
+    "question": "What does 'SSD' stand for in the hardware requirements?",
+    "options": [
+      "Super Speed Drive",
+      "Solid State Drive",
+      "System Storage Drive",
+      "Secure State Disk"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Solid State Drive."
+  },
+  {
+    "id": 286,
+    "question": "Why are Laptops preferred over Desktops for clients?",
+    "options": [
+      "They look better",
+      "They consume less power and space",
+      "They are cheaper",
+      "They are faster"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: They consume less power and space."
+  },
+  {
+    "id": 287,
+    "question": "What is the minimum number of USB ports required on a Client?",
+    "options": [
+      "None",
+      "At least 1",
+      "At least 2",
+      "At least 4"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: At least 2 (implied for Mouse/Keyboard if not wireless, or data transfer)."
+  },
+  {
+    "id": 288,
+    "question": "Is 'Footwear Stand' compulsory?",
+    "options": [
+      "Yes",
+      "No, Optional",
+      "Only in rainy season",
+      "Only for temples"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: No, Optional."
+  },
+  {
+    "id": 289,
+    "question": "What is the 'Drinking Water Facility' status?",
+    "options": [
+      "Compulsory",
+      "Optional",
+      "Not needed",
+      "Chargeable"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Compulsory."
+  },
+  {
+    "id": 290,
+    "question": "Who provides the uniform for the staff?",
+    "options": [
+      "MKCL provides it free",
+      "AO has to arrange (Optional)",
+      "Staff buys their own",
+      "Government"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: AO has to arrange (Optional)."
+  },
+  {
+    "id": 291,
+    "question": "Can the AO pay the registration fee in cash to a Network Partner?",
+    "options": [
+      "Yes",
+      "No, only through MKCL Payment gateway/wallet",
+      "Yes, if receipt is given",
+      "Yes, partially"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: No, only through MKCL Payment gateway/wallet."
+  },
+  {
+    "id": 292,
+    "question": "What is the email ID for reporting corruption/extra demands?",
+    "options": [
+      "ncr@mkcl.org",
+      "help@mkcl.org",
+      "support@mkcl.org",
+      "complaint@mkcl.org"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: ncr@mkcl.org."
+  },
+  {
+    "id": 293,
+    "question": "If an AO's mobile is on DND, is MKCL responsible for undelivered SMS?",
+    "options": [
+      "Yes",
+      "No",
+      "Maybe",
+      "Only if email also fails"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: No."
+  },
+  {
+    "id": 294,
+    "question": "How many times can a Learning Facilitator attempt the ONCET in one registration cycle?",
+    "options": [
+      "Once",
+      "Twice",
+      "Unlimited",
+      "Three times"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Once (No Re-Examination provision mentioned for the same cycle)."
+  },
+  {
+    "id": 295,
+    "question": "Which of the following is NOT a topic in the MS-CIT curriculum?",
+    "options": [
+      "Digital India Skills",
+      "Netiquettes",
+      "Advanced Java Programming",
+      "Go Green"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: Advanced Java Programming."
+  },
+  {
+    "id": 296,
+    "question": "What is the total marks for Session 1 to 5 (Internal) in MS-CIT?",
+    "options": [
+      "1 Mark",
+      "5 Marks",
+      "10 Marks",
+      "2 Marks"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: 5 Marks."
+  },
+  {
+    "id": 297,
+    "question": "Which MS Office application is focused on in Sessions 18 to 29?",
+    "options": [
+      "MS Word",
+      "MS Excel",
+      "MS PowerPoint",
+      "MS Outlook"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: MS Excel."
+  },
+  {
+    "id": 298,
+    "question": "What is the role of 'Prompt Engineering' in the syllabus?",
+    "options": [
+      "Civil Engineering basics",
+      "AI interaction skills",
+      "Time management",
+      "Typing speed"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: AI interaction skills."
+  },
+  {
+    "id": 299,
+    "question": "How many marks are allocated to 'Prompt Engineering Skills' internally?",
+    "options": [
+      "1",
+      "2",
+      "5",
+      "10"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: 2 Marks."
+  },
+  {
+    "id": 300,
+    "question": "What does 'MS-CIT' stand for?",
+    "options": [
+      "Maharashtra State Certificate in Information Technology",
+      "Master of Science in Computer IT",
+      "Maharashtra State Computer Institute Training",
+      "Management System for Computer IT"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Maharashtra State Certificate in Information Technology."
+  }
+]

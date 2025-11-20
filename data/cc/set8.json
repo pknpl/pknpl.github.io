@@ -1,0 +1,362 @@
+[
+  {
+    "id": 211,
+    "question": "Which network device is required to connect the Server and Clients?",
+    "options": [
+      "Hub",
+      "100/1000 Mbps Network Switch",
+      "Modem only",
+      "Bluetooth Dongle"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: 100/1000 Mbps Network Switch."
+  },
+  {
+    "id": 212,
+    "question": "What is the preferred device type for Client machines?",
+    "options": [
+      "Desktop",
+      "Laptop",
+      "Tablet",
+      "Smartphone"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Laptop. It is preferred due to less power consumption and space efficiency."
+  },
+  {
+    "id": 213,
+    "question": "Is 'Seating Stools' allowed in the Computer Laboratory?",
+    "options": [
+      "Yes",
+      "No, not allowed",
+      "Yes, with cushions",
+      "Yes, for short duration"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: No, not allowed. Ergonomically designed chairs are required."
+  },
+  {
+    "id": 214,
+    "question": "What is the minimum area size for the Lecture Room?",
+    "options": [
+      "50 sq. feet",
+      "100 sq. feet",
+      "150 sq. feet",
+      "200 sq. feet"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: 100 sq. feet."
+  },
+  {
+    "id": 215,
+    "question": "Is Air Conditioning facility compulsory for the Computer Lab?",
+    "options": [
+      "Yes, Compulsory",
+      "No, Optional",
+      "Only in summer",
+      "Only in cities"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: No, Optional. However, proper ventilation is required."
+  },
+  {
+    "id": 216,
+    "question": "What is the syllabus for the Center Coordinator ONCET Exam?",
+    "options": [
+      "Only C Programming",
+      "Administrative, Marketing Skills & MKCL Offerings",
+      "Hardware Repair",
+      "Accounting only"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Administrative, Marketing Skills & MKCL Offerings."
+  },
+  {
+    "id": 217,
+    "question": "What are the passing marks for the Center Coordinator ONCET Exam?",
+    "options": [
+      "10 marks",
+      "12 marks",
+      "15 marks",
+      "20 marks"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: 12 marks (40% of 30)."
+  },
+  {
+    "id": 218,
+    "question": "Are 'Headphones with Mic' required for Client computers?",
+    "options": [
+      "No",
+      "Yes, Compulsory",
+      "Optional",
+      "Only for 1 computer"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Yes, Compulsory. It is part of the minimum client configuration."
+  },
+  {
+    "id": 219,
+    "question": "What is the full form of ALC?",
+    "options": [
+      "Authorized Learner Center",
+      "Authorized Learning Center",
+      "Approved Learning Center",
+      "Active Learning Center"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Authorized Learning Center."
+  },
+  {
+    "id": 220,
+    "question": "Who decides the 'Open Area' list for new center registration?",
+    "options": [
+      "District Collector",
+      "MKCL",
+      "State Government",
+      "Local Municipality"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: MKCL. They decide based on business potential and existing center presence."
+  },
+  {
+    "id": 221,
+    "question": "Can an existing Super Performing ALC apply for a new center in another district with preference?",
+    "options": [
+      "Yes",
+      "No",
+      "Depends on the District",
+      "Only if they pay double fee"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: No. Preference is only for the same LLC region or District."
+  },
+  {
+    "id": 222,
+    "question": "What is the 'Performance Guarantee Amount'?",
+    "options": [
+      "A fee paid by students",
+      "An amount paid by AO to register, kept with MKCL",
+      "A salary for the coordinator",
+      "A fine for low admissions"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: An amount paid by AO to register, kept with MKCL."
+  },
+  {
+    "id": 223,
+    "question": "Who is exempt from paying the Performance Guarantee Amount?",
+    "options": [
+      "Private Computer Institutes",
+      "Educational Institutes (Schools & Colleges)",
+      "Cyber Cafes",
+      "NGOs"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Educational Institutes (Schools & Colleges)."
+  },
+  {
+    "id": 224,
+    "question": "What is the total duration of the MS-CIT Course?",
+    "options": [
+      "1 Month",
+      "2 Months",
+      "3 Months",
+      "6 Months"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: 3 Months (144 Hours)."
+  },
+  {
+    "id": 225,
+    "question": "What are the three languages in which MS-CIT course is available?",
+    "options": [
+      "English, Marathi, Gujarati",
+      "English, Hindi, Urdu",
+      "English, Marathi, Hindi",
+      "English, Marathi, Sanskrit"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: English, Marathi, Hindi."
+  },
+  {
+    "id": 226,
+    "question": "What is the passing mark for the MS-CIT Final Online Examination (Students)?",
+    "options": [
+      "18 Marks",
+      "20 Marks",
+      "25 Marks",
+      "35 Marks"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: 20 Marks out of 50."
+  },
+  {
+    "id": 227,
+    "question": "How many internal marks are allocated in the MS-CIT course?",
+    "options": [
+      "20 Marks",
+      "30 Marks",
+      "50 Marks",
+      "100 Marks"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: 50 Marks. These are based on session completion and challenges."
+  },
+  {
+    "id": 228,
+    "question": "What is the full form of CCTP?",
+    "options": [
+      "Certificate of Computer Training Program",
+      "Certificate of Computer Typing Proficiency",
+      "Central Computer Technical Program",
+      "Course for Computer Typing Professionals"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Certificate of Computer Typing Proficiency."
+  },
+  {
+    "id": 229,
+    "question": "Who certifies the CCTP course?",
+    "options": [
+      "MKCL only",
+      "MSBTE only",
+      "Jointly by MKCL and MSBTE",
+      "YCMOU"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: Jointly by MKCL and MSBTE."
+  },
+  {
+    "id": 230,
+    "question": "What is the typing speed option available in CCTP?",
+    "options": [
+      "10 WPM and 20 WPM",
+      "30 WPM and 40 WPM",
+      "50 WPM and 60 WPM",
+      "Any speed"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: 30 WPM and 40 WPM."
+  },
+  {
+    "id": 231,
+    "question": "What keyboard layout is used in CCTP?",
+    "options": [
+      "Dvorak",
+      "Remington",
+      "Inscript",
+      "Phonetic"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Remington."
+  },
+  {
+    "id": 232,
+    "question": "Who is eligible for CCTP?",
+    "options": [
+      "Any 10th pass student",
+      "Only IT professionals",
+      "MS-CIT learners confirmed for the exam",
+      "Center Coordinators only"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: MS-CIT learners confirmed for the exam."
+  },
+  {
+    "id": 233,
+    "question": "Which item is NOT part of the mandatory Counseling Area setup?",
+    "options": [
+      "Notice Board",
+      "Enquiry Register",
+      "Table and Chairs",
+      "Projector"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is: Projector. This is required in the Lecture Room, not the Counseling Area."
+  },
+  {
+    "id": 234,
+    "question": "What is the mandatory identity document for New Center Registration finalization in 2026?",
+    "options": [
+      "Aadhaar Card",
+      "Passport",
+      "Electricity Bill",
+      "Rent Agreement"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Aadhaar Card. Both PAN and Aadhaar are mandatory."
+  },
+  {
+    "id": 235,
+    "question": "What is the standard student fee for MS-CIT in Single Installment (prior to June 2025 revision)?",
+    "options": [
+      "Rs. 4,000/-",
+      "Rs. 4,500/-",
+      "Rs. 5,000/-",
+      "Rs. 5,500/-"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Rs. 4,500/- (Note: Fees may vary by region/date, but this is the standard base)."
+  },
+  {
+    "id": 236,
+    "question": "Does the student fee include the Examination and Certification fee?",
+    "options": [
+      "No, paid separately",
+      "Yes, it is inclusive",
+      "Only Certification is included",
+      "Only Exam is included"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Yes, it is inclusive."
+  },
+  {
+    "id": 237,
+    "question": "What is the 'MFO' component in the fee structure?",
+    "options": [
+      "Master Franchisee Office",
+      "MKCL Fee Component",
+      "Monthly Fee Option",
+      "Maintenance Fee Organization"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: MKCL Fee Component (often referred to as MKCL's share)."
+  },
+  {
+    "id": 238,
+    "question": "What is the minimum age requirement for a student to join MS-CIT?",
+    "options": [
+      "10 years",
+      "15 years",
+      "18 years",
+      "No specific age limit (preferably 5th Std pass)"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is: No specific age limit (preferably 5th Std pass)."
+  },
+  {
+    "id": 239,
+    "question": "Which application is used by learners to access the e-book?",
+    "options": [
+      "MKCL ERA",
+      "MKCL Learner App",
+      "SOLAR App",
+      "MS-CIT App"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: MKCL Learner App."
+  },
+  {
+    "id": 240,
+    "question": "What is the ERA in the context of MS-CIT?",
+    "options": [
+      "Education Registration Agency",
+      "eLearning Revolution for All",
+      "Electronic Read Access",
+      "Exam Result Analysis"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: eLearning Revolution for All (MKCL's learning framework)."
+  }
+]

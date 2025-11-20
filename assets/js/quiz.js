@@ -4,6 +4,10 @@ const params = new URLSearchParams(window.location.search);
 const role = params.get('role') || 'cc';
 const setNum = params.get('set') || '1';
 
+// Get User Details for Reporting
+const currentUser = JSON.parse(sessionStorage.getItem('pknpl_user') || '{}');
+const userID = currentUser.displayId || 'Unknown';
+
 document.getElementById('set-title').innerText = `${role.toUpperCase()} - Set ${setNum}`;
 
 let questions = [];
@@ -13,18 +17,15 @@ let timerInterval;
 let totalSeconds = 0;
 let isQuizActive = true;
 
-
+// Fetch Question Data
 fetch(`data/${role}/set${setNum}.json`)
     .then(r => r.json())
     .then(data => {
-      
         questions = shuffleArray(data);
-        
         userAnswers = new Array(questions.length).fill(null);
         document.getElementById('total-q').innerText = questions.length;
         
-   
-        totalSeconds = questions.length * 30;
+        totalSeconds = questions.length * 30; // 30 seconds per question
         startTimer();
 
         initPagination();
@@ -34,7 +35,6 @@ fetch(`data/${role}/set${setNum}.json`)
         document.getElementById('question-text').innerText = "Error: Set file not found.";
     });
 
-
 function shuffleArray(array) {
     for (let i = array.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
@@ -42,7 +42,6 @@ function shuffleArray(array) {
     }
     return array;
 }
-
 
 function startTimer() {
     updateTimerUI();
@@ -62,7 +61,6 @@ function updateTimerUI() {
     document.getElementById('timer-display').innerText = `${m}:${s < 10 ? '0'+s : s}`;
     if(totalSeconds < 60) document.getElementById('timer-display').style.color = 'red';
 }
-
 
 function loadQuestion(idx) {
     currIndex = idx;
@@ -98,7 +96,6 @@ function initPagination() {
     const grid = document.getElementById('num-grid');
     questions.forEach((_, i) => {
         const d = document.createElement('div');
-       
         d.style.cssText = "width:30px; height:30px; background:#e2e8f0; border-radius:50%; display:flex; align-items:center; justify-content:center; font-size:0.8rem; cursor:pointer; color:#64748b;";
         d.innerText = i + 1;
         d.id = `pg-${i}`;
@@ -116,7 +113,6 @@ function updatePagination() {
     });
 }
 
-
 document.getElementById('btn-next').onclick = () => nextQ();
 document.getElementById('btn-prev').onclick = () => prevQ();
 
@@ -127,7 +123,6 @@ function nextQ() {
 function prevQ() {
     if(currIndex > 0) loadQuestion(currIndex - 1);
 }
-
 
 function finishQuiz(auto=false) {
     if(!auto && !confirm("Are you sure you want to submit?")) return;
@@ -145,16 +140,38 @@ function finishQuiz(auto=false) {
     const list = document.getElementById('review-list');
     list.innerHTML = '';
 
+    // --- Generate Questions Review List ---
     questions.forEach((q, i) => {
         const userIdx = userAnswers[i];
         const correctIdx = q.answer;
         const isCorrect = (userIdx === correctIdx);
         if(isCorrect) score++;
 
+        // GENERATE REPORT LINK FOR THIS QUESTION
+        const userAnsText = userIdx !== null ? q.options[userIdx] : "Skipped";
+        const correctAnsText = q.options[correctIdx];
+
+        const reportMsg = `Report / Help Request 🛠️%0A` +
+                          `---------------------------%0A` +
+                          `AO ID: ${userID}%0A` +
+                          `Role: ${role.toUpperCase()}%0A` +
+                          `Set: ${setNum}%0A` +
+                          `QID: ${q.id}%0A` +
+                          `Question: ${q.question}%0A` +
+                          `Answer Selected: ${userAnsText}%0A` +
+                          `Correct Answer: ${correctAnsText}%0A` +
+                          `-----------------%0A` +
+                          `User Comment: `;
+        
+        const reportUrl = `https://wa.me/918384858685?text=${reportMsg}`;
+
         const div = document.createElement('div');
         div.className = `review-card ${isCorrect ? 'correct' : 'wrong'}`;
         div.innerHTML = `
-            <p><strong>Q${i+1}: ${q.question}</strong></p>
+            <div style="display:flex; justify-content:space-between; align-items:flex-start; margin-bottom:8px;">
+                <p style="margin:0; width:90%;"><strong>Q${i+1}: ${q.question}</strong></p>
+                <a href="${reportUrl}" target="_blank" class="report-btn" title="Report Question">⚠️</a>
+            </div>
             <p>Your Answer: ${userIdx !== null ? q.options[userIdx] : 'Skipped'} ${isCorrect ? '✅' : '❌'}</p>
             ${!isCorrect ? `<p style="color:#16a34a">Correct: ${q.options[correctIdx]}</p>` : ''}
             <div style="margin-top:8px; font-size:0.9rem; color:#555;"><em>💡 ${q.explanation || 'No explanation.'}</em></div>
@@ -162,12 +179,50 @@ function finishQuiz(auto=false) {
         list.appendChild(div);
     });
 
+    // --- Score Display ---
     document.getElementById('score-val').innerText = `${score} / ${questions.length}`;
     const pct = (score / questions.length) * 100;
     const msg = document.getElementById('pass-fail-text');
     
-    if(pct >= 60) { msg.innerText = "Congratulations! You Passed"; msg.style.color = "#16a34a"; }
-    else { msg.innerText = "You did not pass"; msg.style.color = "#dc2626"; }
+    let passStatus = "FAIL";
+    if(pct >= 60) { 
+        msg.innerText = "Congratulations! You Passed"; 
+        msg.style.color = "#16a34a"; 
+        passStatus = "PASS";
+    } else { 
+        msg.innerText = "You did not pass"; 
+        msg.style.color = "#dc2626"; 
+        passStatus = "FAIL";
+    }
+
+    // --- GENERATE SHARE RESULT LINK ---
+    const resultMsg = `*Exam Result Declaration* 📄%0A` +
+                      `AO ID: ${userID}%0A` +
+                      `Role: ${role.toUpperCase()} | Set: ${setNum}%0A` +
+                      `Score: ${score} / ${questions.length}%0A` +
+                      `Result: ${passStatus}`;
+    
+    const shareUrl = `https://wa.me/918384858685?text=${resultMsg}`;
+
+    // === UPDATE: INJECT BUTTON BELOW MARKS (SCORE CONTAINER) ===
+    // Targeting the first div inside #result-ui which contains the score
+    const scoreContainer = document.querySelector('#result-ui > div:first-child');
+    
+    // Clean up if button already exists
+    const oldBtn = document.getElementById('share-wa-btn');
+    if(oldBtn) oldBtn.remove();
+
+    const shareBtn = document.createElement('a');
+    shareBtn.id = 'share-wa-btn';
+    shareBtn.href = shareUrl;
+    shareBtn.target = '_blank';
+    shareBtn.className = 'btn btn-whatsapp';
+    shareBtn.innerText = 'Share Result on WhatsApp';
+    shareBtn.style.marginTop = '20px'; // Spacing from pass/fail text
+    shareBtn.style.marginBottom = '0px';
+    
+    // Append it to the score container so it sits right under the Pass/Fail text
+    scoreContainer.appendChild(shareBtn);
 }
 
 // --- HELP & EXIT ---

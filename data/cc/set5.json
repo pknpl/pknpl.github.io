@@ -1,0 +1,362 @@
+[
+  {
+    "id": 121,
+    "question": "To maintain educational environment, what is the minimum Area Requerment",
+    "options": [
+      "200 Sq.ft",
+      "400 Sq.ft",
+      "300 Sq.ft",
+      "500 Sq.ft"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: 200 Sq.ft"
+  },
+  {
+    "id": 122,
+    "question": "What is the Minimum Qualification Required for Coordinator",
+    "options": [
+      "12 th",
+      "Under graduate",
+      "Graduate or Deploma Cmplited",
+      "Not Mentioned"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: Graduate or Deploma Cmplited"
+  },
+  {
+    "id": 123,
+    "question": "by which site you get information about KLiC Course",
+    "options": [
+      "https://klic.mkcl.in",
+      "https://klic.mkcl.com",
+      "https://klic.mkcl.org/",
+      "all of the above"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: https://klic.mkcl.org/"
+  },
+  {
+    "id": 124,
+    "question": "All MKCL Details is available on",
+    "options": [
+      "https://mkcl.org/",
+      "www.mkcl.org/MSCIT",
+      "www.mkcl.org/ef",
+      "www.mkcl.easy"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: https://mkcl.org/"
+  },
+  {
+    "id": 125,
+    "question": "What is the non-refundable 'Processing Fee' component of the Center Registration Fee?",
+    "options": [
+      "Rs. 500/-",
+      "Rs. 2,500/-",
+      "Rs. 5,000/-",
+      "Rs. 9,500/-"
+    ],
+    "answer": 0,
+    "explanation": "According to the Registration Fee guidelines, the Center Registration Fee includes Rs. 500/- towards Processing Fee which is Non-Refundable."
+  },
+  {
+    "id": 126,
+    "question": "What is the duration of the OnCeT Examination for the Learning Facilitator (LF)?",
+    "options": [
+      "30 Minutes",
+      "45 Minutes",
+      "60 Minutes",
+      "90 Minutes"
+    ],
+    "answer": 2,
+    "explanation": "The OnCeT & Interview Guidelines specify that the Test Duration for the Learning Facilitator (Faculty) examination is 60 minutes."
+  },
+  {
+    "id": 127,
+    "question": "Which of the following topics is included in the syllabus for the Center Coordinator OnCeT Exam?",
+    "options": [
+      "MS-Office 2019",
+      "Windows 10",
+      "Marketing & Promotion",
+      "AI Tools"
+    ],
+    "answer": 2,
+    "explanation": "The Syllabus for Center Coordinator OnCeT includes 'Marketing & Promotion', 'Offering Details', 'Administrative Details', and 'Process Details'. Topics like MS-Office and Windows 10 are part of the LF syllabus."
+  },
+  {
+    "id": 128,
+    "question": "Which document is explicitly mentioned as mandatory for the finalization of the MS-CIT New Center Registration?",
+    "options": [
+      "Driving License",
+      "Voter ID",
+      "PAN Card",
+      "Passport"
+    ],
+    "answer": 2,
+    "explanation": "The FAQs and Required Documents sections state that the PAN Card is mandatory for the finalization of new centers."
+  },
+  {
+    "id": 129,
+    "question": "What is the Performance Guarantee Amount applicable for a Rural Center (Regular ALC)?",
+    "options": [
+      "Rs. 10,000/-",
+      "Rs. 25,000/-",
+      "Rs. 50,000/-",
+      "Rs. 75,000/-"
+    ],
+    "answer": 1,
+    "explanation": "As per the Registration Fee structure, the Performance Guarantee Amount for a Rural Center is Rs. 25,000/-."
+  },
+  {
+    "id": 130,
+    "question": "Which type of Applicant Organization is exempted from paying the Performance Guarantee Amount?",
+    "options": [
+      "Private Computer Institutes",
+      "Educational Institutes (Schools & Colleges)",
+      "Cyber Cafes",
+      "Coaching Classes"
+    ],
+    "answer": 1,
+    "explanation": "The guidelines state that if the Applicant Organization is an Educational Institute (only for Schools & Colleges), there is no need to pay the Performance Guarantee Amount."
+  },
+  {
+    "id": 131,
+    "question": "What is the minimum RAM required for the Server computer as per the Computing Resources guidelines?",
+    "options": [
+      "2 GB",
+      "4 GB",
+      "8 GB",
+      "16 GB"
+    ],
+    "answer": 2,
+    "explanation": "The Computing Resources page specifies that the minimum Server Configuration requires 8 GB RAM."
+  },
+  {
+    "id": 132,
+    "question": "Is the MS-CIT ALC Authorization transferable to another person or organization?",
+    "options": [
+      "Yes, after 1 year",
+      "Yes, with a transfer fee",
+      "No, it is non-transferable",
+      "Yes, with Training Provider approval"
+    ],
+    "answer": 2,
+    "explanation": "The Important Instructions state that MKCL MS-CIT ALC Authorization is non-transferable and cannot be sold or transferred to any other party."
+  },
+  {
+    "id": 133,
+    "question": "How is the 'Total Score' calculated for the selection of a new center?",
+    "options": [
+      "LF OnCeT Score + Interview Score",
+      "Center Coordinator OnCeT Score + Interview Score",
+      "LF OnCeT Score + Center Coordinator OnCeT Score + Interview Score",
+      "LF OnCeT Score + Center Coordinator OnCeT Score"
+    ],
+    "answer": 2,
+    "explanation": "The OnCeT & Interview Guidelines define the Total Score as the sum of the LF OnCeT Score, Center Coordinator OnCeT Score, and Interview Score."
+  },
+  {
+    "id": 134,
+    "question": "Can an Applicant Organization (AO) change their selected Training Provider (TP) after receiving TP approval?",
+    "options": [
+      "Yes, anytime before finalization",
+      "No, once approved, the TP cannot be changed",
+      "Yes, by paying a penalty",
+      "Yes, if the LLC permits"
+    ],
+    "answer": 1,
+    "explanation": "The FAQs regarding the process clarify that once an AO gets TP approval, they cannot change the Training Provider."
+  },
+  {
+    "id": 135,
+    "question": "What is the minimum Hard Disk capacity and type required for the Server at an MS-CIT Center?",
+    "options": [
+      "500 GB HDD",
+      "1 TB HDD",
+      "500 GB SSD",
+      "1 TB SSD"
+    ],
+    "answer": 3,
+    "explanation": "The Computing Resources guidelines specify that the minimum Server Configuration requires a 1 TB SSD Hard disk."
+  },
+  {
+    "id": 136,
+    "question": "Which operating system is required for both Server and Client machines?",
+    "options": [
+      "Windows 7 Professional",
+      "Windows 10 Enterprise (64-bit)",
+      "Windows 11 Home",
+      "Linux Ubuntu"
+    ],
+    "answer": 1,
+    "explanation": "The required operating system is Windows 10 (64-bit) Enterprise Edition with Service Pack 1."
+  },
+  {
+    "id": 137,
+    "question": "What is the minimum RAM required for Client computers?",
+    "options": [
+      "2 GB",
+      "4 GB",
+      "8 GB",
+      "16 GB"
+    ],
+    "answer": 1,
+    "explanation": "The Minimum Client Configuration specifies 4 GB RAM."
+  },
+  {
+    "id": 138,
+    "question": "How many Learning Facilitators (LFs) can an Applicant Organization nominate for the OnCeT Examination?",
+    "options": [
+      "Only 1",
+      "Minimum 1 and Maximum 2",
+      "Minimum 1 and Maximum 3",
+      "Unlimited"
+    ],
+    "answer": 2,
+    "explanation": "The FAQs state that a minimum of one and a maximum of three Learning Facilitator nominations are allowed for the OnCeT Examination."
+  },
+  {
+    "id": 139,
+    "question": "What is the fee for the OnCeT Examination per Learning Facilitator?",
+    "options": [
+      "Rs. 100/-",
+      "Rs. 250/-",
+      "Rs. 500/-",
+      "Rs. 1000/-"
+    ],
+    "answer": 1,
+    "explanation": "The OnCeT fee is Rs. 250/- per Learning Facilitator/Center Coordinator, which is non-refundable."
+  },
+  {
+    "id": 140,
+    "question": "What is the passing criteria (minimum marks) for the Learning Facilitator OnCeT Exam?",
+    "options": [
+      "12 Marks (40%)",
+      "20 Marks (40%)",
+      "25 Marks (50%)",
+      "30 Marks (60%)"
+    ],
+    "answer": 1,
+    "explanation": "The Total Marks for the LF OnCeT are 50, and the passing criteria is 40%, which equals 20 Marks."
+  },
+  {
+    "id": 141,
+    "question": "What is the passing criteria (minimum marks) for the Center Coordinator OnCeT Exam?",
+    "options": [
+      "10 Marks",
+      "12 Marks",
+      "15 Marks",
+      "20 Marks"
+    ],
+    "answer": 1,
+    "explanation": "The Total Marks for the Center Coordinator OnCeT are 30, and the passing criteria is 40%, which equals 12 Marks."
+  },
+  {
+    "id": 142,
+    "question": "What is the maximum number of ALCs allowed under a single Franchisee or common brand network?",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "answer": 1,
+    "explanation": "MKCL allows a maximum of 10 (Ten) ALCs under any Franchisee, chain, or similar type of common brand network."
+  },
+  {
+    "id": 143,
+    "question": "If an Applicant Organization (AO) is rejected, how is the refundable fee returned?",
+    "options": [
+      "By Cheque",
+      "By Demand Draft (DD)",
+      "To the AO's SOLAR Wallet",
+      "Directly to the registered Bank Account via SOLAR application"
+    ],
+    "answer": 3,
+    "explanation": "Refundable amounts are processed through SOLAR and refunded to the AO's bank account registered at the time of the process. MKCL does not use Cheque or DD."
+  },
+  {
+    "id": 144,
+    "question": "What is the minimum internet connection speed required for the center?",
+    "options": [
+      "10 Mbps",
+      "20 Mbps",
+      "50 Mbps",
+      "100 Mbps"
+    ],
+    "answer": 2,
+    "explanation": "The minimum required Internet connection is 50 Mbps."
+  },
+  {
+    "id": 145,
+    "question": "Is the use of Thin Client or Xtenda Setup allowed in the lab?",
+    "options": [
+      "Yes, it is recommended",
+      "Yes, but only for rural centers",
+      "No, it is not allowed",
+      "Yes, with prior permission"
+    ],
+    "answer": 2,
+    "explanation": "The Computing Resources guidelines explicitly state: 'Xtenda Setup / Thin Client Setup is not allowed'."
+  },
+  {
+    "id": 146,
+    "question": "What is the mandatory distance to be maintained if Electrical and LAN wiring run parallel?",
+    "options": [
+      "6 inches",
+      "1 foot",
+      "2 feet",
+      "There is no restriction"
+    ],
+    "answer": 2,
+    "explanation": "If Electrical and LAN wiring are parallel, a distance of 2 feet should be maintained to avoid interference."
+  },
+  {
+    "id": 147,
+    "question": "Which of the following is Optional in the peripheral requirements?",
+    "options": [
+      "Biometric Device",
+      "CCTV",
+      "Power Backup (UPS/Inverter)",
+      "Projector or LCD Display"
+    ],
+    "answer": 3,
+    "explanation": "Biometric Device, CCTV, and Power Backup are marked as Compulsory. Projector or LCD Display is marked as Optional."
+  },
+  {
+    "id": 148,
+    "question": "What is the weightage of the Interview Score in the Total Score calculation for center selection?",
+    "options": [
+      "10 Marks",
+      "20 Marks",
+      "30 Marks",
+      "50 Marks"
+    ],
+    "answer": 1,
+    "explanation": "The Interview Score carries a weightage of 20 Marks in the Total Score."
+  },
+  {
+    "id": 149,
+    "question": "What happens to the Performance Guarantee Amount for a new ALC in the subsequent year (2027) if they satisfy admission conditions?",
+    "options": [
+      "It is refunded immediately",
+      "It is forfeited",
+      "It is carried forward for the year 2027",
+      "It is converted to a bonus"
+    ],
+    "answer": 2,
+    "explanation": "If the ALC satisfies admission conditions for 2026, the Performance Guarantee Amount is carried forward for the year 2027."
+  },
+  {
+    "id": 150,
+    "question": "Which software license is provided by MKCL to the ALCs?",
+    "options": [
+      "Adobe Creative Cloud",
+      "Quick Heal Antivirus",
+      "MS-Office 2019 Standard Edition",
+      "Tally Prime"
+    ],
+    "answer": 2,
+    "explanation": "MKCL provides licenses for Windows 10 Enterprise and MS-Office 2019 (64-bit) Standard Edition."
+  }
+]
