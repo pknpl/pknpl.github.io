@@ -1,18 +1,6 @@
 [
   {
     "id": 61,
-    "question": "What is the CMD of MKCL full Name",
-    "options": [
-      "Mr. Sameer Pande",
-      "Mr. Vivek Sawant",
-      "Dr. Vijay Bhatkar",
-      "None"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Mr. Sameer Pande"
-  },
-  {
-    "id": 62,
     "question": "Where is MKCL Head Office",
     "options": [
       "Mumbai",
@@ -24,7 +12,7 @@
     "explanation": "The correct answer is: Pune"
   },
   {
-    "id": 63,
+    "id": 62,
     "question": "What does MKCL stands for?",
     "options": [
       "Maharashtra Knowledge Corporation Limited",
@@ -36,11 +24,11 @@
     "explanation": "The correct answer is: Maharashtra Knowledge Corporation Limited"
   },
   {
-    "id": 64,
+    "id": 63,
     "question": "Which is not the Product of MKCL",
     "options": [
       "MS-CIT",
-      "EASY",
+      "MOM",
       "KLIC",
       "TALLY"
     ],
@@ -48,7 +36,7 @@
     "explanation": "The correct answer is: TALLY"
   },
   {
-    "id": 65,
+    "id": 64,
     "question": "What is the old name of MS-CIT",
     "options": [
       "EASY",
@@ -60,7 +48,7 @@
     "explanation": "The correct answer is: CIT"
   },
   {
-    "id": 66,
+    "id": 65,
     "question": "How many courses included in KLIC",
     "options": [
       "256",
@@ -72,31 +60,19 @@
     "explanation": "The correct answer is: 256"
   },
   {
-    "id": 67,
+    "id": 66,
     "question": "Full form of MOM",
     "options": [
       "Maharashtra Online Marketing",
       "MKCL Online Marketing",
-      "Maharashtra Outsource Marketing",
+      "MKCL Olympiad Movement",
       "None"
     ],
     "answer": 2,
-    "explanation": "The correct answer is: Maharashtra Outsource Marketing"
+    "explanation": "The correct answer is: MKCL Olympiad Movement"
   },
   {
-    "id": 68,
-    "question": "Full form of EASY",
-    "options": [
-      "Employment and Self Employment",
-      "Employment and State Employment",
-      "Employment and Subsidy Employment",
-      "None"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Employment and Self Employment"
-  },
-  {
-    "id": 69,
+    "id": 67,
     "question": "What is the Full form of BOSCO",
     "options": [
       "Bombay Online Shopping Center",
@@ -108,7 +84,7 @@
     "explanation": "The correct answer is: BridgeCourse for Online System and Commerce"
   },
   {
-    "id": 70,
+    "id": 68,
     "question": "What is the minimum Requirement for Coordinator",
     "options": [
       "Graduate or Diploma",
@@ -120,7 +96,7 @@
     "explanation": "The correct answer is: Graduate or Diploma"
   },
   {
-    "id": 71,
+    "id": 69,
     "question": "What is the maximum Center Deposit Amount",
     "options": [
       "17500",
@@ -132,7 +108,7 @@
     "explanation": "The correct answer is: 17500"
   },
   {
-    "id": 72,
+    "id": 70,
     "question": "What is the Annual Renewal Fees",
     "options": [
       "5500",
@@ -144,19 +120,19 @@
     "explanation": "The correct answer is: 5500"
   },
   {
-    "id": 73,
-    "question": "Which software used for Seat Booking of center",
+    "id": 71,
+    "question": "Which Portal used for Registration of MSCIT Learner",
     "options": [
       "OES",
       "ERA",
       "SOLAR",
       "None"
     ],
-    "answer": 0,
+    "answer": 2,
     "explanation": "The correct answer is: OES"
   },
   {
-    "id": 74,
+    "id": 72,
     "question": "Which software used for check Installment Ledger",
     "options": [
       "OES",
@@ -168,7 +144,7 @@
     "explanation": "The correct answer is: SOLAR"
   },
   {
-    "id": 75,
+    "id": 73,
     "question": "Which software used for Learner Management",
     "options": [
       "OES",
@@ -180,7 +156,7 @@
     "explanation": "The correct answer is: SOLAR"
   },
   {
-    "id": 76,
+    "id": 74,
     "question": "Which is the Exam Portal",
     "options": [
       "OES",
@@ -192,7 +168,7 @@
     "explanation": "The correct answer is: OES"
   },
   {
-    "id": 77,
+    "id": 75,
     "question": "Which is the Learning Portal",
     "options": [
       "OES",
@@ -204,7 +180,7 @@
     "explanation": "The correct answer is: ERA"
   },
   {
-    "id": 78,
+    "id": 76,
     "question": "Which Portal is used for Payment",
     "options": [
       "OES",
@@ -216,7 +192,7 @@
     "explanation": "The correct answer is: SOLAR"
   },
   {
-    "id": 79,
+    "id": 77,
     "question": "What is the Maximum Seat Capacity for Center",
     "options": [
       "24",
@@ -228,7 +204,7 @@
     "explanation": "The correct answer is: 25"
   },
   {
-    "id": 80,
+    "id": 78,
     "question": "What is the Minimum Seat Capacity for Center",
     "options": [
       "8",
@@ -240,7 +216,7 @@
     "explanation": "The correct answer is: 10"
   },
   {
-    "id": 81,
+    "id": 79,
     "question": "What is the maximum Concurrent Users Allowed in Center",
     "options": [
       "25",
@@ -252,7 +228,7 @@
     "explanation": "The correct answer is: 25"
   },
   {
-    "id": 82,
+    "id": 80,
     "question": "What is the Minimum Room Size Required",
     "options": [
       "200 Sq Ft",
@@ -264,19 +240,7 @@
     "explanation": "The correct answer is: 200 Sq Ft"
   },
   {
-    "id": 83,
-    "question": "What is the Password for ERA Portal",
-    "options": [
-      "WORM",
-      "ERA",
-      "SOLAR",
-      "None"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: WORM"
-  },
-  {
-    "id": 84,
+    "id": 81,
     "question": "What is the Username for ERA Portal",
     "options": [
       "Learner ID",
@@ -288,7 +252,7 @@
     "explanation": "The correct answer is: Learner ID"
   },
   {
-    "id": 85,
+    "id": 82,
     "question": "What is the Password for SOLAR Portal",
     "options": [
       "Solar",
@@ -300,7 +264,7 @@
     "explanation": "The correct answer is: Solar"
   },
   {
-    "id": 86,
+    "id": 83,
     "question": "What is the Username for SOLAR Portal",
     "options": [
       "Center Code",
@@ -312,7 +276,7 @@
     "explanation": "The correct answer is: Center Code"
   },
   {
-    "id": 87,
+    "id": 84,
     "question": "What is the Helpline Number for ERA",
     "options": [
       "020-25899600",
@@ -324,7 +288,7 @@
     "explanation": "The correct answer is: 020-25899600"
   },
   {
-    "id": 88,
+    "id": 85,
     "question": "What is the Email ID for ERA Support",
     "options": [
       "erasupport@mkcl.org",
@@ -336,7 +300,7 @@
     "explanation": "The correct answer is: erasupport@mkcl.org"
   },
   {
-    "id": 89,
+    "id": 86,
     "question": "What is the Email ID for SOLAR Support",
     "options": [
       "solarsupport@mkcl.org",
@@ -348,7 +312,7 @@
     "explanation": "The correct answer is: solarsupport@mkcl.org"
   },
   {
-    "id": 90,
+    "id": 87,
     "question": "What is the Email ID for OES Support",
     "options": [
       "oessupport@mkcl.org",
@@ -358,5 +322,41 @@
     ],
     "answer": 0,
     "explanation": "The correct answer is: oessupport@mkcl.org"
+  },
+  {
+    "id": 88,
+    "question": "Which Software is used for Batch Management",
+    "options": [
+      "OES",
+      "ERA",
+      "SOLAR",
+      "None"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: SOLAR"
+  },
+  {
+    "id": 89,
+    "question": "Which Software is used for EOI",
+    "options": [
+      "OES",
+      "ERA",
+      "SOLAR",
+      "None"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: SOLAR"
+  },
+  {
+    "id": 90,
+    "question": "Which Software is used for Exam Schedule",
+    "options": [
+      "OES",
+      "ERA",
+      "SOLAR",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: OES"
   }
 ]

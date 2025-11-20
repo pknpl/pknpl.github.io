@@ -1,6 +1,18 @@
 [
   {
     "id": 31,
+    "question": "Who is the MD of MKCL",
+    "options": [
+      "Dr. Vijay Bhatkar",
+      "Ho. Vivek Sawant",
+      "Mr. Sameer Pande",
+      "Radius Master"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: Mr. Sameer Pande"
+  },
+  {
+    "id": 32,
     "question": "Fullform of RM",
     "options": [
       "Regional Manager",
@@ -12,7 +24,7 @@
     "explanation": "The correct answer is: Regional Manager"
   },
   {
-    "id": 32,
+    "id": 33,
     "question": "Fullform of RLC",
     "options": [
       "Regional Lead Center",
@@ -24,7 +36,7 @@
     "explanation": "The correct answer is: Regional Lead Center"
   },
   {
-    "id": 33,
+    "id": 34,
     "question": "Fullform of LLC",
     "options": [
       "Local Lead Center",
@@ -36,7 +48,7 @@
     "explanation": "The correct answer is: Local Lead Center"
   },
   {
-    "id": 34,
+    "id": 35,
     "question": "Fullform of ALC",
     "options": [
       "Authorised Learning Center",
@@ -48,7 +60,7 @@
     "explanation": "The correct answer is: Authorised Learning Center"
   },
   {
-    "id": 35,
+    "id": 36,
     "question": "Fullform of MI",
     "options": [
       "Marketing Interns",
@@ -60,7 +72,7 @@
     "explanation": "The correct answer is: Marketing Interns"
   },
   {
-    "id": 36,
+    "id": 37,
     "question": "Fullform of ERA",
     "options": [
       "eLearning Revolution for all",
@@ -70,18 +82,6 @@
     ],
     "answer": 0,
     "explanation": "The correct answer is: eLearning Revolution for all"
-  },
-  {
-    "id": 37,
-    "question": "Which MKCL portal is used to Freelance",
-    "options": [
-      "MOM",
-      "MS-CIT",
-      "EASY",
-      "MOM"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: MOM"
   },
   {
     "id": 38,
@@ -187,31 +187,19 @@
   },
   {
     "id": 47,
-    "question": "Total Fees of TPA Plan",
-    "options": [
-      "1588",
-      "527",
-      "238",
-      "None"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: 1588"
-  },
-  {
-    "id": 48,
-    "question": "Admission Fees of MFO Plan",
+    "question": "What is MKCL MSCIT MFO",
     "options": [
       "1238",
-      "350",
+      1765,
       "527",
       "None"
     ],
-    "answer": 0,
+    "answer": 1,
     "explanation": "The correct answer is: 1238"
   },
   {
-    "id": 49,
-    "question": "Registration Fees of MFO Plan",
+    "id": 48,
+    "question": "How much mfo amount goes to MSBTE",
     "options": [
       "527",
       "1238",
@@ -222,10 +210,10 @@
     "explanation": "The correct answer is: 527"
   },
   {
-    "id": 50,
-    "question": "Total Fees of MFO Plan",
+    "id": 49,
+    "question": "How much mfo amount goes to MKCL",
     "options": [
-      "1765",
+      1238,
       "527",
       "238",
       "None"
@@ -234,7 +222,7 @@
     "explanation": "The correct answer is: 1765"
   },
   {
-    "id": 51,
+    "id": 50,
     "question": "What is the Exam Fees of MFO Plan",
     "options": [
       "527",
@@ -246,7 +234,7 @@
     "explanation": "The correct answer is: 527"
   },
   {
-    "id": 52,
+    "id": 51,
     "question": "Number of Certificates given by MKCL",
     "options": [
       "1",
@@ -258,7 +246,7 @@
     "explanation": "The correct answer is: 2"
   },
   {
-    "id": 53,
+    "id": 52,
     "question": "Certificate Number 1 Name",
     "options": [
       "Provisional Certificate",
@@ -270,7 +258,7 @@
     "explanation": "The correct answer is: Provisional Certificate"
   },
   {
-    "id": 54,
+    "id": 53,
     "question": "Certificate Number 2 Name",
     "options": [
       "Provisional Certificate",
@@ -282,7 +270,7 @@
     "explanation": "The correct answer is: Final Certificate"
   },
   {
-    "id": 55,
+    "id": 54,
     "question": "Who issue MS-CIT Final Certifcate",
     "options": [
       "MKCL",
@@ -294,7 +282,7 @@
     "explanation": "The correct answer is: MKCL & MSBTE"
   },
   {
-    "id": 56,
+    "id": 55,
     "question": "Who issue Provisional Certificate",
     "options": [
       "MKCL",
@@ -306,7 +294,7 @@
     "explanation": "The correct answer is: MKCL"
   },
   {
-    "id": 57,
+    "id": 56,
     "question": "What is the Fees of Duplicate certificate issued",
     "options": [
       "500",
@@ -318,7 +306,7 @@
     "explanation": "The correct answer is: 300"
   },
   {
-    "id": 58,
+    "id": 57,
     "question": "What is the Batch Duration for MS-CIT",
     "options": [
       "2 Months",
@@ -330,7 +318,7 @@
     "explanation": "The correct answer is: 2 Months"
   },
   {
-    "id": 59,
+    "id": 58,
     "question": "In which Month MKCL celebrate their Foundation Day",
     "options": [
       "January",
@@ -342,7 +330,7 @@
     "explanation": "The correct answer is: August"
   },
   {
-    "id": 60,
+    "id": 59,
     "question": "What is the Date when MKCL was Founded",
     "options": [
       "15 Nov 2001",
@@ -352,5 +340,17 @@
     ],
     "answer": 1,
     "explanation": "The correct answer is: 14 Nov 2000"
+  },
+  {
+    "id": 60,
+    "question": "What is the CMD of MKCL full Name",
+    "options": [
+      "Mr. Sameer Pande",
+      "Mr. Vivek Sawant",
+      "Dr. Vijay Bhatkar",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Mr. Sameer Pande"
   }
 ]

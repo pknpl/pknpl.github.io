@@ -1,46 +1,10 @@
 [
   {
     "id": 91,
-    "question": "Which Software is used for Batch Management",
-    "options": [
-      "OES",
-      "ERA",
-      "SOLAR",
-      "None"
-    ],
-    "answer": 2,
-    "explanation": "The correct answer is: SOLAR"
-  },
-  {
-    "id": 92,
-    "question": "Which Software is used for EOI",
-    "options": [
-      "OES",
-      "ERA",
-      "SOLAR",
-      "None"
-    ],
-    "answer": 2,
-    "explanation": "The correct answer is: SOLAR"
-  },
-  {
-    "id": 93,
-    "question": "Which Software is used for Exam Schedule",
-    "options": [
-      "OES",
-      "ERA",
-      "SOLAR",
-      "None"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: OES"
-  },
-  {
-    "id": 94,
     "question": "Which Software is used for Attendance",
     "options": [
       "OES",
-      "ERA",
+      "BizClient",
       "SOLAR",
       "None"
     ],
@@ -48,7 +12,7 @@
     "explanation": "The correct answer is: ERA"
   },
   {
-    "id": 95,
+    "id": 92,
     "question": "Which is mandatory for learner confirmation",
     "options": [
       "Attendance",
@@ -60,7 +24,7 @@
     "explanation": "The correct answer is: Both"
   },
   {
-    "id": 96,
+    "id": 93,
     "question": "What is the minimum Attendance required",
     "options": [
       "75%",
@@ -72,7 +36,7 @@
     "explanation": "The correct answer is: 75%"
   },
   {
-    "id": 97,
+    "id": 94,
     "question": "What is the minimum passing marks",
     "options": [
       "20",
@@ -84,7 +48,7 @@
     "explanation": "The correct answer is: 20"
   },
   {
-    "id": 98,
+    "id": 95,
     "question": "What is the Total Marks of MS-CIT",
     "options": [
       "50",
@@ -96,7 +60,7 @@
     "explanation": "The correct answer is: 100"
   },
   {
-    "id": 99,
+    "id": 96,
     "question": "What is the Exam Duration for MS-CIT",
     "options": [
       "90 Minutes",
@@ -108,7 +72,7 @@
     "explanation": "The correct answer is: 60 Minutes"
   },
   {
-    "id": 100,
+    "id": 97,
     "question": "How many Questions in MS-CIT Exam",
     "options": [
       "50",
@@ -120,7 +84,7 @@
     "explanation": "The correct answer is: 50"
   },
   {
-    "id": 101,
+    "id": 98,
     "question": "Exam Conducted By",
     "options": [
       "MKCL",
@@ -132,7 +96,7 @@
     "explanation": "The correct answer is: MKCL"
   },
   {
-    "id": 102,
+    "id": 99,
     "question": "Maximum modes Avilable For Installments In MFO mode",
     "options": [
       "1",
@@ -144,7 +108,7 @@
     "explanation": "The correct answer is: 2"
   },
   {
-    "id": 103,
+    "id": 100,
     "question": "HKCL Stands for",
     "options": [
       "Haryana Knowledge Corporation LTD",
@@ -156,7 +120,7 @@
     "explanation": "The correct answer is: Haryana Knowledge Corporation LTD"
   },
   {
-    "id": 104,
+    "id": 101,
     "question": "RKCL Stands for",
     "options": [
       "Rajasthan Knowledge Corporation Ltd",
@@ -168,7 +132,7 @@
     "explanation": "The correct answer is: Rajasthan Knowledge Corporation Ltd"
   },
   {
-    "id": 105,
+    "id": 102,
     "question": "MKCL's Registered Office is Located in",
     "options": [
       "Mumbai",
@@ -180,7 +144,7 @@
     "explanation": "The correct answer is: Pune"
   },
   {
-    "id": 106,
+    "id": 103,
     "question": "Minimum Processor Required for MS-CIT Server Machine",
     "options": [
       "i5 1st Genartion",
@@ -192,7 +156,7 @@
     "explanation": "The correct answer is: i5 6th Genration"
   },
   {
-    "id": 107,
+    "id": 104,
     "question": "Minimum Processor Required for MS-CIT Client Machine",
     "options": [
       "i5 1st Genartion",
@@ -204,10 +168,10 @@
     "explanation": "The correct answer is: i5 6th Genration"
   },
   {
-    "id": 108,
+    "id": 105,
     "question": "Minimum RAM Required for MS-CIT Server Machine",
     "options": [
-      "16 GB",
+      "8 GB",
       "3 GB",
       "1 GB",
       "4 GB"
@@ -216,19 +180,19 @@
     "explanation": "The correct answer is: 16 GB"
   },
   {
-    "id": 109,
+    "id": 106,
     "question": "Minimum RAM Required for MS-CIT Client Machine",
     "options": [
       "1 GB",
       "3 GB",
       "2 GB",
-      "8 GB"
+      "4 GB"
     ],
     "answer": 3,
     "explanation": "The correct answer is: 8 GB"
   },
   {
-    "id": 110,
+    "id": 107,
     "question": "MI Stands for",
     "options": [
       "Manager Incharge",
@@ -240,7 +204,7 @@
     "explanation": "The correct answer is: Marketing Interns"
   },
   {
-    "id": 111,
+    "id": 108,
     "question": "KLiC Stands for",
     "options": [
       "Knowledge Lit Careers",
@@ -252,7 +216,7 @@
     "explanation": "The correct answer is: Knowledge Lit Careers"
   },
   {
-    "id": 112,
+    "id": 109,
     "question": "World Environment Day is Celebrated on",
     "options": [
       "1st June",
@@ -264,7 +228,7 @@
     "explanation": "The correct answer is: 5th June"
   },
   {
-    "id": 113,
+    "id": 110,
     "question": "Teacher's Day is Celebrated on",
     "options": [
       "5th September",
@@ -276,7 +240,7 @@
     "explanation": "The correct answer is: 5th September"
   },
   {
-    "id": 114,
+    "id": 111,
     "question": "Computer Literacy Day is Celebrated on",
     "options": [
       "2nd December",
@@ -288,7 +252,7 @@
     "explanation": "The correct answer is: 2nd December"
   },
   {
-    "id": 115,
+    "id": 112,
     "question": "Minimum Qualification Criteria for MS-CIT Admissions",
     "options": [
       "5th   Std.",
@@ -300,7 +264,7 @@
     "explanation": "The correct answer is: No Criteria"
   },
   {
-    "id": 116,
+    "id": 113,
     "question": "What Is The Fees Of MS-CIT Re-Examination",
     "options": [
       "Rs. 527",
@@ -312,7 +276,7 @@
     "explanation": "The correct answer is: Rs. 527"
   },
   {
-    "id": 117,
+    "id": 114,
     "question": "MFO for MS-CIT is",
     "options": [
       "Rs. 1765",
@@ -324,7 +288,7 @@
     "explanation": "The correct answer is: Rs. 1765"
   },
   {
-    "id": 118,
+    "id": 115,
     "question": "MFO Stands for",
     "options": [
       "MKCL Fee Only",
@@ -336,7 +300,7 @@
     "explanation": "The correct answer is: MKCL Fee Only"
   },
   {
-    "id": 119,
+    "id": 116,
     "question": "Which is the correct web site for New Center Registration",
     "options": [
       "www.mkcl.org/register",
@@ -348,7 +312,7 @@
     "explanation": "The correct answer is: www.mkcl.org/register"
   },
   {
-    "id": 120,
+    "id": 117,
     "question": "What is the maximum image size allowed in NCR Process",
     "options": [
       "200 KB",
@@ -358,5 +322,41 @@
     ],
     "answer": 0,
     "explanation": "The correct answer is: 200 KB"
+  },
+  {
+    "id": 118,
+    "question": "To maintain educational environment, what is the minimum Area Requerment",
+    "options": [
+      "200 Sq.ft",
+      "400 Sq.ft",
+      "300 Sq.ft",
+      "500 Sq.ft"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: 200 Sq.ft"
+  },
+  {
+    "id": 119,
+    "question": "What is the Minimum Qualification Required for Coordinator",
+    "options": [
+      "12 th",
+      "Under graduate",
+      "Graduate or Deploma Cmplited",
+      "Not Mentioned"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: Graduate or Deploma Cmplited"
+  },
+  {
+    "id": 120,
+    "question": "by which site you get information about KLiC Course",
+    "options": [
+      "https://klic.mkcl.in",
+      "https://klic.mkcl.com",
+      "https://klic.mkcl.org/",
+      "all of the above"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: https://klic.mkcl.org/"
   }
 ]

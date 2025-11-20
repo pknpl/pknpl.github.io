@@ -1,42 +1,6 @@
 [
   {
     "id": 241,
-    "question": "Can a center use a 'DG Set' for power backup?",
-    "options": [
-      "No",
-      "Yes, it is optional",
-      "Yes, it is mandatory",
-      "Only for the server"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Yes, it is optional. UPS/Inverter is compulsory."
-  },
-  {
-    "id": 242,
-    "question": "What is the minimum number of USB ports required on the Server?",
-    "options": [
-      "2",
-      "3",
-      "4",
-      "6"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: 3."
-  },
-  {
-    "id": 243,
-    "question": "Does the Center Coordinator need to clear the ONCET exam?",
-    "options": [
-      "No, only faculty needs to",
-      "Yes, mandatory",
-      "Optional",
-      "Only if they teach"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Yes, mandatory."
-  },
-  {
-    "id": 244,
     "question": "What is the total time duration for the CCTP typing test?",
     "options": [
       "5 Minutes",
@@ -48,7 +12,7 @@
     "explanation": "The correct answer is: 10 Minutes."
   },
   {
-    "id": 245,
+    "id": 242,
     "question": "Which browser is part of the MS-CIT Practical Exam syllabus?",
     "options": [
       "Mozilla Firefox",
@@ -60,7 +24,7 @@
     "explanation": "The correct answer is: Google Chrome / Microsoft Edge."
   },
   {
-    "id": 246,
+    "id": 243,
     "question": "What is the difficulty level distribution in the MS-CIT Final Exam?",
     "options": [
       "All questions are same level",
@@ -72,7 +36,7 @@
     "explanation": "The correct answer is: Level 1 (Low), Level 2 (Medium), Level 3 (High)."
   },
   {
-    "id": 247,
+    "id": 244,
     "question": "How many Practical questions are there in the MS-CIT Final Exam?",
     "options": [
       "15",
@@ -84,7 +48,7 @@
     "explanation": "The correct answer is: 35 Practical Questions."
   },
   {
-    "id": 248,
+    "id": 245,
     "question": "How many Objective questions are there in the MS-CIT Final Exam?",
     "options": [
       "15",
@@ -96,7 +60,7 @@
     "explanation": "The correct answer is: 15 Objective Questions."
   },
   {
-    "id": 249,
+    "id": 246,
     "question": "Is there negative marking in the ONCET exam?",
     "options": [
       "Yes, 0.25 per wrong answer",
@@ -108,7 +72,7 @@
     "explanation": "The correct answer is: No negative marking."
   },
   {
-    "id": 250,
+    "id": 247,
     "question": "What happens if a Learning Facilitator fails the ONCET exam?",
     "options": [
       "They can re-appear immediately",
@@ -120,7 +84,7 @@
     "explanation": "The correct answer is: The AO may be disqualified if no other LF passes. At least one LF must clear it."
   },
   {
-    "id": 251,
+    "id": 248,
     "question": "Is 'Asset Insurance' compulsory for the center?",
     "options": [
       "Yes",
@@ -132,7 +96,7 @@
     "explanation": "The correct answer is: No, Optional."
   },
   {
-    "id": 252,
+    "id": 249,
     "question": "What is the required Cooling Arrangement for the Computer Lab?",
     "options": [
       "AC is mandatory",
@@ -144,7 +108,7 @@
     "explanation": "The correct answer is: Proper ventilation (Fan/Cooler). AC is optional."
   },
   {
-    "id": 253,
+    "id": 250,
     "question": "Which AI tool is NOT explicitly mentioned in the new MS-CIT syllabus list?",
     "options": [
       "ChatGPT",
@@ -156,7 +120,7 @@
     "explanation": "The correct answer is: Sora. (Based on current syllabus lists which mention ChatGPT, DALL-E, Gemini, etc. Sora is not yet standard)."
   },
   {
-    "id": 254,
+    "id": 251,
     "question": "What is the correct URL to find the 'Center Setup' details?",
     "options": [
       "mscit.mkcl.org/course-details/center-setup",
@@ -168,7 +132,7 @@
     "explanation": "The correct answer is: mscit.mkcl.org/course-details/center-setup."
   },
   {
-    "id": 255,
+    "id": 252,
     "question": "Can a center use a 'Projector' instead of an 'LCD/LED TV' in the Lecture Room?",
     "options": [
       "Yes, either is allowed",
@@ -180,7 +144,7 @@
     "explanation": "The correct answer is: Yes, either Projector & screen or LCD / LED TV is allowed."
   },
   {
-    "id": 256,
+    "id": 253,
     "question": "What is the minimum Internet connection type recommended?",
     "options": [
       "Dial-up",
@@ -192,7 +156,7 @@
     "explanation": "The correct answer is: Broadband (Wired/Wireless)."
   },
   {
-    "id": 257,
+    "id": 254,
     "question": "How many installments are allowed for student fee payment (standard mode)?",
     "options": [
       "Only 1",
@@ -204,7 +168,7 @@
     "explanation": "The correct answer is: Maximum 2 installments."
   },
   {
-    "id": 258,
+    "id": 255,
     "question": "What is the role of the 'LLC' in the registration process?",
     "options": [
       "Local Lead Center - recommends location",
@@ -216,7 +180,7 @@
     "explanation": "The correct answer is: Local Lead Center - recommends location."
   },
   {
-    "id": 259,
+    "id": 256,
     "question": "What is the role of the 'TP' in the registration process?",
     "options": [
       "Training Provider - recommends location",
@@ -228,7 +192,7 @@
     "explanation": "The correct answer is: Training Provider - recommends location."
   },
   {
-    "id": 260,
+    "id": 257,
     "question": "When does the AO receive the SOLAR Login ID?",
     "options": [
       "Before applying",
@@ -240,7 +204,7 @@
     "explanation": "The correct answer is: After clicking the activation link in email."
   },
   {
-    "id": 261,
+    "id": 258,
     "question": "Is a 'Fire Extinguisher' mandatory for the center?",
     "options": [
       "Yes",
@@ -252,7 +216,7 @@
     "explanation": "The correct answer is: No, Optional."
   },
   {
-    "id": 262,
+    "id": 259,
     "question": "Can the AO use pirated software for MS-CIT?",
     "options": [
       "Yes",
@@ -264,7 +228,7 @@
     "explanation": "The correct answer is: No, licenses are provided/required. MKCL provides OS and Office licenses."
   },
   {
-    "id": 263,
+    "id": 260,
     "question": "How many Windows 10 licenses does MKCL provide for a standard center?",
     "options": [
       "5",
@@ -276,7 +240,7 @@
     "explanation": "The correct answer is: 11 (1 Server + 10 Clients)."
   },
   {
-    "id": 264,
+    "id": 261,
     "question": "How many MS Office 2019 licenses does MKCL provide?",
     "options": [
       "1",
@@ -288,7 +252,7 @@
     "explanation": "The correct answer is: 11."
   },
   {
-    "id": 265,
+    "id": 262,
     "question": "What is the minimum resolution for the Web Camera?",
     "options": [
       "VGA",
@@ -300,7 +264,7 @@
     "explanation": "The correct answer is: Not specified, but required (integrated or external)."
   },
   {
-    "id": 266,
+    "id": 263,
     "question": "What is the purpose of the 'Enquiry Register'?",
     "options": [
       "To record student attendance",
@@ -312,7 +276,7 @@
     "explanation": "The correct answer is: To record details of visitors/enquiries."
   },
   {
-    "id": 267,
+    "id": 264,
     "question": "Is 'Suggestion Box' compulsory?",
     "options": [
       "Yes",
@@ -324,7 +288,7 @@
     "explanation": "The correct answer is: Yes, it is a compulsory Miscellaneous facility."
   },
   {
-    "id": 268,
+    "id": 265,
     "question": "What is the 'Orientation Meeting'?",
     "options": [
       "Meeting for students",
@@ -336,7 +300,7 @@
     "explanation": "The correct answer is: Meeting for new AOs to understand the process."
   },
   {
-    "id": 269,
+    "id": 266,
     "question": "Who must attend the Orientation Meeting?",
     "options": [
       "All staff",
@@ -348,7 +312,7 @@
     "explanation": "The correct answer is: Only one person from AO."
   },
   {
-    "id": 270,
+    "id": 267,
     "question": "Can the AO change the center location after approval?",
     "options": [
       "Yes, anytime",
@@ -358,5 +322,41 @@
     ],
     "answer": 1,
     "explanation": "The correct answer is: No, generally not allowed (except exceptional cases after 2 years)."
+  },
+  {
+    "id": 268,
+    "question": "What is the minimum admission criteria for Urban/Semi-Urban centers?",
+    "options": [
+      "50 admissions",
+      "100 admissions",
+      "120 admissions",
+      "200 admissions"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: 120 MS-CIT Admissions."
+  },
+  {
+    "id": 269,
+    "question": "What is the minimum admission criteria for Rural centers?",
+    "options": [
+      "30 admissions",
+      "60 admissions",
+      "100 admissions",
+      "120 admissions"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: 60 MS-CIT Admissions."
+  },
+  {
+    "id": 270,
+    "question": "What constitutes 'Basic IT Awareness' in the exam pattern?",
+    "options": [
+      "Practical questions",
+      "Objective questions",
+      "Typing test",
+      "Coding test"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Objective questions."
   }
 ]
