@@ -1,6 +1,204 @@
 [
   {
-    "id": 51,
+    "id": 31,
+    "question": "Fullform of RM",
+    "options": [
+      "Regional Manager",
+      "Record Manager",
+      "Record Lead Center",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Regional Manager"
+  },
+  {
+    "id": 32,
+    "question": "Fullform of RLC",
+    "options": [
+      "Regional Lead Center",
+      "Regions Lead Center",
+      "Reason Lead Center",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Regional Lead Center"
+  },
+  {
+    "id": 33,
+    "question": "Fullform of LLC",
+    "options": [
+      "Local Lead Center",
+      "Logical Lead Center",
+      "Lead Local Center",
+      "Latur Lead Center"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Local Lead Center"
+  },
+  {
+    "id": 34,
+    "question": "Fullform of ALC",
+    "options": [
+      "Authorised Learning Center",
+      "American Leader Corporation",
+      "Authorised Lead Center",
+      "Advanced Learning Center"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Authorised Learning Center"
+  },
+  {
+    "id": 35,
+    "question": "Fullform of MI",
+    "options": [
+      "Marketing Interns",
+      "Marketing Inter Wave",
+      "MKCL Internet",
+      "Maharashtra Interns"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Marketing Interns"
+  },
+  {
+    "id": 36,
+    "question": "Fullform of ERA",
+    "options": [
+      "eLearning Revolution for all",
+      "Revolution E Age",
+      "E Age of Regulation",
+      "E Revolution for I"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: eLearning Revolution for all"
+  },
+  {
+    "id": 37,
+    "question": "Which MKCL portal is used to Freelance",
+    "options": [
+      "MOM",
+      "MS-CIT",
+      "EASY",
+      "MOM"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: MOM"
+  },
+  {
+    "id": 38,
+    "question": "What is the Financial Year of MKCL",
+    "options": [
+      "Jan - Dec",
+      "Mar-Apr",
+      "Jan -Jun",
+      "April-March"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Jan - Dec"
+  },
+  {
+    "id": 39,
+    "question": "What is the Renewal Fees of MKCL ALC",
+    "options": [
+      "4500",
+      "5500",
+      "2500",
+      "17500"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: 5500"
+  },
+  {
+    "id": 40,
+    "question": "What is the amount Of Study Material Deposit",
+    "options": [
+      "0",
+      "8000",
+      "17500",
+      "12500"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: 0"
+  },
+  {
+    "id": 41,
+    "question": "Solar App is used for status of Rejected Learners",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: TRUE"
+  },
+  {
+    "id": 42,
+    "question": "Solar App is used for status of Payment Balance",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: TRUE"
+  },
+  {
+    "id": 43,
+    "question": "Solar Application is used to Analysis My Bussiness",
+    "options": [
+      "TRUE",
+      "FALSE"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: TRUE"
+  },
+  {
+    "id": 44,
+    "question": "What is the maximum Installments are allowed in Center Fees",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: 2"
+  },
+  {
+    "id": 45,
+    "question": "What is the amount of Admission Registration (Fee)",
+    "options": [
+      "1238",
+      "527",
+      "238",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: 1238"
+  },
+  {
+    "id": 46,
+    "question": "What is the minimum Learning Hours for MS-CIT learner",
+    "options": [
+      "144",
+      "150",
+      "172",
+      "200"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: 144"
+  },
+  {
+    "id": 47,
+    "question": "Total Fees of TPA Plan",
+    "options": [
+      "1588",
+      "527",
+      "238",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: 1588"
+  },
+  {
+    "id": 48,
     "question": "Admission Fees of MFO Plan",
     "options": [
       "1238",
@@ -12,7 +210,7 @@
     "explanation": "The correct answer is: 1238"
   },
   {
-    "id": 52,
+    "id": 49,
     "question": "Registration Fees of MFO Plan",
     "options": [
       "527",
@@ -24,7 +222,7 @@
     "explanation": "The correct answer is: 527"
   },
   {
-    "id": 53,
+    "id": 50,
     "question": "Total Fees of MFO Plan",
     "options": [
       "1765",
@@ -36,67 +234,7 @@
     "explanation": "The correct answer is: 1765"
   },
   {
-    "id": 54,
-    "question": "Admission Fees of CCE Plan",
-    "options": [
-      "1238",
-      "0",
-      "527",
-      "None"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: 1238"
-  },
-  {
-    "id": 55,
-    "question": "Registration Fees of CCE Plan",
-    "options": [
-      "527",
-      "350",
-      "0",
-      "None"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: 527"
-  },
-  {
-    "id": 56,
-    "question": "Total Fees of CCE Plan",
-    "options": [
-      "1765",
-      "527",
-      "238",
-      "None"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: 1765"
-  },
-  {
-    "id": 57,
-    "question": "What is CCE Plan",
-    "options": [
-      "Computer Cum Exam",
-      "Computer Connection Exam",
-      "Computer Center Exam",
-      "None"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Computer Cum Exam"
-  },
-  {
-    "id": 58,
-    "question": "What is Full form of TPA in TPA Plan",
-    "options": [
-      "Time Payment Amount",
-      "Term Payment Amount",
-      "Total Payment Amount",
-      "None"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Term Payment Amount"
-  },
-  {
-    "id": 59,
+    "id": 51,
     "question": "What is the Exam Fees of MFO Plan",
     "options": [
       "527",
@@ -108,91 +246,7 @@
     "explanation": "The correct answer is: 527"
   },
   {
-    "id": 60,
-    "question": "What is the Exam Fees of CCE Plan",
-    "options": [
-      "527",
-      "0",
-      "238",
-      "None"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: 0"
-  },
-  {
-    "id": 61,
-    "question": "What is the full form of TCC",
-    "options": [
-      "Time Connected Center",
-      "Time Connected Card",
-      "Term Connection Card",
-      "None"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Time Connected Card"
-  },
-  {
-    "id": 62,
-    "question": "What is the Full form of ECC",
-    "options": [
-      "Exam Connection Card",
-      "Exam Conducted Center",
-      "Exam Connected Card",
-      "None"
-    ],
-    "answer": 2,
-    "explanation": "The correct answer is: Exam Connected Card"
-  },
-  {
-    "id": 63,
-    "question": "TCC card issued by",
-    "options": [
-      "MKCL",
-      "YCMOU",
-      "MSBTE",
-      "None"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: MKCL"
-  },
-  {
-    "id": 64,
-    "question": "ECC card issued by",
-    "options": [
-      "MKCL",
-      "YCMOU",
-      "MSBTE",
-      "None"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: YCMOU"
-  },
-  {
-    "id": 65,
-    "question": "What is the Validity of TCC Card",
-    "options": [
-      "1 Year",
-      "2 Year",
-      "3 Year",
-      "None"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: 1 Year"
-  },
-  {
-    "id": 66,
-    "question": "What is the Validity of ECC Card",
-    "options": [
-      "1 Year",
-      "2 Year",
-      "5 Year",
-      "None"
-    ],
-    "answer": 2,
-    "explanation": "The correct answer is: 5 Year"
-  },
-  {
-    "id": 67,
+    "id": 52,
     "question": "Number of Certificates given by MKCL",
     "options": [
       "1",
@@ -204,7 +258,7 @@
     "explanation": "The correct answer is: 2"
   },
   {
-    "id": 68,
+    "id": 53,
     "question": "Certificate Number 1 Name",
     "options": [
       "Provisional Certificate",
@@ -216,7 +270,7 @@
     "explanation": "The correct answer is: Provisional Certificate"
   },
   {
-    "id": 69,
+    "id": 54,
     "question": "Certificate Number 2 Name",
     "options": [
       "Provisional Certificate",
@@ -228,19 +282,19 @@
     "explanation": "The correct answer is: Final Certificate"
   },
   {
-    "id": 70,
-    "question": "Who issue Final Certifcate",
+    "id": 55,
+    "question": "Who issue MS-CIT Final Certifcate",
     "options": [
       "MKCL",
       "YCMOU",
-      "MSBTE",
+      "MKCL & MSBTE",
       "None"
     ],
-    "answer": 1,
-    "explanation": "The correct answer is: YCMOU"
+    "answer": 2,
+    "explanation": "The correct answer is: MKCL & MSBTE"
   },
   {
-    "id": 71,
+    "id": 56,
     "question": "Who issue Provisional Certificate",
     "options": [
       "MKCL",
@@ -252,7 +306,7 @@
     "explanation": "The correct answer is: MKCL"
   },
   {
-    "id": 72,
+    "id": 57,
     "question": "What is the Fees of Duplicate certificate issued",
     "options": [
       "500",
@@ -260,11 +314,11 @@
       "300",
       "None"
     ],
-    "answer": 1,
-    "explanation": "The correct answer is: 250"
+    "answer": 2,
+    "explanation": "The correct answer is: 300"
   },
   {
-    "id": 73,
+    "id": 58,
     "question": "What is the Batch Duration for MS-CIT",
     "options": [
       "2 Months",
@@ -276,19 +330,19 @@
     "explanation": "The correct answer is: 2 Months"
   },
   {
-    "id": 74,
+    "id": 59,
     "question": "In which Month MKCL celebrate their Foundation Day",
     "options": [
       "January",
       "March",
-      "August",
-      "November"
+      "November",
+      "August"
     ],
     "answer": 3,
-    "explanation": "The correct answer is: November"
+    "explanation": "The correct answer is: August"
   },
   {
-    "id": 75,
+    "id": 60,
     "question": "What is the Date when MKCL was Founded",
     "options": [
       "15 Nov 2001",
@@ -298,305 +352,5 @@
     ],
     "answer": 1,
     "explanation": "The correct answer is: 14 Nov 2000"
-  },
-  {
-    "id": 76,
-    "question": "What is the CMD of MKCL full Name",
-    "options": [
-      "Mr. Sameer Pande",
-      "Mr. Vivek Sawant",
-      "Dr. Vijay Bhatkar",
-      "None"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Mr. Sameer Pande"
-  },
-  {
-    "id": 77,
-    "question": "Where is MKCL Head Office",
-    "options": [
-      "Mumbai",
-      "Pune",
-      "Nashik",
-      "None"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Pune"
-  },
-  {
-    "id": 78,
-    "question": "What does MKCL stands for?",
-    "options": [
-      "Maharashtra Knowledge Corporation Limited",
-      "Maharashtra Knowledge Center Limited",
-      "Maharashtra Kerala Corporation Limited",
-      "None"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Maharashtra Knowledge Corporation Limited"
-  },
-  {
-    "id": 79,
-    "question": "Which is not the Product of MKCL",
-    "options": [
-      "MS-CIT",
-      "EASY",
-      "KLIC",
-      "TALLY"
-    ],
-    "answer": 3,
-    "explanation": "The correct answer is: TALLY"
-  },
-  {
-    "id": 80,
-    "question": "What is the old name of MS-CIT",
-    "options": [
-      "EASY",
-      "CIT",
-      "ERA",
-      "None"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: CIT"
-  },
-  {
-    "id": 81,
-    "question": "How many courses included in KLIC",
-    "options": [
-      "256",
-      "200",
-      "300",
-      "None"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: 256"
-  },
-  {
-    "id": 82,
-    "question": "Full form of MOM",
-    "options": [
-      "Maharashtra Online Marketing",
-      "MKCL Online Marketing",
-      "Maharashtra Outsource Marketing",
-      "None"
-    ],
-    "answer": 2,
-    "explanation": "The correct answer is: Maharashtra Outsource Marketing"
-  },
-  {
-    "id": 83,
-    "question": "Full form of EASY",
-    "options": [
-      "Employment and Self Employment",
-      "Employment and State Employment",
-      "Employment and Subsidy Employment",
-      "None"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Employment and Self Employment"
-  },
-  {
-    "id": 84,
-    "question": "What is the Full form of BOSCO",
-    "options": [
-      "Bombay Online Shopping Center",
-      "BridgeCourse Online Shopping Corporation",
-      "BridgeCourse for Online System and Commerce",
-      "None"
-    ],
-    "answer": 2,
-    "explanation": "The correct answer is: BridgeCourse for Online System and Commerce"
-  },
-  {
-    "id": 85,
-    "question": "What is the minimum Requirement for Coordinator",
-    "options": [
-      "Graduate or Diploma",
-      "Post Graduate",
-      "12th Pass",
-      "None"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Graduate or Diploma"
-  },
-  {
-    "id": 86,
-    "question": "What is the maximum Center Deposit Amount",
-    "options": [
-      "17500",
-      "5500",
-      "8000",
-      "None"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: 17500"
-  },
-  {
-    "id": 87,
-    "question": "What is the Annual Renewal Fees",
-    "options": [
-      "5500",
-      "2500",
-      "4500",
-      "None"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: 5500"
-  },
-  {
-    "id": 88,
-    "question": "Which software used for Seat Booking of center",
-    "options": [
-      "OES",
-      "ERA",
-      "SOLAR",
-      "None"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: OES"
-  },
-  {
-    "id": 89,
-    "question": "Which software used for check Installment Ledger",
-    "options": [
-      "OES",
-      "ERA",
-      "SOLAR",
-      "None"
-    ],
-    "answer": 2,
-    "explanation": "The correct answer is: SOLAR"
-  },
-  {
-    "id": 90,
-    "question": "Which software used for Learner Management",
-    "options": [
-      "OES",
-      "ERA",
-      "SOLAR",
-      "None"
-    ],
-    "answer": 2,
-    "explanation": "The correct answer is: SOLAR"
-  },
-  {
-    "id": 91,
-    "question": "Which is the Exam Portal",
-    "options": [
-      "OES",
-      "ERA",
-      "SOLAR",
-      "None"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: OES"
-  },
-  {
-    "id": 92,
-    "question": "Which is the Learning Portal",
-    "options": [
-      "OES",
-      "ERA",
-      "SOLAR",
-      "None"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: ERA"
-  },
-  {
-    "id": 93,
-    "question": "Which Portal is used for Payment",
-    "options": [
-      "OES",
-      "ERA",
-      "SOLAR",
-      "None"
-    ],
-    "answer": 2,
-    "explanation": "The correct answer is: SOLAR"
-  },
-  {
-    "id": 94,
-    "question": "What is the Maximum Seat Capacity for Center",
-    "options": [
-      "24",
-      "25",
-      "30",
-      "None"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: 25"
-  },
-  {
-    "id": 95,
-    "question": "What is the Minimum Seat Capacity for Center",
-    "options": [
-      "8",
-      "6",
-      "10",
-      "None"
-    ],
-    "answer": 2,
-    "explanation": "The correct answer is: 10"
-  },
-  {
-    "id": 96,
-    "question": "What is the maximum Concurrent Users Allowed in Center",
-    "options": [
-      "25",
-      "15",
-      "20",
-      "None"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: 25"
-  },
-  {
-    "id": 97,
-    "question": "What is the Minimum Room Size Required",
-    "options": [
-      "200 Sq Ft",
-      "300 Sq Ft",
-      "400 Sq Ft",
-      "None"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: 200 Sq Ft"
-  },
-  {
-    "id": 98,
-    "question": "What is the Password for ERA Portal",
-    "options": [
-      "WORM",
-      "ERA",
-      "SOLAR",
-      "None"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: WORM"
-  },
-  {
-    "id": 99,
-    "question": "What is the Username for ERA Portal",
-    "options": [
-      "Learner ID",
-      "Batch ID",
-      "Center Code",
-      "None"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Learner ID"
-  },
-  {
-    "id": 100,
-    "question": "What is the Password for SOLAR Portal",
-    "options": [
-      "Solar",
-      "Password",
-      "Center Code",
-      "None"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Solar"
   }
 ]

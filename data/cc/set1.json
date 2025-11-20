@@ -25,7 +25,7 @@
   },
   {
     "id": 3,
-    "question": "Long form of ERA is",
+    "question": "Fullform of ERA is",
     "options": [
       "eLearning Revolution for all",
       "E-LEARNER",
@@ -189,15 +189,15 @@
   },
   {
     "id": 17,
-    "question": "MS-CIT Fees in the three mode",
+    "question": "MS-CIT Fees in the two installment mode",
     "options": [
-      "3700",
+      3100,
       "3500",
       "3600",
       "None"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: 3700"
+    "explanation": "The correct answer is: 3100"
   },
   {
     "id": 18,
@@ -323,25 +323,25 @@
     "id": 28,
     "question": "Batch duration for the MS-CIT Learners",
     "options": [
-      "2,3,4,5,6",
-      "2. 10 months",
-      "3",
+      "2,3,4,5,6 months",
+      "2 months",
+      "3 months",
       "None"
     ],
     "answer": 1,
-    "explanation": "The correct answer is: 2. 10 months"
+    "explanation": "The correct answer is: 2months"
   },
   {
     "id": 29,
     "question": "MS-CIT Exam Authority",
     "options": [
-      "EASY",
       "MSBTE",
+      "Easy",
       "MKCL",
       "YCMOU"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: EASY"
+    "explanation": "The correct answer is: MSBTE"
   },
   {
     "id": 30,
@@ -354,239 +354,5 @@
     ],
     "answer": 2,
     "explanation": "The correct answer is: Mr. Sameer Pande"
-  },
-  {
-    "id": 31,
-    "question": "Longform of RM",
-    "options": [
-      "Regional Manager",
-      "Record Manager",
-      "Record Lead Center",
-      "None"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Regional Manager"
-  },
-  {
-    "id": 32,
-    "question": "Longform of RLC",
-    "options": [
-      "Regional Lead Center",
-      "Regional Lead Center",
-      "Reason Lead Center",
-      "None"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Regional Lead Center"
-  },
-  {
-    "id": 33,
-    "question": "Longform of LLC",
-    "options": [
-      "Local Lead Center",
-      "Logical Lead Center",
-      "Lead Local Center",
-      "Latur Lead Center"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Local Lead Center"
-  },
-  {
-    "id": 34,
-    "question": "Longform of ALC",
-    "options": [
-      "Authorised Learning Center",
-      "American Leader Corporation",
-      "Authorised Lead Center",
-      "Advanced Learning Center"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Authorised Learning Center"
-  },
-  {
-    "id": 35,
-    "question": "Longform of MI",
-    "options": [
-      "Marketing Interns",
-      "Marketing Inter Wave",
-      "MKCL Internet",
-      "Maharashtra Interns"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Marketing Interns"
-  },
-  {
-    "id": 36,
-    "question": "Longform of ERA",
-    "options": [
-      "eLearning Revolution for all",
-      "Revolution E Age",
-      "E Age of Regulation",
-      "E Revolution for I"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: eLearning Revolution for all"
-  },
-  {
-    "id": 37,
-    "question": "Which MKCL portal is used to Freelance",
-    "options": [
-      "MOM",
-      "MS-CIT",
-      "EASY",
-      "MOM"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: MOM"
-  },
-  {
-    "id": 38,
-    "question": "What is the Financial Year of MKCL",
-    "options": [
-      "Jan - Dec",
-      "Mar-Apr",
-      "Jan -Jun",
-      "April-March"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Jan - Dec"
-  },
-  {
-    "id": 39,
-    "question": "What is the Renewal Fees of MKCL ALC",
-    "options": [
-      "4500",
-      "5500",
-      "2500",
-      "17500"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: 5500"
-  },
-  {
-    "id": 40,
-    "question": "What is the amount Of Study Material Deposit",
-    "options": [
-      "0",
-      "8000",
-      "17500",
-      "12500"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: 0"
-  },
-  {
-    "id": 41,
-    "question": "Solar App is used for status of Rejected Learners",
-    "options": [
-      "TRUE",
-      "FALSE"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: TRUE"
-  },
-  {
-    "id": 42,
-    "question": "Solar App is used for status of Payment Balance",
-    "options": [
-      "TRUE",
-      "FALSE"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: TRUE"
-  },
-  {
-    "id": 43,
-    "question": "Solar Application is used to Analysis My Bussiness",
-    "options": [
-      "TRUE",
-      "FALSE"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: TRUE"
-  },
-  {
-    "id": 44,
-    "question": "What is the maximum Installments are allowed in Center Fees",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: 2"
-  },
-  {
-    "id": 45,
-    "question": "What is the amount of Admission and Registration",
-    "options": [
-      "1238",
-      "527",
-      "238",
-      "None"
-    ],
-    "answer": 2,
-    "explanation": "The correct answer is: 238"
-  },
-  {
-    "id": 46,
-    "question": "What is the minimum Learning Hours for MS-CIT learner",
-    "options": [
-      "144",
-      "150",
-      "172",
-      "200"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: 144"
-  },
-  {
-    "id": 47,
-    "question": "What is the Full form of TPA",
-    "options": [
-      "Term Payment Amount",
-      "Technical Product Amount",
-      "Time Payment Amount",
-      "None"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Term Payment Amount"
-  },
-  {
-    "id": 48,
-    "question": "Admission Fees of TPA Plan",
-    "options": [
-      "1238",
-      "350",
-      "238",
-      "None"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: 1238"
-  },
-  {
-    "id": 49,
-    "question": "Registration Fees of TPA Plan",
-    "options": [
-      "527",
-      "1238",
-      "238",
-      "350"
-    ],
-    "answer": 3,
-    "explanation": "The correct answer is: 350"
-  },
-  {
-    "id": 50,
-    "question": "Total Fees of TPA Plan",
-    "options": [
-      "1588",
-      "527",
-      "238",
-      "None"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: 1588"
   }
 ]

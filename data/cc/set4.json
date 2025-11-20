@@ -1,14 +1,362 @@
 [
   {
-    "id": 101,
-    "question": "pknpl",
+    "id": 91,
+    "question": "Which Software is used for Batch Management",
     "options": [
-      "Center Code",
-      "Batch ID",
-      "Email ID",
+      "OES",
+      "ERA",
+      "SOLAR",
+      "None"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: SOLAR"
+  },
+  {
+    "id": 92,
+    "question": "Which Software is used for EOI",
+    "options": [
+      "OES",
+      "ERA",
+      "SOLAR",
+      "None"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: SOLAR"
+  },
+  {
+    "id": 93,
+    "question": "Which Software is used for Exam Schedule",
+    "options": [
+      "OES",
+      "ERA",
+      "SOLAR",
       "None"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: Center Code"
+    "explanation": "The correct answer is: OES"
+  },
+  {
+    "id": 94,
+    "question": "Which Software is used for Attendance",
+    "options": [
+      "OES",
+      "ERA",
+      "SOLAR",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: ERA"
+  },
+  {
+    "id": 95,
+    "question": "Which is mandatory for learner confirmation",
+    "options": [
+      "Attendance",
+      "Payment",
+      "Both",
+      "None"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: Both"
+  },
+  {
+    "id": 96,
+    "question": "What is the minimum Attendance required",
+    "options": [
+      "75%",
+      "80%",
+      "85%",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: 75%"
+  },
+  {
+    "id": 97,
+    "question": "What is the minimum passing marks",
+    "options": [
+      "20",
+      "30",
+      "40",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: 20"
+  },
+  {
+    "id": 98,
+    "question": "What is the Total Marks of MS-CIT",
+    "options": [
+      "50",
+      "100",
+      "150",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: 100"
+  },
+  {
+    "id": 99,
+    "question": "What is the Exam Duration for MS-CIT",
+    "options": [
+      "90 Minutes",
+      "120 Minutes",
+      "60 Minutes",
+      "None"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: 60 Minutes"
+  },
+  {
+    "id": 100,
+    "question": "How many Questions in MS-CIT Exam",
+    "options": [
+      "50",
+      "75",
+      "100",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: 50"
+  },
+  {
+    "id": 101,
+    "question": "Exam Conducted By",
+    "options": [
+      "MKCL",
+      "YCMOU",
+      "MSBTE",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: MKCL"
+  },
+  {
+    "id": 102,
+    "question": "Maximum modes Avilable For Installments In MFO mode",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: 2"
+  },
+  {
+    "id": 103,
+    "question": "HKCL Stands for",
+    "options": [
+      "Haryana Knowledge Corporation LTD",
+      "Himachal Pradesh Knowledge Corporation Ltd",
+      "Hyderabad Knowledge Corporation Ltd",
+      "Hisser Knowledge Corporation Ltd"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Haryana Knowledge Corporation LTD"
+  },
+  {
+    "id": 104,
+    "question": "RKCL Stands for",
+    "options": [
+      "Rajasthan Knowledge Corporation Ltd",
+      "Ranchi Knowledge Corporation Ltd",
+      "Raipur Knowledge Corporation Ltd",
+      "Rajkot Knowledge Corporation Ltd"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Rajasthan Knowledge Corporation Ltd"
+  },
+  {
+    "id": 105,
+    "question": "MKCL's Registered Office is Located in",
+    "options": [
+      "Mumbai",
+      "Pune",
+      "Delhi",
+      "Nashik"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Pune"
+  },
+  {
+    "id": 106,
+    "question": "Minimum Processor Required for MS-CIT Server Machine",
+    "options": [
+      "i5 1st Genartion",
+      "Dual Core Processor (2.6 Ghz)",
+      "i5 6th Genration",
+      "i5 4th Genration"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: i5 6th Genration"
+  },
+  {
+    "id": 107,
+    "question": "Minimum Processor Required for MS-CIT Client Machine",
+    "options": [
+      "i5 1st Genartion",
+      "Dual Core Processor (2.6 Ghz)",
+      "i5 6th Genration",
+      "i5 4th Genration"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: i5 6th Genration"
+  },
+  {
+    "id": 108,
+    "question": "Minimum RAM Required for MS-CIT Server Machine",
+    "options": [
+      "16 GB",
+      "3 GB",
+      "1 GB",
+      "4 GB"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: 16 GB"
+  },
+  {
+    "id": 109,
+    "question": "Minimum RAM Required for MS-CIT Client Machine",
+    "options": [
+      "1 GB",
+      "3 GB",
+      "2 GB",
+      "8 GB"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is: 8 GB"
+  },
+  {
+    "id": 110,
+    "question": "MI Stands for",
+    "options": [
+      "Manager Incharge",
+      "Marketing Interns",
+      "Marketing Incharge",
+      "Marketing Icon"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Marketing Interns"
+  },
+  {
+    "id": 111,
+    "question": "KLiC Stands for",
+    "options": [
+      "Knowledge Lit Careers",
+      "Knowledge Link Career",
+      "Know Learning Concepts",
+      "Knowledge Literacy Concepts"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Knowledge Lit Careers"
+  },
+  {
+    "id": 112,
+    "question": "World Environment Day is Celebrated on",
+    "options": [
+      "1st June",
+      "5th June",
+      "4th April",
+      "15th January"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: 5th June"
+  },
+  {
+    "id": 113,
+    "question": "Teacher's Day is Celebrated on",
+    "options": [
+      "5th September",
+      "5th May",
+      "5th October",
+      "5th November"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: 5th September"
+  },
+  {
+    "id": 114,
+    "question": "Computer Literacy Day is Celebrated on",
+    "options": [
+      "2nd December",
+      "2nd January",
+      "2nd November",
+      "2nd October"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: 2nd December"
+  },
+  {
+    "id": 115,
+    "question": "Minimum Qualification Criteria for MS-CIT Admissions",
+    "options": [
+      "5th   Std.",
+      "No Criteria",
+      "7th   Std.",
+      "3rd   Std."
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: No Criteria"
+  },
+  {
+    "id": 116,
+    "question": "What Is The Fees Of MS-CIT Re-Examination",
+    "options": [
+      "Rs. 527",
+      "Rs. 240",
+      "Rs. 150",
+      "Rs. 275"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Rs. 527"
+  },
+  {
+    "id": 117,
+    "question": "MFO for MS-CIT is",
+    "options": [
+      "Rs. 1765",
+      "Rs.1160",
+      "Rs. 1238",
+      "Rs. 1300"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Rs. 1765"
+  },
+  {
+    "id": 118,
+    "question": "MFO Stands for",
+    "options": [
+      "MKCL Fee Only",
+      "Master Fee Only",
+      "Main Fee Only",
+      "Main Fund Only"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: MKCL Fee Only"
+  },
+  {
+    "id": 119,
+    "question": "Which is the correct web site for New Center Registration",
+    "options": [
+      "www.mkcl.org/register",
+      "www.mkcl.org/ef",
+      "www.mkcl.org/registration",
+      "www.registration.mscit"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: www.mkcl.org/register"
+  },
+  {
+    "id": 120,
+    "question": "What is the maximum image size allowed in NCR Process",
+    "options": [
+      "200 KB",
+      "100 KB",
+      "50 KB",
+      "20KB"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: 200 KB"
   }
 ]

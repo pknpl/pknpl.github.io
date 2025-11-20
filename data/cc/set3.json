@@ -1,6 +1,306 @@
 [
   {
-    "id": 101,
+    "id": 61,
+    "question": "What is the CMD of MKCL full Name",
+    "options": [
+      "Mr. Sameer Pande",
+      "Mr. Vivek Sawant",
+      "Dr. Vijay Bhatkar",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Mr. Sameer Pande"
+  },
+  {
+    "id": 62,
+    "question": "Where is MKCL Head Office",
+    "options": [
+      "Mumbai",
+      "Pune",
+      "Nashik",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Pune"
+  },
+  {
+    "id": 63,
+    "question": "What does MKCL stands for?",
+    "options": [
+      "Maharashtra Knowledge Corporation Limited",
+      "Maharashtra Knowledge Center Limited",
+      "Maharashtra Kerala Corporation Limited",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Maharashtra Knowledge Corporation Limited"
+  },
+  {
+    "id": 64,
+    "question": "Which is not the Product of MKCL",
+    "options": [
+      "MS-CIT",
+      "EASY",
+      "KLIC",
+      "TALLY"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is: TALLY"
+  },
+  {
+    "id": 65,
+    "question": "What is the old name of MS-CIT",
+    "options": [
+      "EASY",
+      "CIT",
+      "ERA",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: CIT"
+  },
+  {
+    "id": 66,
+    "question": "How many courses included in KLIC",
+    "options": [
+      "256",
+      "200",
+      "300",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: 256"
+  },
+  {
+    "id": 67,
+    "question": "Full form of MOM",
+    "options": [
+      "Maharashtra Online Marketing",
+      "MKCL Online Marketing",
+      "Maharashtra Outsource Marketing",
+      "None"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: Maharashtra Outsource Marketing"
+  },
+  {
+    "id": 68,
+    "question": "Full form of EASY",
+    "options": [
+      "Employment and Self Employment",
+      "Employment and State Employment",
+      "Employment and Subsidy Employment",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Employment and Self Employment"
+  },
+  {
+    "id": 69,
+    "question": "What is the Full form of BOSCO",
+    "options": [
+      "Bombay Online Shopping Center",
+      "BridgeCourse Online Shopping Corporation",
+      "BridgeCourse for Online System and Commerce",
+      "None"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: BridgeCourse for Online System and Commerce"
+  },
+  {
+    "id": 70,
+    "question": "What is the minimum Requirement for Coordinator",
+    "options": [
+      "Graduate or Diploma",
+      "Post Graduate",
+      "12th Pass",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Graduate or Diploma"
+  },
+  {
+    "id": 71,
+    "question": "What is the maximum Center Deposit Amount",
+    "options": [
+      "17500",
+      "5500",
+      "8000",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: 17500"
+  },
+  {
+    "id": 72,
+    "question": "What is the Annual Renewal Fees",
+    "options": [
+      "5500",
+      "2500",
+      "4500",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: 5500"
+  },
+  {
+    "id": 73,
+    "question": "Which software used for Seat Booking of center",
+    "options": [
+      "OES",
+      "ERA",
+      "SOLAR",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: OES"
+  },
+  {
+    "id": 74,
+    "question": "Which software used for check Installment Ledger",
+    "options": [
+      "OES",
+      "ERA",
+      "SOLAR",
+      "None"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: SOLAR"
+  },
+  {
+    "id": 75,
+    "question": "Which software used for Learner Management",
+    "options": [
+      "OES",
+      "ERA",
+      "SOLAR",
+      "None"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: SOLAR"
+  },
+  {
+    "id": 76,
+    "question": "Which is the Exam Portal",
+    "options": [
+      "OES",
+      "ERA",
+      "SOLAR",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: OES"
+  },
+  {
+    "id": 77,
+    "question": "Which is the Learning Portal",
+    "options": [
+      "OES",
+      "ERA",
+      "SOLAR",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: ERA"
+  },
+  {
+    "id": 78,
+    "question": "Which Portal is used for Payment",
+    "options": [
+      "OES",
+      "ERA",
+      "SOLAR",
+      "None"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: SOLAR"
+  },
+  {
+    "id": 79,
+    "question": "What is the Maximum Seat Capacity for Center",
+    "options": [
+      "24",
+      "25",
+      "30",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: 25"
+  },
+  {
+    "id": 80,
+    "question": "What is the Minimum Seat Capacity for Center",
+    "options": [
+      "8",
+      "6",
+      "10",
+      "None"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: 10"
+  },
+  {
+    "id": 81,
+    "question": "What is the maximum Concurrent Users Allowed in Center",
+    "options": [
+      "25",
+      "15",
+      "20",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: 25"
+  },
+  {
+    "id": 82,
+    "question": "What is the Minimum Room Size Required",
+    "options": [
+      "200 Sq Ft",
+      "300 Sq Ft",
+      "400 Sq Ft",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: 200 Sq Ft"
+  },
+  {
+    "id": 83,
+    "question": "What is the Password for ERA Portal",
+    "options": [
+      "WORM",
+      "ERA",
+      "SOLAR",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: WORM"
+  },
+  {
+    "id": 84,
+    "question": "What is the Username for ERA Portal",
+    "options": [
+      "Learner ID",
+      "Batch ID",
+      "Center Code",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Learner ID"
+  },
+  {
+    "id": 85,
+    "question": "What is the Password for SOLAR Portal",
+    "options": [
+      "Solar",
+      "Password",
+      "Center Code",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Solar"
+  },
+  {
+    "id": 86,
     "question": "What is the Username for SOLAR Portal",
     "options": [
       "Center Code",
@@ -12,7 +312,7 @@
     "explanation": "The correct answer is: Center Code"
   },
   {
-    "id": 102,
+    "id": 87,
     "question": "What is the Helpline Number for ERA",
     "options": [
       "020-25899600",
@@ -24,7 +324,7 @@
     "explanation": "The correct answer is: 020-25899600"
   },
   {
-    "id": 103,
+    "id": 88,
     "question": "What is the Email ID for ERA Support",
     "options": [
       "erasupport@mkcl.org",
@@ -36,7 +336,7 @@
     "explanation": "The correct answer is: erasupport@mkcl.org"
   },
   {
-    "id": 104,
+    "id": 89,
     "question": "What is the Email ID for SOLAR Support",
     "options": [
       "solarsupport@mkcl.org",
@@ -48,7 +348,7 @@
     "explanation": "The correct answer is: solarsupport@mkcl.org"
   },
   {
-    "id": 105,
+    "id": 90,
     "question": "What is the Email ID for OES Support",
     "options": [
       "oessupport@mkcl.org",
@@ -58,413 +358,5 @@
     ],
     "answer": 0,
     "explanation": "The correct answer is: oessupport@mkcl.org"
-  },
-  {
-    "id": 106,
-    "question": "Which Software is used for Batch Management",
-    "options": [
-      "OES",
-      "ERA",
-      "SOLAR",
-      "None"
-    ],
-    "answer": 2,
-    "explanation": "The correct answer is: SOLAR"
-  },
-  {
-    "id": 107,
-    "question": "Which Software is used for EOI",
-    "options": [
-      "OES",
-      "ERA",
-      "SOLAR",
-      "None"
-    ],
-    "answer": 2,
-    "explanation": "The correct answer is: SOLAR"
-  },
-  {
-    "id": 108,
-    "question": "Which Software is used for Exam Schedule",
-    "options": [
-      "OES",
-      "ERA",
-      "SOLAR",
-      "None"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: OES"
-  },
-  {
-    "id": 109,
-    "question": "Which Software is used for Attendance",
-    "options": [
-      "OES",
-      "ERA",
-      "SOLAR",
-      "None"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: ERA"
-  },
-  {
-    "id": 110,
-    "question": "Which is mandatory for learner confirmation",
-    "options": [
-      "Attendance",
-      "Payment",
-      "Both",
-      "None"
-    ],
-    "answer": 2,
-    "explanation": "The correct answer is: Both"
-  },
-  {
-    "id": 111,
-    "question": "What is the minimum Attendance required",
-    "options": [
-      "75%",
-      "80%",
-      "85%",
-      "None"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: 75%"
-  },
-  {
-    "id": 112,
-    "question": "What is the minimum passing marks",
-    "options": [
-      "20",
-      "30",
-      "40",
-      "None"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: 20"
-  },
-  {
-    "id": 113,
-    "question": "What is the Total Marks of MS-CIT",
-    "options": [
-      "50",
-      "100",
-      "150",
-      "None"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: 100"
-  },
-  {
-    "id": 114,
-    "question": "What is the Exam Duration for MS-CIT",
-    "options": [
-      "90 Minutes",
-      "120 Minutes",
-      "60 Minutes",
-      "None"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: 90 Minutes"
-  },
-  {
-    "id": 115,
-    "question": "How many Questions in MS-CIT Exam",
-    "options": [
-      "50",
-      "75",
-      "100",
-      "None"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: 50"
-  },
-  {
-    "id": 116,
-    "question": "Exam Conducted By",
-    "options": [
-      "MKCL",
-      "YCMOU",
-      "MSBTE",
-      "None"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: MKCL"
-  },
-  {
-    "id": 117,
-    "question": "Maximum modes Avilable For Installments In MFO mode",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: 2"
-  },
-  {
-    "id": 118,
-    "question": "HKCL Stands for",
-    "options": [
-      "Haryana Knowledge Corporation LTD",
-      "Himachal Pradesh Knowledge Corporation Ltd",
-      "Hyderabad Knowledge Corporation Ltd",
-      "Hisser Knowledge Corporation Ltd"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Haryana Knowledge Corporation LTD"
-  },
-  {
-    "id": 119,
-    "question": "RKCL Stands for",
-    "options": [
-      "Rajasthan Knowledge Corporation Ltd",
-      "Ranchi Knowledge Corporation Ltd",
-      "Raipur Knowledge Corporation Ltd",
-      "Rajkot Knowledge Corporation Ltd"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Rajasthan Knowledge Corporation Ltd"
-  },
-  {
-    "id": 120,
-    "question": "MKCL's Registered Office is Located in",
-    "options": [
-      "Mumbai",
-      "Pune",
-      "Delhi",
-      "Nashik"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Pune"
-  },
-  {
-    "id": 121,
-    "question": "Minimum Processor Required for MS-CIT Server Machine",
-    "options": [
-      "i5 1st Genartion",
-      "Dual Core Processor (2.6 Ghz)",
-      "i5 6th Genration",
-      "i5 4th Genration"
-    ],
-    "answer": 2,
-    "explanation": "The correct answer is: i5 6th Genration"
-  },
-  {
-    "id": 122,
-    "question": "Minimum Processor Required for MS-CIT Client Machine",
-    "options": [
-      "i5 1st Genartion",
-      "Dual Core Processor (2.6 Ghz)",
-      "i5 6th Genration",
-      "i5 4th Genration"
-    ],
-    "answer": 2,
-    "explanation": "The correct answer is: i5 6th Genration"
-  },
-  {
-    "id": 123,
-    "question": "Minimum RAM Required for MS-CIT Server Machine",
-    "options": [
-      "16 GB",
-      "3 GB",
-      "1 GB",
-      "4 GB"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: 16 GB"
-  },
-  {
-    "id": 124,
-    "question": "Minimum RAM Required for MS-CIT Client Machine",
-    "options": [
-      "1 GB",
-      "3 GB",
-      "2 GB",
-      "8 GB"
-    ],
-    "answer": 3,
-    "explanation": "The correct answer is: 8 GB"
-  },
-  {
-    "id": 125,
-    "question": "MI Stands for",
-    "options": [
-      "Manager Incharge",
-      "Marketing Interns",
-      "Marketing Incharge",
-      "Marketing Icon"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Marketing Interns"
-  },
-  {
-    "id": 126,
-    "question": "KLiC Stands for",
-    "options": [
-      "Knowledge Lit Careers",
-      "Knowledge Link Career",
-      "Know Learning Concepts",
-      "Knowledge Literacy Concepts"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Knowledge Lit Careers"
-  },
-  {
-    "id": 127,
-    "question": "World Environment Day is Celebrated on",
-    "options": [
-      "1st June",
-      "5th June",
-      "4th April",
-      "15th January"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: 5th June"
-  },
-  {
-    "id": 128,
-    "question": "Teacher's Day is Celebrated on",
-    "options": [
-      "5th September",
-      "5th May",
-      "5th October",
-      "5th November"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: 5th September"
-  },
-  {
-    "id": 129,
-    "question": "Computer Literacy Day is Celebrated on",
-    "options": [
-      "2nd December",
-      "2nd January",
-      "2nd November",
-      "2nd October"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: 2nd December"
-  },
-  {
-    "id": 130,
-    "question": "Minimum Qualification Criteria for MS-CIT Admissions",
-    "options": [
-      "5th   Std.",
-      "No Criteria",
-      "7th   Std.",
-      "3rd   Std."
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: No Criteria"
-  },
-  {
-    "id": 131,
-    "question": "What Is The Fees Of MS-CIT Re-Examination",
-    "options": [
-      "Rs. 527",
-      "Rs. 240",
-      "Rs. 150",
-      "Rs. 275"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Rs. 527"
-  },
-  {
-    "id": 132,
-    "question": "MFO for MS-CIT is",
-    "options": [
-      "Rs. 1765",
-      "Rs.1160",
-      "Rs. 1238",
-      "Rs. 1300"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Rs. 1765"
-  },
-  {
-    "id": 133,
-    "question": "MFO Stands for",
-    "options": [
-      "MKCL Fee Only",
-      "Master Fee Only",
-      "Main Fee Only",
-      "Main Fund Only"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: MKCL Fee Only"
-  },
-  {
-    "id": 134,
-    "question": "Which is the correct web site for New Center Registration",
-    "options": [
-      "www.mkcl.org/register",
-      "www.mkcl.org/ef",
-      "www.mkcl.org/registration",
-      "www.registration.mscit"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: www.mkcl.org/register"
-  },
-  {
-    "id": 135,
-    "question": "What is the maximum image size allowed in NCR Process",
-    "options": [
-      "200 KB",
-      "100 KB",
-      "50 KB",
-      "20KB"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: 200 KB"
-  },
-  {
-    "id": 136,
-    "question": "To maintain educational environment, what is the minimum Area Requerment",
-    "options": [
-      "200 Sq.ft",
-      "400 Sq.ft",
-      "300 Sq.ft",
-      "500 Sq.ft"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: 200 Sq.ft"
-  },
-  {
-    "id": 137,
-    "question": "What is the Minimum Qualification Required for Coordinator",
-    "options": [
-      "12 th",
-      "Under graduate",
-      "Graduate or Deploma Cmplited",
-      "Not Mentioned"
-    ],
-    "answer": 2,
-    "explanation": "The correct answer is: Graduate or Deploma Cmplited"
-  },
-  {
-    "id": 138,
-    "question": "by which site you get information about KLiC Course",
-    "options": [
-      "https://klic.mkcl.in",
-      "https://klic.mkcl.com",
-      "https://klic.mkcl.org/",
-      "all of the above"
-    ],
-    "answer": 2,
-    "explanation": "The correct answer is: https://klic.mkcl.org/"
-  },
-  {
-    "id": 139,
-    "question": "All MKCL Details is available on",
-    "options": [
-      "https://mkcl.org/",
-      "www.mkcl.org/MSCIT",
-      "www.mkcl.org/ef",
-      "www.mkcl.easy"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: https://mkcl.org/"
   }
 ]
