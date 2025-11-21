@@ -1,362 +1,602 @@
 [
   {
-    "id": 91,
-    "question": "Which Software is used for Attendance",
+    "id": 151,
+    "question": "In MS-Word 2019, which feature is used to create a visually appealing document by applying a set of formatting choices including colors, fonts, and effects?",
     "options": [
-      "OES",
-      "BizClient",
-      "SOLAR",
-      "None"
+      "Find and Replace",
+      "Styles",
+      "Spelling & Grammar",
+      "Word Count"
     ],
     "answer": 1,
-    "explanation": "The Correct Answer is BizClient"
+    "explanation": "Styles in MS-Word allow you to apply consistent formatting throughout your document with a single click."
   },
   {
-    "id": 92,
-    "question": "Which is mandatory for learner confirmation",
+    "id": 152,
+    "question": "Which view in MS-Word 2019 shows how the document will look when printed?",
     "options": [
-      "Attendance",
-      "Payment",
-      "Both",
-      "None"
-    ],
-    "answer": 2,
-    "explanation": "The Correct Answer is Both"
-  },
-  {
-    "id": 93,
-    "question": "What is the minimum Attendance required",
-    "options": [
-      "75%",
-      "80%",
-      "85%",
-      "None"
-    ],
-    "answer": 0,
-    "explanation": "The Correct Answer is 75%"
-  },
-  {
-    "id": 94,
-    "question": "What is the minimum passing marks",
-    "options": [
-      "20",
-      "30",
-      "40",
-      "None"
-    ],
-    "answer": 0,
-    "explanation": "The Correct Answer is 20"
-  },
-  {
-    "id": 95,
-    "question": "What is the Total Marks of MS-CIT",
-    "options": [
-      "50",
-      "100",
-      "150",
-      "None"
+      "Draft View",
+      "Print Layout View",
+      "Web Layout View",
+      "Outline View"
     ],
     "answer": 1,
-    "explanation": "The Correct Answer is 100"
+    "explanation": "Print Layout View displays the document as it will appear when printed, including margins, headers, and footers."
   },
   {
-    "id": 96,
-    "question": "What is the Exam Duration for MS-CIT",
+    "id": 153,
+    "question": "What is the purpose of the 'Thesaurus' feature in MS-Word 2019?",
     "options": [
-      "90 Minutes",
-      "120 Minutes",
-      "60 Minutes",
-      "None"
-    ],
-    "answer": 2,
-    "explanation": "The Correct Answer is 60 Minutes"
-  },
-  {
-    "id": 97,
-    "question": "How many Questions in MS-CIT Exam",
-    "options": [
-      "50",
-      "75",
-      "100",
-      "None"
-    ],
-    "answer": 0,
-    "explanation": "The Correct Answer is 50"
-  },
-  {
-    "id": 98,
-    "question": "Exam Conducted By",
-    "options": [
-      "MKCL",
-      "YCMOU",
-      "MSBTE",
-      "None"
-    ],
-    "answer": 0,
-    "explanation": "The Correct Answer is MKCL"
-  },
-  {
-    "id": 99,
-    "question": "Maximum modes Avilable For Installments In MFO mode",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "Check spelling errors",
+      "Find synonyms and antonyms",
+      "Count words and characters",
+      "Insert special characters"
     ],
     "answer": 1,
-    "explanation": "The Correct Answer is 2"
+    "explanation": "The Thesaurus helps you find synonyms (words with similar meanings) and antonyms (words with opposite meanings)."
   },
   {
-    "id": 100,
-    "question": "HKCL Stands for",
+    "id": 154,
+    "question": "Which feature in MS-Word 2019 allows you to see the structure of your document with headings and subheadings?",
     "options": [
-      "Haryana Knowledge Corporation LTD",
-      "Himachal Pradesh Knowledge Corporation Ltd",
-      "Hyderabad Knowledge Corporation Ltd",
-      "Hisser Knowledge Corporation Ltd"
-    ],
-    "answer": 0,
-    "explanation": "The Correct Answer is Haryana Knowledge Corporation LTD"
-  },
-  {
-    "id": 101,
-    "question": "RKCL Stands for",
-    "options": [
-      "Rajasthan Knowledge Corporation Ltd",
-      "Ranchi Knowledge Corporation Ltd",
-      "Raipur Knowledge Corporation Ltd",
-      "Rajkot Knowledge Corporation Ltd"
-    ],
-    "answer": 0,
-    "explanation": "The Correct Answer is Rajasthan Knowledge Corporation Ltd"
-  },
-  {
-    "id": 102,
-    "question": "MKCL's Registered Office is Located in",
-    "options": [
-      "Mumbai",
-      "Pune",
-      "Delhi",
-      "Nashik"
+      "Print Layout",
+      "Navigation Pane",
+      "Read Mode",
+      "Draft View"
     ],
     "answer": 1,
-    "explanation": "The Correct Answer is Pune"
+    "explanation": "The Navigation Pane displays the structure of your document based on heading styles, making it easy to navigate through long documents."
   },
   {
-    "id": 103,
-    "question": "Minimum Processor Required for MS-CIT Server Machine",
+    "id": 155,
+    "question": "What is the function of 'Mail Merge' in MS-Word 2019?",
     "options": [
-      "i5 1st Genartion",
-      "Dual Core Processor (2.6 Ghz)",
-      "i5 6th Genration",
-      "i5 4th Genration"
+      "To send emails directly from Word",
+      "To combine a main document with a data source for personalized documents",
+      "To merge multiple Word documents into one",
+      "To compress Word files for email attachment"
     ],
-    "answer": 2,
-    "explanation": "The Correct Answer is i5 6th Genration"
+    "answer": 1,
+    "explanation": "Mail Merge allows you to create personalized documents (like letters or labels) by combining a main document with a data source containing recipient information."
   },
   {
-    "id": 104,
-    "question": "Minimum Processor Required for MS-CIT Client Machine",
+    "id": 156,
+    "question": "Which tab in MS-Word 2019 contains options to insert tables, pictures, and shapes?",
     "options": [
-      "i5 1st Genartion",
-      "Dual Core Processor (2.6 Ghz)",
-      "i5 6th Genration",
-      "i5 4th Genration"
+      "Home Tab",
+      "Insert Tab",
+      "Design Tab",
+      "Layout Tab"
     ],
-    "answer": 2,
-    "explanation": "The Correct Answer is i5 6th Genration"
+    "answer": 1,
+    "explanation": "The Insert Tab contains all the options to insert various elements like tables, pictures, shapes, charts, headers, footers, etc."
   },
   {
-    "id": 105,
-    "question": "Minimum RAM Required for MS-CIT Server Machine",
+    "id": 157,
+    "question": "What does the 'Format Painter' tool do in MS-Word 2019?",
     "options": [
-      "8 GB",
-      "3 GB",
-      "1 GB",
-      "4 GB"
+      "Changes the color of text",
+      "Copies formatting from one text to another",
+      "Paints background colors in documents",
+      "Applies artistic effects to images"
+    ],
+    "answer": 1,
+    "explanation": "Format Painter allows you to copy formatting (like font, size, color, etc.) from one piece of text and apply it to another."
+  },
+  {
+    "id": 158,
+    "question": "Which feature in MS-Word 2019 protects a document with a password?",
+    "options": [
+      "Track Changes",
+      "Restrict Editing",
+      "Document Inspector",
+      "Check Accessibility"
+    ],
+    "answer": 1,
+    "explanation": "The 'Restrict Editing' feature allows you to protect your document with a password, limiting what changes others can make."
+  },
+  {
+    "id": 159,
+    "question": "What is the purpose of 'Smart Art' in MS-Word 2019?",
+    "options": [
+      "To create professional-looking diagrams and visuals",
+      "To automatically correct spelling mistakes",
+      "To convert text to speech",
+      "To translate documents to other languages"
     ],
     "answer": 0,
-    "explanation": "The Correct Answer is 8 GB"
+    "explanation": "SmartArt allows you to create professional-looking diagrams, process flows, organizational charts, and other visual representations."
   },
   {
-    "id": 106,
-    "question": "Minimum RAM Required for MS-CIT Client Machine",
+    "id": 160,
+    "question": "Which option in MS-Word 2019 allows you to see the document without margins, headers, and footers?",
     "options": [
-      "1 GB",
-      "3 GB",
-      "2 GB",
-      "4 GB"
+      "Print Layout View",
+      "Web Layout View",
+      "Read Mode",
+      "Draft View"
     ],
     "answer": 3,
-    "explanation": "The Correct Answer is 4 GB"
+    "explanation": "Draft View shows a simplified version of the document without margins, headers, footers, or page breaks, focusing only on the text content."
   },
   {
-    "id": 107,
-    "question": "MI Stands for",
+    "id": 161,
+    "question": "In MS-Excel 2019, what is the correct formula to add the values in cells A1 to A10?",
     "options": [
-      "Manager Incharge",
-      "Marketing Interns",
-      "Marketing Incharge",
-      "Marketing Icon"
+      "=ADD(A1:A10)",
+      "=SUM(A1:A10)",
+      "=TOTAL(A1:A10)",
+      "=A1+A10"
     ],
     "answer": 1,
-    "explanation": "The Correct Answer is Marketing Interns"
+    "explanation": "The SUM function is used to add values in a range of cells. The correct syntax is =SUM(A1:A10)."
   },
   {
-    "id": 108,
-    "question": "KLiC Stands for",
+    "id": 162,
+    "question": "Which function in MS-Excel 2019 is used to find the largest number in a range of cells?",
     "options": [
-      "Knowledge Lit Careers",
-      "Knowledge Link Career",
-      "Know Learning Concepts",
-      "Knowledge Literacy Concepts"
-    ],
-    "answer": 0,
-    "explanation": "The Correct Answer is Knowledge Lit Careers"
-  },
-  {
-    "id": 109,
-    "question": "World Environment Day is Celebrated on",
-    "options": [
-      "1st June",
-      "5th June",
-      "4th April",
-      "15th January"
+      "MIN",
+      "MAX",
+      "AVERAGE",
+      "COUNT"
     ],
     "answer": 1,
-    "explanation": "The Correct Answer is 5th June"
+    "explanation": "The MAX function returns the largest value in a set of values or range of cells."
   },
   {
-    "id": 110,
-    "question": "Teacher's Day is Celebrated on",
+    "id": 163,
+    "question": "What does the 'Freeze Panes' feature do in MS-Excel 2019?",
     "options": [
-      "5th September",
-      "5th May",
-      "5th October",
-      "5th November"
+      "Locks specific rows or columns so they remain visible while scrolling",
+      "Prevents changes to the worksheet",
+      "Compresses the file size",
+      "Creates a backup of the workbook"
     ],
     "answer": 0,
-    "explanation": "The Correct Answer is 5th September"
+    "explanation": "Freeze Panes keeps specific rows or columns visible while you scroll through the rest of the worksheet."
   },
   {
-    "id": 111,
-    "question": "Computer Literacy Day is Celebrated on",
+    "id": 164,
+    "question": "Which chart type in MS-Excel 2019 is best for showing trends over time?",
     "options": [
-      "2nd December",
-      "2nd January",
-      "2nd November",
-      "2nd October"
-    ],
-    "answer": 0,
-    "explanation": "The Correct Answer is 2nd December"
-  },
-  {
-    "id": 112,
-    "question": "Minimum Qualification Criteria for MS-CIT Admissions",
-    "options": [
-      "5th   Std.",
-      "No Criteria",
-      "7th   Std.",
-      "3rd   Std."
+      "Pie Chart",
+      "Line Chart",
+      "Bar Chart",
+      "Scatter Plot"
     ],
     "answer": 1,
-    "explanation": "The Correct Answer is No Criteria"
+    "explanation": "Line charts are ideal for displaying trends over time as they clearly show data points connected by lines."
   },
   {
-    "id": 113,
-    "question": "What Is The Fees Of MS-CIT Re-Examination",
+    "id": 165,
+    "question": "What is the purpose of the 'IF' function in MS-Excel 2019?",
     "options": [
-      "Rs. 527",
-      "Rs. 240",
-      "Rs. 150",
-      "Rs. 275"
+      "To perform mathematical calculations",
+      "To return one value if a condition is true and another if it's false",
+      "To count the number of cells in a range",
+      "To find the average of values"
+    ],
+    "answer": 1,
+    "explanation": "The IF function performs a logical test and returns one value if the test is true, and another value if the test is false."
+  },
+  {
+    "id": 166,
+    "question": "Which feature in MS-Excel 2019 allows you to display only rows that meet specific criteria?",
+    "options": [
+      "Sort",
+      "Filter",
+      "Conditional Formatting",
+      "Data Validation"
+    ],
+    "answer": 1,
+    "explanation": "The Filter feature allows you to display only the rows that meet the criteria you specify, hiding the others."
+  },
+  {
+    "id": 167,
+    "question": "What does the 'VLOOKUP' function do in MS-Excel 2019?",
+    "options": [
+      "Looks up a value in the first column of a table and returns a value in the same row from another column",
+      "Vertically aligns text in a cell",
+      "Validates data entry in a cell",
+      "Creates a vertical list of values"
     ],
     "answer": 0,
-    "explanation": "The Correct Answer is Rs. 527"
+    "explanation": "VLOOKUP searches for a value in the first column of a table and returns a value in the same row from a specified column."
   },
   {
-    "id": 114,
-    "question": "MFO for MS-CIT is",
+    "id": 168,
+    "question": "Which option in MS-Excel 2019 protects a worksheet from being modified?",
     "options": [
-      "Rs. 1765",
-      "Rs.1160",
-      "Rs. 1238",
-      "Rs. 1300"
+      "Track Changes",
+      "Protect Sheet",
+      "Data Validation",
+      "Conditional Formatting"
+    ],
+    "answer": 1,
+    "explanation": "The 'Protect Sheet' option allows you to prevent others from making changes to the worksheet structure or content."
+  },
+  {
+    "id": 169,
+    "question": "What is the purpose of 'PivotTables' in MS-Excel 2019?",
+    "options": [
+      "To create summary reports from large datasets",
+      "To pivot text orientation in cells",
+      "To create pivot charts automatically",
+      "To rotate table data 90 degrees"
     ],
     "answer": 0,
-    "explanation": "The Correct Answer is Rs. 1765"
+    "explanation": "PivotTables are used to summarize, analyze, explore, and present summary data from large datasets."
   },
   {
-    "id": 115,
-    "question": "MFO Stands for",
+    "id": 170,
+    "question": "Which function in MS-Excel 2019 counts the number of cells in a range that contain numbers?",
     "options": [
-      "MKCL Fee Only",
-      "Master Fee Only",
-      "Main Fee Only",
-      "Main Fund Only"
+      "COUNT",
+      "COUNTA",
+      "COUNTBLANK",
+      "COUNTIF"
     ],
     "answer": 0,
-    "explanation": "The Correct Answer is MKCL Fee Only"
+    "explanation": "The COUNT function counts the number of cells in a range that contain numeric values."
   },
   {
-    "id": 116,
-    "question": "Which is the correct web site for New Center Registration",
+    "id": 171,
+    "question": "In MS-PowerPoint 2019, which view is ideal for arranging the sequence of your slides?",
     "options": [
-      "www.mkcl.org/register",
-      "www.mkcl.org/ef",
-      "www.mkcl.org/registration",
-      "www.registration.mscit"
+      "Normal View",
+      "Slide Sorter View",
+      "Reading View",
+      "Slide Show View"
+    ],
+    "answer": 1,
+    "explanation": "Slide Sorter View displays thumbnails of all slides, making it easy to rearrange their order."
+  },
+  {
+    "id": 172,
+    "question": "What is a 'Slide Master' in MS-PowerPoint 2019?",
+    "options": [
+      "The first slide of a presentation",
+      "A template that controls the overall appearance of all slides",
+      "The most important slide in a presentation",
+      "A slide that contains master content for the presentation"
+    ],
+    "answer": 1,
+    "explanation": "The Slide Master is the top slide that stores information about the theme and slide layouts, affecting the appearance of all slides."
+  },
+  {
+    "id": 173,
+    "question": "Which feature in PowerPoint allows you to add movement to text and objects on a slide?",
+    "options": [
+      "Transitions",
+      "Animations",
+      "Design Ideas",
+      "Slide Show"
+    ],
+    "answer": 1,
+    "explanation": "Animations add movement to individual elements on a slide, while transitions control how you move between slides."
+  },
+  {
+    "id": 174,
+    "question": "What is the purpose of 'Presenter View' in MS-PowerPoint 2019?",
+    "options": [
+      "To view the presentation as the audience will see it",
+      "To see your notes and next slides while presenting",
+      "To create a presentation from a template",
+      "To record narration for the presentation"
+    ],
+    "answer": 1,
+    "explanation": "Presenter View shows the current slide, next slide, speaker notes, and a timer to help during presentations."
+  },
+  {
+    "id": 175,
+    "question": "Which option in MS-PowerPoint 2019 allows you to rehearse the timing of your presentation?",
+    "options": [
+      "Record Slide Show",
+      "Rehearse Timings",
+      "Set Up Slide Show",
+      "Custom Slide Show"
+    ],
+    "answer": 1,
+    "explanation": "Rehearse Timings allows you to practice your presentation and record how long you spend on each slide."
+  },
+  {
+    "id": 176,
+    "question": "What does the 'Morph' transition do in MS-PowerPoint 2019?",
+    "options": [
+      "Adds sound effects between slides",
+      "Creates smooth animation between similar slides",
+      "Changes the color scheme of slides",
+      "Merges multiple slides into one"
+    ],
+    "answer": 1,
+    "explanation": "The Morph transition creates smooth animations between slides by automatically animating objects that appear on both slides."
+  },
+  {
+    "id": 177,
+    "question": "Which feature in MS-PowerPoint 2019 allows you to create a custom layout for your slides?",
+    "options": [
+      "Slide Master",
+      "Design Templates",
+      "Themes",
+      "Layout Gallery"
     ],
     "answer": 0,
-    "explanation": "The Correct Answer is www.mkcl.org/register"
+    "explanation": "The Slide Master allows you to create custom layouts by modifying placeholders and their positions."
   },
   {
-    "id": 117,
-    "question": "What is the maximum image size allowed in NCR Process",
+    "id": 178,
+    "question": "What is the purpose of 'Action Buttons' in MS-PowerPoint 2019?",
     "options": [
-      "200 KB",
-      "100 KB",
-      "50 KB",
-      "20KB"
+      "To add decorative elements to slides",
+      "To create interactive presentations with clickable buttons",
+      "To automate slide transitions",
+      "To add sound effects to animations"
     ],
-    "answer": 0,
-    "explanation": "The Correct Answer is 200 KB"
+    "answer": 1,
+    "explanation": "Action Buttons are interactive elements that perform an action when clicked, such as navigating to another slide or running a program."
   },
   {
-    "id": 118,
-    "question": "To maintain educational environment, what is the minimum Area Requerment",
+    "id": 179,
+    "question": "Which option in MS-PowerPoint 2019 allows you to hide a slide during a presentation?",
     "options": [
-      "200 Sq.ft",
-      "400 Sq.ft",
-      "300 Sq.ft",
-      "500 Sq.ft"
+      "Delete Slide",
+      "Hide Slide",
+      "Skip Slide",
+      "Remove Slide"
     ],
-    "answer": 0,
-    "explanation": "The Correct Answer is 200 Sq.ft"
+    "answer": 1,
+    "explanation": "The Hide Slide option allows you to keep a slide in the presentation file but skip it during the slide show."
   },
   {
-    "id": 119,
-    "question": "What is the Minimum Qualification Required for Coordinator",
+    "id": 180,
+    "question": "What is the function of the 'Format Painter' in MS-PowerPoint 2019?",
     "options": [
-      "12 th",
-      "Under graduate",
-      "Graduate or Deploma Cmplited",
-      "Not Mentioned"
+      "To apply color to shapes",
+      "To copy formatting from one object to another",
+      "To paint background images",
+      "To create gradient fills"
+    ],
+    "answer": 1,
+    "explanation": "Format Painter allows you to copy formatting (like color, font, size) from one object and apply it to another with a single click."
+  },
+  {
+    "id": 181,
+    "question": "What is the primary function of MS-Outlook 2019?",
+    "options": [
+      "Creating spreadsheets",
+      "Personal Information Management (Email, Calendar, Contacts)",
+      "Designing databases",
+      "Writing long documents"
+    ],
+    "answer": 1,
+    "explanation": "Outlook is primarily a personal information manager including email, calendar, contacts, tasks, and notes."
+  },
+  {
+    "id": 182,
+    "question": "Which feature in MS-Outlook 2019 allows you to schedule a meeting with multiple attendees?",
+    "options": [
+      "New Email",
+      "New Appointment",
+      "New Meeting",
+      "New Task"
     ],
     "answer": 2,
-    "explanation": "The Correct Answer is Graduate or Deploma Cmplited"
+    "explanation": "The New Meeting feature allows you to schedule meetings, invite attendees, and reserve resources like conference rooms."
   },
   {
-    "id": 120,
-    "question": "by which site you get information about KLiC Course",
+    "id": 183,
+    "question": "What is the purpose of 'Rules' in MS-Outlook 2019?",
     "options": [
-      "https://klic.mkcl.in",
-      "https://klic.mkcl.com",
-      "https://klic.mkcl.org/",
-      "all of the above"
+      "To create email templates",
+      "To automatically organize incoming emails",
+      "To set working hours in calendar",
+      "To block specific senders"
+    ],
+    "answer": 1,
+    "explanation": "Rules allow you to automatically perform actions on incoming or outgoing emails, such as moving them to specific folders."
+  },
+  {
+    "id": 184,
+    "question": "Which view in MS-Outlook 2019 Calendar shows an entire week at a glance?",
+    "options": [
+      "Day View",
+      "Week View",
+      "Month View",
+      "Schedule View"
+    ],
+    "answer": 1,
+    "explanation": "Week View displays all seven days of the week, making it easy to see your schedule for the entire week."
+  },
+  {
+    "id": 185,
+    "question": "What does the 'Out of Office' feature do in MS-Outlook 2019?",
+    "options": [
+      "Deletes all incoming emails",
+      "Automatically replies to emails when you're away",
+      "Forwards emails to another address",
+      "Blocks emails from specific senders"
+    ],
+    "answer": 1,
+    "explanation": "The Out of Office feature sends automatic replies to incoming emails when you're not available to respond."
+  },
+  {
+    "id": 186,
+    "question": "What is the name of the virtual assistant in Windows 10?",
+    "options": [
+      "Siri",
+      "Cortana",
+      "Alexa",
+      "Google Assistant"
+    ],
+    "answer": 1,
+    "explanation": "Cortana is Microsoft's virtual assistant integrated into Windows 10."
+  },
+  {
+    "id": 187,
+    "question": "Which feature in Windows 10 allows you to work with multiple desktops?",
+    "options": [
+      "Task View",
+      "File Explorer",
+      "Control Panel",
+      "Action Center"
+    ],
+    "answer": 0,
+    "explanation": "Task View allows you to create and switch between multiple virtual desktops."
+  },
+  {
+    "id": 188,
+    "question": "What is the purpose of 'File History' in Windows 10?",
+    "options": [
+      "To track changes in files",
+      "To automatically back up files to an external drive",
+      "To show recently accessed files",
+      "To compress files to save space"
+    ],
+    "answer": 1,
+    "explanation": "File History automatically backs up versions of your files to an external drive or network location."
+  },
+  {
+    "id": 189,
+    "question": "Which Windows 10 feature provides a centralized location for notifications and quick settings?",
+    "options": [
+      "Control Panel",
+      "Settings App",
+      "Action Center",
+      "Task Manager"
     ],
     "answer": 2,
-    "explanation": "The Correct Answer is https://klic.mkcl.org/"
+    "explanation": "The Action Center displays notifications and provides quick access to common settings like Wi-Fi, Bluetooth, and brightness."
+  },
+  {
+    "id": 190,
+    "question": "What is 'Windows Hello' in Windows 10?",
+    "options": [
+      "A welcome screen",
+      "A biometric authentication system",
+      "A help and support feature",
+      "A tutorial for new users"
+    ],
+    "answer": 1,
+    "explanation": "Windows Hello is a biometric authentication feature that allows you to sign in using facial recognition, fingerprint, or iris scan."
+  },
+  {
+    "id": 191,
+    "question": "Which Google Tool is a cloud-based word processor that allows for real-time collaboration?",
+    "options": [
+      "Google Sheets",
+      "Google Docs",
+      "Google Forms",
+      "Google Slides"
+    ],
+    "answer": 1,
+    "explanation": "Google Docs is a web-based word processor that allows multiple users to collaborate in real-time."
+  },
+  {
+    "id": 192,
+    "question": "What is the primary purpose of Google Drive?",
+    "options": [
+      "To create documents",
+      "To send emails",
+      "To store and sync files in the cloud",
+      "To browse the internet"
+    ],
+    "answer": 2,
+    "explanation": "Google Drive is a cloud storage service that allows you to store files and access them from any device."
+  },
+  {
+    "id": 193,
+    "question": "Which Google Tool is best suited for creating online surveys and quizzes?",
+    "options": [
+      "Google Keep",
+      "Google Drive",
+      "Google Forms",
+      "Google Calendar"
+    ],
+    "answer": 2,
+    "explanation": "Google Forms is designed specifically for creating surveys, quizzes, and questionnaires."
+  },
+  {
+    "id": 194,
+    "question": "What is the function of 'Google Sheets'?",
+    "options": [
+      "To create presentations",
+      "To create and edit spreadsheets",
+      "To take notes",
+      "To manage emails"
+    ],
+    "answer": 1,
+    "explanation": "Google Sheets is a web-based spreadsheet application similar to Microsoft Excel."
+  },
+  {
+    "id": 195,
+    "question": "Which Google Tool allows you to create and deliver presentations online?",
+    "options": [
+      "Google Docs",
+      "Google Sheets",
+      "Google Slides",
+      "Google Drawings"
+    ],
+    "answer": 2,
+    "explanation": "Google Slides is a presentation program that allows you to create, edit, and deliver presentations online."
+  },
+  {
+    "id": 196,
+    "question": "Which of the following is an INPUT device?",
+    "options": [
+      "Monitor",
+      "Printer",
+      "Keyboard",
+      "Speaker"
+    ],
+    "answer": 2,
+    "explanation": "A keyboard is an input device used to enter data and commands into a computer."
+  },
+  {
+    "id": 197,
+    "question": "What is the primary function of a computer mouse?",
+    "options": [
+      "To type text",
+      "To point, click, and select items on the screen",
+      "To display images",
+      "To print documents"
+    ],
+    "answer": 1,
+    "explanation": "A mouse is a pointing device that allows you to control the cursor and interact with graphical user interfaces."
+  },
+  {
+    "id": 198,
+    "question": "Which device is used to produce a hard copy of a digital document?",
+    "options": [
+      "Scanner",
+      "Monitor",
+      "Printer",
+      "Projector"
+    ],
+    "answer": 2,
+    "explanation": "A printer produces physical copies (hard copies) of digital documents on paper."
+  },
+  {
+    "id": 199,
+    "question": "What is the purpose of a computer scanner?",
+    "options": [
+      "To display images",
+      "To convert physical documents into digital format",
+      "To print documents",
+      "To project images on a screen"
+    ],
+    "answer": 1,
+    "explanation": "A scanner converts physical documents, photos, or objects into digital images that can be stored on a computer."
+  },
+  {
+    "id": 200,
+    "question": "Which device allows you to hear audio from a computer?",
+    "options": [
+      "Monitor",
+      "Printer",
+      "Microphone",
+      "Speaker"
+    ],
+    "answer": 3,
+    "explanation": "Speakers are output devices that convert electrical signals into sound waves that we can hear."
   }
 ]

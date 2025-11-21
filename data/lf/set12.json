@@ -1,0 +1,596 @@
+[
+  {
+    "id": 551,
+    "question": "Why can't you install a mobile OS on your desktop?",
+    "options": [
+      "It’s too large",
+      "Mobile OS is locked",
+      "They are made for different hardware and usage",
+      "Desktops don’t support apps"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is They are made for different hardware and usage"
+  },
+  {
+    "id": 552,
+    "question": "Ravi wants to work on graphic design, use a mouse, and save big files. What should he select?",
+    "options": [
+      "Mobile OS because it is portable",
+      "Mobile OS because it’s user-friendly",
+      "Desktop OS because it supports advanced tools",
+      "Desktop OS because it has touchscreen only"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Desktop OS because it supports advanced tools"
+  },
+  {
+    "id": 553,
+    "question": "A class project requires research, typing, and creating a presentation. Which device and OS should they prefer?",
+    "options": [
+      "Mobile device with mobile OS",
+      "Laptop with desktop OS",
+      "Tablet with mobile OS",
+      "Phone with Android TV OS"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Laptop with desktop OS"
+  },
+  {
+    "id": 554,
+    "question": "Soham has an old PC. What is the best approach?",
+    "options": [
+      "Install a mobile OS",
+      "Install only antivirus",
+      "Use a lightweight desktop OS",
+      "Use only Notepad"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Use a lightweight desktop OS"
+  },
+  {
+    "id": 555,
+    "question": "Which OS would be best for a classroom with students using typing tools, presentations, printers?",
+    "options": [
+      "Smartwatch OS",
+      "Mobile OS",
+      "Desktop OS",
+      "Television OS"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Desktop OS"
+  },
+  {
+    "id": 556,
+    "question": "Rekha compares two OS types: one offers full control, the other limits apps. Which pair?",
+    "options": [
+      "iOS and Windows",
+      "Linux and Windows",
+      "Android and iOS",
+      "Windows and Android TV"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Android and iOS"
+  },
+  {
+    "id": 557,
+    "question": "The school computer has Windows 10 and updates automatically. What’s the benefit?",
+    "options": [
+      "Games get faster",
+      "More screen brightness",
+      "Better security",
+      "Bigger icons"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Better security"
+  },
+  {
+    "id": 558,
+    "question": "To apply shapes style we will click on the __________ group",
+    "options": [
+      "Shapes Style group",
+      "Insert shapes group",
+      "WordArt group",
+      "Arrange Group"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Shapes Style group"
+  },
+  {
+    "id": 559,
+    "question": "Identify the steps to insert picture in Excel workbook.",
+    "options": [
+      "Home Tab > Illustrations > Pictures > Select Picture > Click Insert",
+      "Insert Tab > Illustrations > Pictures > Select Picture > Click Insert",
+      "Format Tab > Illustrations > Pictures > Select Picture > Click Insert",
+      "Page Layout Tab > Illustrations > Pictures > Select Picture > Click Insert"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Insert Tab > Illustrations > Pictures > Select Picture > Click Insert"
+  },
+  {
+    "id": 560,
+    "question": "Choose the correct step to add Image / logo in your document?",
+    "options": [
+      "Inser > Picture",
+      "Insert > Icons",
+      "Insert > Illustration",
+      "Insert > Charts"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Inser > Picture"
+  },
+  {
+    "id": 561,
+    "question": "We can Insert Sheet Rows from the __________ Tab __________ group",
+    "options": [
+      "Home > Cells",
+      "Home >Clipboard",
+      "Home > Number",
+      "Home > Styles"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Home > Cells"
+  },
+  {
+    "id": 562,
+    "question": "What is the extension of Excel?",
+    "options": [
+      "docx format",
+      ".pptx format",
+      ".xlsx format",
+      "excel format"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is .xlsx format"
+  },
+  {
+    "id": 563,
+    "question": "A school wants software to track attendance and assignments. Which OS type should be avoided?",
+    "options": [
+      "OS with utility support",
+      "OS with GUI",
+      "Embedded OS",
+      "Desktop OS"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Embedded OS"
+  },
+  {
+    "id": 564,
+    "question": "Rutuja wants to create her own OS. Which option should she explore?",
+    "options": [
+      "iOS",
+      "macOS",
+      "Linux",
+      "Android"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Linux"
+  },
+  {
+    "id": 565,
+    "question": "You want to create a Linux-based OS for schools. Which advantage?",
+    "options": [
+      "Games are preinstalled",
+      "It runs on slow internet",
+      "It’s free and customizable",
+      "It supports only music"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is It’s free and customizable"
+  },
+  {
+    "id": 566,
+    "question": "Suppose project is to create secure OS for research labs. Which system study first?",
+    "options": [
+      "macOS",
+      "UNIX",
+      "Windows 10",
+      "Android"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is UNIX"
+  },
+  {
+    "id": 567,
+    "question": "Tina needs an OS for her new Apple laptop, works with iPhone too. Which should she use?",
+    "options": [
+      "Android",
+      "Windows",
+      "macOS",
+      "Linux"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is macOS"
+  },
+  {
+    "id": 568,
+    "question": "Dev wants to install Android apps on his laptop. Which Windows version supports it?",
+    "options": [
+      "Windows 7",
+      "Windows 10",
+      "Windows 11",
+      "Windows XP"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Windows 11"
+  },
+  {
+    "id": 569,
+    "question": "Rahul uses macOS and wants iPad as second screen. Which version?",
+    "options": [
+      "macOS Mojave",
+      "macOS Catalina",
+      "macOS Monterey",
+      "macOS High Sierra"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is macOS Catalina"
+  },
+  {
+    "id": 570,
+    "question": "Shreya switches to Dark Mode at night. Which version enabled this?",
+    "options": [
+      "macOS Catalina",
+      "macOS Monterey",
+      "macOS Mojave",
+      "iOS 12"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is macOS Mojave"
+  },
+  {
+    "id": 571,
+    "question": "Varun has a slow laptop with little RAM. Which OS type is best?",
+    "options": [
+      "macOS",
+      "Windows 11",
+      "Lightweight Linux",
+      "iOS"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Lightweight Linux"
+  },
+  {
+    "id": 572,
+    "question": "School IT builds system for stability and security. Which OS?",
+    "options": [
+      "Windows 7",
+      "UNIX",
+      "Android",
+      "iOS"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is UNIX"
+  },
+  {
+    "id": 573,
+    "question": "Choose the correct step to use sum formula?",
+    "options": [
+      "Type = sum (select the cell range for addition) Enter",
+      "Type = Total (select the cell range for addition) Enter",
+      "Type = Addition (select the cell range for addition) Enter",
+      "Type = formula (select the cell range for addition) Enter"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Type = sum (select the cell range for addition) Enter"
+  },
+  {
+    "id": 574,
+    "question": "We can insert picture from our gallery & Online too.",
+    "options": [
+      true,
+      false
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is TRUE"
+  },
+  {
+    "id": 575,
+    "question": "Who issues a salary slip and to whom?",
+    "options": [
+      "Employer to employee",
+      "Client to managers",
+      "Admin team to employees",
+      "CEO to managers"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Employer to employee"
+  },
+  {
+    "id": 576,
+    "question": "What other name is a salary slip known by?",
+    "options": [
+      "Salary sheet",
+      "Pay terms",
+      "Pay slip",
+      "Pay sheet"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Pay slip"
+  },
+  {
+    "id": 577,
+    "question": "Teacher asks for solution to test Windows and macOS without two computers. What do you recommend?",
+    "options": [
+      "Dual boot setup",
+      "USB installation",
+      "Virtualization software",
+      "Antivirus scanning"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Virtualization software"
+  },
+  {
+    "id": 578,
+    "question": "Arjun wants to build a tool that removes junk files. What should it be called?",
+    "options": [
+      "Wallpaper changer",
+      "Disk Cleanup utility",
+      "Sound mixer",
+      "Office installer"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Disk Cleanup utility"
+  },
+  {
+    "id": 579,
+    "question": "A student is building a tool to restore deleted files. Which utility type?",
+    "options": [
+      "Antivirus",
+      "File compressor",
+      "Utility suite",
+      "PDF converter"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Utility suite"
+  },
+  {
+    "id": 580,
+    "question": "Teacher asks for tool to monitor memory and close apps. What do you suggest?",
+    "options": [
+      "Task Manager",
+      "Antivirus",
+      "File Explorer",
+      "Paint"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Task Manager"
+  },
+  {
+    "id": 581,
+    "question": "Your team designs a tool to delete junk files, manage storage, enhance speed. What type?",
+    "options": [
+      "Games",
+      "Graphics apps",
+      "Utility software",
+      "Browsers"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Utility software"
+  },
+  {
+    "id": 582,
+    "question": "Teacher shows how to run Windows and Linux on one computer. What is used?",
+    "options": [
+      "Dual monitor",
+      "USB booting",
+      "Virtualization software",
+      "Hard disk cloning"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Virtualization software"
+  },
+  {
+    "id": 583,
+    "question": "Reena checks apps using too much memory. Which tool?",
+    "options": [
+      "Windows Media Player",
+      "Disk Cleanup",
+      "Task Manager",
+      "Command Prompt"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Task Manager"
+  },
+  {
+    "id": 584,
+    "question": "School wants to reduce slowdowns by removing junk. Which software?",
+    "options": [
+      "Utility programs",
+      "Browser add-ons",
+      "Editing tools",
+      "Office software"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Utility programs"
+  },
+  {
+    "id": 585,
+    "question": "Simran’s computer is slow due to unnecessary files. What helps most?",
+    "options": [
+      "Changing wallpaper",
+      "Task Manager",
+      "Disk Cleanup",
+      "Antivirus update"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Disk Cleanup"
+  },
+  {
+    "id": 586,
+    "question": "For cybersecurity training, student wants to test old Windows. What tool?",
+    "options": [
+      "Music player",
+      "VirtualBox",
+      "Antivirus",
+      "Excel"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is VirtualBox"
+  },
+  {
+    "id": 587,
+    "question": "What do the fine lines around the forecast line represent?",
+    "options": [
+      "Existing data and predicted values",
+      "The range in which 95% of future data points are expected to be",
+      "The period for which predictions are displayed",
+      "Lower and upper confidence boundaries"
+    ],
+    "answer": 3,
+    "explanation": "The Correct Answer is Lower and upper confidence boundaries"
+  },
+  {
+    "id": 588,
+    "question": "What can Goal Seek help you with?",
+    "options": [
+      "Creating a forecast based on historical data",
+      "Predicting future sales and consumer trends",
+      "Deriving input values for a desired output",
+      "Setting boundaries for confidence intervals"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Deriving input values for a desired output"
+  },
+  {
+    "id": 589,
+    "question": "The Forecast Sheet command in Excel can only be used to create charts.",
+    "options": [
+      true,
+      false
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is FALSE"
+  },
+  {
+    "id": 590,
+    "question": "The Set Cell box in the goal seek window displays the selected___________.",
+    "options": [
+      "Shape",
+      "Bullet Points",
+      "Column",
+      "Cell"
+    ],
+    "answer": 3,
+    "explanation": "The Correct Answer is Cell"
+  },
+  {
+    "id": 591,
+    "question": "Which of the following will enable you to see the row and column headers?",
+    "options": [
+      "Show all headers",
+      "Show row and column headers",
+      "Show row header",
+      "Show column header"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Show row header"
+  },
+  {
+    "id": 592,
+    "question": "What happens in the column for 'Differences' when the 'Projected cost' and 'Actual cost' differ?",
+    "options": [
+      "The value changes to red color",
+      "The value shows an error",
+      "The value gets deleted",
+      "The value shows no change"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is The value changes to red color"
+  },
+  {
+    "id": 593,
+    "question": "You are assigned to create a digital safety app. What feature must it include?",
+    "options": [
+      "Calculator",
+      "Antivirus scanner",
+      "Volume control",
+      "Font size adjuster"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Antivirus scanner"
+  },
+  {
+    "id": 594,
+    "question": "Raj decides to build a tool that backs up data daily. What category will it be?",
+    "options": [
+      "Screen recorders",
+      "Utility tools – backup",
+      "Word processors",
+      "File splitters"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Utility tools – backup"
+  },
+  {
+    "id": 595,
+    "question": "What is the use of Disk Cleanup?",
+    "options": [
+      "Makes icons colorful",
+      "Adds more animations",
+      "Frees up storage",
+      "Slows the system"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Frees up storage"
+  },
+  {
+    "id": 596,
+    "question": "Sahil’s laptop shows a virus warning. What utility first?",
+    "options": [
+      "Paint",
+      "Task Manager",
+      "Antivirus",
+      "WordPad"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Antivirus"
+  },
+  {
+    "id": 597,
+    "question": "A student deletes project folder. What can help recover it?",
+    "options": [
+      "File explorer",
+      "Taskbar",
+      "Norton Utilities",
+      "Startup menu"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Norton Utilities"
+  },
+  {
+    "id": 598,
+    "question": "You can set page orientation from __________ tab.",
+    "options": [
+      "Insert",
+      "Home",
+      "Page Layout",
+      "View"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Page Layout"
+  },
+  {
+    "id": 599,
+    "question": "You can not customize margins in Excel.",
+    "options": [
+      true,
+      false
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is FALSE"
+  },
+  {
+    "id": 600,
+    "question": "In order to change page margin, which menu would you choose to select \"Margins\"?",
+    "options": [
+      "Page Layout",
+      "View",
+      "Insert",
+      "Review"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Page Layout"
+  }
+]

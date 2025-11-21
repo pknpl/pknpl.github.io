@@ -1,362 +1,597 @@
 [
   {
-    "id": 151,
-    "question": "Which of the following items is NOT included in the OnCeT syllabus for Learning Facilitators?",
+    "id": 251,
+    "question": "Your parents want to pay light bill (electricity bill) using a phone app. Which IT service are they using?",
     "options": [
-      "MS-Office 2019",
-      "Windows 10",
-      "AI Tools",
-      "Marketing Strategies"
+      "Scanner app",
+      "Game app",
+      "UPI-based Digital Payment",
+      "Chat app"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is UPI-based Digital Payment"
+  },
+  {
+    "id": 252,
+    "question": "You received a file in .xlsx format but tried to open it in Word. Why didn’t it open properly?",
+    "options": [
+      "The file is too big",
+      "It needs special antivirus",
+      "File needs spreadsheet software, not word processor",
+      "The system has no mouse"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is File needs spreadsheet software, not word processor"
+  },
+  {
+    "id": 253,
+    "question": "A friend used Bluetooth to send you a class photo. What type of communication is this?",
+    "options": [
+      "Cloud communication",
+      "Wireless file transfer",
+      "Wired backup",
+      "Internet sharing"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Wireless file transfer"
+  },
+  {
+    "id": 254,
+    "question": "ISP stands for ?",
+    "options": [
+      "Internal Service Plan",
+      "Internet Service Plan",
+      "Integral Service Provider",
+      "Internet Service Provider"
     ],
     "answer": 3,
-    "explanation": "Marketing Strategies are part of the Center Coordinator OnCeT syllabus. The LF syllabus includes MS-Office, Windows 10, Google Tools, IT Peripherals, and AI Tools."
+    "explanation": "The Correct Answer is Internet Service Provider"
   },
   {
-    "id": 152,
-    "question": "What is the Application Fee for Non-Educational Institutes (Regular ALC)?",
+    "id": 255,
+    "question": "In Networking, Packetization refers to breaking information into small parts.",
     "options": [
-      "Rs. 2,500/-",
-      "Rs. 4,500/-",
-      "Rs. 9,500/-",
-      "Rs. 13,000/-"
+      true,
+      false
     ],
-    "answer": 2,
-    "explanation": "The breakdown for the Rs. 10,000/- fee includes Rs. 9,500/- towards the Application Fee."
+    "answer": 0,
+    "explanation": "The Correct Answer is TRUE"
   },
   {
-    "id": 153,
-    "question": "What is the 'AO Approval' process performed by the Training Provider?",
+    "id": 256,
+    "question": "Which primary issue does Quillbot solve for users?",
     "options": [
-      "Checking the bank balance of the AO",
-      "Recommending the AO if they meet MKCL norms",
-      "Conducting the OnCeT exam",
-      "Installing the software"
+      "Managing finances",
+      "Improving writing",
+      "Planning daily tasks",
+      "Controlling screen time"
     ],
     "answer": 1,
-    "explanation": "AO Approval means the TP views the AO's details and, if they agree the AO meets norms, recommends them from their login for the further process."
+    "explanation": "The Correct Answer is Improving writing"
   },
   {
-    "id": 154,
-    "question": "When does the registration process generally start for the year 2026?",
+    "id": 257,
+    "question": "How would a student most effectively use Quillbot to avoid plagiarism?",
     "options": [
-      "January 1, 2026",
-      "October 14, 2025",
-      "December 31, 2025",
-      "March 15, 2026"
-    ],
-    "answer": 1,
-    "explanation": "The process for the year 2026 started on 14 October 2025."
-  },
-  {
-    "id": 155,
-    "question": "If an AO fails to submit necessary documents within the stipulated date and gets rejected, how much of the registration fee is refundable?",
-    "options": [
-      "Rs. 9,500/-",
-      "Rs. 4,500/-",
-      "Rs. 500/-",
-      "No amount will be refundable"
+      "By summarizing text",
+      "By translating text",
+      "By grammar checking",
+      "By using the plagiarism checker"
     ],
     "answer": 3,
-    "explanation": "The FAQs state: 'If my application gets rejected due to failure to submit/upload all necessary documents... No amount will be refundable.'"
+    "explanation": "The Correct Answer is By using the plagiarism checker"
   },
   {
-    "id": 156,
-    "question": "What is the duration of the OnCeT Examination for the Center Coordinator?",
+    "id": 258,
+    "question": "What is the function of shortcuts created for items like file, folder, or program in Windows 10?",
     "options": [
-      "30 Minutes",
-      "45 Minutes",
-      "60 Minutes",
-      "90 Minutes"
+      "It protects the original file",
+      "It gives you a quick way to open the original file or program",
+      "It is a link to an item located online",
+      "It makes the original program run faster when you open it"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is It gives you a quick way to open the original file or program"
+  },
+  {
+    "id": 259,
+    "question": "Select the true statement about the shortcuts of files or folders.",
+    "options": [
+      "When you delete a shortcut, it just gets hidden",
+      "When you create a shortcut of an item, its copy is created",
+      "When you create a shortcut, the item is renamed with the suffix 'roriginal_file'",
+      "You cannot delete a shortcut"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is When you create a shortcut of an item, its copy is created"
+  },
+  {
+    "id": 260,
+    "question": "You forward a joke to your class group without checking. Someone got hurt. What went wrong?",
+    "options": [
+      "Forwarded at wrong time",
+      "Phone was slow",
+      "Shared without thinking about ethics",
+      "Sent to teacher too"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Shared without thinking about ethics"
+  },
+  {
+    "id": 261,
+    "question": "Your teacher uses a smartboard instead of blackboard. What is the real benefit?",
+    "options": [
+      "Less chalk dust",
+      "Smartboards look nice",
+      "They can show video and images",
+      "Students can draw easily"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is They can show video and images"
+  },
+  {
+    "id": 262,
+    "question": "A friend wants to know the difference between hard disk and pen drive. Which is correct?",
+    "options": [
+      "A hard disk is connected to the computer wirelessly, but a pen drive requires a wired connection.",
+      "A pen drive is easy to remove and carry, while a hard disk is built inside the computer.",
+      "A hard disk needs special software to store large files, but a pen drive does not.",
+      "Pen drive needs antivirus"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is A pen drive is easy to remove and carry, while a hard disk is built inside the computer."
+  },
+  {
+    "id": 263,
+    "question": "You use headphones in computer class. What kind of device is it?",
+    "options": [
+      "Input",
+      "Storage",
+      "Output",
+      "Network"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Output"
+  },
+  {
+    "id": 264,
+    "question": "A quiz form automatically shows marks after submission. What is this an example of?",
+    "options": [
+      "PowerPoint",
+      "Video call",
+      "Online form with auto calculation",
+      "Slide show"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Online form with auto calculation"
+  },
+  {
+    "id": 265,
+    "question": "Your group is creating a presentation about trees. One person types, one adds pictures, one checks spelling. What is this called?",
+    "options": [
+      "Individual learning",
+      "Competition",
+      "Teamwork using digital tools",
+      "Offline gaming"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Teamwork using digital tools"
+  },
+  {
+    "id": 266,
+    "question": "You and your friend both want to write a project report. Which tool is better for working together from different homes?",
+    "options": [
+      "WordPad – easy to type",
+      "Google Docs – allows both to type and see changes together",
+      "MS Paint – for drawing",
+      "Notepad – saves quickly"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Google Docs – allows both to type and see changes together"
+  },
+  {
+    "id": 267,
+    "question": "Your parents want to pay electricity bills online. Which is the safe and quick way?",
+    "options": [
+      "Visiting the office is always better",
+      "Using an official app is faster, safer, and easier",
+      "Asking a friend to pay",
+      "Sending SMS to office"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Using an official app is faster, safer, and easier"
+  },
+  {
+    "id": 268,
+    "question": "A friend keeps installing unknown apps from the internet. What will you suggest?",
+    "options": [
+      "Try even more apps to learn",
+      "It's okay if it's free",
+      "Only install trusted apps and check reviews",
+      "Install them all and uninstall later"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Only install trusted apps and check reviews"
+  },
+  {
+    "id": 269,
+    "question": "You want to record student attendance and calculate percent. What is the best option?",
+    "options": [
+      "Write in notebook",
+      "Use Excel with formulas",
+      "Ask students daily",
+      "Take photos"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Use Excel with formulas"
+  },
+  {
+    "id": 270,
+    "question": "What is the fundamental purpose of an email account?",
+    "options": [
+      "To store and edit large video or multimedia files",
+      "To browse websites and search the internet",
+      "Viewing advertisements and offers from various companies in one place.",
+      "To send and receive emails and manage communications"
+    ],
+    "answer": 3,
+    "explanation": "The Correct Answer is To send and receive emails and manage communications"
+  },
+  {
+    "id": 271,
+    "question": "What purpose does the \"Vacation Responder\" feature serve in Gmail?",
+    "options": [
+      "It responds to emails with a preset message when the user is unavailable",
+      "It helps change the Gmail account password",
+      "It automatically organizes incoming emails",
+      "It allows users to import contacts from other email accounts"
     ],
     "answer": 0,
-    "explanation": "The Center Coordinator OnCeT duration is 30 minutes."
+    "explanation": "The Correct Answer is It responds to emails with a preset message when the user is unavailable"
   },
   {
-    "id": 157,
-    "question": "What is 'MKCL's Fee Only' (MFO)?",
+    "id": 272,
+    "question": "What does Google Docs Voice Typing help users achieve easily?",
     "options": [
-      "The monthly rent paid to MKCL",
-      "The amount ALC pays to MKCL per admission",
-      "The fee for software installation",
-      "The penalty for late admissions"
+      "Editing pre-written text automatically",
+      "Typing text with simple formatting commands by speaking",
+      "Translating entire documents instantly",
+      "Generating content summaries"
     ],
     "answer": 1,
-    "explanation": "MFO is the amount the ALC needs to pay to MKCL while confirming any admission. The ALC keeps the rest of the course fee."
+    "explanation": "The Correct Answer is Typing text with simple formatting commands by speaking"
   },
   {
-    "id": 158,
-    "question": "Is negative marking applicable in the OnCeT Examination?",
+    "id": 273,
+    "question": "If Google Docs Voice Typing is inaccurately recognizing speech, which AI technology is likely not performing optimally?",
     "options": [
-      "Yes, 0.25 marks per wrong answer",
-      "Yes, 0.5 marks per wrong answer",
-      "No, there is no negative marking",
-      "Yes, only for the LF exam"
-    ],
-    "answer": 2,
-    "explanation": "The Exam Pattern specifies 'No negative marking' for both LF and Center Coordinator exams."
-  },
-  {
-    "id": 159,
-    "question": "What is the minimum SSD capacity required for Client computers?",
-    "options": [
-      "128 GB",
-      "256 GB",
-      "500 GB",
-      "1 TB"
-    ],
-    "answer": 1,
-    "explanation": "The Minimum Client Configuration requires a 256 GB SSD Hard disk."
-  },
-  {
-    "id": 160,
-    "question": "What is the role of the Local Lead Center (LLC) in the registration process?",
-    "options": [
-      "To pay fees on behalf of the AO",
-      "To conduct the OnCeT exam",
-      "To visit and verify that information furnished by AO is true",
-      "To provide the internet connection"
-    ],
-    "answer": 2,
-    "explanation": "LLC (and TP) visits ensure that the information furnished by the AO is true in all respects."
-  },
-  {
-    "id": 161,
-    "question": "Which document is initially optional but later mandatory for finalization?",
-    "options": [
-      "Electricity Bill",
-      "Rent Agreement",
-      "PAN Card",
-      "Shop Act License"
-    ],
-    "answer": 2,
-    "explanation": "The FAQs mention that AOs can upload other valid identity documents initially, but the PAN Card is mandatory for finalization."
-  },
-  {
-    "id": 162,
-    "question": "Who is responsible for checking the AO's email and SMS for schedule updates?",
-    "options": [
-      "The Training Provider",
-      "The Applicant Organization (AO)",
-      "MKCL Support Team",
-      "The Local Lead Center"
-    ],
-    "answer": 1,
-    "explanation": "It is the responsibility of the AO to visit the portal, log in, and keep updated. MKCL will not make separate calls."
-  },
-  {
-    "id": 163,
-    "question": "What is the minimum number of Clients (computers) required in the lab setup?",
-    "options": [
-      "5",
-      "10",
-      "15",
-      "20"
-    ],
-    "answer": 1,
-    "explanation": "The minimum lab setup is 1 Server + 10 Clients."
-  },
-  {
-    "id": 164,
-    "question": "For how many years is the MS-CIT New Center Registration process generally valid before renewal?",
-    "options": [
-      "6 months",
-      "1 year",
-      "2 years",
-      "5 years"
-    ],
-    "answer": 1,
-    "explanation": "Registration is for the year 2026. If conditions are met, they are eligible for renewal for 2027."
-  },
-  {
-    "id": 165,
-    "question": "Which component is NOT refundable if the AO application is rejected?",
-    "options": [
-      "Application Fee",
-      "Security Deposit",
-      "Processing Fee",
-      "Performance Guarantee Amount"
-    ],
-    "answer": 2,
-    "explanation": "The Rs. 500/- Processing Fee is clearly marked as Non-Refundable."
-  },
-  {
-    "id": 166,
-    "question": "What is the Performance Guarantee Amount for an Urban/Semi-Urban Center?",
-    "options": [
-      "Rs. 25,000/-",
-      "Rs. 50,000/-",
-      "Rs. 75,000/-",
-      "Rs. 1,00,000/-"
-    ],
-    "answer": 1,
-    "explanation": "For Urban/Semi-Urban Centers, the Performance Guarantee Amount is Rs. 50,000/-."
-  },
-  {
-    "id": 167,
-    "question": "Can an existing super-performing ALC apply for a new center in another district?",
-    "options": [
-      "Yes, and they get preference",
-      "Yes, but they will not be given any preference",
-      "No, it is prohibited",
-      "Yes, if they close the old center"
-    ],
-    "answer": 1,
-    "explanation": "Application from an existing super-performing ALC to open a new Center in another District will not be given any preference."
-  },
-  {
-    "id": 168,
-    "question": "What happens if an AO tries to contact MKCL directly via email or phone for influence?",
-    "options": [
-      "Their query is answered within 24 hours",
-      "They are charged a fine",
-      "Their application will be rejected without reason",
-      "They are redirected to the Call Center"
-    ],
-    "answer": 2,
-    "explanation": "The guidelines state: 'If any AO tries to contact directly or indirectly... we will reject the application... without giving any reason.'"
-  },
-  {
-    "id": 169,
-    "question": "Which processor generation is the minimum requirement for Server and Client?",
-    "options": [
-      "Intel i3 4th Gen",
-      "Intel i5 6th Gen",
-      "Intel i7 8th Gen",
-      "AMD Ryzen 3"
-    ],
-    "answer": 1,
-    "explanation": "The minimum configuration specifies Intel i5 6th Generation."
-  },
-  {
-    "id": 170,
-    "question": "How many Center Coordinators can be registered per center?",
-    "options": [
-      "Only one",
-      "Up to two",
-      "One per shift",
-      "Unlimited"
+      "Machine Learning",
+      "Predictive analytics",
+      "Image recognition",
+      "Automated scheduling"
     ],
     "answer": 0,
-    "explanation": "The FAQs clearly state: 'How many Center Coordinators can I register? A. Only one.'"
+    "explanation": "The Correct Answer is Machine Learning"
   },
   {
-    "id": 171,
-    "question": "What is the format of study material received by learners?",
+    "id": 274,
+    "question": "Which is the web browser that comes pre-installed with Windows 10?",
     "options": [
-      "Printed textbooks",
-      "e-book available on MKCL Learner App",
-      "PDFs via Email",
-      "Video DVDs"
+      "Microsoft Edge",
+      "Internet Explorer",
+      "Google Chrome"
     ],
-    "answer": 1,
-    "explanation": "Learners will receive study material in the format of an e-book available on the MKCL Learner App."
+    "answer": 0,
+    "explanation": "The Correct Answer is Microsoft Edge"
   },
   {
-    "id": 172,
-    "question": "What is the official website for MS-CIT New Center Registration?",
+    "id": 275,
+    "question": "Your computer is running very slowly after installing many new programs. What will you do first?",
     "options": [
-      "www.mkcl.org",
-      "register.mkcl.org",
-      "mscit.mkcl.org",
-      "solarl.mkcl.org"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: register.mkcl.org. This is the dedicated portal for the New Center Registration process."
-  },
-  {
-    "id": 173,
-    "question": "What is the total Center Registration Fee for a new Applicant Organization (AO)?",
-    "options": [
-      "Rs. 5,000/-",
-      "Rs. 10,000/-",
-      "Rs. 15,000/-",
-      "Rs. 25,000/-"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Rs. 10,000/-. This includes the Application Fee and Processing Fee."
-  },
-  {
-    "id": 174,
-    "question": "Out of the total registration fee, how much is the Non-Refundable Processing Fee?",
-    "options": [
-      "Rs. 1,000/-",
-      "Rs. 500/-",
-      "Rs. 2,000/-",
-      "Rs. 100/-"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Rs. 500/-. This amount is charged towards processing and is non-refundable."
-  },
-  {
-    "id": 175,
-    "question": "What is the Refundable Application Fee amount if the application is rejected?",
-    "options": [
-      "Rs. 9,000/-",
-      "Rs. 9,500/-",
-      "Rs. 10,000/-",
-      "Rs. 5,000/-"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Rs. 9,500/-. This portion is refundable subject to rejection by MKCL."
-  },
-  {
-    "id": 176,
-    "question": "What is the name of the portal used for MKCL's Online Business Management Framework?",
-    "options": [
-      "LUNAR Portal",
-      "SOLAR Portal",
-      "STAR Portal",
-      "MKCL Cloud"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: SOLAR Portal. The Login ID used here is the AO Login ID."
-  },
-  {
-    "id": 177,
-    "question": "Is the MS-CIT ALC Authorization transferable to another person or organization?",
-    "options": [
-      "Yes, with a fee",
-      "Yes, after 1 year",
-      "No, it is non-transferable",
-      "Yes, with LLC permission"
+      "Restart the computer and change the desktop background",
+      "Install more programs",
+      "Run antivirus and delete unused apps",
+      "Turn off the computer and wait for 24 hours before using it again"
     ],
     "answer": 2,
-    "explanation": "The correct answer is: No, it is non-transferable. An ALC cannot sell or transfer authorization rights."
+    "explanation": "The Correct Answer is Run antivirus and delete unused apps"
   },
   {
-    "id": 178,
-    "question": "What is the minimum total Carpet Area required for a new MS-CIT Center?",
+    "id": 276,
+    "question": "While creating a digital notice, your friend adds only text. What can you suggest to improve it?",
     "options": [
-      "150 sq. feet",
-      "200 sq. feet",
-      "300 sq. feet",
-      "500 sq. feet"
+      "Add songs",
+      "Add pictures, headings, and layout using PowerPoint or Canva",
+      "Add jokes",
+      "Print it with color"
     ],
     "answer": 1,
-    "explanation": "The correct answer is: 200 sq. feet. This includes the Counseling Area, Lecture Room, and Computer Laboratory."
+    "explanation": "The Correct Answer is Add pictures, headings, and layout using PowerPoint or Canva"
   },
   {
-    "id": 179,
-    "question": "What is the minimum carpet area required specifically for the Computer Laboratory?",
+    "id": 277,
+    "question": "You are asked to design a digital poster on “Save Water.” Which tools will help you make it attractive and informative?",
     "options": [
-      "50 sq. feet",
-      "100 sq. feet",
-      "150 sq. feet",
-      "200 sq. feet"
+      "Notepad and Paint",
+      "Canva or Google Slides with text, images, and shapes",
+      "Calculator and WordPad",
+      "VLC Media Player"
     ],
     "answer": 1,
-    "explanation": "The correct answer is: 100 sq. feet. This is the compulsory dedicated space for the computer lab."
+    "explanation": "The Correct Answer is Canva or Google Slides with text, images, and shapes"
   },
   {
-    "id": 180,
-    "question": "Which document is mandatory for the finalization of the New Center Registration Process?",
+    "id": 278,
+    "question": "You want to help your grandmother learn how to pay bills online using her mobile. What is the best way to teach her?",
     "options": [
-      "Driving License",
-      "PAN Card",
-      "Voter ID",
-      "Ration Card"
+      "Tell her to search on YouTube",
+      "Show her steps using your phone with simple language",
+      "Ask her to ask someone else",
+      "Give her the bill and leave"
     ],
     "answer": 1,
-    "explanation": "The correct answer is: PAN Card. AOs can upload other IDs initially, but PAN is mandatory for finalization."
+    "explanation": "The Correct Answer is Show her steps using your phone with simple language"
+  },
+  {
+    "id": 279,
+    "question": "You are making a class chart using Excel. What columns will you add to make it useful?",
+    "options": [
+      "Day, subject, teacher, time",
+      "Only teacher name",
+      "Only date and day",
+      "Just total marks"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Day, subject, teacher, time"
+  },
+  {
+    "id": 280,
+    "question": "You want to make a fun quiz for your classmates about computer parts. Which tool will help you?",
+    "options": [
+      "Video player",
+      "Google Forms with images and MCQs",
+      "Antivirus scanner",
+      "MS Paint"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Google Forms with images and MCQs"
+  },
+  {
+    "id": 281,
+    "question": "You have to prepare a digital classroom board for a festival. What all can you include?",
+    "options": [
+      "The complete list of class rules and penalties for conducting festivities in discipline",
+      "Festival posters, digital drawings, wishes, quotes",
+      "A long text document explaining the festival's history in detail",
+      "Links to homework assignments for the festival week"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Festival posters, digital drawings, wishes, quotes"
+  },
+  {
+    "id": 282,
+    "question": "Your class is making a timetable app idea for a project. What features should you suggest?",
+    "options": [
+      "Background music and fun sound effects",
+      "Linking to popular social media websites for easy sharing",
+      "Subject time, reminders, and weekly view",
+      "A built-in camera and photo editor for class selfies"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Subject time, reminders, and weekly view"
+  },
+  {
+    "id": 283,
+    "question": "You and your friends are making a short film about “Digital India.” What tools might you use?",
+    "options": [
+      "Excel sheet and chart",
+      "Video editor, camera, Canva for poster",
+      "Antivirus",
+      "Keyboard and monitor only"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Video editor, camera, Canva for poster"
+  },
+  {
+    "id": 284,
+    "question": "You want to create a fun activity using IT for your school’s environment club. What will you design?",
+    "options": [
+      "A written essay in notebook",
+      "A printed map from textbook",
+      "A digital game or quiz using Scratch or Google Forms",
+      "Only drawings on paper"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is A digital game or quiz using Scratch or Google Forms"
+  },
+  {
+    "id": 285,
+    "question": "How can you preview a document before printing it in Microsoft Word?",
+    "options": [
+      "Click on the Print button directly",
+      "Use the Print Preview option in the File tab",
+      "Go to the View tab and select Print Layout",
+      "Open the document in a separate window"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Go to the View tab and select Print Layout"
+  },
+  {
+    "id": 286,
+    "question": "What function does the \"File\" tab serve in Microsoft Word?",
+    "options": [
+      "Inserting images",
+      "Saving and opening documents",
+      "Formatting text",
+      "Changing document layout"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Saving and opening documents"
+  },
+  {
+    "id": 287,
+    "question": "Which of the following does not fall under the category of Fonts?",
+    "options": [
+      "Calibri",
+      "Times New Roman",
+      "Century",
+      "Italic"
+    ],
+    "answer": 3,
+    "explanation": "The Correct Answer is Italic"
+  },
+  {
+    "id": 288,
+    "question": "To increase the font size we will click on the font group",
+    "options": [
+      true,
+      false
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is TRUE"
+  },
+  {
+    "id": 289,
+    "question": "You want to add color to your text in the document. Which option from Home tab will you use to do so?",
+    "options": [
+      "Font Group",
+      "Style group",
+      "Paragraph group",
+      "Editing group"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Font Group"
+  },
+  {
+    "id": 290,
+    "question": "Format Painter style option is found in __________ group",
+    "options": [
+      "Home > Clipboard",
+      "Home > Paragraph",
+      "Home > Font",
+      "Home > Styles"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Home > Clipboard"
+  },
+  {
+    "id": 291,
+    "question": "Where do you find the option to change the font color?",
+    "options": [
+      "in Editing group",
+      "In Font group",
+      "In Styles group",
+      "In Paragraph group"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is In Font group"
+  },
+  {
+    "id": 292,
+    "question": "What is the default line spacing in Word document?",
+    "options": [
+      1,
+      1.5,
+      1.15,
+      2
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is 1.15"
+  },
+  {
+    "id": 293,
+    "question": "How to remove borders from your table?",
+    "options": [
+      "Select the table cell > Click on table Design > Select Borders > No borders",
+      "Select the table cell > Click on table Design > Select Borders Painters",
+      "Select the table cell > Click on table Design > Select Borders > All borders",
+      "Select the table cell > Click on table Design > Select Borders styles"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Select the table cell > Click on table Design > Select Borders > No borders"
+  },
+  {
+    "id": 294,
+    "question": "Changing the text to Bold or Italic form is known as __________.",
+    "options": [
+      "Text effects",
+      "WordArt",
+      "Font effects",
+      "Font styles"
+    ],
+    "answer": 3,
+    "explanation": "The Correct Answer is Font styles"
+  },
+  {
+    "id": 295,
+    "question": "Bullet style option is found in __________ group.",
+    "options": [
+      "Font",
+      "Styles",
+      "Editing",
+      "Paragraph"
+    ],
+    "answer": 3,
+    "explanation": "The Correct Answer is Paragraph"
+  },
+  {
+    "id": 296,
+    "question": "To enter & formate the text you will use __________ Tab.",
+    "options": [
+      "File",
+      "Insert",
+      "Home",
+      "Review"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Home"
+  },
+  {
+    "id": 297,
+    "question": "Tushar wants to add a video to his school website. His teacher says he needs a tool to run media. What tool does he need?",
+    "options": [
+      "Cookie",
+      "Plug-in",
+      "Firewall",
+      "Spreadsheet"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Plug-in"
+  },
+  {
+    "id": 298,
+    "question": "Om clicked on a website link and suddenly a new tab opened with an ad. What is this called?",
+    "options": [
+      "File Download",
+      "Hyperlink",
+      "Pop-up",
+      "Bookmark"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Pop-up"
+  },
+  {
+    "id": 299,
+    "question": "Anaya is writing an email to her teacher and wants to send her homework. What should she do?",
+    "options": [
+      "Paste it in the subject",
+      "Add it as an attachment",
+      "Type it in the To field",
+      "Put it in BCC"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Add it as an attachment"
+  },
+  {
+    "id": 300,
+    "question": "Aarav is typing “mkcl.org” but the page does not open. What should he check first?",
+    "options": [
+      "If the site is printed in bold",
+      "If he has internet connection",
+      "If his sound is working",
+      "If someone else opened it"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is If he has internet connection"
   }
 ]

@@ -1,0 +1,362 @@
+[
+  {
+    "id": 391,
+    "question": "What is the 'Learner Confirmation' period each month?",
+    "options": [
+      "1st to 10th",
+      "1st to 30th",
+      "20th to 30th",
+      "Last 5 days only"
+    ],
+    "answer": 1,
+    "explanation": "Learner Confirmation by ALC happens from the 1st to the 30th of each calendar month."
+  },
+  {
+    "id": 392,
+    "question": "Can a learner take KLiC admission in 'Online Mode' without visiting a center?",
+    "options": [
+      "Yes, via www.mkcl.org/join",
+      "No, physical visit is mandatory",
+      "Yes, but only for Diploma",
+      "No, unless disabled"
+    ],
+    "answer": 0,
+    "explanation": "Yes, a learner can register online by visiting www.mkcl.org/join."
+  },
+  {
+    "id": 393,
+    "question": "If a learner pays fees online, what is the next step?",
+    "options": [
+      "Directly start exam",
+      "Wait for 2 months",
+      "Admission confirmation",
+      "Receive degree immediately"
+    ],
+    "answer": 2,
+    "explanation": "After payment, the admission must be confirmed (Course Start Date & Login generation)."
+  },
+  {
+    "id": 394,
+    "question": "What is the duration of the 'New Collar Job Track' courses?",
+    "options": [
+      "1 year",
+      "30, 60, or 90 hours",
+      "200 hours",
+      "500 hours"
+    ],
+    "answer": 1,
+    "explanation": "New Collar Job Track courses are available in 30, 60, or 90-hour formats."
+  },
+  {
+    "id": 395,
+    "question": "What happens if an AO contacts MKCL through unauthorized means (e.g., direct email)?",
+    "options": [
+      "Application is expedited",
+      "Application is rejected",
+      "Warning is issued",
+      "Fine is imposed"
+    ],
+    "answer": 1,
+    "explanation": "The application will be rejected without explanation if AO contacts MKCL through unauthorized means."
+  },
+  {
+    "id": 396,
+    "question": "What is the full form of ERA?",
+    "options": [
+      "Education Revolution Agency",
+      "eLearning Revolution for All",
+      "Electronic Register for Admission",
+      "Education Resource Association"
+    ],
+    "answer": 1,
+    "explanation": "ERA stands for eLearning Revolution for All (MKCL's learning management system)."
+  },
+  {
+    "id": 397,
+    "question": "How many distinct KLiC Creditized Courses can be taught simultaneously in a lab of 50 computers?",
+    "options": [
+      "Only 1",
+      "Up to 5",
+      "Up to 50",
+      "Up to 10"
+    ],
+    "answer": 2,
+    "explanation": "50 students may learn 50 distinctly different KLiC Creditized Courses simultaneously due to self-paced learning."
+  },
+  {
+    "id": 398,
+    "question": "Which pedagogy is followed in KLiC Creditized Courses?",
+    "options": [
+      "Chalk and Talk",
+      "Inform-to-perform and perform-to-transform",
+      "Rote Memorization",
+      "Teacher-Centric Learning"
+    ],
+    "answer": 1,
+    "explanation": "The pedagogy is 'inform-to-perform and perform-to-transform'."
+  },
+  {
+    "id": 399,
+    "question": "What is the validity of the KLiC Internship credit certificate?",
+    "options": [
+      "Valid for 1 year",
+      "Valid for 2 academic credits",
+      "Valid for lifetime",
+      "Valid for 5 years"
+    ],
+    "answer": 1,
+    "explanation": "The certificate is eligible for 2 academic credits."
+  },
+  {
+    "id": 400,
+    "question": "Which of the following is NOT a benefit of the KLiC Internship?",
+    "options": [
+      "Real Work Experience",
+      "Earn Credits",
+      "Get a Laptop",
+      "Resume Enhancement"
+    ],
+    "answer": 2,
+    "explanation": "Getting a laptop is not a stated benefit of the KLiC Internship."
+  },
+  {
+    "id": 401,
+    "question": "What is the purpose of the 'Enquiry Register' in the Counselling Area?",
+    "options": [
+      "To note down student doubts",
+      "To record details of visitors/prospective learners",
+      "To manage accounts",
+      "To mark attendance"
+    ],
+    "answer": 1,
+    "explanation": "The Enquiry Register is used to record details of prospective learners visiting the center."
+  },
+  {
+    "id": 402,
+    "question": "Can an AO apply for an additional 'Business Potential Area'?",
+    "options": [
+      "Yes, by paying extra",
+      "No, requests will not be entertained",
+      "Yes, after 1 year",
+      "Yes, if approved by RLC"
+    ],
+    "answer": 1,
+    "explanation": "Requests to add any additional Business Potential Area will not be entertained."
+  },
+  {
+    "id": 403,
+    "question": "Who provides the 'Recommendation by LLC'?",
+    "options": [
+      "Local Lead Center",
+      "Training Partner",
+      "MKCL HO",
+      "Applicant Organization"
+    ],
+    "answer": 0,
+    "explanation": "The Local Lead Center (LLC) provides the recommendation after verification."
+  },
+  {
+    "id": 404,
+    "question": "What is the full form of NCR?",
+    "options": [
+      "New Course Registration",
+      "New Center Registration",
+      "National Center Registry",
+      "Network Center Rules"
+    ],
+    "answer": 1,
+    "explanation": "NCR stands for New Center Registration."
+  },
+  {
+    "id": 405,
+    "question": "Are air conditioning facilities mandatory for the center?",
+    "options": [
+      "Yes",
+      "No (Optional)",
+      "Only for Server Room",
+      "Only in Mumbai"
+    ],
+    "answer": 1,
+    "explanation": "Air conditioning facility is listed as optional."
+  },
+  {
+    "id": 406,
+    "question": "What is the minimum SSD capacity for Client machines?",
+    "options": [
+      "128 GB",
+      "256 GB",
+      "512 GB",
+      "1 TB"
+    ],
+    "answer": 1,
+    "explanation": "The minimum Client Configuration requires a 256 GB SSD Hard disk."
+  },
+  {
+    "id": 407,
+    "question": "Which web browser is recommended for SOLAR access (implied)?",
+    "options": [
+      "Internet Explorer 6",
+      "Modern Browsers (Chrome/Firefox)",
+      "Netscape Navigator",
+      "Safari only"
+    ],
+    "answer": 1,
+    "explanation": "While not explicitly in snippets, modern web portals like SOLAR typically require modern browsers."
+  },
+  {
+    "id": 408,
+    "question": "What is the purpose of the WORM software?",
+    "options": [
+      "To clean viruses",
+      "To declare Computer Hardware",
+      "To manage fees",
+      "To conduct exams"
+    ],
+    "answer": 1,
+    "explanation": "WORM Software is used to Declare Computer Hardware."
+  },
+  {
+    "id": 409,
+    "question": "Can the center be used for other businesses like sales or storage?",
+    "options": [
+      "Yes, if space permits",
+      "No, dedicated space for education only",
+      "Yes, after class hours",
+      "Yes, on weekends"
+    ],
+    "answer": 1,
+    "explanation": "The dedicated space should not be used for any other purpose such as sales, storage, or any other business."
+  },
+  {
+    "id": 410,
+    "question": "How often can the KLiC Creditized Course fee be revised by MKCL?",
+    "options": [
+      "Monthly",
+      "Annually",
+      "Every 5 years",
+      "Never"
+    ],
+    "answer": 1,
+    "explanation": "The fee may be revised by MKCL annually."
+  },
+  {
+    "id": 411,
+    "question": "Does MKCL guarantee that KLiC credits will be accepted by all schools/colleges?",
+    "options": [
+      "Yes, guaranteed by Government",
+      "No, it is at the discretion of the institution",
+      "Yes, for CBSE schools only",
+      "Yes, for YCMOU only"
+    ],
+    "answer": 1,
+    "explanation": "MKCL does not guarantee credit acceptance; it is solely at the discretion of the respective school or college."
+  },
+  {
+    "id": 412,
+    "question": "What is the minimum duration to complete the KLiC Internship?",
+    "options": [
+      "1 week",
+      "2 to 3 months",
+      "6 months",
+      "1 year"
+    ],
+    "answer": 1,
+    "explanation": "The internship duration is 2 to 3 months (60 hours)."
+  },
+  {
+    "id": 413,
+    "question": "Which of the following is an internship role focused on guiding students?",
+    "options": [
+      "Student Counsellor",
+      "Office Assistant",
+      "Digital Content Creator",
+      "Social Media Marketer"
+    ],
+    "answer": 0,
+    "explanation": "Student Counsellor is the role focused on guiding students on their learning path."
+  },
+  {
+    "id": 414,
+    "question": "How is the 60-hour KLiC Internship investment described?",
+    "options": [
+      "Expensive",
+      "Free",
+      "Affordable (Rs. 500)",
+      "Sponsored"
+    ],
+    "answer": 2,
+    "explanation": "It is described as Affordable with a fee of just Rs. 500/-."
+  },
+  {
+    "id": 415,
+    "question": "Can a learner taking a KLiC Course finish it in 1 month?",
+    "options": [
+      "No, minimum 2 months",
+      "Yes, 1 month (4 weeks) option is available",
+      "No, minimum 3 months",
+      "Yes, in 1 week"
+    ],
+    "answer": 1,
+    "explanation": "A learner has the option to complete a KLiC Certificate Course in 1 month (4 weeks)."
+  },
+  {
+    "id": 416,
+    "question": "Who is the 'Certifying Authority' for KLiC Certificate Courses?",
+    "options": [
+      "YCMOU",
+      "MKCL",
+      "MSBTE",
+      "AICTE"
+    ],
+    "answer": 1,
+    "explanation": "The certificate is awarded by MKCL."
+  },
+  {
+    "id": 417,
+    "question": "Which document is proof of authorization for an ALC?",
+    "options": [
+      "Electricity Bill",
+      "ALC Certificate from MKCL",
+      "Shop Act License",
+      "Rent Agreement"
+    ],
+    "answer": 1,
+    "explanation": "An ALC can produce a certificate awarded to it by MKCL mentioning its authorization."
+  },
+  {
+    "id": 418,
+    "question": "What is the refund processing time if an AO withdraws before code generation?",
+    "options": [
+      "7 days",
+      "1 month",
+      "3 to 4 months",
+      "1 year"
+    ],
+    "answer": 2,
+    "explanation": "Refund will be processed within 3 to 4 months from the date of withdrawal or rejection."
+  },
+  {
+    "id": 419,
+    "question": "Will MKCL issue refund payments via Cheque or DD?",
+    "options": [
+      "Yes, if requested",
+      "No, only online transfer",
+      "Yes, for amounts over Rs. 10,000",
+      "Yes, for Educational Institutes"
+    ],
+    "answer": 1,
+    "explanation": "MKCL will not issue payments via cheque, DD, or to any other bank account."
+  },
+  {
+    "id": 420,
+    "question": "What happens to the processing fee if the application is rejected?",
+    "options": [
+      "Refunded",
+      "Non-Refundable",
+      "Adjusted in next year",
+      "50% Refunded"
+    ],
+    "answer": 1,
+    "explanation": "The Rs. 500/- Processing Fee is Non-Refundable."
+  }
+]

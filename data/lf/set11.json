@@ -1,0 +1,596 @@
+[
+  {
+    "id": 501,
+    "question": "You will be able to view the weather forecast for the next _____ days, on the Kisan Suvidha app.",
+    "options": [
+      3,
+      5,
+      7,
+      10
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is 5"
+  },
+  {
+    "id": 502,
+    "question": "What do the fine lines around the forecast line represent?",
+    "options": [
+      "Existing data and predicted values",
+      "The range in which 95% of future data points are expected to be",
+      "The period for which predictions are displayed",
+      "Lower and upper confidence boundaries"
+    ],
+    "answer": 3,
+    "explanation": "The Correct Answer is Lower and upper confidence boundaries"
+  },
+  {
+    "id": 503,
+    "question": "Which web address takes you to the website for the National Digital Library of India?",
+    "options": [
+      "mygov.in",
+      "ndl.iitkgp.ac.in",
+      "cowin.org",
+      "nsdc.in"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is ndl.iitkgp.ac.in"
+  },
+  {
+    "id": 504,
+    "question": "All Indian citizens between the age of 18 to 70 years are eligible for the Pradhan Mantri Suraksha Bhima Yojana.",
+    "options": [
+      true,
+      false
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is TRUE"
+  },
+  {
+    "id": 505,
+    "question": "The Pradhan Mantri Suraksha Bima Yojana offers a cover in case of accidental death or permanent disability of the eyes or limbs.",
+    "options": [
+      true,
+      false
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is TRUE"
+  },
+  {
+    "id": 506,
+    "question": "What is the cover provided by the Pradhan Mantri Suraksha Bima Yojana?",
+    "options": [
+      "4 to 5 lakhs",
+      "2 to 3 lakhs",
+      "1 to 2 lakhs",
+      "3 to 4 lakhs"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is 1 to 2 lakhs"
+  },
+  {
+    "id": 507,
+    "question": "How many numbers does the Rakshak app send an SMS to, in case of an emergency?",
+    "options": [
+      10,
+      20,
+      4,
+      1
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is 4"
+  },
+  {
+    "id": 508,
+    "question": "Which app helps to protect women and senior citizens in India?",
+    "options": [
+      "Rakshak app",
+      "Gpay app",
+      "Facebook app",
+      "Swachhata MoHUA app"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Rakshak app"
+  },
+  {
+    "id": 509,
+    "question": "Which web address is for the PMMY website?",
+    "options": [
+      "www.mudra.org.in",
+      "www.pradhan.in",
+      "www.mantri.org.in",
+      "www.mudrayojana.com"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is www.mudra.org.in"
+  },
+  {
+    "id": 510,
+    "question": "The Mudra loan applicant should not be ___________ with any financial institution.",
+    "options": [
+      "an applicant",
+      "a defaulter",
+      "a partner",
+      "a competitor"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is a defaulter"
+  },
+  {
+    "id": 511,
+    "question": "What is Pradhanmantri Awas Yojana?",
+    "options": [
+      "Employment Scheme",
+      "Loan Scheme",
+      "Housing Sheme",
+      "Education Scheme"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Housing Sheme"
+  },
+  {
+    "id": 512,
+    "question": "Which of the following does not include in the process of application of Toilet Certificate on Aaple Sarkar website?",
+    "options": [
+      "Payment",
+      "Registration",
+      "Login",
+      "Biometric"
+    ],
+    "answer": 3,
+    "explanation": "The Correct Answer is Biometric"
+  },
+  {
+    "id": 513,
+    "question": "Which web address is for the PMMY website?",
+    "options": [
+      "www.mudra.org.in",
+      "www.pradhan.in",
+      "www.mantri.org.in",
+      "www.mudrayojana.com"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is www.mudra.org.in"
+  },
+  {
+    "id": 514,
+    "question": "Select the website that you must visit to apply for an Age Nationality and Domicile Certificate.",
+    "options": [
+      "https://data.gov.in/",
+      "www.aaplesarkar.mahaonline.gov.in",
+      "www.mahaonline.com",
+      "www.sarkarmaha.in"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is www.aaplesarkar.mahaonline.gov.in"
+  },
+  {
+    "id": 515,
+    "question": "You have successfully registered on the website to apply for an Age Nationality Domicile Certificate. Which sub department will you have to select now, to apply for the same?",
+    "options": [
+      "Domestic Services",
+      "National Services",
+      "Home Services",
+      "Revenue Services"
+    ],
+    "answer": 3,
+    "explanation": "The Correct Answer is Revenue Services"
+  },
+  {
+    "id": 516,
+    "question": "After logging into your account at the aaplesarkar website, click on the option ________________ to apply for your Marriage Registration Certificate.",
+    "options": [
+      "Rural Development and Panchayat Raj Department",
+      "Urban Affairs Department",
+      "Public Health Department",
+      "Social Justice and Special Assistance Department"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Rural Development and Panchayat Raj Department"
+  },
+  {
+    "id": 517,
+    "question": "Which option must you choose from the Rural Development Department's list of certificates, in order to apply for the Marriage Registration Ceritificate?",
+    "options": [
+      "Resident Certificate",
+      "Nuclear Family Certificate",
+      "Assessment Certificate",
+      "Marriage Certificate"
+    ],
+    "answer": 3,
+    "explanation": "The Correct Answer is Marriage Certificate"
+  },
+  {
+    "id": 518,
+    "question": "The activation link for your LPG account verification is sent to your __________.",
+    "options": [
+      "email id",
+      "mobile number",
+      "Facebook messenger",
+      "WhatsApp chat"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is email id"
+  },
+  {
+    "id": 519,
+    "question": "The __________ portal provides LPG-related services such as registering for new connections and giving up LPG subsidies.",
+    "options": [
+      "eGreetings",
+      "mKisan",
+      "My LPG",
+      "Cowin"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is My LPG"
+  },
+  {
+    "id": 520,
+    "question": "Its been two days that you have sent Rakhi to your brother through post. You want to track the delivery status of your package. Which option will you choose to do so?",
+    "options": [
+      "Email",
+      "DTDC",
+      "ePost Office",
+      "Blue Dart"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is ePost Office"
+  },
+  {
+    "id": 521,
+    "question": "What is the use of the highlighted feature on the MGNREGA website?",
+    "options": [
+      "To apply for work",
+      "To view the details of work and payment",
+      "To avail work facility anywhere in India",
+      "To withdraw the received work payment"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is To view the details of work and payment"
+  },
+  {
+    "id": 522,
+    "question": "What is Mahatma Gandhi National Rural Employment Guarantee Act(MGNREGA)?",
+    "options": [
+      "Employment scheme for rurals",
+      "Loan Scheme for rurals",
+      "Housing Sheme for rurals",
+      "Education Scheme for rurals"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Employment scheme for rurals"
+  },
+  {
+    "id": 523,
+    "question": "You should click on the __________ option in the Kisan Suvidha app to view the list of advisors in your area.",
+    "options": [
+      "Agro Advisory",
+      "Dealer Information",
+      "Cowin Registration",
+      "Education Loan"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Agro Advisory"
+  },
+  {
+    "id": 524,
+    "question": "Ravi uses mKisan App for accessing farming related information. What kind of information won't be accessible using this App?",
+    "options": [
+      "Mandi Prices",
+      "Farm Machinery",
+      "Soil Health Cards",
+      "Farmer's Aadhar Card"
+    ],
+    "answer": 3,
+    "explanation": "The Correct Answer is Farmer's Aadhar Card"
+  },
+  {
+    "id": 525,
+    "question": "The URL to open the Self4Society platform is ________________.",
+    "options": [
+      "www.self4society.mygov.in",
+      "www.society.com",
+      "www.mygov.co.in",
+      "www.pmindiafund.in"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is www.self4society.mygov.in"
+  },
+  {
+    "id": 526,
+    "question": "Which tab do you have to click on, if you want to volunteer in a group, as part of an organization?",
+    "options": [
+      "Join Organization",
+      "Volunteer for Organization",
+      "Organization Help",
+      "Organisation Volunteer"
+    ],
+    "answer": 3,
+    "explanation": "The Correct Answer is Organisation Volunteer"
+  },
+  {
+    "id": 527,
+    "question": "Which of the following portals is the right one to report a crime that you suspect is happening in your village?",
+    "options": [
+      "CoWIN",
+      "Crime and Criminal Tracking Network & Systems",
+      "Swachhata MoHUA App",
+      "Digital India Connect"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Crime and Criminal Tracking Network & Systems"
+  },
+  {
+    "id": 528,
+    "question": "When you submit a feedback on CCTNS, who will be responsible for looking into it?",
+    "options": [
+      "The cabinet ministers",
+      "The Prime Minister of India",
+      "The respective police station",
+      "The special crime team"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is The respective police station"
+  },
+  {
+    "id": 529,
+    "question": "Riya uses icons to open apps, but her friend types long commands. What’s the key difference?",
+    "options": [
+      "Riya’s system has more storage",
+      "Her friend’s system has advanced graphics",
+      "Riya’s system uses a Graphical User Interface",
+      "Both systems work the same way"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Riya’s system uses a Graphical User Interface"
+  },
+  {
+    "id": 530,
+    "question": "Ajay opens a folder but sees mixed-up file names. What helps him organize?",
+    "options": [
+      "Use antivirus software",
+      "Store all files on the desktop",
+      "Rename and arrange using folders",
+      "Use screen saver settings"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Rename and arrange using folders"
+  },
+  {
+    "id": 531,
+    "question": "Suresh connects a USB printer, and it works instantly. What makes this possible?",
+    "options": [
+      "Internet connection",
+      "Background image",
+      "Auto-detection feature of OS",
+      "Antivirus scanning tool"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Auto-detection feature of OS"
+  },
+  {
+    "id": 532,
+    "question": "Tina’s smartphone behaves differently than her laptop. Why?",
+    "options": [
+      "Screen size matters most",
+      "Mobile OS and Desktop OS are different",
+      "Laptops are always faster",
+      "Phones have no OS"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Mobile OS and Desktop OS are different"
+  },
+  {
+    "id": 533,
+    "question": "Rahul prefers fewer permissions when installing apps. Which OS suits him?",
+    "options": [
+      "Android",
+      "iOS",
+      "Both work the same",
+      "HarmonyOS"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Android"
+  },
+  {
+    "id": 534,
+    "question": "Priya is buying a tablet and wants to use mobile banking apps. Which OS should she choose if she prefers flexibility and lower cost?",
+    "options": [
+      "iOS because it is expensive",
+      "Android because it allows flexibility and is widely available",
+      "iOS because it has no bugs",
+      "Android because it works only on old phones"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Android because it allows flexibility and is widely available"
+  },
+  {
+    "id": 535,
+    "question": "Nisha installs apps from outside the Play Store on her Android phone. What should she evaluate before doing this?",
+    "options": [
+      "If the app has colorful icons",
+      "Whether her friends use it",
+      "The safety and permissions of the app",
+      "The brand of the phone"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is The safety and permissions of the app"
+  },
+  {
+    "id": 536,
+    "question": "Leela wants to use her computer only for printing and browsing. Which OS should she install?",
+    "options": [
+      "Server OS",
+      "Game OS",
+      "Standalone OS",
+      "Embedded OS"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Standalone OS"
+  },
+  {
+    "id": 537,
+    "question": "Kunal’s phone offers frequent security updates managed by company. What does this suggest?",
+    "options": [
+      "He is using Android",
+      "He uses a desktop OS",
+      "He is using iOS",
+      "His phone has no OS"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is He is using iOS"
+  },
+  {
+    "id": 538,
+    "question": "Print Priview option is available on __________ Tab",
+    "options": [
+      "Insert",
+      "File",
+      "Home",
+      "Page layout"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is File"
+  },
+  {
+    "id": 539,
+    "question": "How to open a blank sheet ?",
+    "options": [
+      "Click on File Tab > New > Blank Sheet",
+      "Click on File Tab > New > sheet",
+      "Click on File Tab > Open > Blank Sheet",
+      "Click on File Tab > New > Info"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Click on File Tab > New > Blank Sheet"
+  },
+  {
+    "id": 540,
+    "question": "How you will save the document? Click on correct tab?",
+    "options": [
+      "Insert",
+      "File",
+      "Home",
+      "Data"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is File"
+  },
+  {
+    "id": 541,
+    "question": "We can export the document in PDF form ?",
+    "options": [
+      true,
+      false
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is TRUE"
+  },
+  {
+    "id": 542,
+    "question": "Which of these page sizes is not available in Microsoft Excel?",
+    "options": [
+      "A4",
+      "Letter",
+      "A2",
+      "Legal"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is A2"
+  },
+  {
+    "id": 543,
+    "question": "Which group you will select To clear the format & apply font style?",
+    "options": [
+      "Editing Group & Font Group",
+      "Alignment & Editing group",
+      "Alignment & Font Group",
+      "Number & Styles group"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Editing Group & Font Group"
+  },
+  {
+    "id": 544,
+    "question": "Wrap Text is a feature that __________ all information in a cell, even if it overflows the cell boundary.",
+    "options": [
+      "hides",
+      "shows",
+      "inserts",
+      "deletes"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is shows"
+  },
+  {
+    "id": 545,
+    "question": "To change the number format, click on __________ tab from format cells.",
+    "options": [
+      "Font",
+      "Fill",
+      "Number",
+      "Alignment"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Number"
+  },
+  {
+    "id": 546,
+    "question": "To change the font size of the text we can click on __________ Tab & __________ Group",
+    "options": [
+      "Home > Alignment",
+      "Home > Font",
+      "Home > Number",
+      "Home > Cells"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Home > Font"
+  },
+  {
+    "id": 547,
+    "question": "You need to apply font style to your text. Which steps you will follow?",
+    "options": [
+      "Home > Font > Font style > Select the style",
+      "Home > Alignment > Merge & Center",
+      "Home > Number > General",
+      "Home > Styles > Cells Styles"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Home > Font > Font style > Select the style"
+  },
+  {
+    "id": 548,
+    "question": "A student wants to design posters on a desktop. Which OS is best?",
+    "options": [
+      "Android",
+      "Linux (Desktop version)",
+      "Smartwatch OS",
+      "Digital Camera OS"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Linux (Desktop version)"
+  },
+  {
+    "id": 549,
+    "question": "Sneha wants to use PowerPoint from her mobile on a projector. What may limit her?",
+    "options": [
+      "Battery level",
+      "Mobile OS may not support it fully",
+      "The file format",
+      "The color of the phone"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Mobile OS may not support it fully"
+  },
+  {
+    "id": 550,
+    "question": "You see a person use Android for calls and Windows for typing. What does this show?",
+    "options": [
+      "Both OS can be used for calling",
+      "OS is only for games",
+      "Different OS serve different needs",
+      "Windows is only for fun"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Different OS serve different needs"
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "id": 361,
+    "question": "What is the full form of MKCL?",
+    "options": [
+      "Maharashtra Knowledge Corporation Limited",
+      "Mumbai Knowledge Center Limited",
+      "Maha Knowledge Company Limited",
+      "Maharashtra KLiC Limited"
+    ],
+    "answer": 0,
+    "explanation": "MKCL stands for Maharashtra Knowledge Corporation Limited."
+  },
+  {
+    "id": 362,
+    "question": "What is the minimum number of Client computers required for an MKCL ALC setup?",
+    "options": [
+      "5 Clients",
+      "10 Clients",
+      "15 Clients",
+      "20 Clients"
+    ],
+    "answer": 1,
+    "explanation": "The minimum lab setup requires 1 Server and 10 Client computers."
+  },
+  {
+    "id": 363,
+    "question": "Is 'Thin Client' or 'Xtenda' setup allowed for MKCL centers?",
+    "options": [
+      "Yes, allowed for all centers",
+      "Allowed only for schools",
+      "No, strictly not allowed",
+      "Allowed with special permission"
+    ],
+    "answer": 2,
+    "explanation": "Xtenda Setup or Thin Client Setup is not allowed for MKCL centers."
+  },
+  {
+    "id": 364,
+    "question": "What is the minimum Hard Disk space required for the Server machine?",
+    "options": [
+      "500 GB HDD",
+      "1 TB SSD",
+      "256 GB SSD",
+      "512 GB HDD"
+    ],
+    "answer": 1,
+    "explanation": "The server requires a minimum of 1 TB SSD Hard disk."
+  },
+  {
+    "id": 365,
+    "question": "Which processor generation is the minimum requirement for Client machines?",
+    "options": [
+      "Intel i3 2nd Generation",
+      "Intel i5 6th Generation",
+      "Intel Core 2 Duo",
+      "AMD Ryzen 3"
+    ],
+    "answer": 1,
+    "explanation": "The minimum configuration for clients is Intel i5 6th Generation."
+  },
+  {
+    "id": 366,
+    "question": "What is the minimum resolution required for the Printer and Scanner at the center?",
+    "options": [
+      "300 dpi",
+      "600 dpi",
+      "1200 dpi",
+      "100 dpi"
+    ],
+    "answer": 1,
+    "explanation": "Both the printer and scanner must have a minimum resolution of 600 dpi."
+  },
+  {
+    "id": 367,
+    "question": "Which power backup facility is listed as 'Compulsory' for the center?",
+    "options": [
+      "Solar Power",
+      "DG Set",
+      "UPS or Inverter with Battery backup",
+      "Wind Energy"
+    ],
+    "answer": 2,
+    "explanation": "UPS or Inverter with Battery backup is compulsory for all computers."
+  },
+  {
+    "id": 368,
+    "question": "Is a CCTV camera setup compulsory for a new ALC?",
+    "options": [
+      "Optional",
+      "Compulsory",
+      "Compulsory only for Urban centers",
+      "Recommended but not mandatory"
+    ],
+    "answer": 1,
+    "explanation": "CCTV setup is listed as Compulsory in the infrastructure norms."
+  },
+  {
+    "id": 369,
+    "question": "What is the required network speed for the LAN Switch?",
+    "options": [
+      "10 Mbps",
+      "10/100/1000 Mbps",
+      "1 Gbps only",
+      "Wireless only"
+    ],
+    "answer": 1,
+    "explanation": "A 10/100/1000 Mbps Network Switch is required."
+  },
+  {
+    "id": 370,
+    "question": "What should be the distance between Electrical and LAN wiring if they run parallel?",
+    "options": [
+      "6 inches",
+      "1 foot",
+      "2 feet",
+      "5 feet"
+    ],
+    "answer": 2,
+    "explanation": "A distance of 2 feet should be maintained to avoid interference if they run parallel."
+  },
+  {
+    "id": 371,
+    "question": "How many Microsoft Office 2019 licenses does MKCL provide for a standard setup?",
+    "options": [
+      "1 License",
+      "5 Licenses",
+      "10 Licenses",
+      "11 Licenses"
+    ],
+    "answer": 3,
+    "explanation": "MKCL provides 11 licenses (1 Server + 10 Clients)."
+  },
+  {
+    "id": 372,
+    "question": "Can an ALC use the MKCL-provided Microsoft licenses for non-MKCL courses?",
+    "options": [
+      "Yes, for any course",
+      "No, only for courses offered by MKCL",
+      "Yes, but only on Sundays",
+      "Yes, if they pay extra"
+    ],
+    "answer": 1,
+    "explanation": "ALC has to use Microsoft Licenses provided by MKCL for the courses offered by MKCL only."
+  },
+  {
+    "id": 373,
+    "question": "What is the role of the 'Training Provider' (TP) in the registration process?",
+    "options": [
+      "To inspect the hardware",
+      "To recommend the AO first",
+      "To issue the certificate",
+      "To conduct the exam"
+    ],
+    "answer": 1,
+    "explanation": "The TP views the list of AOs who selected them and recommends them for further processing."
+  },
+  {
+    "id": 374,
+    "question": "How long does it typically take to get registered as an ALC after completing all requisites?",
+    "options": [
+      "1 week",
+      "2 weeks",
+      "6 weeks",
+      "3 months"
+    ],
+    "answer": 2,
+    "explanation": "It takes around 6 weeks to get registered as an MKCL ALC based on successful completion of all requisites."
+  },
+  {
+    "id": 375,
+    "question": "By which week of the month should an AO generally 'Apply Online for NCR'?",
+    "options": [
+      "First week",
+      "Second week",
+      "Third week",
+      "Last week"
+    ],
+    "answer": 0,
+    "explanation": "The schedule suggests applying online by the First week of the month."
+  },
+  {
+    "id": 376,
+    "question": "When is the 'Verification of Bank Account Details' typically done by the LLC?",
+    "options": [
+      "Before TP recommendation",
+      "After TP recommendation",
+      "After code generation",
+      "At the end of the year"
+    ],
+    "answer": 1,
+    "explanation": "Verification of Bank Account Details by LLC is done after TP recommendation."
+  },
+  {
+    "id": 377,
+    "question": "What happens if an AO fails to prepare the center setup in due time after notification?",
+    "options": [
+      "Extension is granted automatically",
+      "Refund is forfeited",
+      "Penalty of Rs. 1000 is charged",
+      "Application is paused"
+    ],
+    "answer": 1,
+    "explanation": "If an AO fails to prepare the setup in due time, the applicable refund will be forfeited."
+  },
+  {
+    "id": 378,
+    "question": "Through which mode is the refund amount processed to the AO?",
+    "options": [
+      "Cheque",
+      "Demand Draft (DD)",
+      "Cash",
+      "SOLAR / Online Transfer"
+    ],
+    "answer": 3,
+    "explanation": "Refundable amount is processed through SOLAR and refunded to AO's bank account."
+  },
+  {
+    "id": 379,
+    "question": "Can an AO change the center location after the center visit is completed?",
+    "options": [
+      "Yes, anytime",
+      "No, application will be rejected",
+      "Yes, with a fine",
+      "Yes, if within the same city"
+    ],
+    "answer": 1,
+    "explanation": "If the location differs from the one at the time of the visit, the application will be rejected."
+  },
+  {
+    "id": 380,
+    "question": "What is the total duration of the KLiC Diploma?",
+    "options": [
+      "120 Hours",
+      "240 Hours",
+      "360 Hours",
+      "480 Hours"
+    ],
+    "answer": 2,
+    "explanation": "The KLiC Diploma consists of 360 Hours (3 courses of 120 hours each)."
+  },
+  {
+    "id": 381,
+    "question": "What is the total fee for the KLiC Diploma (360 Hours)?",
+    "options": [
+      "Rs. 10,000/-",
+      "Rs. 15,000/-",
+      "Rs. 18,000/-",
+      "Rs. 20,000/-"
+    ],
+    "answer": 2,
+    "explanation": "The fee for the KLiC Diploma is Rs. 18,000/-."
+  },
+  {
+    "id": 382,
+    "question": "What is the fee for a 60-hour KLiC Course?",
+    "options": [
+      "Rs. 2000/-",
+      "Rs. 3000/-",
+      "Rs. 4000/-",
+      "Rs. 5000/-"
+    ],
+    "answer": 1,
+    "explanation": "The fee for a 60-hour KLiC course is Rs. 3000/-."
+  },
+  {
+    "id": 383,
+    "question": "Which document format is required for the proposed center design?",
+    "options": [
+      "PDF",
+      "JPEG",
+      "AutoCAD Drawing (.dsw)",
+      "MS Word"
+    ],
+    "answer": 2,
+    "explanation": "AO has to submit the proposed center design in the form of AutoCAD Drawing (.dsw format)."
+  },
+  {
+    "id": 384,
+    "question": "Is the 'Staff Room' a mandatory or optional facility?",
+    "options": [
+      "Mandatory",
+      "Optional",
+      "Mandatory for Colleges",
+      "Mandatory for Rural Centers"
+    ],
+    "answer": 1,
+    "explanation": "The Staff Room is listed as an Optional facility."
+  },
+  {
+    "id": 385,
+    "question": "Is 'Drinking Water Facility' mandatory for a center?",
+    "options": [
+      "Yes",
+      "No",
+      "Only in Summer",
+      "Only if more than 50 students"
+    ],
+    "answer": 0,
+    "explanation": "Drinking Water Facility is a mandatory requirement under Miscellaneous Areas and Facilities."
+  },
+  {
+    "id": 386,
+    "question": "What is the specific term for the area where the server and clients are installed?",
+    "options": [
+      "Lecture Room",
+      "Counseling Area",
+      "Computer Laboratory",
+      "Reception"
+    ],
+    "answer": 2,
+    "explanation": "The area with the server and clients is called the Computer Laboratory."
+  },
+  {
+    "id": 387,
+    "question": "Are seating stools allowed in the Computer Laboratory?",
+    "options": [
+      "Yes",
+      "No",
+      "Yes, if cushioned",
+      "Yes, for temporary use"
+    ],
+    "answer": 1,
+    "explanation": "Seating Stools are not allowed; ergonomically designed chairs are required."
+  },
+  {
+    "id": 388,
+    "question": "What is the 'Performance Guarantee Amount' used for?",
+    "options": [
+      "Paying electricity bills",
+      "Marketing expenses",
+      "Kept with MKCL as a guarantee",
+      "Learner scholarships"
+    ],
+    "answer": 2,
+    "explanation": "It is kept with MKCL as a Performance Guarantee Amount and cannot be used for other purposes."
+  },
+  {
+    "id": 389,
+    "question": "What is the full form of RLC?",
+    "options": [
+      "Regional Lead Center",
+      "Rural Learning Center",
+      "Registered License Center",
+      "Regional Learning Coordinator"
+    ],
+    "answer": 0,
+    "explanation": "RLC stands for Regional Lead Center."
+  },
+  {
+    "id": 390,
+    "question": "Who makes the final recommendation before Code Generation?",
+    "options": [
+      "TP",
+      "LLC",
+      "RLC",
+      "AO"
+    ],
+    "answer": 2,
+    "explanation": "The RLC (Regional Lead Center) provides the recommendation after LLC, leading to code generation."
+  }
+]

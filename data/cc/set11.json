@@ -1,0 +1,362 @@
+[
+  {
+    "id": 301,
+    "question": "What is the speed of the Internet required for the Server?",
+    "options": [
+      "Min 10 Mbps",
+      "Min 50 Mbps",
+      "Min 100 Mbps",
+      "Min 1 Gbps"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Min 50 Mbps."
+  },
+  {
+    "id": 302,
+    "question": "Is 'Parking' facility compulsory?",
+    "options": [
+      "Yes",
+      "No, Optional",
+      "Yes, for staff only",
+      "Yes, for students only"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: No, Optional."
+  },
+  {
+    "id": 303,
+    "question": "Can the AO apply for 'Multiple AOs' from the same ward?",
+    "options": [
+      "No, only one",
+      "Yes, but selection is based on score",
+      "Yes, all will be selected",
+      "No"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Yes, but selection is based on Total Score."
+  },
+  {
+    "id": 304,
+    "question": "What is the weightage of the Interview in the Total Score for selection?",
+    "options": [
+      "20 Marks",
+      "30 Marks",
+      "50 Marks",
+      "10 Marks"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: 30 Marks."
+  },
+  {
+    "id": 305,
+    "question": "What is the weightage of the LF ONCET Score in selection?",
+    "options": [
+      "30 Marks",
+      "50 Marks",
+      "20 Marks",
+      "10 Marks"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: 50 Marks."
+  },
+  {
+    "id": 306,
+    "question": "What is the weightage of the Coordinator ONCET Score in selection?",
+    "options": [
+      "30 Marks",
+      "50 Marks",
+      "20 Marks",
+      "10 Marks"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: 20 Marks (or 30 depending on specific year guidelines, typically lower than LF)."
+  },
+  {
+    "id": 307,
+    "question": "Which font is used for Marathi typing in CCTP?",
+    "options": [
+      "Kruti Dev",
+      "Mangal",
+      "Remington (Typewriter layout)",
+      "Arial"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: Remington (Typewriter layout)."
+  },
+  {
+    "id": 308,
+    "question": "What is the 'Notice Board' used for in the Counseling Area?",
+    "options": [
+      "To hang coats",
+      "To display information/notices",
+      "To stick advertisements",
+      "Decorative purpose"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: To display information/notices."
+  },
+  {
+    "id": 309,
+    "question": "Are 'Library' facilities compulsory?",
+    "options": [
+      "Yes",
+      "No, Optional",
+      "Yes, Digital Library only",
+      "No"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: No, Optional."
+  },
+  {
+    "id": 310,
+    "question": "What kind of chairs are required in the Lab?",
+    "options": [
+      "Wooden benches",
+      "Plastic stools",
+      "Ergonomically designed chairs",
+      "Sofas"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: Ergonomically designed chairs."
+  },
+  {
+    "id": 311,
+    "question": "What is the standard warranty expected for IT hardware?",
+    "options": [
+      "1 year",
+      "3 years (recommended)",
+      "No warranty needed",
+      "Lifetime"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: 3 years (recommended)."
+  },
+  {
+    "id": 312,
+    "question": "Can a center operate without a Server?",
+    "options": [
+      "Yes",
+      "No",
+      "Yes, using cloud",
+      "Yes, using one client as server"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: No."
+  },
+  {
+    "id": 313,
+    "question": "Is 'Google Tools' part of the syllabus?",
+    "options": [
+      "Yes",
+      "No",
+      "Only for advanced",
+      "Optional"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Yes."
+  },
+  {
+    "id": 314,
+    "question": "What is the 'Job Readiness' skill?",
+    "options": [
+      "Writing a CV and interview skills",
+      "Cleaning the office",
+      "Repairing computers",
+      "Driving"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Writing a CV and interview skills."
+  },
+  {
+    "id": 315,
+    "question": "What is the minimum distance between the monitor and the user recommended for Ergonomics?",
+    "options": [
+      "10 inches",
+      "20-24 inches (Arm's length)",
+      "5 feet",
+      "Touching the face"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: 20-24 inches (Arm's length)."
+  },
+  {
+    "id": 316,
+    "question": "Which document describes the 'Code of Ethics' for centers?",
+    "options": [
+      "Center agreement",
+      "Syllabus book",
+      "Student ID",
+      "Exam paper"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Center agreement."
+  },
+  {
+    "id": 317,
+    "question": "Can a center charge extra fees for the e-book?",
+    "options": [
+      "Yes",
+      "No, it is included",
+      "Yes, if printed",
+      "Yes, 500 Rs"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: No, it is included."
+  },
+  {
+    "id": 318,
+    "question": "What is the consequence of using 'Pirated OS'?",
+    "options": [
+      "Nothing",
+      "Center Authorization Termination",
+      "Small fine",
+      "Warning only"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Center Authorization Termination (Strict compliance required)."
+  },
+  {
+    "id": 319,
+    "question": "Is the 'Center Coordinator' required to be full-time?",
+    "options": [
+      "Yes, generally expected",
+      "No, can be part-time",
+      "Remote work allowed",
+      "No specific rule"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Yes, generally expected."
+  },
+  {
+    "id": 320,
+    "question": "What is the 'Succession Plan' in the context of center ownership?",
+    "options": [
+      "Transfer to son/daughter",
+      "Not applicable (Non-transferable)",
+      "Selling to friend",
+      "Giving to neighbor"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Not applicable (Non-transferable)."
+  },
+  {
+    "id": 321,
+    "question": "What is the primary goal of the MS-CIT course?",
+    "options": [
+      "To make people IT Literate",
+      "To sell computers",
+      "To provide internet",
+      "To gaming"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: To make people IT Literate."
+  },
+  {
+    "id": 322,
+    "question": "What is the full form of AO in the context of MKCL Center Registration?",
+    "options": [
+      "Authorized Organization",
+      "Applicant Organization",
+      "Admission Office",
+      "Area Officer"
+    ],
+    "answer": 1,
+    "explanation": "AO stands for Applicant Organization, which refers to the entity applying to become an MKCL center."
+  },
+  {
+    "id": 323,
+    "question": "Which portal is used by the Applicant Organization (AO) for the New Center Registration process?",
+    "options": [
+      "SOLAR Portal",
+      "LUNAR Portal",
+      "MKCL ERA",
+      "OES Portal"
+    ],
+    "answer": 0,
+    "explanation": "The SOLAR Portal is the administrative platform used for Center Registration and other management activities."
+  },
+  {
+    "id": 324,
+    "question": "What is the total Center Registration Fee for a Non-Educational Institute?",
+    "options": [
+      "Rs. 2,500/-",
+      "Rs. 5,000/-",
+      "Rs. 10,000/-",
+      "Rs. 15,000/-"
+    ],
+    "answer": 1,
+    "explanation": "The total registration fee for a Non-Educational Institute is Rs. 5,000/-."
+  },
+  {
+    "id": 325,
+    "question": "What is the non-refundable Processing Fee component of the Center Registration Fee?",
+    "options": [
+      "Rs. 200/-",
+      "Rs. 500/-",
+      "Rs. 1,000/-",
+      "Rs. 1,500/-"
+    ],
+    "answer": 1,
+    "explanation": "Rs. 500/- is the non-refundable processing fee deducted from the registration fee."
+  },
+  {
+    "id": 326,
+    "question": "What is the Security Deposit amount for New Center Registration for both Educational and Private Institutes?",
+    "options": [
+      "Rs. 5,000/-",
+      "Rs. 10,000/-",
+      "Rs. 25,000/-",
+      "Rs. 0/-"
+    ],
+    "answer": 3,
+    "explanation": "Currently, the Security Deposit is Rs. 0/- for both Educational and Private Institutes."
+  },
+  {
+    "id": 327,
+    "question": "What is the minimum carpet area required for setting up an MKCL Authorized Learning Center (ALC)?",
+    "options": [
+      "50 sq. ft.",
+      "100 sq. ft.",
+      "200 sq. ft.",
+      "500 sq. ft."
+    ],
+    "answer": 1,
+    "explanation": "A dedicated space of minimum 100 sq. feet is required for the educational courses and related services."
+  },
+  {
+    "id": 328,
+    "question": "Which of the following is NOT one of the three mandatory areas required in the center layout?",
+    "options": [
+      "Counseling Area",
+      "Lecture Room",
+      "Computer Laboratory",
+      "Cafeteria"
+    ],
+    "answer": 3,
+    "explanation": "The mandatory areas are Counseling Area, Lecture Room, and Computer Laboratory. A Cafeteria is not mandatory."
+  },
+  {
+    "id": 329,
+    "question": "What is the minimum RAM requirement for the Server machine in an ALC?",
+    "options": [
+      "2 GB",
+      "4 GB",
+      "8 GB",
+      "16 GB"
+    ],
+    "answer": 2,
+    "explanation": "The minimum Server Configuration requires 8 GB RAM."
+  },
+  {
+    "id": 330,
+    "question": "Which Operating System is required for the Server and Client machines?",
+    "options": [
+      "Windows 7 Ultimate",
+      "Windows 8.1 Pro",
+      "Windows 10 Enterprise (64-bit)",
+      "Windows 11 Home"
+    ],
+    "answer": 2,
+    "explanation": "Windows 10 Enterprise (64-bit) is the required Operating System."
+  }
+]

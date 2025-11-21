@@ -1,0 +1,362 @@
+[
+  {
+    "id": 421,
+    "question": "Is the LAN or WiFi setup mandatory for connecting all computers?",
+    "options": [
+      "Yes",
+      "No",
+      "Only for Server",
+      "Only for Internet"
+    ],
+    "answer": 0,
+    "explanation": "Server and all Laptops/Desktops should be connected to the Network Switch or WiFi Access Point."
+  },
+  {
+    "id": 422,
+    "question": "What is the minimum number of Bio-Metric Devices required at the center?",
+    "options": [
+      "Minimum 1",
+      "Minimum 2",
+      "Minimum 5",
+      "One per computer"
+    ],
+    "answer": 0,
+    "explanation": "The center setup requires a minimum of 1 Bio-Metric Device."
+  },
+  {
+    "id": 423,
+    "question": "Is a 'Generator' (DG Set) mandatory or optional for power backup?",
+    "options": [
+      "Mandatory",
+      "Optional",
+      "Prohibited",
+      "Mandatory only in rural areas"
+    ],
+    "answer": 1,
+    "explanation": "A DG Set is listed as an Optional power backup facility, while UPS/Inverter is compulsory."
+  },
+  {
+    "id": 424,
+    "question": "Which of the following is NOT allowed as a substitute for a proper LAN Switch?",
+    "options": [
+      "WiFi Access Point",
+      "Router",
+      "Hub",
+      "Mobile Hotspot"
+    ],
+    "answer": 3,
+    "explanation": "Mobile Hotspots are not a standard approved networking infrastructure for the lab setup; a Switch or WiFi Access Point is required."
+  },
+  {
+    "id": 425,
+    "question": "What is the minimum RAM required for a Client machine if the OS is Windows 10 (64-bit)?",
+    "options": [
+      "2 GB",
+      "4 GB",
+      "1 GB",
+      "512 MB"
+    ],
+    "answer": 1,
+    "explanation": "The minimum requirement for Client configuration is 4 GB RAM."
+  },
+  {
+    "id": 426,
+    "question": "Who is the 'Applicant Organization' (AO)?",
+    "options": [
+      "The student applying for a course",
+      "The entity applying to become a new center",
+      "The MKCL regional manager",
+      "The University granting the degree"
+    ],
+    "answer": 1,
+    "explanation": "AO stands for Applicant Organization, which is the entity applying for center registration."
+  },
+  {
+    "id": 427,
+    "question": "If an AO's application is rejected, how much of the Rs. 5000 registration fee is refunded?",
+    "options": [
+      "Rs. 5000",
+      "Rs. 4500",
+      "Rs. 2500",
+      "Rs. 0"
+    ],
+    "answer": 1,
+    "explanation": "Rs. 4500 is refundable, as the Rs. 500 processing fee is non-refundable."
+  },
+  {
+    "id": 428,
+    "question": "What is the refund policy if an AO becomes an Authorized Learning Center (ALC)?",
+    "options": [
+      "Full refund",
+      "Partial refund",
+      "No refund",
+      "Refund after 1 year"
+    ],
+    "answer": 2,
+    "explanation": "MKCL will not refund any amount (Processing Fee, Registration Fee, etc.) once the AO becomes an ALC."
+  },
+  {
+    "id": 429,
+    "question": "What is the primary role of the 'Learning Facilitator' in the KLiC Internship?",
+    "options": [
+      "To sell courses",
+      "To assist learners in course navigation",
+      "To manage accounts",
+      "To clean the center"
+    ],
+    "answer": 1,
+    "explanation": "The Learning Facilitator assists learners in course navigation."
+  },
+  {
+    "id": 430,
+    "question": "Which software utility is used to check if the center's hardware meets MKCL norms?",
+    "options": [
+      "WORM",
+      "VIRUS",
+      "CHECK",
+      "SCAN"
+    ],
+    "answer": 0,
+    "explanation": "WORM software is used to declare and verify the Computer Hardware."
+  },
+  {
+    "id": 431,
+    "question": "What is the specific 'Series' of the Intel Core i5 processor required as a minimum?",
+    "options": [
+      "1st Generation",
+      "3rd Generation",
+      "6th Generation",
+      "10th Generation"
+    ],
+    "answer": 2,
+    "explanation": "The minimum requirement specifies Intel i5 6th Generation."
+  },
+  {
+    "id": 432,
+    "question": "Are headphones with microphones mandatory for Client machines?",
+    "options": [
+      "Yes, for all clients",
+      "No, optional",
+      "Only for the Server",
+      "Only for language courses"
+    ],
+    "answer": 0,
+    "explanation": "Headphones with Mic are part of the minimum Client Configuration."
+  },
+  {
+    "id": 433,
+    "question": "Can a learner complete a KLiC course in 2 months?",
+    "options": [
+      "No, only 1 month",
+      "Yes, 1 or 2 months options are available",
+      "No, minimum 3 months",
+      "No, it is a 6-month course"
+    ],
+    "answer": 1,
+    "explanation": "Learners have the option to complete a KLiC Certificate Course in 1 month or 2 months."
+  },
+  {
+    "id": 434,
+    "question": "What is the frequency of KLiC batches?",
+    "options": [
+      "One batch every year",
+      "One batch every 6 months",
+      "One batch every month",
+      "One batch every week"
+    ],
+    "answer": 2,
+    "explanation": "There is one batch every month (January to December)."
+  },
+  {
+    "id": 435,
+    "question": "What is the 'Processing Fee' amount for Educational Institutes registering as a new center?",
+    "options": [
+      "Rs. 200/-",
+      "Rs. 500/-",
+      "Rs. 1000/-",
+      "Rs. 0/-"
+    ],
+    "answer": 1,
+    "explanation": "The processing fee is Rs. 500/- for all categories."
+  },
+  {
+    "id": 436,
+    "question": "Which bank account details are used for refunding the registration fee?",
+    "options": [
+      "Any account provided by email",
+      "The account details provided by AO on SOLAR",
+      "The TP's bank account",
+      "Cash payment at MKCL office"
+    ],
+    "answer": 1,
+    "explanation": "The bank account details provided by AO during registration on SOLAR will be used."
+  },
+  {
+    "id": 437,
+    "question": "What happens if bank account details in SOLAR are incorrect?",
+    "options": [
+      "MKCL is responsible",
+      "MKCL is not responsible for payment rejection",
+      "Bank will automatically correct it",
+      "Process stops forever"
+    ],
+    "answer": 1,
+    "explanation": "MKCL is not responsible for wrong account details in SOLAR or payment rejection due to bank errors."
+  },
+  {
+    "id": 438,
+    "question": "Can an AO apply for center registration via a physical letter or phone call?",
+    "options": [
+      "Yes, it is faster",
+      "No, application will be rejected",
+      "Yes, if they know the manager",
+      "Yes, for rural areas"
+    ],
+    "answer": 1,
+    "explanation": "Unauthorized means of contact like letters or phone calls lead to application rejection."
+  },
+  {
+    "id": 439,
+    "question": "What is the primary function of the 'Counseling Area'?",
+    "options": [
+      "To conduct exams",
+      "To store broken computers",
+      "To provide information and demo to prospective learners",
+      "To serve lunch"
+    ],
+    "answer": 2,
+    "explanation": "The Counseling Area is for enquiries, counseling, and offering demos."
+  },
+  {
+    "id": 440,
+    "question": "Is a 'Notice / Display Board' required in the Counseling Area?",
+    "options": [
+      "Yes",
+      "No",
+      "Optional",
+      "Only if the center is large"
+    ],
+    "answer": 0,
+    "explanation": "A Notice / Display Board is a required item in the Counseling Area."
+  },
+  {
+    "id": 441,
+    "question": "What is the minimum Internet speed required for the Broadband connection?",
+    "options": [
+      "2 Mbps",
+      "10 Mbps",
+      "50/100 Mbps",
+      "1 Gbps"
+    ],
+    "answer": 2,
+    "explanation": "The minimum requirement is a 100 Mbps Broadband Connection."
+  },
+  {
+    "id": 442,
+    "question": "Are Web Cameras mandatory for Client machines?",
+    "options": [
+      "No",
+      "Yes, One Web Camera / integrated Camera per client",
+      "Only for the Server",
+      "Only for 50% of clients"
+    ],
+    "answer": 1,
+    "explanation": "One Web Camera or integrated Camera is required for every client machine."
+  },
+  {
+    "id": 443,
+    "question": "What type of wiring layout is recommended to avoid interference?",
+    "options": [
+      "Parallel running",
+      "Perpendicular running",
+      "Random running",
+      "Wireless only"
+    ],
+    "answer": 1,
+    "explanation": "Electrical and LAN wiring should run perpendicular to each other."
+  },
+  {
+    "id": 444,
+    "question": "What is the validity of the KLiC Creditized Course student login?",
+    "options": [
+      "30 days",
+      "60 days",
+      "180 days",
+      "365 days"
+    ],
+    "answer": 2,
+    "explanation": "The login is valid for 180 days or until course completion, whichever is earlier."
+  },
+  {
+    "id": 445,
+    "question": "Who decides if KLiC credits are accepted at a school or college?",
+    "options": [
+      "MKCL",
+      "The Government",
+      "The respective School or College",
+      "The Student"
+    ],
+    "answer": 2,
+    "explanation": "Credit acceptance is solely at the discretion of the respective school or college."
+  },
+  {
+    "id": 446,
+    "question": "How many credits is a 60-hour KLiC course worth?",
+    "options": [
+      "1 Credit",
+      "2 Credits",
+      "3 Credits",
+      "4 Credits"
+    ],
+    "answer": 1,
+    "explanation": "A 60-hour KLiC course is equivalent to 2 Credits."
+  },
+  {
+    "id": 447,
+    "question": "What is the full form of YCMOU?",
+    "options": [
+      "Yashwantrao Chavan Maharashtra Open University",
+      "Young Center for Maharashtra Online University",
+      "Yashwantrao College of Management and Open University",
+      "Youth Council of Maharashtra Open University"
+    ],
+    "answer": 0,
+    "explanation": "YCMOU stands for Yashwantrao Chavan Maharashtra Open University."
+  },
+  {
+    "id": 448,
+    "question": "Which document serves as proof of 'Center Visit'?",
+    "options": [
+      "Selfie",
+      "Upload Center Visit Proof through App by LLC",
+      "Email confirmation",
+      "Google Maps screenshot"
+    ],
+    "answer": 1,
+    "explanation": "The LLC must upload Center Visit Proof through the App."
+  },
+  {
+    "id": 449,
+    "question": "What is the 'EOI Payment' mentioned in the schedule?",
+    "options": [
+      "End of Interest Payment",
+      "Expression of Interest Payment",
+      "Electronic Online Interface Payment",
+      "Early Option Installment"
+    ],
+    "answer": 1,
+    "explanation": "EOI stands for Expression of Interest."
+  },
+  {
+    "id": 450,
+    "question": "Can an AO start setting up the center before official communication from MKCL?",
+    "options": [
+      "Yes, to save time",
+      "No, MKCL is not responsible for losses if done early",
+      "Yes, it shows proactive behavior",
+      "Yes, required for fast track"
+    ],
+    "answer": 1,
+    "explanation": "If an AO sets up their center before official communication, MKCL is not responsible for any losses."
+  }
+]

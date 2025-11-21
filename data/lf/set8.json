@@ -1,362 +1,602 @@
 [
   {
-    "id": 211,
-    "question": "What is the minimum area size for the Lecture Room?",
+    "id": 351,
+    "question": "What is the full form of \"TOC\" in the context of Microsoft Word?",
     "options": [
-      "50 sq. feet",
-      "100 sq. feet",
-      "150 sq. feet",
-      "200 sq. feet"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: 100 sq. feet."
-  },
-  {
-    "id": 212,
-    "question": "Is Air Conditioning facility compulsory for the Computer Lab?",
-    "options": [
-      "Yes, Compulsory",
-      "No, Optional",
-      "Only in summer",
-      "Only in cities"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: No, Optional. However, proper ventilation is required."
-  },
-  {
-    "id": 213,
-    "question": "What is the syllabus for the Center Coordinator ONCET Exam?",
-    "options": [
-      "Only C Programming",
-      "Administrative, Marketing Skills & MKCL Offerings",
-      "Hardware Repair",
-      "Accounting only"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Administrative, Marketing Skills & MKCL Offerings."
-  },
-  {
-    "id": 214,
-    "question": "What are the passing marks for the Center Coordinator ONCET Exam?",
-    "options": [
-      "10 marks",
-      "12 marks",
-      "15 marks",
-      "20 marks"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: 12 marks (40% of 30)."
-  },
-  {
-    "id": 215,
-    "question": "Are 'Headphones with Mic' required for Client computers?",
-    "options": [
-      "No",
-      "Yes, Compulsory",
-      "Optional",
-      "Only for 1 computer"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Yes, Compulsory. It is part of the minimum client configuration."
-  },
-  {
-    "id": 216,
-    "question": "What is the full form of ALC?",
-    "options": [
-      "Authorized Learner Center",
-      "Authorized Learning Center",
-      "Approved Learning Center",
-      "Active Learning Center"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Authorized Learning Center."
-  },
-  {
-    "id": 217,
-    "question": "Who decides the 'Open Area' list for new center registration?",
-    "options": [
-      "District Collector",
-      "MKCL",
-      "State Government",
-      "Local Municipality"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: MKCL. They decide based on business potential and existing center presence."
-  },
-  {
-    "id": 218,
-    "question": "Can an existing Super Performing ALC apply for a new center in another district with preference?",
-    "options": [
-      "Yes",
-      "No",
-      "Depends on the District",
-      "Only if they pay double fee"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: No. Preference is only for the same LLC region or District."
-  },
-  {
-    "id": 219,
-    "question": "What is the 'Performance Guarantee Amount'?",
-    "options": [
-      "A fee paid by students",
-      "An amount paid by AO to register, kept with MKCL",
-      "A salary for the coordinator",
-      "A fine for low admissions"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: An amount paid by AO to register, kept with MKCL."
-  },
-  {
-    "id": 220,
-    "question": "Who is exempt from paying the Performance Guarantee Amount?",
-    "options": [
-      "Private Computer Institutes",
-      "Educational Institutes (Schools & Colleges)",
-      "Cyber Cafes",
-      "NGOs"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Educational Institutes (Schools & Colleges)."
-  },
-  {
-    "id": 221,
-    "question": "What is the total duration of the MS-CIT Course?",
-    "options": [
-      "1 Month",
-      "2 Months",
-      "3 Months",
-      "6 Months"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: 3 Months (144 Hours)."
-  },
-  {
-    "id": 222,
-    "question": "What are the three languages in which MS-CIT course is available?",
-    "options": [
-      "English, Marathi, Gujarati",
-      "English, Hindi, Urdu",
-      "English, Marathi, Hindi",
-      "English, Marathi, Sanskrit"
-    ],
-    "answer": 2,
-    "explanation": "The correct answer is: English, Marathi, Hindi."
-  },
-  {
-    "id": 223,
-    "question": "What is the passing mark for the MS-CIT Final Online Examination (Students)?",
-    "options": [
-      "18 Marks",
-      "20 Marks",
-      "25 Marks",
-      "35 Marks"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: 20 Marks out of 50."
-  },
-  {
-    "id": 224,
-    "question": "How many internal marks are allocated in the MS-CIT course?",
-    "options": [
-      "20 Marks",
-      "30 Marks",
-      "50 Marks",
-      "100 Marks"
-    ],
-    "answer": 2,
-    "explanation": "The correct answer is: 50 Marks. These are based on session completion and challenges."
-  },
-  {
-    "id": 225,
-    "question": "What is the full form of CCTP?",
-    "options": [
-      "Certificate of Computer Training Program",
-      "Certificate of Computer Typing Proficiency",
-      "Central Computer Technical Program",
-      "Course for Computer Typing Professionals"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Certificate of Computer Typing Proficiency."
-  },
-  {
-    "id": 226,
-    "question": "Who certifies the CCTP course?",
-    "options": [
-      "MKCL only",
-      "MSBTE only",
-      "Jointly by MKCL and MSBTE",
-      "YCMOU"
-    ],
-    "answer": 2,
-    "explanation": "The correct answer is: Jointly by MKCL and MSBTE."
-  },
-  {
-    "id": 227,
-    "question": "What is the typing speed option available in CCTP?",
-    "options": [
-      "10 WPM and 20 WPM",
-      "30 WPM and 40 WPM",
-      "50 WPM and 60 WPM",
-      "Any speed"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: 30 WPM and 40 WPM."
-  },
-  {
-    "id": 228,
-    "question": "What keyboard layout is used in CCTP?",
-    "options": [
-      "Dvorak",
-      "Remington",
-      "Inscript",
-      "Phonetic"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Remington."
-  },
-  {
-    "id": 229,
-    "question": "Who is eligible for CCTP?",
-    "options": [
-      "Any 10th pass student",
-      "Only IT professionals",
-      "MS-CIT learners confirmed for the exam",
-      "Center Coordinators only"
-    ],
-    "answer": 2,
-    "explanation": "The correct answer is: MS-CIT learners confirmed for the exam."
-  },
-  {
-    "id": 230,
-    "question": "Which item is NOT part of the mandatory Counseling Area setup?",
-    "options": [
-      "Notice Board",
-      "Enquiry Register",
-      "Table and Chairs",
-      "Projector"
+      "Text Outline Control",
+      "Table of Changes",
+      "Total Office Compatibility",
+      "Table of Contents"
     ],
     "answer": 3,
-    "explanation": "The correct answer is: Projector. This is required in the Lecture Room, not the Counseling Area."
+    "explanation": "The Correct Answer is Table of Contents"
   },
   {
-    "id": 231,
-    "question": "What is the mandatory identity document for New Center Registration finalization in 2026?",
+    "id": 352,
+    "question": "What is the primary purpose of Smart Lookup in Microsoft Word?",
     "options": [
-      "Aadhaar Card",
-      "Passport",
-      "Electricity Bill",
-      "Rent Agreement"
+      "Collaborative editing suggestions.",
+      "Grammar and spelling correction.",
+      "Quick access to exploring word.",
+      "Style enhancement recommendations."
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Quick access to exploring word."
+  },
+  {
+    "id": 353,
+    "question": "Identify the feature in Google Lens that translates text from images.",
+    "options": [
+      "Optical Character Recognition (OCR)",
+      "Object Detection AI",
+      "Semantic Image Processing",
+      "Predictive Tagging"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: Aadhaar Card. Both PAN and Aadhaar are mandatory."
+    "explanation": "The Correct Answer is Optical Character Recognition (OCR)"
   },
   {
-    "id": 232,
-    "question": "What is the standard student fee for MS-CIT in Single Installment (prior to June 2025 revision)?",
+    "id": 354,
+    "question": "Google Lens assists in solving math problems by using ________________.",
     "options": [
-      "Rs. 4,000/-",
-      "Rs. 4,500/-",
-      "Rs. 5,000/-",
-      "Rs. 5,500/-"
+      "AI-powered Equation Scanner",
+      "Digital Handwriting Analysis",
+      "Predictive Analytics",
+      "Sentiment Mapping"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is AI-powered Equation Scanner"
+  },
+  {
+    "id": 355,
+    "question": "You are comparing two sites to buy a pen drive: one shows real customer reviews, and one has no details. Which one would you trust more and why?",
+    "options": [
+      "First – it shares honest feedback",
+      "Second – fewer words are better",
+      "Second – it’s faster to load",
+      "First – it has more photos only"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is First – it shares honest feedback"
+  },
+  {
+    "id": 356,
+    "question": "Your school’s result portal says “Unsecure – Not HTTPS”. Should you log in to check your marks?",
+    "options": [
+      "Yes – marks are more important",
+      "No – it may not be safe",
+      "Yes – if it loads fast",
+      "Yes – if it has a logo"
     ],
     "answer": 1,
-    "explanation": "The correct answer is: Rs. 4,500/- (Note: Fees may vary by region/date, but this is the standard base)."
+    "explanation": "The Correct Answer is No – it may not be safe"
   },
   {
-    "id": 233,
-    "question": "Does the student fee include the Examination and Certification fee?",
+    "id": 357,
+    "question": "You are told to create a password. Which is safest?",
     "options": [
-      "No, paid separately",
-      "Yes, it is inclusive",
-      "Only Certification is included",
-      "Only Exam is included"
+      "myschool123",
+      123456,
+      "School@2025!",
+      "abc123"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is School@2025!"
+  },
+  {
+    "id": 358,
+    "question": "Your teacher asked you to make a blog about your school’s science fair. What tool do you need?",
+    "options": [
+      "A calculator",
+      "A blogging platform or website builder",
+      "A printer",
+      "A shopping app"
     ],
     "answer": 1,
-    "explanation": "The correct answer is: Yes, it is inclusive."
+    "explanation": "The Correct Answer is A blogging platform or website builder"
   },
   {
-    "id": 234,
-    "question": "What is the 'MFO' component in the fee structure?",
+    "id": 359,
+    "question": "You want to create a web page to show your art project online. Which language will help you start?",
     "options": [
-      "Master Franchisee Office",
-      "MKCL Fee Component",
-      "Monthly Fee Option",
-      "Maintenance Fee Organization"
+      "MS Paint",
+      "HTML",
+      "Excel",
+      "PDF"
     ],
     "answer": 1,
-    "explanation": "The correct answer is: MKCL Fee Component (often referred to as MKCL's share)."
+    "explanation": "The Correct Answer is HTML"
   },
   {
-    "id": 235,
-    "question": "What is the minimum age requirement for a student to join MS-CIT?",
+    "id": 360,
+    "question": "Imagine you are launching a website for “Young Coders Club.” Which domain will suit best?",
     "options": [
-      "10 years",
-      "15 years",
-      "18 years",
-      "No specific age limit (preferably 5th Std pass)"
+      "www.coolgames.in",
+      "www.kidsfun.biz",
+      "www.youngcodersclub.org",
+      "www.mynewcartoon.net"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is www.youngcodersclub.org"
+  },
+  {
+    "id": 361,
+    "question": "Your school is celebrating Environment Day and wants to create an email campaign. What 3 elements should you include?",
+    "options": [
+      "Font colour, big title, and music",
+      "Greeting, images, and call to action (like “Join Us”)",
+      "Quotes, jokes, and cartoons",
+      "Location map only"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Greeting, images, and call to action (like “Join Us”)"
+  },
+  {
+    "id": 362,
+    "question": "You are helping a friend create a secure e-commerce site. What should you add on the site to show it is safe?",
+    "options": [
+      "Cartoon logo",
+      "Bright colour design",
+      "HTTPS in the URL and a lock symbol",
+      "Welcome music"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is HTTPS in the URL and a lock symbol"
+  },
+  {
+    "id": 363,
+    "question": "Imagine you are writing a report about “Safe Internet Use”. Which 3 points would you include?",
+    "options": [
+      "Share passwords, open all links, try random sites",
+      "Use strong passwords, avoid unknown links, check for HTTPS",
+      "Visit any free site, keep passwords simple, allow pop-ups",
+      "Turn off antivirus for speed"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Use strong passwords, avoid unknown links, check for HTTPS"
+  },
+  {
+    "id": 364,
+    "question": "Your school wants to promote its new computer lab online. What’s a creative way to do it?",
+    "options": [
+      "Post details in a WhatsApp group",
+      "Upload a poster to a secure webpage with photos and form",
+      "Print and give it to neighbours",
+      "Announce it using loudspeaker"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Upload a poster to a secure webpage with photos and form"
+  },
+  {
+    "id": 365,
+    "question": "You are going to meet your uncle at his house which is 10 kms away. Since you are going there for the first time, your uncle wants to track you while moving so that you do not go in wrong direction. Which feature of WhatsApp can you use to help your uncle track you?",
+    "options": [
+      "WhatsApp Tracking",
+      "WhatsApp Chatting",
+      "WhatsApp Video Calling",
+      "WhatsApp Live Location Sharing"
     ],
     "answer": 3,
-    "explanation": "The correct answer is: No specific age limit (preferably 5th Std pass)."
+    "explanation": "The Correct Answer is WhatsApp Live Location Sharing"
   },
   {
-    "id": 236,
-    "question": "Which application is used by learners to access the e-book?",
+    "id": 366,
+    "question": "Which of the following, time duration options are availale while sharing Live Location in WhatsApp?",
     "options": [
-      "MKCL ERA",
-      "MKCL Learner App",
-      "SOLAR App",
-      "MS-CIT App"
+      "15 mins, 1 Hour and 8 hours",
+      "30 mins, 1 Hour and 4 Hours",
+      "15 mins, 1 Hour and 3 Hours",
+      "15 mins, 2 hours and 8 hours"
     ],
-    "answer": 1,
-    "explanation": "The correct answer is: MKCL Learner App."
+    "answer": 0,
+    "explanation": "The Correct Answer is 15 mins, 1 Hour and 8 hours"
   },
   {
-    "id": 237,
-    "question": "What is the ERA in the context of MS-CIT?",
+    "id": 367,
+    "question": "How can you copy the URL of a YouTube video at the current time for sharing?",
     "options": [
-      "Education Registration Agency",
-      "eLearning Revolution for All",
-      "Electronic Read Access",
-      "Exam Result Analysis"
+      "Right-click on the video, select 'Copy Video URL,' and paste it",
+      "Manually type the current time in the URL after copying",
+      "Right-click on the video, select 'Copy video URL at current time,' and paste it",
+      "Share the video and type the current time in the message"
     ],
-    "answer": 1,
-    "explanation": "The correct answer is: eLearning Revolution for All (MKCL's learning framework)."
+    "answer": 2,
+    "explanation": "The Correct Answer is Right-click on the video, select 'Copy video URL at current time,' and paste it"
   },
   {
-    "id": 238,
-    "question": "Can a center use a 'DG Set' for power backup?",
+    "id": 368,
+    "question": "How can you initiate Conversation Mode in Google Translate on a smartphone?",
     "options": [
-      "No",
-      "Yes, it is optional",
-      "Yes, it is mandatory",
-      "Only for the server"
+      "Tap the microphone icon in the app",
+      "Shake the device",
+      "Say the wake word 'Hey Google'",
+      "Send a voice command via email"
     ],
-    "answer": 1,
-    "explanation": "The correct answer is: Yes, it is optional. UPS/Inverter is compulsory."
+    "answer": 0,
+    "explanation": "The Correct Answer is Tap the microphone icon in the app"
   },
   {
-    "id": 239,
-    "question": "What is the minimum number of USB ports required on the Server?",
+    "id": 369,
+    "question": "What is the primary method to access Google Translate on a computer or laptop?",
     "options": [
-      "2",
-      "3",
-      "4",
-      "6"
+      "Install the Google Translate software",
+      "Download the mobile app",
+      "Access it through a web browser",
+      "Request a physical copy from Google"
     ],
-    "answer": 1,
-    "explanation": "The correct answer is: 3."
+    "answer": 2,
+    "explanation": "The Correct Answer is Access it through a web browser"
   },
   {
-    "id": 240,
-    "question": "Does the Center Coordinator need to clear the ONCET exam?",
+    "id": 370,
+    "question": "Which of the following is not an e-commerce company?",
     "options": [
-      "No, only faculty needs to",
-      "Yes, mandatory",
-      "Optional",
-      "Only if they teach"
+      "Flipkart",
+      "Amazon",
+      "Google",
+      "Shopclues"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Google"
+  },
+  {
+    "id": 371,
+    "question": "Flipkart in an e-commerce company founded in which country?",
+    "options": [
+      "United States",
+      "India",
+      "China",
+      "Japan"
     ],
     "answer": 1,
-    "explanation": "The correct answer is: Yes, mandatory."
+    "explanation": "The Correct Answer is India"
+  },
+  {
+    "id": 372,
+    "question": "In PhotoScan app, what does the highlighted symbol denote?",
+    "options": [
+      "Ready to capture photo",
+      "Photo is captured and ready for scan",
+      "Ready to capture video",
+      "Video is captured and ready for scan"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Photo is captured and ready for scan"
+  },
+  {
+    "id": 373,
+    "question": "To turn off your camera quickly in a Google Meet meeting, which keyboard shortcut should you use?",
+    "options": [
+      "Ctrl + D",
+      "Alt + C",
+      "Alt + K",
+      "Ctrl + E"
+    ],
+    "answer": 3,
+    "explanation": "The Correct Answer is Ctrl + E"
+  },
+  {
+    "id": 374,
+    "question": "Identify the feature that provides a list of email ids for the participating members in Google Meet.",
+    "options": [
+      "Google Contacts",
+      "Gmail",
+      "Google Calendar",
+      "Yahoo"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Google Contacts"
+  },
+  {
+    "id": 375,
+    "question": "Where can you schedule a new meeting on Google Meet?",
+    "options": [
+      "Instagram",
+      "Google Calendar",
+      "Telegram",
+      "WhatsApp"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Google Calendar"
+  },
+  {
+    "id": 376,
+    "question": "How can the Translated Captions feature be helpful in education settings?",
+    "options": [
+      "By providing a grid view of participants during a video call",
+      "By cancelling background noise during a video call",
+      "By allowing educators to connect and interact with students, parents, with diverse backgrounds",
+      "By translating written text into different languages"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is By allowing educators to connect and interact with students, parents, with diverse backgrounds"
+  },
+  {
+    "id": 377,
+    "question": "What is the Translated Captions feature in Google Meet?",
+    "options": [
+      "A feature that allows users to blur their background during video calls",
+      "A feature that translates spoken English into captions in real-time during a video conference",
+      "A feature that cancels background noise during a video call",
+      "A feature that provides a grid view of participants during a video call"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is A feature that translates spoken English into captions in real-time during a video conference"
+  },
+  {
+    "id": 378,
+    "question": "Choose the platform that helps you to hold meetings with 500 people at a time.",
+    "options": [
+      "Google Drive",
+      "Google Translate",
+      "Google Pay",
+      "Google Meet"
+    ],
+    "answer": 3,
+    "explanation": "The Correct Answer is Google Meet"
+  },
+  {
+    "id": 379,
+    "question": "Which of the following is not true in case of Truecaller?",
+    "options": [
+      "It is an online phonebook.",
+      "It is an online address book.",
+      "You can block numbers from whom you don't want to get calls.",
+      "You can know who is calling you, even you don't have the contact saved."
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is It is an online address book."
+  },
+  {
+    "id": 380,
+    "question": "What is Truecaller?",
+    "options": [
+      "Online address book",
+      "Offline address book",
+      "Online phonebook",
+      "Offline phonebook"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Online phonebook"
+  },
+  {
+    "id": 381,
+    "question": "WhatsApp Meta AI helps business users mainly by providing ____.",
+    "options": [
+      "Automated document translation",
+      "Automatic customer interactions",
+      "AI-powered financial forecasting",
+      "Augmented reality product demos"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Automatic customer interactions"
+  },
+  {
+    "id": 382,
+    "question": "This interaction best illustrates which WhatsApp Meta AI capability?",
+    "options": [
+      "Sentiment analysis",
+      "Predictive text generation",
+      "Real-time information retrieval",
+      "Automated workflow execution"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Real-time information retrieval"
+  },
+  {
+    "id": 383,
+    "question": "Which technology enables Notion to respond quickly to your commands?",
+    "options": [
+      "Predictive analytics",
+      "Natural Language Processing",
+      "Audio Processing",
+      "Image recognition"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Natural Language Processing"
+  },
+  {
+    "id": 384,
+    "question": "What is the main function of Todoist?",
+    "options": [
+      "Organizing calendar events",
+      "Tracking expenses",
+      "Task management",
+      "Streaming podcasts"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Task management"
+  },
+  {
+    "id": 385,
+    "question": "Todoist uses GPT-3 AI primarily to __________________.",
+    "options": [
+      "translate documents",
+      "recognize voice commands",
+      "understand written commands",
+      "create digital art"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is understand written commands"
+  },
+  {
+    "id": 386,
+    "question": "What can you track using Habitica?",
+    "options": [
+      "Financial investments",
+      "Cooking recipes",
+      "Daily habits",
+      "Driving routes"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Daily habits"
+  },
+  {
+    "id": 387,
+    "question": "Habitica rewards users primarily by ____________.",
+    "options": [
+      "Real money transfers",
+      "Virtual points and achievements",
+      "Extra internet data",
+      "Physical prizes mailed home"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Virtual points and achievements"
+  },
+  {
+    "id": 388,
+    "question": "How does Suno create music?",
+    "options": [
+      "By live musicians",
+      "Using Generative AI",
+      "Manual editing only",
+      "Recording from concerts"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Using Generative AI"
+  },
+  {
+    "id": 389,
+    "question": "What does this image most accurately depict?",
+    "options": [
+      "User learning piano",
+      "Manual songwriting",
+      "AI-based music creation",
+      "User listening to radio"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is AI-based music creation"
+  },
+  {
+    "id": 390,
+    "question": "Rahul typed \"https://www.mkcl.org\" in his browser and pressed Enter to open the website. What is this full line called?",
+    "options": [
+      "Website Name – because it shows where he wants to go",
+      "IP Address – because it connects to the Internet",
+      "URL – because it is the full web address",
+      "HTML – because websites are written in it"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is URL – because it is the full web address"
+  },
+  {
+    "id": 391,
+    "question": "A friend showed Anjali two things: a browser and an ISP. She got confused. What does an ISP help with?",
+    "options": [
+      "Making presentations",
+      "Writing emails",
+      "Connecting to the Internet",
+      "Playing music"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Connecting to the Internet"
+  },
+  {
+    "id": 392,
+    "question": "Ramesh opened a news website, but some images didn’t load. His teacher said a tool might be missing. What is the tool called?",
+    "options": [
+      "Firewall – for security",
+      "Plug-in – to run extra media",
+      "Cookie – to save information",
+      "File – to download pictures"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Plug-in – to run extra media"
+  },
+  {
+    "id": 393,
+    "question": "Sneha clicked on a button that said “Buy Now” on a shopping website. It opened a page asking for her name and address. What kind of page is this?",
+    "options": [
+      "Blog – because it has written content",
+      "E-form – because it asks for user details",
+      "Home Page – because it’s the start",
+      "Plug-in – because it adds tools"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is E-form – because it asks for user details"
+  },
+  {
+    "id": 394,
+    "question": "Your school portal allows students to download worksheets. What kind of tool or service helps this process?",
+    "options": [
+      "Firewall – because it protects data",
+      "FTP – because it moves files",
+      "URL – because it opens pages",
+      "Plug-in – because it r"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is FTP – because it moves files"
+  },
+  {
+    "id": 395,
+    "question": "A student says, “Internet and Web are just two names for the same thing.” Which sentence will help him understand correctly?",
+    "options": [
+      "Internet and Web are always used together",
+      "Web is the service that works on the Internet",
+      "Web is a network of mobile phones",
+      "Internet is only for sending messages"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Web is the service that works on the Internet"
+  },
+  {
+    "id": 396,
+    "question": "Your teacher showed a web page with pictures and text. He said it was written using a special language. What is this language called?",
+    "options": [
+      "PDF – because the file had images",
+      "HTML – because it builds websites",
+      "Java – because it runs programs",
+      "MS Word – because it has text"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is HTML – because it builds websites"
+  },
+  {
+    "id": 397,
+    "question": "Priya clicked on the word “Gallery” on her school website, and it opened a new page with photos. What is such clickable text called?",
+    "options": [
+      "Bookmark – because it saves her page",
+      "Hyperlink – because it connects pages",
+      "Cookie – because it remembers websites",
+      "Plug-in – because it adds media"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Hyperlink – because it connects pages"
+  },
+  {
+    "id": 398,
+    "question": "Akash visited a shopping website and selected a toy. Next day, when he opened the same site, the toy was still in his cart. What helped the site remember him?",
+    "options": [
+      "Web Page – because it keeps the toy",
+      "Cookie – because it stores user info",
+      "Email – because it knows Akash",
+      "Antivirus – because it protects websites"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Cookie – because it stores user info"
+  },
+  {
+    "id": 399,
+    "question": "A student saw “.com” and “.edu” at the end of website addresses. What do these endings show?",
+    "options": [
+      "The page design",
+      "The language used",
+      "The purpose of the site",
+      "The size of the site"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is The purpose of the site"
+  },
+  {
+    "id": 400,
+    "question": "In the \"Mailing\" tab, which option is used to insert merge fields into a document during the mail merge process?",
+    "options": [
+      "Insert Image",
+      "Insert Table",
+      "Insert Merge Field",
+      "Insert Page Number"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Insert Merge Field"
   }
 ]

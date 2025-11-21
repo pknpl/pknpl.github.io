@@ -9,7 +9,7 @@
       "Radius Master"
     ],
     "answer": 2,
-    "explanation": "The correct answer is: Mr. Sameer Pande"
+    "explanation": "The Correct Answer is Mr. Sameer Pande"
   },
   {
     "id": 32,
@@ -21,7 +21,7 @@
       "None"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: Regional Manager"
+    "explanation": "The Correct Answer is Regional Manager"
   },
   {
     "id": 33,
@@ -33,7 +33,7 @@
       "None"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: Regional Lead Center"
+    "explanation": "The Correct Answer is Regional Lead Center"
   },
   {
     "id": 34,
@@ -45,7 +45,7 @@
       "Latur Lead Center"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: Local Lead Center"
+    "explanation": "The Correct Answer is Local Lead Center"
   },
   {
     "id": 35,
@@ -57,7 +57,7 @@
       "Advanced Learning Center"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: Authorised Learning Center"
+    "explanation": "The Correct Answer is Authorised Learning Center"
   },
   {
     "id": 36,
@@ -69,7 +69,7 @@
       "Maharashtra Interns"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: Marketing Interns"
+    "explanation": "The Correct Answer is Marketing Interns"
   },
   {
     "id": 37,
@@ -81,7 +81,7 @@
       "E Revolution for I"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: eLearning Revolution for all"
+    "explanation": "The Correct Answer is eLearning Revolution for all"
   },
   {
     "id": 38,
@@ -93,7 +93,7 @@
       "April-March"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: Jan - Dec"
+    "explanation": "The Correct Answer is Jan - Dec"
   },
   {
     "id": 39,
@@ -105,7 +105,7 @@
       "17500"
     ],
     "answer": 1,
-    "explanation": "The correct answer is: 5500"
+    "explanation": "The Correct Answer is 5500"
   },
   {
     "id": 40,
@@ -117,7 +117,7 @@
       "12500"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: 0"
+    "explanation": "The Correct Answer is 0"
   },
   {
     "id": 41,
@@ -127,7 +127,7 @@
       "FALSE"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: TRUE"
+    "explanation": "The Correct Answer is TRUE"
   },
   {
     "id": 42,
@@ -137,7 +137,7 @@
       "FALSE"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: TRUE"
+    "explanation": "The Correct Answer is TRUE"
   },
   {
     "id": 43,
@@ -147,7 +147,7 @@
       "FALSE"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: TRUE"
+    "explanation": "The Correct Answer is TRUE"
   },
   {
     "id": 44,
@@ -159,7 +159,7 @@
       "4"
     ],
     "answer": 1,
-    "explanation": "The correct answer is: 2"
+    "explanation": "The Correct Answer is 2"
   },
   {
     "id": 45,
@@ -171,7 +171,7 @@
       "None"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: 1238"
+    "explanation": "The Correct Answer is 1238"
   },
   {
     "id": 46,
@@ -183,11 +183,11 @@
       "200"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: 144"
+    "explanation": "The Correct Answer is 144"
   },
   {
     "id": 47,
-    "question": "What is MKCL MSCIT MFO",
+    "question": "How much is MSCIT MFO that is paid to MKCL from Solar",
     "options": [
       "1238",
       1765,
@@ -195,7 +195,7 @@
       "None"
     ],
     "answer": 1,
-    "explanation": "The correct answer is: 1238"
+    "explanation": "The Correct Answer is 1765"
   },
   {
     "id": 48,
@@ -207,7 +207,7 @@
       "350"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: 527"
+    "explanation": "The Correct Answer is 527"
   },
   {
     "id": 49,
@@ -219,7 +219,7 @@
       "None"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: 1765"
+    "explanation": "The Correct Answer is 1238"
   },
   {
     "id": 50,
@@ -231,7 +231,7 @@
       "None"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: 527"
+    "explanation": "The Correct Answer is 527"
   },
   {
     "id": 51,
@@ -243,7 +243,7 @@
       "None"
     ],
     "answer": 1,
-    "explanation": "The correct answer is: 2"
+    "explanation": "The Correct Answer is 2"
   },
   {
     "id": 52,
@@ -255,7 +255,7 @@
       "None"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: Provisional Certificate"
+    "explanation": "The Correct Answer is Provisional Certificate"
   },
   {
     "id": 53,
@@ -267,7 +267,7 @@
       "None"
     ],
     "answer": 2,
-    "explanation": "The correct answer is: Final Certificate"
+    "explanation": "The Correct Answer is Final Certificate"
   },
   {
     "id": 54,
@@ -279,7 +279,7 @@
       "None"
     ],
     "answer": 2,
-    "explanation": "The correct answer is: MKCL & MSBTE"
+    "explanation": "The Correct Answer is MKCL & MSBTE"
   },
   {
     "id": 55,
@@ -291,7 +291,7 @@
       "None"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: MKCL"
+    "explanation": "The Correct Answer is MKCL"
   },
   {
     "id": 56,
@@ -303,7 +303,7 @@
       "None"
     ],
     "answer": 2,
-    "explanation": "The correct answer is: 300"
+    "explanation": "The Correct Answer is 300"
   },
   {
     "id": 57,
@@ -315,7 +315,7 @@
       "6 Months"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: 2 Months"
+    "explanation": "The Correct Answer is 2 Months"
   },
   {
     "id": 58,
@@ -327,19 +327,19 @@
       "August"
     ],
     "answer": 3,
-    "explanation": "The correct answer is: August"
+    "explanation": "The Correct Answer is August"
   },
   {
     "id": 59,
     "question": "What is the Date when MKCL was Founded",
     "options": [
       "15 Nov 2001",
-      37123,
+      "20 Aug 2001",
       "12 Nov 2001",
       "13 Nov 2000"
     ],
     "answer": 1,
-    "explanation": "The correct answer is: 20 Aug 2001"
+    "explanation": "The Correct Answer is 20 Aug 2001"
   },
   {
     "id": 60,
@@ -351,6 +351,6 @@
       "None"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: Mr. Sameer Pande"
+    "explanation": "The Correct Answer is Mr. Sameer Pande"
   }
 ]

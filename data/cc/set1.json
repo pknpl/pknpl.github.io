@@ -9,7 +9,7 @@
       "265"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: 256"
+    "explanation": "The Correct Answer is 256"
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@
       "Biz-client"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: Solar"
+    "explanation": "The Correct Answer is Solar"
   },
   {
     "id": 3,
@@ -33,7 +33,7 @@
       "ELECTRICAL LEARNER"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: eLearning Revolution for all"
+    "explanation": "The Correct Answer is eLearning Revolution for all"
   },
   {
     "id": 4,
@@ -45,7 +45,7 @@
       "10"
     ],
     "answer": 1,
-    "explanation": "The correct answer is: 50"
+    "explanation": "The Correct Answer is 50"
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@
       "END PAGE"
     ],
     "answer": 1,
-    "explanation": "The correct answer is: Go to Last Sequential Page"
+    "explanation": "The Correct Answer is Go to Last Sequential Page"
   },
   {
     "id": 6,
@@ -69,7 +69,7 @@
       "WORM"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: ERA"
+    "explanation": "The Correct Answer is ERA"
   },
   {
     "id": 7,
@@ -80,20 +80,20 @@
       "Solar",
       "BIZ-CLIENT"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: OES"
+    "answer": 2,
+    "explanation": "The Correct Answer is Solar"
   },
   {
     "id": 8,
-    "question": "Full form of OES is",
+    "question": "Full form of LMS is",
     "options": [
       "Online era sir",
       "on exam schedule",
-      "Online Exam Server",
+      "Learning Management System",
       "online exam schedule"
     ],
     "answer": 2,
-    "explanation": "The correct answer is: Online Exam Server"
+    "explanation": "The Correct Answer is Learning Management System"
   },
   {
     "id": 9,
@@ -103,7 +103,7 @@
       "FALSE"
     ],
     "answer": 1,
-    "explanation": "The correct answer is: FALSE"
+    "explanation": "The Correct Answer is FALSE"
   },
   {
     "id": 10,
@@ -113,7 +113,7 @@
       "false"
     ],
     "answer": 1,
-    "explanation": "The correct answer is: false"
+    "explanation": "The Correct Answer is false"
   },
   {
     "id": 11,
@@ -125,7 +125,7 @@
       "None"
     ],
     "answer": 3,
-    "explanation": "The correct answer is: None"
+    "explanation": "The Correct Answer is None"
   },
   {
     "id": 12,
@@ -137,7 +137,7 @@
       "BIZCLIENT"
     ],
     "answer": 2,
-    "explanation": "The correct answer is: SOLAR"
+    "explanation": "The Correct Answer is SOLAR"
   },
   {
     "id": 13,
@@ -149,19 +149,19 @@
       "BIZCLIENT"
     ],
     "answer": 2,
-    "explanation": "The correct answer is: SOLAR"
+    "explanation": "The Correct Answer is SOLAR"
   },
   {
     "id": 14,
-    "question": "What to do first for starting new course",
+    "question": "What to do first for starting new course for Learner",
     "options": [
       "Apply EOI",
       "Make NEFT",
       "Make Payment",
       "Add Learner"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Apply EOI"
+    "answer": 3,
+    "explanation": "The Correct Answer is Add Learner"
   },
   {
     "id": 15,
@@ -173,7 +173,7 @@
       "10th of each month"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: End Date of month For each Batch"
+    "explanation": "The Correct Answer is End Date of month For each Batch"
   },
   {
     "id": 16,
@@ -185,7 +185,7 @@
       "WORM"
     ],
     "answer": 1,
-    "explanation": "The correct answer is: Solar"
+    "explanation": "The Correct Answer is Solar"
   },
   {
     "id": 17,
@@ -197,7 +197,7 @@
       "None"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: 3100"
+    "explanation": "The Correct Answer is 3100"
   },
   {
     "id": 18,
@@ -209,7 +209,7 @@
       "None"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: 2600"
+    "explanation": "The Correct Answer is 2600"
   },
   {
     "id": 19,
@@ -221,7 +221,7 @@
       "None"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: 1765"
+    "explanation": "The Correct Answer is 1765"
   },
   {
     "id": 20,
@@ -233,7 +233,7 @@
       "None"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: 527"
+    "explanation": "The Correct Answer is 527"
   },
   {
     "id": 21,
@@ -245,7 +245,7 @@
       "None"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: 144"
+    "explanation": "The Correct Answer is 144"
   },
   {
     "id": 22,
@@ -257,7 +257,7 @@
       "None"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: 20"
+    "explanation": "The Correct Answer is 20"
   },
   {
     "id": 23,
@@ -269,7 +269,7 @@
       "None"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: Windows 10"
+    "explanation": "The Correct Answer is Windows 10"
   },
   {
     "id": 24,
@@ -281,7 +281,7 @@
       "None"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: Windows 10"
+    "explanation": "The Correct Answer is Windows 10"
   },
   {
     "id": 25,
@@ -293,7 +293,7 @@
       "None"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: 80 X 107 Pixel"
+    "explanation": "The Correct Answer is 80 X 107 Pixel"
   },
   {
     "id": 26,
@@ -305,7 +305,7 @@
       "None"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: 80 X 35 Pixel"
+    "explanation": "The Correct Answer is 80 X 35 Pixel"
   },
   {
     "id": 27,
@@ -317,7 +317,7 @@
       "None"
     ],
     "answer": 3,
-    "explanation": "The correct answer is: None"
+    "explanation": "The Correct Answer is None"
   },
   {
     "id": 28,
@@ -329,7 +329,7 @@
       "None"
     ],
     "answer": 2,
-    "explanation": "The correct answer is: erasupport@mkcl.org"
+    "explanation": "The Correct Answer is erasupport@mkcl.org"
   },
   {
     "id": 29,
@@ -341,7 +341,7 @@
       "None"
     ],
     "answer": 1,
-    "explanation": "The correct answer is: 2months"
+    "explanation": "The Correct Answer is 2 months"
   },
   {
     "id": 30,
@@ -353,6 +353,6 @@
       "YCMOU"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: MSBTE"
+    "explanation": "The Correct Answer is MSBTE"
   }
 ]

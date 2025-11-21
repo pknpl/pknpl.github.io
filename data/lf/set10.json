@@ -1,362 +1,598 @@
 [
   {
-    "id": 271,
-    "question": "Which skill is NOT part of the MS-CIT Syllabus 2025 pillars?",
+    "id": 451,
+    "question": "Asana's AI validation mainly ensures _________.",
     "options": [
-      "Office Productivity Skills",
-      "Prompt Engineering Skills",
-      "Mechanical Engineering Skills",
-      "Netiquettes and Cyber Security"
+      "Task completion",
+      "Team attendance",
+      "Sales accuracy",
+      "Budget estimation"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Task completion"
+  },
+  {
+    "id": 452,
+    "question": "Ravi edits his letter in Word, wants to check spelling. Which tool?",
+    "options": [
+      "AutoCorrect – for full document editing",
+      "Spell Check – to review all spellings",
+      "Save As – to fix errors",
+      "Print – to check errors physically"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Spell Check – to review all spellings"
+  },
+  {
+    "id": 453,
+    "question": "Your friend saves classwork in .doc format, but you suggest using .pdf format. Why is .pdf format recommended?",
+    "options": [
+      "pdf is easier to edit",
+      ".doc is locked",
+      ".pdf opens in most devices without change",
+      ".doc has more colors"
     ],
     "answer": 2,
-    "explanation": "The correct answer is: Mechanical Engineering Skills."
+    "explanation": "The Correct Answer is .pdf opens in most devices without change"
   },
   {
-    "id": 272,
-    "question": "What is the duration of the daily session in the MS-CIT course?",
+    "id": 454,
+    "question": "A student has only MS Paint, asked to prepare doc with text and bullets. Is this possible?",
     "options": [
-      "1 Hour (Theory) + 1 Hour (Lab)",
-      "4 Hours",
-      "30 Minutes",
-      "3 Hours"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: 1 Hour (Theory) + 1 Hour (Lab) generally."
-  },
-  {
-    "id": 273,
-    "question": "What is the 'Welcome Course' offered by MKCL?",
-    "options": [
-      "A paid demo",
-      "A free demo course for potential learners",
-      "A course for parents",
-      "A course for staff"
+      "Yes – Paint can format text",
+      "No – Paint is for drawing only",
+      "Yes – if shapes are used",
+      "No – only MS Excel can do that"
     ],
     "answer": 1,
-    "explanation": "The correct answer is: A free demo course for potential learners."
+    "explanation": "The Correct Answer is No – Paint is for drawing only"
   },
   {
-    "id": 274,
-    "question": "Which document is required for student admission proof?",
+    "id": 455,
+    "question": "Shravan makes a class timetable in Word. Teacher suggests Excel. Why?",
     "options": [
-      "Photo ID proof",
-      "Bank statement",
-      "Recommendation letter",
-      "Health certificate"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Photo ID proof."
-  },
-  {
-    "id": 275,
-    "question": "Are 'Seating Stools' permitted in the lab?",
-    "options": [
-      "Yes",
-      "No",
-      "Only for kids",
-      "Only for staff"
+      "Excel can add colors",
+      "Excel is better for grid/table work",
+      "Excel supports audio",
+      "Word is not useful for typing"
     ],
     "answer": 1,
-    "explanation": "The correct answer is: No."
+    "explanation": "The Correct Answer is Excel is better for grid/table work"
   },
   {
-    "id": 276,
-    "question": "What is the 'Learning Facilitator'?",
+    "id": 456,
+    "question": "If a teacher asks to make a presentation using Excel, what could be a valid reason to avoid it?",
     "options": [
-      "The student",
-      "The Faculty / Trainer",
-      "The Center Owner",
-      "The Computer"
+      "It’s difficult to use",
+      "It is not suitable for presenting text and images",
+      "It costs money",
+      "It doesn’t work on desktop"
     ],
     "answer": 1,
-    "explanation": "The correct answer is: The Faculty / Trainer."
+    "explanation": "The Correct Answer is It is not suitable for presenting text and images"
   },
   {
-    "id": 277,
-    "question": "What is the 'Center Coordinator'?",
+    "id": 457,
+    "question": "The _____________ tab on the menu bar allows you to change the font style of a text.",
     "options": [
-      "The person managing the center's administration",
-      "The technical support staff",
-      "The cleaner",
-      "The student leader"
+      "Home",
+      "References",
+      "Insert",
+      "File"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: The person managing the center's administration."
+    "explanation": "The Correct Answer is Home"
   },
   {
-    "id": 278,
-    "question": "Can one person be both Center Coordinator and Learning Facilitator?",
+    "id": 458,
+    "question": "You have created an invitation card in the online version of Microsoft Word and want to convert it into a PDF file. Under the File menu and 'Save As' option, you will select the _____________ option.",
     "options": [
-      "Yes, if they pass both exams",
-      "No, they must be different people",
-      "Yes, but no exam needed",
-      "No, strictly forbidden"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Yes, if they pass both exams (implied, though roles are distinct, small centers often overlap)."
-  },
-  {
-    "id": 279,
-    "question": "What is the minimum number of biometric devices required?",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "0"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: 1."
-  },
-  {
-    "id": 280,
-    "question": "What is the main purpose of the 'Server' in the center?",
-    "options": [
-      "To play games",
-      "To manage the network and store data",
-      "To print documents",
-      "To show movies"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: To manage the network and store data."
-  },
-  {
-    "id": 281,
-    "question": "Which edition of Windows 10 is NOT allowed?",
-    "options": [
-      "Windows 10 Home",
-      "Windows 10 Enterprise",
-      "Windows 10 Pro (if upgraded)",
-      "Windows 10 Education"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Windows 10 Home (Enterprise is the standard provided/required)."
-  },
-  {
-    "id": 282,
-    "question": "What does 'SSD' stand for in the hardware requirements?",
-    "options": [
-      "Super Speed Drive",
-      "Solid State Drive",
-      "System Storage Drive",
-      "Secure State Disk"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Solid State Drive."
-  },
-  {
-    "id": 283,
-    "question": "Why are Laptops preferred over Desktops for clients?",
-    "options": [
-      "They look better",
-      "They consume less power and space",
-      "They are cheaper",
-      "They are faster"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: They consume less power and space."
-  },
-  {
-    "id": 284,
-    "question": "What is the minimum number of USB ports required on a Client?",
-    "options": [
-      "None",
-      "At least 1",
-      "At least 2",
-      "At least 4"
+      "Download a Copy",
+      "Download as ODT",
+      "Download as PDF",
+      "Save As"
     ],
     "answer": 2,
-    "explanation": "The correct answer is: At least 2 (implied for Mouse/Keyboard if not wireless, or data transfer)."
+    "explanation": "The Correct Answer is Download as PDF"
   },
   {
-    "id": 285,
-    "question": "Is 'Footwear Stand' compulsory?",
+    "id": 459,
+    "question": "Which of the following options should you click on to edit a selected template in online mode?",
     "options": [
-      "Yes",
-      "No, Optional",
-      "Only in rainy season",
-      "Only for temples"
+      "Unzip file",
+      "Zip file",
+      "Download",
+      "Open in browser"
     ],
-    "answer": 1,
-    "explanation": "The correct answer is: No, Optional."
+    "answer": 3,
+    "explanation": "The Correct Answer is Open in browser"
   },
   {
-    "id": 286,
-    "question": "What is the 'Drinking Water Facility' status?",
+    "id": 460,
+    "question": "Which of the following options is one of the steps to save a document for the first time?",
     "options": [
-      "Compulsory",
-      "Optional",
-      "Not needed",
-      "Chargeable"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Compulsory."
-  },
-  {
-    "id": 287,
-    "question": "Who provides the uniform for the staff?",
-    "options": [
-      "MKCL provides it free",
-      "AO has to arrange (Optional)",
-      "Staff buys their own",
-      "Government"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: AO has to arrange (Optional)."
-  },
-  {
-    "id": 288,
-    "question": "Can the AO pay the registration fee in cash to a Network Partner?",
-    "options": [
-      "Yes",
-      "No, only through MKCL Payment gateway/wallet",
-      "Yes, if receipt is given",
-      "Yes, partially"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: No, only through MKCL Payment gateway/wallet."
-  },
-  {
-    "id": 289,
-    "question": "What is the email ID for reporting corruption/extra demands?",
-    "options": [
-      "ncr@mkcl.org",
-      "help@mkcl.org",
-      "support@mkcl.org",
-      "complaint@mkcl.org"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: ncr@mkcl.org."
-  },
-  {
-    "id": 290,
-    "question": "If an AO's mobile is on DND, is MKCL responsible for undelivered SMS?",
-    "options": [
-      "Yes",
-      "No",
-      "Maybe",
-      "Only if email also fails"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: No."
-  },
-  {
-    "id": 291,
-    "question": "How many times can a Learning Facilitator attempt the ONCET in one registration cycle?",
-    "options": [
-      "Once",
-      "Twice",
-      "Unlimited",
-      "Three times"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Once (No Re-Examination provision mentioned for the same cycle)."
-  },
-  {
-    "id": 292,
-    "question": "Which of the following is NOT a topic in the MS-CIT curriculum?",
-    "options": [
-      "Digital India Skills",
-      "Netiquettes",
-      "Advanced Java Programming",
-      "Go Green"
+      "Open",
+      "New",
+      "Save As",
+      "Export"
     ],
     "answer": 2,
-    "explanation": "The correct answer is: Advanced Java Programming."
+    "explanation": "The Correct Answer is Save As"
   },
   {
-    "id": 293,
-    "question": "What is the total marks for Session 1 to 5 (Internal) in MS-CIT?",
+    "id": 461,
+    "question": "Project on “My School” with tables, pictures, headings. Which tool?",
     "options": [
-      "1 Mark",
-      "5 Marks",
-      "10 Marks",
-      "2 Marks"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: 5 Marks."
-  },
-  {
-    "id": 294,
-    "question": "Which MS Office application is focused on in Sessions 18 to 29?",
-    "options": [
-      "MS Word",
-      "MS Excel",
-      "MS PowerPoint",
-      "MS Outlook"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: MS Excel."
-  },
-  {
-    "id": 295,
-    "question": "What is the role of 'Prompt Engineering' in the syllabus?",
-    "options": [
-      "Civil Engineering basics",
-      "AI interaction skills",
-      "Time management",
-      "Typing speed"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: AI interaction skills."
-  },
-  {
-    "id": 296,
-    "question": "How many marks are allocated to 'Prompt Engineering Skills' internally?",
-    "options": [
-      "1",
-      "2",
-      "5",
-      "10"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: 2 Marks."
-  },
-  {
-    "id": 297,
-    "question": "What does 'MS-CIT' stand for?",
-    "options": [
-      "Maharashtra State Certificate in Information Technology",
-      "Master of Science in Computer IT",
-      "Maharashtra State Computer Institute Training",
-      "Management System for Computer IT"
+      "MS Word – for text, table, and pictures",
+      "Excel – for only numbers",
+      "PowerPoint – only for slides",
+      "Paint – only for drawings"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: Maharashtra State Certificate in Information Technology."
+    "explanation": "The Correct Answer is MS Word – for text, table, and pictures"
   },
   {
-    "id": 298,
-    "question": "Which body conducts the MS-CIT Final Examination?",
+    "id": 462,
+    "question": "Design a certificate for competition. Steps?",
     "options": [
-      "MKCL",
-      "MSBTE",
-      "YCMOU",
-      "Pune University"
+      "Use MS Word or DTP software, insert text boxes, format fonts",
+      "Use Excel for formulas",
+      "Use command line",
+      "Save as music file"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Use MS Word or DTP software, insert text boxes, format fonts"
+  },
+  {
+    "id": 463,
+    "question": "Create a diary that highlights spelling errors automatically. Which feature?",
+    "options": [
+      "AutoSave",
+      "Spell Check",
+      "Animation",
+      "ClipArt"
     ],
     "answer": 1,
-    "explanation": "The correct answer is: MSBTE (Maharashtra State Board of Technical Education) certifies/conducts it."
+    "explanation": "The Correct Answer is Spell Check"
   },
   {
-    "id": 299,
-    "question": "Can the CCTP exam be taken before the MS-CIT exam?",
+    "id": 464,
+    "question": "For science fair, you want to compare 5 plants and show growth chart. Which software?",
     "options": [
-      "Yes",
-      "No, it is after the MS-CIT final exam",
-      "Simultaneously",
-      "Anytime"
+      "Word – for paragraphs",
+      "Excel – for chart and data",
+      "PowerPoint – for music",
+      "Paint – for shapes"
     ],
     "answer": 1,
-    "explanation": "The correct answer is: No, it is after the MS-CIT final exam."
+    "explanation": "The Correct Answer is Excel – for chart and data"
   },
   {
-    "id": 300,
-    "question": "What is the fee for the CCTP course for an MS-CIT learner?",
+    "id": 465,
+    "question": "Teacher gives math assignment for totals, averages, graphs. Which tool?",
     "options": [
-      "Rs. 500",
-      "Rs. 1000",
-      "It is an add-on (often bundled or minimal add-on fee)",
-      "Free"
+      "Word",
+      "Paint",
+      "Excel",
+      "CLI"
     ],
     "answer": 2,
-    "explanation": "The correct answer is: It is an add-on (Optional). (Usually requires separate enrollment but is linked)."
+    "explanation": "The Correct Answer is Excel"
+  },
+  {
+    "id": 466,
+    "question": "Student creates PowerPoint but forgets to save. What habit should you learn?",
+    "options": [
+      "Don’t use PowerPoint",
+      "Always click ‘X’ to exit",
+      "Save work regularly using Save or Save As",
+      "Use command prompt to open"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Save work regularly using Save or Save As"
+  },
+  {
+    "id": 467,
+    "question": "You want to create your own eBook with pictures, chapters. Which software?",
+    "options": [
+      "Word Processor",
+      "Excel",
+      "Antivirus",
+      "Notepad only"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Word Processor"
+  },
+  {
+    "id": 468,
+    "question": "Create a presentation on healthy food. What should you include?",
+    "options": [
+      "Images, bullet points, and short videos",
+      "Paragraphs only",
+      "Audio only",
+      "Formulas only"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Images, bullet points, and short videos"
+  },
+  {
+    "id": 469,
+    "question": "You want to print homework. What should you check before printing?",
+    "options": [
+      "If internet is fast",
+      "If the file is saved properly and printer is ready",
+      "If headphones are connected",
+      "If Paint is installed"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is If the file is saved properly and printer is ready"
+  },
+  {
+    "id": 470,
+    "question": "Teacher wants creative resume. Which tool & feature?",
+    "options": [
+      "MS Word with templates",
+      "MS Excel with graphs",
+      "Paint with animations",
+      "CLI with photos"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is MS Word with templates"
+  },
+  {
+    "id": 471,
+    "question": "Travel itineraries ensure that you can _____________ .",
+    "options": [
+      "manage your time while traveling",
+      "manage your luggage",
+      "avoid an encounter with fraudsters",
+      "sleep well at night"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is manage your time while traveling"
+  },
+  {
+    "id": 472,
+    "question": "You need to change a picture in MS Word and replace it with another one. After right-clicking on the picture, which option do you have to select?",
+    "options": [
+      "Delete Picture",
+      "Change Picture",
+      "Remove Hyperlink",
+      "Split Cells"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Change Picture"
+  },
+  {
+    "id": 473,
+    "question": "How to quickly adjust an image size in MS Word?",
+    "options": [
+      "By rotating the image",
+      "By deleting the size handles",
+      "By selecting the image and then right-clicking on it",
+      "By dragging on the size handles of the image"
+    ],
+    "answer": 3,
+    "explanation": "The Correct Answer is By dragging on the size handles of the image"
+  },
+  {
+    "id": 474,
+    "question": "You have a downloaded image on your local device. You would like to replace the template picture with that image. After selecting Change Picture, which option should you click on?",
+    "options": [
+      "From Stock Images",
+      "From OneDrive",
+      "From This Device",
+      "From Bing Pictures"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is From This Device"
+  },
+  {
+    "id": 475,
+    "question": "You need a PDF version of your travel itinerary that you have created online. Under the File menu and 'Save As' option, which option should you select?",
+    "options": [
+      "Download a Copy",
+      "Download as ODT",
+      "Download as PDF",
+      "Save As"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Download as PDF"
+  },
+  {
+    "id": 476,
+    "question": "You want to add some icons to your greeting card. For that, you have to go to the _____________ tab first.",
+    "options": [
+      "Review",
+      "Home",
+      "Layout",
+      "Insert"
+    ],
+    "answer": 3,
+    "explanation": "The Correct Answer is Insert"
+  },
+  {
+    "id": 477,
+    "question": "From where can you change the color of an icon in MS Word?",
+    "options": [
+      "Graphics Fill",
+      "Font Color",
+      "Graphics Effects",
+      "Wrap Text"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Graphics Fill"
+  },
+  {
+    "id": 478,
+    "question": "The keyboard shortcut used for copying an element is _____________ .",
+    "options": [
+      "Alt+B",
+      "Control+C",
+      "Control+R",
+      "Control+X"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Control+C"
+  },
+  {
+    "id": 479,
+    "question": "Your friend presses the “A” key, and it appears on the screen. What actually helps this happen?",
+    "options": [
+      "Only keyboard",
+      "Only monitor",
+      "System Software",
+      "Antivirus Software"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is System Software"
+  },
+  {
+    "id": 480,
+    "question": "You buy a new computer, but it has no system software. What might it feel like?",
+    "options": [
+      "A machine that works faster",
+      "A television with a remote",
+      "A machine that cannot do anything",
+      "A bicycle with extra gears"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is A machine that cannot do anything"
+  },
+  {
+    "id": 481,
+    "question": "Why is system software compared to a manager?",
+    "options": [
+      "It does only one task quickly",
+      "It teaches other software how to work",
+      "It helps different parts of the computer work together",
+      "It stops the hardware from overheating"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is It helps different parts of the computer work together"
+  },
+  {
+    "id": 482,
+    "question": "Imagine using a library without a librarian. How is this like using a computer without an OS?",
+    "options": [
+      "You can still find everything easily",
+      "The system works faster",
+      "It becomes difficult to manage or understand",
+      "Books are replaced with folders"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is It becomes difficult to manage or understand"
+  },
+  {
+    "id": 483,
+    "question": "If you’re watching a video while typing a document, what helps both run smoothly?",
+    "options": [
+      "Hard disk",
+      "Graphic card",
+      "Operating System",
+      "File system"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Operating System"
+  },
+  {
+    "id": 484,
+    "question": "Which feature lets us use icons instead of typing commands?",
+    "options": [
+      "Auto Save",
+      "Graphical User Interface",
+      "Shortcut Keys",
+      "Touch Screen"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Graphical User Interface"
+  },
+  {
+    "id": 485,
+    "question": "Rani clicks a music player while writing an email. What allows both to work together?",
+    "options": [
+      "Mouse settings",
+      "Video card",
+      "Operating System",
+      "Password manager"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Operating System"
+  },
+  {
+    "id": 486,
+    "question": "Ali opens a folder called “School Project” to find files. What is he using?",
+    "options": [
+      "Internet browser",
+      "File explorer with folders",
+      "Control panel",
+      "Device driver settings"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is File explorer with folders"
+  },
+  {
+    "id": 487,
+    "question": "Soham restarts his PC after installing new software. What is this called?",
+    "options": [
+      "Cold boot",
+      "Hard reset",
+      "Warm boot",
+      "Auto update"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Warm boot"
+  },
+  {
+    "id": 488,
+    "question": "A smart TV opens YouTube and settings using remote. Which software enables this?",
+    "options": [
+      "Antivirus software",
+      "Office software",
+      "Embedded Operating System",
+      "Driver installation tools"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Embedded Operating System"
+  },
+  {
+    "id": 489,
+    "question": "The validity period of an eSign is ____ days.",
+    "options": [
+      15,
+      12,
+      7,
+      10
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is 15"
+  },
+  {
+    "id": 490,
+    "question": "What happens if any required information is missing while submitting the PAN card application form?",
+    "options": [
+      "The missing information will be auto-filled",
+      "A pop-up will alert you about the missing information",
+      "The form will be saved as a draft",
+      "The form will be automatically submitted"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is A pop-up will alert you about the missing information"
+  },
+  {
+    "id": 491,
+    "question": "What does a red star on some fields in the form indicate?",
+    "options": [
+      "These are mandatory fields and cannot be left blank",
+      "These fields are optional",
+      "These fields require a star symbol",
+      "These fields are for VIP applicants"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is These are mandatory fields and cannot be left blank"
+  },
+  {
+    "id": 492,
+    "question": "Refer the given image and select the age at which an Indian citizen becomes eligible to apply for it.",
+    "options": [
+      "21 Years",
+      "18 Years",
+      "16 Years",
+      "20 Years"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is 18 Years"
+  },
+  {
+    "id": 493,
+    "question": "The National Career Service Portal is a website powered by the government of India to help people find jobs.",
+    "options": [
+      true,
+      false
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is TRUE"
+  },
+  {
+    "id": 494,
+    "question": "To apply for a job on the National Career Service Portal, you need to upload your CV or resume separately.",
+    "options": [
+      true,
+      false
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is FALSE"
+  },
+  {
+    "id": 495,
+    "question": "What information can you find under each job vacancy on the National Career Service Portal?",
+    "options": [
+      "Under each job vacancy, you can find information such as the movie ratings, director, and cast.",
+      "Under each job vacancy, you can find information such as the hiring company, salary, required skills and job description.",
+      "Under each job vacancy, you can find information such as the recipe, ingredients, and cooking time.",
+      "Under each job vacancy, you can find information such as the product details, price, and reviews"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Under each job vacancy, you can find information such as the hiring company, salary, required skills and job description."
+  },
+  {
+    "id": 496,
+    "question": "Which one of these web addresses should you enter in order to register for eSkill India Program?",
+    "options": [
+      "www.eskillindia.org",
+      "www.nsdc.in",
+      "www.newuserpower.in",
+      "www.program.co.in"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is www.eskillindia.org"
+  },
+  {
+    "id": 497,
+    "question": "What is the full form of NSDC?",
+    "options": [
+      "National Schemes Development Corporation",
+      "National Social Digital Corporation",
+      "National Skill Development Corporation",
+      "New Skill Development Corporation"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is National Skill Development Corporation"
+  },
+  {
+    "id": 498,
+    "question": "Which web address should you enter into the address bar of your browser, to share your thoughts with the Prime Minister of India?",
+    "options": [
+      "www.govindia.in",
+      "www.pmindia.gov.in",
+      "www.pmgov.com",
+      "www.primeminister.in"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is www.pmindia.gov.in"
+  },
+  {
+    "id": 499,
+    "question": "You are a college graduate. Now, you are thinking of consulting with a career counsellor for a decent job. Which portal will help you to look for one?",
+    "options": [
+      "State Career Party",
+      "National Career Service Portal",
+      "National Fund Agency",
+      "World Health Organization"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is National Career Service Portal"
+  },
+  {
+    "id": 500,
+    "question": "______ is the correct link to access the mKisan portal.",
+    "options": [
+      "youngindia.gov.in",
+      "mkisan.gov.in",
+      "mahaonline.co.in",
+      "esampark.in"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is mkisan.gov.in"
   }
 ]

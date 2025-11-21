@@ -1,0 +1,362 @@
+[
+  {
+    "id": 331,
+    "question": "What is the minimum Client Configuration RAM requirement?",
+    "options": [
+      "2 GB",
+      "4 GB",
+      "8 GB",
+      "1 GB"
+    ],
+    "answer": 1,
+    "explanation": "The minimum Client Configuration requires 4 GB RAM."
+  },
+  {
+    "id": 332,
+    "question": "Which document is mandatory for the finalization of the New Center?",
+    "options": [
+      "Driving License",
+      "PAN Card",
+      "Voter ID",
+      "Passport"
+    ],
+    "answer": 1,
+    "explanation": "PAN Card is a mandatory document for the finalization of New Centers."
+  },
+  {
+    "id": 333,
+    "question": "Who recommends the Applicant Organization (AO) first in the registration workflow?",
+    "options": [
+      "Training Provider (TP)",
+      "Local Lead Center (LLC)",
+      "Regional Lead Center (RLC)",
+      "MKCL Head Office"
+    ],
+    "answer": 0,
+    "explanation": "The Training Provider (TP) is the first to recommend the AO after they select the TP."
+  },
+  {
+    "id": 334,
+    "question": "Who is responsible for the physical verification of the Center Setup?",
+    "options": [
+      "Training Provider (TP)",
+      "Local Lead Center (LLC)",
+      "Learners",
+      "Bank Officials"
+    ],
+    "answer": 1,
+    "explanation": "The Local Lead Center (LLC) visits the location to verify the center setup and human resources."
+  },
+  {
+    "id": 335,
+    "question": "What does MFO stand for in the context of fee payments?",
+    "options": [
+      "MKCL's Fee Only",
+      "Monthly Fee Option",
+      "Master Fee Organization",
+      "Minimum Fee Order"
+    ],
+    "answer": 0,
+    "explanation": "MFO stands for MKCL's Fee Only, which is the share ALC pays to MKCL."
+  },
+  {
+    "id": 336,
+    "question": "What is the validity of the ALC authorization for the 2025 process?",
+    "options": [
+      "Until June 2025",
+      "Until December 2025",
+      "Until March 2026",
+      "For 5 Years"
+    ],
+    "answer": 1,
+    "explanation": "ALC authorization remains valid until December 2025, subject to renewal processes."
+  },
+  {
+    "id": 337,
+    "question": "What is the duration of a standard KLiC Certificate Course?",
+    "options": [
+      "60 Hours",
+      "120 Hours",
+      "200 Hours",
+      "300 Hours"
+    ],
+    "answer": 1,
+    "explanation": "A standard KLiC Certificate Course consists of 120 hours of learning."
+  },
+  {
+    "id": 338,
+    "question": "Who awards the Marksheet for KLiC Certificate Courses?",
+    "options": [
+      "MKCL",
+      "YCMOU",
+      "MSBTE",
+      "University of Pune"
+    ],
+    "answer": 1,
+    "explanation": "The Marksheet is awarded by Yashwantrao Chavan Maharashtra Open University (YCMOU)."
+  },
+  {
+    "id": 339,
+    "question": "How many KLiC courses must a learner complete to be eligible for the KLiC Diploma?",
+    "options": [
+      "2 Courses",
+      "3 Courses",
+      "4 Courses",
+      "5 Courses"
+    ],
+    "answer": 1,
+    "explanation": "A learner must successfully complete 3 KLiC courses to be eligible for the KLiC Diploma."
+  },
+  {
+    "id": 340,
+    "question": "What is the time span within which the 3 courses must be completed to get a KLiC Diploma?",
+    "options": [
+      "6 Months",
+      "1 Year",
+      "2 Years",
+      "3 Years"
+    ],
+    "answer": 1,
+    "explanation": "The 3 KLiC courses must be completed within a time span of 1 year."
+  },
+  {
+    "id": 341,
+    "question": "What is the fee for the 'Learning Only (LO)' mode of a 120-hour KLiC Course?",
+    "options": [
+      "Rs. 3000/-",
+      "Rs. 4000/-",
+      "Rs. 5000/-",
+      "Rs. 6000/-"
+    ],
+    "answer": 3,
+    "explanation": "The fee for a 120-hour KLiC Course in Learning Only mode is Rs. 6000/-."
+  },
+  {
+    "id": 342,
+    "question": "What is the duration of the MKCL KLiC Internship?",
+    "options": [
+      "30 Hours",
+      "60 Hours",
+      "120 Hours",
+      "6 Months"
+    ],
+    "answer": 1,
+    "explanation": "The KLiC Internship duration is 60 hours, typically spread over 2 to 3 months."
+  },
+  {
+    "id": 343,
+    "question": "How many academic credits does the KLiC Internship offer?",
+    "options": [
+      "1 Credit",
+      "2 Credits",
+      "4 Credits",
+      "10 Credits"
+    ],
+    "answer": 1,
+    "explanation": "The MKCL KLiC Internship is eligible for 2 academic credits."
+  },
+  {
+    "id": 344,
+    "question": "What is the fee for the KLiC Internship?",
+    "options": [
+      "Rs. 0/-",
+      "Rs. 500/-",
+      "Rs. 1000/-",
+      "Rs. 2000/-"
+    ],
+    "answer": 1,
+    "explanation": "The fee for the KLiC Internship is Rs. 500/-."
+  },
+  {
+    "id": 345,
+    "question": "Which of the following is a role available in the KLiC Internship?",
+    "options": [
+      "Software Architect",
+      "Social Media Marketer",
+      "Data Scientist",
+      "Network Engineer"
+    ],
+    "answer": 1,
+    "explanation": "Social Media Marketer is one of the roles available in the KLiC Internship."
+  },
+  {
+    "id": 346,
+    "question": "KLiC Creditized Courses are aligned with the syllabus of which boards?",
+    "options": [
+      "ICSE only",
+      "CBSE and HSC",
+      "IB and IGCSE",
+      "Open University only"
+    ],
+    "answer": 1,
+    "explanation": "KLiC Creditized Courses are aligned with the latest CBSE and HSC ICT syllabi."
+  },
+  {
+    "id": 347,
+    "question": "What is the fee for a KLiC Creditized Course (60 Hours)?",
+    "options": [
+      "Rs. 1500/-",
+      "Rs. 2500/-",
+      "Rs. 3000/-",
+      "Rs. 4500/-"
+    ],
+    "answer": 2,
+    "explanation": "The fee payable by the student for a KLiC Creditized Course is Rs. 3000/-."
+  },
+  {
+    "id": 348,
+    "question": "What is the validity of the Student Login for a KLiC Creditized course?",
+    "options": [
+      "30 Days",
+      "90 Days",
+      "180 Days",
+      "365 Days"
+    ],
+    "answer": 2,
+    "explanation": "Student Login is valid for 180 days from the date of generation."
+  },
+  {
+    "id": 349,
+    "question": "When do new batches for KLiC courses start?",
+    "options": [
+      "Every Month",
+      "Every Quarter",
+      "Every 6 Months",
+      "Once a Year"
+    ],
+    "answer": 0,
+    "explanation": "New batches for KLiC courses start every month from January to December."
+  },
+  {
+    "id": 350,
+    "question": "What is the application and fee payment window for learners each month?",
+    "options": [
+      "1st to 10th",
+      "1st to 15th",
+      "15th to 30th",
+      "1st to 30th"
+    ],
+    "answer": 3,
+    "explanation": "The application and fee payment window is from the 1st to the 30th of each calendar month."
+  },
+  {
+    "id": 351,
+    "question": "Which software is used for declaration of Computer Hardware during registration?",
+    "options": [
+      "WORM Software",
+      "CPU-Z",
+      "MKCL Asset Manager",
+      "Windows Device Manager"
+    ],
+    "answer": 0,
+    "explanation": "Applicant Organizations must declare their computer hardware through WORM Software."
+  },
+  {
+    "id": 352,
+    "question": "What is the full form of LLC?",
+    "options": [
+      "Local Lead Center",
+      "Learning Lead Center",
+      "Legal License Center",
+      "Local Learning Coordinator"
+    ],
+    "answer": 0,
+    "explanation": "LLC stands for Local Lead Center."
+  },
+  {
+    "id": 353,
+    "question": "Who authorizes the Authorized Learning Center (ALC) certificate?",
+    "options": [
+      "YCMOU",
+      "MKCL",
+      "Government of Maharashtra",
+      "District Collector"
+    ],
+    "answer": 1,
+    "explanation": "The ALC certificate is awarded/authorized by MKCL."
+  },
+  {
+    "id": 354,
+    "question": "What mandatory hardware peripheral is required for learner attendance?",
+    "options": [
+      "Printer",
+      "Scanner",
+      "Biometric Device",
+      "Projector"
+    ],
+    "answer": 2,
+    "explanation": "A Biometric Device is compulsory for the center setup."
+  },
+  {
+    "id": 355,
+    "question": "What type of Internet connection is required for the center?",
+    "options": [
+      "Dial-up",
+      "Minimum 50/100 Mbps Broadband",
+      "2G Mobile Data",
+      "No Internet required"
+    ],
+    "answer": 1,
+    "explanation": "A minimum 50/100 Mbps Broadband connection is required."
+  },
+  {
+    "id": 356,
+    "question": "Which office version is provided/licensed by MKCL for ALCs?",
+    "options": [
+      "Office 2010",
+      "Office 2013",
+      "Office 2016",
+      "Office 2019 Standard Edition"
+    ],
+    "answer": 3,
+    "explanation": "MKCL provides licenses for MS-Office 2019 Standard Edition."
+  },
+  {
+    "id": 357,
+    "question": "Is the Center Registration Fee refundable if the application is rejected?",
+    "options": [
+      "Fully Refundable",
+      "Partially Refundable (excluding Processing Fee)",
+      "Non-Refundable",
+      "Double Refundable"
+    ],
+    "answer": 1,
+    "explanation": "The Registration Fee is refundable subject to rejection, excluding the Rs. 500 processing fee."
+  },
+  {
+    "id": 358,
+    "question": "How is the KLiC course content delivered to learners?",
+    "options": [
+      "Printed Books only",
+      "Physical Classroom lectures only",
+      "eLearning content via ERA",
+      "Email PDFs"
+    ],
+    "answer": 2,
+    "explanation": "World-class eLearning content is provided to learners at the ALC via the ERA platform."
+  },
+  {
+    "id": 359,
+    "question": "What is the support email ID for MKCL?",
+    "options": [
+      "help@mkcl.org",
+      "support@mkcl.org",
+      "info@mkcl.org",
+      "admin@mkcl.org"
+    ],
+    "answer": 1,
+    "explanation": "The support email ID mentioned on the website is support@mkcl.org."
+  },
+  {
+    "id": 360,
+    "question": "Where is the MKCL Head Office located?",
+    "options": [
+      "Mumbai",
+      "Pune",
+      "Nagpur",
+      "Nashik"
+    ],
+    "answer": 1,
+    "explanation": "The MKCL Head Office is located at ICC Trade Tower, Pune."
+  }
+]
