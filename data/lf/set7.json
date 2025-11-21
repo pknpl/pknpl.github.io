@@ -1,0 +1,602 @@
+[
+  {
+    "id": 301,
+    "question": "Meena wants to read news on her computer. What tool should she open first?",
+    "options": [
+      "Google Form – to answer quiz",
+      "Calculator – to do maths",
+      "Browser – to open websites",
+      "File Manager – to see documents"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Browser – to open websites"
+  },
+  {
+    "id": 302,
+    "question": "You see “https” at the beginning of a website link. What does it show?",
+    "options": [
+      "That the site is a blog",
+      "That it is connected to Google",
+      "That it is secure",
+      "That it has photos"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is That it is secure"
+  },
+  {
+    "id": 303,
+    "question": "Your school sent a circular using e-mail. What makes e-mail useful for communication?",
+    "options": [
+      "E-mail is private, quick, and can include files",
+      "E-mail plays music",
+      "E-mail works without internet",
+      "E-mail needs no typing"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is E-mail is private, quick, and can include files"
+  },
+  {
+    "id": 304,
+    "question": "Varun is searching for websites that only show study material. Which tool can help him find only education-related content?",
+    "options": [
+      "Browser history",
+      "Specialized Search Engine",
+      "Firewall",
+      "Chatbot"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Specialized Search Engine"
+  },
+  {
+    "id": 305,
+    "question": "Your friend says social media and e-mail are the same because both send messages. What is the main difference?",
+    "options": [
+      "Email is free but social media is not",
+      "Social media shares publicly, email is private",
+      "Email needs no internet",
+      "Social media uses only pictures"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Social media shares publicly, email is private"
+  },
+  {
+    "id": 306,
+    "question": "You opened a webpage and it showed a security warning. What may be the reason?",
+    "options": [
+      "The site is too big",
+      "The site may be unsafe",
+      "The internet is slow",
+      "The computer is full"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is The site may be unsafe"
+  },
+  {
+    "id": 307,
+    "question": "Identify the correct set of steps to insert a table in MS Word.",
+    "options": [
+      "Home tab > Table > Insert Tables",
+      "Insert tab > Table > Insert Tables",
+      "Review tab > Table > Insert Tables",
+      "View tab > Table > Insert Tables"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Insert tab > Table > Insert Tables"
+  },
+  {
+    "id": 308,
+    "question": "If you want to remove the color from the inserted shape, you need to click on __________.",
+    "options": [
+      "No Fill",
+      "No color",
+      "No Gradient",
+      "No texture"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is No Fill"
+  },
+  {
+    "id": 309,
+    "question": "A __________ fill is a shape fill that gradually changes from one color to another across the surface of the shape.",
+    "options": [
+      "solid",
+      "picture or texture",
+      "gradient",
+      "pattern"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is gradient"
+  },
+  {
+    "id": 310,
+    "question": "From where can you insert a text box?",
+    "options": [
+      "Insert > Picture",
+      "Insert > Shape",
+      "Insert > WordArt",
+      "Insert > Text Box"
+    ],
+    "answer": 3,
+    "explanation": "The Correct Answer is Insert > Text Box"
+  },
+  {
+    "id": 311,
+    "question": "Identify the steps to make the shape transparent.",
+    "options": [
+      "Format > Shape Fill > No fill",
+      "Format > Shape outline > No fill",
+      "Design > Shape Fill > No fill",
+      "Layout > Shape outline > No fill"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Format > Shape Fill > No fill"
+  },
+  {
+    "id": 312,
+    "question": "Identify the correct set of steps to activate the Draw tab in MS Word.",
+    "options": [
+      "File tab > Export > Draw",
+      "File tab > Options > Customize Ribbon > Draw",
+      "Insert tab > Insert Draw tab",
+      "File tab > Save as > New tab > Draw tab"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is File tab > Options > Customize Ribbon > Draw"
+  },
+  {
+    "id": 313,
+    "question": "Where can you find the 'fill effects' option in order to enhance your background?",
+    "options": [
+      "Home tab > page color",
+      "Insert tab > page color",
+      "Design tab > Page color",
+      "Page Layout tab > page color"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Design tab > Page color"
+  },
+  {
+    "id": 314,
+    "question": "To apply background color, you need to click on __________ in the design tab",
+    "options": [
+      "Page Color",
+      "Watermark",
+      "Page Borders",
+      "Effects"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Page Color"
+  },
+  {
+    "id": 315,
+    "question": "To make the document visually interesting, you can add a background color using the __________ option.",
+    "options": [
+      "Themes",
+      "Colors",
+      "Page Borders",
+      "Page Color"
+    ],
+    "answer": 3,
+    "explanation": "The Correct Answer is Page Color"
+  },
+  {
+    "id": 316,
+    "question": "What can you do with 'Page Color' button in the Design tab?",
+    "options": [
+      "Enhance the page color",
+      "Enhance the margins' color",
+      "Enhance the MS Word color",
+      "There is no button as such"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Enhance the page color"
+  },
+  {
+    "id": 317,
+    "question": "If you want to insert a design around the edge of every page of your document, what is the easiest way to do so?",
+    "options": [
+      "Insert > Shapes > Rectangle",
+      "Insert > Online Picture > Design",
+      "Design > Page Borders > Borders and Shading Window",
+      "View > Show > Gridlines"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Design > Page Borders > Borders and Shading Window"
+  },
+  {
+    "id": 318,
+    "question": "Which option would you use to insert a logo to the top and bottom of each page?",
+    "options": [
+      "Insert Online Picture",
+      "Header and Footer",
+      "Insert Shapes",
+      "Page Borders"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Header and Footer"
+  },
+  {
+    "id": 319,
+    "question": "You can select a design for a page border in the __________ section of the __________ window",
+    "options": [
+      "Style; Borders and Shading",
+      "Design; Borders and Shading",
+      "Style; Page Borders",
+      "Design; Page Borders"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Style; Borders and Shading"
+  },
+  {
+    "id": 320,
+    "question": "To add a texture to your document background, you need to click the Page Color option from __________ tab.",
+    "options": [
+      "Insert",
+      "Design",
+      "Page Layout",
+      "View"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Design"
+  },
+  {
+    "id": 321,
+    "question": "To increase the border size you will click on __________ tab",
+    "options": [
+      "Design",
+      "Insert",
+      "Format",
+      "View"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Design"
+  },
+  {
+    "id": 322,
+    "question": "How does Freepik’s AI-powered search engine improve the image selection process?",
+    "options": [
+      "By manually categorizing images",
+      "By using NLP to understand user keywords",
+      "By suggesting only images based on past searches",
+      "By limiting free image results"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is By using NLP to understand user keywords"
+  },
+  {
+    "id": 323,
+    "question": "Which of the following AI features in Freepik allows users to generate completely new images based on a given keyword?",
+    "options": [
+      "AI Image Generator",
+      "Visual Recognition",
+      "Predictive Rendering",
+      "Context-Aware Search"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is AI Image Generator"
+  },
+  {
+    "id": 324,
+    "question": "Which of the following page sizes are commonly used for printing?",
+    "options": [
+      "A4",
+      "A0",
+      "B2",
+      "B1"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is A4"
+  },
+  {
+    "id": 325,
+    "question": "What will happen when you use the Breaks > Page option from the Layout tab in MS Word?",
+    "options": [
+      "Insert a section and start a new section on the next even-numbered page",
+      "Indicate the text following the column break will begin in the next column",
+      "Insert a section break and start the new section on the next page",
+      "Mark the point at which one page ends and the next page begins"
+    ],
+    "answer": 3,
+    "explanation": "The Correct Answer is Mark the point at which one page ends and the next page begins"
+  },
+  {
+    "id": 326,
+    "question": "What is the function of the \"Arrange\" group in the Layout tab in Microsoft Word?",
+    "options": [
+      "To manage document themes and styles",
+      "To adjust page margins and orientation",
+      "To organize the order and placement of objects like images and text boxes",
+      "To check the document for spelling and grammatical errors"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is To organize the order and placement of objects like images and text boxes"
+  },
+  {
+    "id": 327,
+    "question": "The ____________ group under the Layout tab helps a user to set the right indent and spacing.",
+    "options": [
+      "Page Setup",
+      "Alignment",
+      "Paragraph",
+      "Clipboard"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Paragraph"
+  },
+  {
+    "id": 328,
+    "question": "How can you align the text to the right margin of the document?",
+    "options": [
+      "Paragraph > Increase Indent",
+      "Paragraph > Align Right",
+      "Paragraph > Bullets and Numbering",
+      "Font > Align Right"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Paragraph > Align Right"
+  },
+  {
+    "id": 329,
+    "question": "You can simply insert margins to your page by clicking on __________.",
+    "options": [
+      "Layout tab --> Margins",
+      "Home tab --> Margins",
+      "Insert tab --> Margins",
+      "Design tab --> Margins"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Layout tab --> Margins"
+  },
+  {
+    "id": 330,
+    "question": "By default, a new document's margins are set to __________.",
+    "options": [
+      "Wide",
+      "Moderate",
+      "Narrow",
+      "Normal"
+    ],
+    "answer": 3,
+    "explanation": "The Correct Answer is Normal"
+  },
+  {
+    "id": 331,
+    "question": "To give proper line spacing to your selected text, you will need to click on __________",
+    "options": [
+      "Line spacing icon",
+      "Left alignment icon",
+      "Right alignment icon",
+      "Font color icon"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Line spacing icon"
+  },
+  {
+    "id": 332,
+    "question": "What is the primary purpose of the Layout tab in Microsoft Word?",
+    "options": [
+      "To add special effects to text",
+      "To manage page setup, margins, orientation, and spacing",
+      "To insert tables and charts",
+      "To check grammar and spelling errors"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is To manage page setup, margins, orientation, and spacing"
+  },
+  {
+    "id": 333,
+    "question": "Which of the following is not a type of page margin?",
+    "options": [
+      "Normal",
+      "Narrow",
+      "Portrait",
+      "Moderate"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Portrait"
+  },
+  {
+    "id": 334,
+    "question": "Under which tab will you find the Font Color option?",
+    "options": [
+      "References",
+      "Help",
+      "View",
+      "Home"
+    ],
+    "answer": 3,
+    "explanation": "The Correct Answer is Home"
+  },
+  {
+    "id": 335,
+    "question": "When you edit any element online in MS Word, the changes automatically _____________ .",
+    "options": [
+      "get deleted",
+      "get saved",
+      "get selected",
+      "get undone"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is get saved"
+  },
+  {
+    "id": 336,
+    "question": "You need to insert a logo into a template you are editing in MS Word. The logo image is saved in your local device. After going to the Insert tab, which option should you select?",
+    "options": [
+      "Picture > Stock Images",
+      "Picture > Bing Pictures",
+      "Picture > This Device",
+      "Picture > Delete"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Picture > This Device"
+  },
+  {
+    "id": 337,
+    "question": "Which option should we click on, in order to edit a selected template online?",
+    "options": [
+      "Unzip file",
+      "Zip file",
+      "Download",
+      "Open in browser"
+    ],
+    "answer": 3,
+    "explanation": "The Correct Answer is Open in browser"
+  },
+  {
+    "id": 338,
+    "question": "How does HeyGen enhance the realism of AI-generated avatars?",
+    "options": [
+      "By analyzing voice tone for emotions",
+      "By using deep learning to match lip movements with text",
+      "By adding fixed gestures to all avatars",
+      "By syncing random facial expressions to speech"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is By using deep learning to match lip movements with text"
+  },
+  {
+    "id": 339,
+    "question": "You want to explain “cookies” to your friend. Which example works best?",
+    "options": [
+      "A security alarm",
+      "A tiny file that remembers you",
+      "A virus in a folder",
+      "A plug-in for playing games"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is A tiny file that remembers you"
+  },
+  {
+    "id": 340,
+    "question": "You entered wrong password many times and got blocked. Why do websites do this?",
+    "options": [
+      "Waste your time",
+      "To prevent hackers from guessing",
+      "To test your patience",
+      "To slow down old phones"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is To prevent hackers from guessing"
+  },
+  {
+    "id": 341,
+    "question": "You received an email that says, “You won 10 lakh rupees!” What is the best step?",
+    "options": [
+      "Reply and give your bank info",
+      "Click the link quickly",
+      "Report it as spam or delete it",
+      "Tell your friends to try it"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Report it as spam or delete it"
+  },
+  {
+    "id": 342,
+    "question": "A website asked you to allow “notifications”. What should you do?",
+    "options": [
+      "Always allow all notifications",
+      "Allow only if it’s a trusted site",
+      "Deny all without thinking",
+      "Close the browser"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Allow only if it’s a trusted site"
+  },
+  {
+    "id": 343,
+    "question": "You’re creating a blog. Which feature lets readers move from one section to another easily?",
+    "options": [
+      "Cookie",
+      "HTML tag",
+      "Hyperlink",
+      "Firewall"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Hyperlink"
+  },
+  {
+    "id": 344,
+    "question": "Your e-commerce order failed but your money got deducted. What should you check next?",
+    "options": [
+      "Browser tab colour",
+      "Error code and confirmation email",
+      "Total number of products sold",
+      "Your friend’s mobile"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Error code and confirmation email"
+  },
+  {
+    "id": 345,
+    "question": "You are designing a website for your school. Which domain will build more trust?",
+    "options": [
+      "www.schoolphoto.fun",
+      "www.schoolproject.biz",
+      "www.yourschool.edu",
+      "www.schoolparty.net"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is www.yourschool.edu"
+  },
+  {
+    "id": 346,
+    "question": "You want to share a long article with your class group. Which method is better and why?",
+    "options": [
+      "Type it word by word in chat – it's direct",
+      "Email it with an attachment – it’s structured and sharable",
+      "Upload it to a music site – it’s creative",
+      "Print it and take photos – faster for online"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Email it with an attachment – it’s structured and sharable"
+  },
+  {
+    "id": 347,
+    "question": "A shopping website asks you to save your card details. What should you evaluate before clicking “Save”?",
+    "options": [
+      "Whether the site has HTTPS",
+      "Whether the card is colourful",
+      "Whether your friends use the site",
+      "Whether you’re in a hurry"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Whether the site has HTTPS"
+  },
+  {
+    "id": 348,
+    "question": "You and your friend search the same thing online but get different results. Why might that happen?",
+    "options": [
+      "Because one browser is better",
+      "Because of location, history, and cookies",
+      "Because your device is older",
+      "Because the internet is tired"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Because of location, history, and cookies"
+  },
+  {
+    "id": 349,
+    "question": "What is the primary purpose of the \"Insert Index\" feature in Microsoft Word?",
+    "options": [
+      "It automatically inserts an alphabetical list of all words in the document.",
+      "It allows you to create a summary or table of contents for the document.",
+      "It enables the insertion of cross-references to other sections within the document.",
+      "It generates an alphabetical list of key terms and their page numbers for quick reference."
+    ],
+    "answer": 3,
+    "explanation": "The Correct Answer is It generates an alphabetical list of key terms and their page numbers for quick reference."
+  },
+  {
+    "id": 350,
+    "question": "What is the primary function of the \"Table of Authorities\" group in Microsoft Word?",
+    "options": [
+      "It assists in creating a table of contents for legal documents.",
+      "It provides advanced formatting options for tables within the document.",
+      "It allows you to manage and generate a table of authorities for legal citations.",
+      "It automatically inserts footnotes and endnotes for legal references."
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is It allows you to manage and generate a table of authorities for legal citations."
+  }
+]

@@ -128,7 +128,7 @@
       "Software",
       "Smartware"
     ],
-    "answer": "1",
+    "answer": 1,
     "explanation": "The Correct Answer is Hardware"
   },
   {
@@ -140,7 +140,7 @@
       "Operating System",
       "Tool kit"
     ],
-    "answer": "2",
+    "answer": 2,
     "explanation": "The Correct Answer is Operating System"
   },
   {
@@ -152,7 +152,7 @@
       "Smartphone",
       "Computer"
     ],
-    "answer": "0",
+    "answer": 0,
     "explanation": "The Correct Answer is Operating System"
   },
   {
@@ -164,7 +164,7 @@
       "Wallpaper, Desktop, Icons",
       "Icons, Wallpaper, Taskbar"
     ],
-    "answer": "3",
+    "answer": 3,
     "explanation": "The Correct Answer is Icons, Wallpaper, Taskbar"
   },
   {
@@ -176,7 +176,7 @@
       "Rooting",
       "Muting"
     ],
-    "answer": "1",
+    "answer": 1,
     "explanation": "The Correct Answer is Booting"
   },
   {
@@ -188,7 +188,7 @@
       "Trackpad of Laptop",
       "Escape Key of Laptop"
     ],
-    "answer": "2",
+    "answer": 2,
     "explanation": "The Correct Answer is Trackpad of Laptop"
   },
   {
@@ -200,7 +200,7 @@
       "VGA cable",
       "Pen Drive"
     ],
-    "answer": "0",
+    "answer": 0,
     "explanation": "The Correct Answer is USB Dongle"
   },
   {
@@ -212,7 +212,7 @@
       "Keyboard",
       "Webcam"
     ],
-    "answer": "3",
+    "answer": 3,
     "explanation": "The Correct Answer is Webcam"
   },
   {
@@ -224,7 +224,7 @@
       "USB Port",
       "Webcam"
     ],
-    "answer": "3",
+    "answer": 3,
     "explanation": "The Correct Answer is Webcam"
   },
   {
@@ -236,7 +236,7 @@
       "Sign Out",
       "Black Out"
     ],
-    "answer": "2",
+    "answer": 2,
     "explanation": "The Correct Answer is Sign Out"
   },
   {
@@ -248,7 +248,7 @@
       "Title Bar",
       "Icons"
     ],
-    "answer": "2",
+    "answer": 2,
     "explanation": "The Correct Answer is Title Bar"
   },
   {
@@ -260,7 +260,7 @@
       "Files, Icons",
       "Folders, Shortcuts"
     ],
-    "answer": "1",
+    "answer": 1,
     "explanation": "The Correct Answer is Folders, Files"
   },
   {
@@ -272,7 +272,7 @@
       "Extension",
       "Link"
     ],
-    "answer": "0",
+    "answer": 0,
     "explanation": "The Correct Answer is Breadcrumbs"
   },
   {
@@ -284,7 +284,7 @@
       "images that you put in it",
       "Web Links that you put in it"
     ],
-    "answer": "0",
+    "answer": 0,
     "explanation": "The Correct Answer is names and keywords that you put in it"
   },
   {
@@ -296,7 +296,7 @@
       "Folders",
       "Extensions"
     ],
-    "answer": "2",
+    "answer": 2,
     "explanation": "The Correct Answer is Folders"
   },
   {
@@ -308,7 +308,7 @@
       "-",
       "*"
     ],
-    "answer": "3",
+    "answer": 3,
     "explanation": "The Correct Answer is *"
   },
   {
@@ -320,7 +320,7 @@
       "Right-Clicking",
       "Pinning"
     ],
-    "answer": "3",
+    "answer": 3,
     "explanation": "The Correct Answer is Pinning"
   },
   {
@@ -332,7 +332,7 @@
       "Taskbar, Start menu",
       "Wallpaper, Start menu"
     ],
-    "answer": "2",
+    "answer": 2,
     "explanation": "The Correct Answer is Taskbar, Start menu"
   },
   {
@@ -344,7 +344,7 @@
       "Task Explorer",
       "Folder Explorer"
     ],
-    "answer": "1",
+    "answer": 1,
     "explanation": "The Correct Answer is Windows Explorer/File Explorer"
   },
   {
@@ -356,7 +356,7 @@
       "Icon",
       "Pin"
     ],
-    "answer": "2",
+    "answer": 2,
     "explanation": "The Correct Answer is Icon"
   },
   {
@@ -368,7 +368,7 @@
       ".mxt",
       ".txt"
     ],
-    "answer": "3",
+    "answer": 3,
     "explanation": "The Correct Answer is .txt"
   },
   {
@@ -380,7 +380,7 @@
       "pptx file",
       "mp3 file"
     ],
-    "answer": "2",
+    "answer": 2,
     "explanation": "The Correct Answer is pptx file"
   },
   {
@@ -392,7 +392,7 @@
       "Drawing using mouse",
       "Local networking"
     ],
-    "answer": "1",
+    "answer": 1,
     "explanation": "The Correct Answer is Communication using IT tools"
   },
   {
@@ -404,7 +404,7 @@
       "Cloud Storage",
       "Graphic Card"
     ],
-    "answer": "2",
+    "answer": 2,
     "explanation": "The Correct Answer is Cloud Storage"
   },
   {
@@ -416,7 +416,7 @@
       "Antivirus",
       "Task Manager"
     ],
-    "answer": "1",
+    "answer": 1,
     "explanation": "The Correct Answer is PowerPoint"
   },
   {
@@ -428,7 +428,7 @@
       "Printer",
       "Hard Disk"
     ],
-    "answer": "2",
+    "answer": 2,
     "explanation": "The Correct Answer is Printer"
   },
   {
@@ -440,7 +440,7 @@
       "To store and access files online",
       "To record videos"
     ],
-    "answer": "2",
+    "answer": 2,
     "explanation": "The Correct Answer is To store and access files online"
   },
   {
@@ -452,7 +452,7 @@
       "To connect to the internet",
       "To send files wirelessly"
     ],
-    "answer": "3",
+    "answer": 3,
     "explanation": "The Correct Answer is To send files wirelessly"
   },
   {
@@ -464,7 +464,7 @@
       "Calculation and tables",
       "Animation"
     ],
-    "answer": "2",
+    "answer": 2,
     "explanation": "The Correct Answer is Calculation and tables"
   },
   {
@@ -476,7 +476,7 @@
       "Windows Media Player",
       "Calculator"
     ],
-    "answer": "1",
+    "answer": 1,
     "explanation": "The Correct Answer is Google Classroom"
   },
   {
@@ -488,7 +488,7 @@
       "To convert paper into digital form",
       "To clean the screen"
     ],
-    "answer": "2",
+    "answer": 2,
     "explanation": "The Correct Answer is To convert paper into digital form"
   },
   {
@@ -500,7 +500,7 @@
       "It will store without changes",
       "It will summarize into shorter Marathi content"
     ],
-    "answer": "1",
+    "answer": 1,
     "explanation": "The Correct Answer is It will translate into English quickly"
   },
   {
@@ -512,7 +512,7 @@
       "Enhances image resolution using AI",
       "Generates automated replies for customer support"
     ],
-    "answer": "1",
+    "answer": 1,
     "explanation": "The Correct Answer is Translates and transcribes languages"
   },
   {
@@ -524,7 +524,7 @@
       "Login authentication",
       "Cloud syncing"
     ],
-    "answer": "2",
+    "answer": 2,
     "explanation": "The Correct Answer is Login authentication"
   },
   {
@@ -536,7 +536,7 @@
       "Smartphones have more internal storage capacity",
       "Smartphones can run all the same complex software as desktops"
     ],
-    "answer": "1",
+    "answer": 1,
     "explanation": "The Correct Answer is Smartphones are small and portable"
   },
   {
@@ -548,7 +548,7 @@
       "Mobile games",
       "Printer software"
     ],
-    "answer": "1",
+    "answer": 1,
     "explanation": "The Correct Answer is Wi-Fi router (Wireless connection)"
   },
   {
@@ -560,7 +560,7 @@
       "Use of digital tools for collaboration",
       "Need of carrying a smartphone daily"
     ],
-    "answer": "2",
+    "answer": 2,
     "explanation": "The Correct Answer is Use of digital tools for collaboration"
   },
   {
@@ -572,7 +572,7 @@
       "Antivirus scanning",
       "Notes Taking"
     ],
-    "answer": "1",
+    "answer": 1,
     "explanation": "The Correct Answer is Financial planning using spreadsheet tools"
   },
   {
@@ -584,7 +584,7 @@
       "Digital Clock",
       "Text Editor"
     ],
-    "answer": "1",
+    "answer": 1,
     "explanation": "The Correct Answer is Survey Software (Form tool)"
   },
   {
@@ -596,7 +596,7 @@
       "Scanner",
       "Speaker"
     ],
-    "answer": "2",
+    "answer": 2,
     "explanation": "The Correct Answer is Scanner"
   }
 ]

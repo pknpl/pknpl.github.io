@@ -1,0 +1,598 @@
+[
+  {
+    "id": 401,
+    "question": "Rahul wants to write a poem on his computer and decorate it with colorful fonts. Which type of application software should he use?",
+    "options": [
+      "Spreadsheet Software",
+      "Word Processing Software",
+      "Presentation Software",
+      "Antivirus Software"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Word Processing Software"
+  },
+  {
+    "id": 402,
+    "question": "Priya needs to make a bar graph of her monthly expenses. What kind of software should she use?",
+    "options": [
+      "Word Processor",
+      "Spreadsheet Software",
+      "Drawing Software",
+      "Web Browser"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Spreadsheet Software"
+  },
+  {
+    "id": 403,
+    "question": "Sunil wants to compare two shops’ sales data and prepare a small report. Which software will help in both storing data and writing about it?",
+    "options": [
+      "MS Paint",
+      "Presentation Software only",
+      "Spreadsheet and Word Processor",
+      "Music Player"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Spreadsheet and Word Processor"
+  },
+  {
+    "id": 404,
+    "question": "Ritu made a birthday invitation in PowerPoint and added animations. What kind of software did she use?",
+    "options": [
+      "Graphic Designing",
+      "Presentation Software",
+      "Spreadsheet",
+      "Database"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Presentation Software"
+  },
+  {
+    "id": 405,
+    "question": "Arjun is confused between System Software and Application Software. What can help him identify the difference?",
+    "options": [
+      "System software performs user tasks",
+      "Application software runs the hardware",
+      "Application software helps users do specific tasks",
+      "Both are the same"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Application software helps users do specific tasks"
+  },
+  {
+    "id": 406,
+    "question": "In a school computer lab, one student is typing text, another is doing calculations. Which software types are they likely using?",
+    "options": [
+      "Both using the same software",
+      "Typing: Word Processor, Calculations: Spreadsheet",
+      "Typing: Paint, Calculations: Presentation",
+      "Both using Antivirus"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Typing: Word Processor, Calculations: Spreadsheet"
+  },
+  {
+    "id": 407,
+    "question": "A student clicks on a small picture of a printer on the screen. What part of the User Interface is this?",
+    "options": [
+      "Ribbon",
+      "Tab",
+      "Icon",
+      "Toolbar"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Icon"
+  },
+  {
+    "id": 408,
+    "question": "Ravi sees a long strip with many options at the top of MS Word. What is this part called?",
+    "options": [
+      "Task Manager",
+      "Toolbar",
+      "Ribbon",
+      "Menu"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Ribbon"
+  },
+  {
+    "id": 409,
+    "question": "Which of these helps the user interact with application software using pictures and buttons instead of typing commands?",
+    "options": [
+      "CLI",
+      "DOS",
+      "GUI",
+      "BIOS"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is GUI"
+  },
+  {
+    "id": 410,
+    "question": "A student sees two user interfaces. One is full of icons and buttons. The other has only a black screen with text. What is the second one called?",
+    "options": [
+      "GUI",
+      "CLI",
+      "App Store",
+      "Dialog Box"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is CLI"
+  },
+  {
+    "id": 411,
+    "question": "How can you insert comments in MS Word to provide feedback or additional information in a document?",
+    "options": [
+      "Right-click on the text> Choose Add Comment",
+      "Use the Insert tab> Select Comment> Type comments",
+      "Press Ctrl + C> Add a comment",
+      "Access the View tab> Click on Comments"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Right-click on the text> Choose Add Comment"
+  },
+  {
+    "id": 412,
+    "question": "When collaborating on a document, what is the purpose of the \"Accept\" option in the \"Changes\" group?",
+    "options": [
+      "To confirm document formatting",
+      "To apply suggested changes to the document",
+      "To undo the last edit",
+      "To insert a new paragraph"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is To apply suggested changes to the document"
+  },
+  {
+    "id": 413,
+    "question": "When using the \"Compare\" command, what does it allow you to identify between two versions of a document?",
+    "options": [
+      "Font changes",
+      "Page layout modifications",
+      "Grammar errors",
+      "Differences in content"
+    ],
+    "answer": 3,
+    "explanation": "The Correct Answer is Differences in content"
+  },
+  {
+    "id": 414,
+    "question": "Where can you find the 'Spelling & Grammar' option in MS Word?",
+    "options": [
+      "Home tab",
+      "Insert tab",
+      "View tab",
+      "Review tab"
+    ],
+    "answer": 3,
+    "explanation": "The Correct Answer is Review tab"
+  },
+  {
+    "id": 415,
+    "question": "MS Word helps the user to review the document for spelling and grammar.",
+    "options": [
+      true,
+      false
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is TRUE"
+  },
+  {
+    "id": 416,
+    "question": "What is the main advantage of using Research Rabbit for academic research?",
+    "options": [
+      "It automatically writes research papers",
+      "It provides a structured summary of relevant research",
+      "It translates research papers into multiple languages",
+      "It eliminates the need for peer reviews"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is It provides a structured summary of relevant research"
+  },
+  {
+    "id": 417,
+    "question": "Which AI-driven feature of Research Rabbit is being demonstrated here?",
+    "options": [
+      "Real-time Data Monitoring",
+      "Graph Algorithm for research connections",
+      "Automated Text Summarization",
+      "Predictive Language Processing"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Graph Algorithm for research connections"
+  },
+  {
+    "id": 418,
+    "question": "Which of the following options is used to make an image appear bigger?",
+    "options": [
+      "Zoom in",
+      "Zoom out",
+      "Magnify",
+      "Rotate"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Zoom in"
+  },
+  {
+    "id": 419,
+    "question": "To send an object behind the text, what option will you click on?",
+    "options": [
+      "Send Front Text",
+      "Send Behind Text",
+      "Send Ahead Text",
+      "Send Forward Text"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Send Behind Text"
+  },
+  {
+    "id": 420,
+    "question": "Which of the following features will you use to color the borders of a bookmark?",
+    "options": [
+      "Border Disappear",
+      "Border Color",
+      "Border Painter",
+      "Border Markup"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Border Painter"
+  },
+  {
+    "id": 421,
+    "question": "Riya needs to find the “Insert Image” option in her application. She looks at the top menu bar but gets confused. What should she explore?",
+    "options": [
+      "Task Manager",
+      "Ribbon Tabs and Toolbars",
+      "File Explorer",
+      "Footer Area"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Ribbon Tabs and Toolbars"
+  },
+  {
+    "id": 422,
+    "question": "Aman is typing fast, and MS Word keeps changing “hte” to “the”. What feature is helping him?",
+    "options": [
+      "Spell Check",
+      "AutoCorrect",
+      "AutoSave",
+      "Insert Table"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is AutoCorrect"
+  },
+  {
+    "id": 423,
+    "question": "Two students are working. One is editing images; the other is calculating exam marks. Who is using application software?",
+    "options": [
+      "Only the one using images",
+      "Only the one calculating marks",
+      "Both are using application software",
+      "Neither – only system software is involved"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Both are using application software"
+  },
+  {
+    "id": 424,
+    "question": "Rakesh saved his file as .doc but can't open it on his mobile. What might solve the problem?",
+    "options": [
+      "Rename it to .exe",
+      "Try opening in a Word-compatible app or use .pdf",
+      "Print the file and scan it",
+      "Use CLI only"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Try opening in a Word-compatible app or use .pdf"
+  },
+  {
+    "id": 425,
+    "question": "A student clicks “Print” but gets blank pages. What should she check first?",
+    "options": [
+      "Ink in the printer",
+      "If her file is saved as .exe",
+      "Internet connection",
+      "Font size"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Ink in the printer"
+  },
+  {
+    "id": 426,
+    "question": "Raj needs to calculate monthly electricity bills. What can help him automate calculations and totals?",
+    "options": [
+      "MS Word",
+      "MS Excel",
+      "MS PowerPoint",
+      "Paint"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is MS Excel"
+  },
+  {
+    "id": 427,
+    "question": "Shruti opens a file and sees text, buttons, and pictures neatly arranged in boxes. What is she looking at?",
+    "options": [
+      "Hardware Diagram",
+      "GUI of Application Software",
+      "BIOS Startup",
+      "CLI Interface"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is GUI of Application Software"
+  },
+  {
+    "id": 428,
+    "question": "Tushar made a PowerPoint but forgot where he saved it. What is a good practice next time?",
+    "options": [
+      "Save it in Music Folder",
+      "Rename it after saving",
+      "Always save in known folder and note the name",
+      "Don’t save at all"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Always save in known folder and note the name"
+  },
+  {
+    "id": 429,
+    "question": "Meena is deciding between MS Excel and MS PowerPoint for her science project. She needs to explain findings with pictures and bullet points. Which one should she choose?",
+    "options": [
+      "MS Excel – because it supports drawing",
+      "MS PowerPoint – because it allows slides with pictures and bullets",
+      "MS Word – because it has graphs",
+      "Paint – because it is colorful"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is MS PowerPoint – because it allows slides with pictures and bullets"
+  },
+  {
+    "id": 430,
+    "question": "A file named “project.exe” is received by email. Shalini double-clicks it thinking it's a document. What risk is involved?",
+    "options": [
+      "It will open a chart",
+      "It might be a harmful program (executable file)",
+      "It will open in Word",
+      "It will show a PowerPoint"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is It might be a harmful program (executable file)"
+  },
+  {
+    "id": 431,
+    "question": "Zoom in & zoom Out option is present on the __________ corner of the screen.",
+    "options": [
+      "Bottom Left",
+      "Bottom Right",
+      "Top left",
+      "Top Right"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Bottom Right"
+  },
+  {
+    "id": 432,
+    "question": "There are already defined zoom levels in a document but you can always customize the zoom level of the same.",
+    "options": [
+      true,
+      false
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is TRUE"
+  },
+  {
+    "id": 433,
+    "question": "A feedback form is a document that includes __________.",
+    "options": [
+      "potential questions",
+      "billing details",
+      "project status",
+      "academic information"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is potential questions"
+  },
+  {
+    "id": 434,
+    "question": "Amit types a letter and wants to highlight important lines in yellow. Which feature should he use?",
+    "options": [
+      "Insert Table",
+      "Line Spacing",
+      "Text Highlight Color",
+      "Underline"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Text Highlight Color"
+  },
+  {
+    "id": 435,
+    "question": "Two classmates use PowerPoint. One adds only text, the other uses images, sounds, transitions. Whose presentation will be more effective?",
+    "options": [
+      "Only text – because it's neat",
+      "Images and transitions – because it’s more engaging",
+      "Both are equal",
+      "Text-only – because it prints better"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Images and transitions – because it’s more engaging"
+  },
+  {
+    "id": 436,
+    "question": "Teacher checks student files: one is .xls, one is .ppt. Which belongs to Excel and which to PowerPoint?",
+    "options": [
+      "xls = PowerPoint, .ppt = Excel",
+      ".xls = Excel, .ppt = PowerPoint",
+      "Both are PowerPoint",
+      "Both are Excel"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is .xls = Excel, .ppt = PowerPoint"
+  },
+  {
+    "id": 437,
+    "question": "Arnav saves a document without “Save As” and can't find it later. What went wrong?",
+    "options": [
+      "File never saved",
+      "It became a system file",
+      "Saved in default or unknown folder",
+      "It deleted itself"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Saved in default or unknown folder"
+  },
+  {
+    "id": 438,
+    "question": "A menu bar shows options like ‘File’, ‘Insert’, ‘Design’. What are these collectively called in modern software?",
+    "options": [
+      "Tabs on Ribbon",
+      "Footer links",
+      "Dialog boxes",
+      "Pop-ups"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Tabs on Ribbon"
+  },
+  {
+    "id": 439,
+    "question": "Sneha tries to find Spell Check in a toolbar but can't. Where else might she look for it?",
+    "options": [
+      "Under “File” tab",
+      "In desktop icons",
+      "Inside the Insert Picture dialog",
+      "Under Review or Tools tab"
+    ],
+    "answer": 3,
+    "explanation": "The Correct Answer is Under Review or Tools tab"
+  },
+  {
+    "id": 440,
+    "question": "Two friends are editing text. One uses AutoCorrect, the other types manually. Which method is better and why?",
+    "options": [
+      "Typing manually – avoids spelling mistakes",
+      "AutoCorrect – saves time and fixes common errors",
+      "Manual – looks better",
+      "AutoCorrect – removes all grammar errors"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is AutoCorrect – saves time and fixes common errors"
+  },
+  {
+    "id": 441,
+    "question": "A file was saved in .doc format but didn’t open on another device. What could have prevented this problem?",
+    "options": [
+      "Saving as image file",
+      "Choosing an older format",
+      "Saving as .pdf for compatibility",
+      "Removing file name"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Saving as .pdf for compatibility"
+  },
+  {
+    "id": 442,
+    "question": "You want to email your Science project to the teacher. Which format is best and why?",
+    "options": [
+      ".mp3 – because it plays sound",
+      ".pdf – because it locks the format",
+      ".docx – because it's confusing",
+      ".jpg – because it has color"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is .pdf – because it locks the format"
+  },
+  {
+    "id": 443,
+    "question": "Two girls saved presentations. One added titles, media; the other left defaults. Who prepared better?",
+    "options": [
+      "Girl 2 – simple is best",
+      "Girl 1 – organized, creative, clear",
+      "Both same – saved is enough",
+      "Girl 2 – fewer slides"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Girl 1 – organized, creative, clear"
+  },
+  {
+    "id": 444,
+    "question": "For exploring certificate templates from Microsoft online, you have to enter the address _____________ in the address bar of your browser.",
+    "options": [
+      "www.gmail.com",
+      "www.bingpictures.in",
+      "www.office.com",
+      "www.teams.in"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is www.office.com"
+  },
+  {
+    "id": 445,
+    "question": "On www.office.com, once we click on the MS Word icon, which option should we click in order to explore some ready-made templates?",
+    "options": [
+      "More templates",
+      "More options",
+      "Try our templates",
+      "New blank document"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is More templates"
+  },
+  {
+    "id": 446,
+    "question": "Which option should we click on, in order to edit a selected template online?",
+    "options": [
+      "Unzip file",
+      "Zip file",
+      "Download",
+      "Open in browser"
+    ],
+    "answer": 3,
+    "explanation": "The Correct Answer is Open in browser"
+  },
+  {
+    "id": 447,
+    "question": "You need to insert a logo into a template you are editing in MS Word. The logo image is saved in your local device. After going to the Insert tab, which option should you select?",
+    "options": [
+      "Picture > Stock Images",
+      "Picture > Bing Pictures",
+      "Picture > This Device",
+      "Picture > Delete"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Picture > This Device"
+  },
+  {
+    "id": 448,
+    "question": "Which tab will you go to in order to save your file for the first time?",
+    "options": [
+      "The File tab",
+      "The Home tab",
+      "The Save tab",
+      "The Main tab"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is The File tab"
+  },
+  {
+    "id": 449,
+    "question": "A flyer template of Word contains rows and columns so that you can insert text and other elements properly. How will you adjust the row height or column width in Word?",
+    "options": [
+      "By using SmartSheet template",
+      "By using the guidelines that are available in Word itself",
+      "By creating a new flyer",
+      "By dragging on the size handles of the image"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is By using the guidelines that are available in Word itself"
+  },
+  {
+    "id": 450,
+    "question": "What is the function of the 'No Outline' option?",
+    "options": [
+      "It adds a new outline",
+      "It colors the outline",
+      "It removes the outline",
+      "It increases the outline weight"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is It removes the outline"
+  }
+]
