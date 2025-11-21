@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>MKCL Center Portal</title>
+    <!-- Confetti Library -->
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+    
+    <style>
+        :root {
+            --primary: #0056b3;
+            --bg: #f0f2f5;
+            --white: #ffffff;
+            --text: #333333;
+            --success: #28a745;
+            --danger: #dc3545;
+            --shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: var(--bg);
+            margin: 0;
+            padding: 0;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* --- Header --- */
+        header {
+            background: var(--white);
+            padding: 15px 20px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+        }
+
+        .logo {
+            height: 45px; /* Mobile friendly size */
+            width: auto;
+        }
+
+        /* --- Logout Button --- */
+        .btn-logout {
+            background: #fff;
+            color: var(--danger);
+            border: 1px solid var(--danger);
+            padding: 6px 15px;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            cursor: pointer;
+            display: none; /* Hidden by default */
+        }
+
+        /* --- Main Content Area --- */
+        .main-content {
+            flex: 1;
+            display: flex;
+            align-items: center; /* Centers vertically */
+            justify-content: center; /* Centers horizontally */
+            padding: 20px;
+            width: 100%;
+            box-sizing: border-box;
+        }
+
+        /* --- Cards (Login, Loading, Dashboard) --- */
+        .card {
+            background: var(--white);
+            padding: 30px;
+            border-radius: 16px;
+            box-shadow: var(--shadow);
+            width: 100%;
+            max-width: 400px; /* Login card width */
+            text-align: center;
+            animation: fadeIn 0.4s ease-out;
+        }
+
+        .dashboard-card {
+            max-width: 1000px; /* Dashboard is wider */
+            text-align: left;
+            padding: 25px;
+        }
+
+        /* --- Login View --- */
+        #login-view h2 { color: var(--primary); margin-bottom: 10px; }
+        #login-view p { color: #666; font-size: 0.95rem; margin-bottom: 25px; line-height: 1.5; }
+
+        .google-btn {
+            background: var(--primary);
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 50px;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            transition: transform 0.1s;
+            width: 100%;
+            justify-content: center;
+            max-width: 250px;
+        }
+        .google-btn:active { transform: scale(0.98); }
+
+        /* --- Loading View --- */
+        #loading-view { display: none; }
+        .spinner {
+            width: 40px;
+            height: 40px;
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid var(--primary);
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 15px auto;
+        }
+
+        /* --- Dashboard View --- */
+        #dashboard-view { display: none; }
+        
+        .welcome-section { margin-bottom: 25px; border-bottom: 1px solid #eee; padding-bottom: 15px; }
+        .welcome-section h1 { margin: 0; color: var(--primary); font-size: 1.5rem; }
+        .welcome-section p { margin: 5px 0 0 0; color: #666; font-size: 0.9rem; }
+
+        /* Grid Layout for Data */
+        .data-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(100%, 1fr)); /* Mobile first: 1 column */
+            gap: 15px;
+        }
+        
+        /* On larger screens, show 3 columns */
+        @media (min-width: 768px) {
+            .data-grid { grid-template-columns: repeat(3, 1fr); }
+        }
+
+        .data-item {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 10px;
+            border-left: 4px solid var(--primary);
+        }
+
+        .data-label { font-size: 0.8rem; text-transform: uppercase; color: #666; margin-bottom: 5px; letter-spacing: 0.5px; }
+        .data-value { font-size: 1.1rem; font-weight: 700; color: #222; word-break: break-word; }
+
+    
+        .highlight-card {
+            grid-column: 1 / -1; /* Full width */
+            text-align: center;
+            background: linear-gradient(to bottom, #e3f2fd, #fff);
+            border-left: none;
+            border-top: 4px solid var(--primary);
+            padding: 20px;
+        }
+        .highlight-card.eligible { border-top-color: var(--success); background: linear-gradient(to bottom, #d4edda, #fff); }
+        .highlight-card h3 { margin: 10px 0; font-size: 1.3rem; }
+        
+        .badge { background: var(--success); color: white; padding: 4px 12px; border-radius: 12px; font-size: 0.8rem; text-transform: uppercase; }
+        
+
+        .text-danger { color: var(--danger); font-weight: 800; }
+
+
+        .disclaimer {
+            margin-top: 30px;
+            padding: 15px;
+            background: #fff3cd;
+            color: #856404;
+            font-size: 0.85rem;
+            border-radius: 8px;
+            border: 1px solid #ffeeba;
+            text-align: center;
+            line-height: 1.4;
+        }
+
+
+        #error-box {
+            color: white;
+            background: var(--danger);
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 20px;
+            display: none;
+            font-size: 0.9rem;
+        }
+
+        @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+    </style>
+</head>
+<body>
+
+    <header>
+
+        <img src="../assets/logo.jpg" alt="MKCL Logo" class="logo" onerror="this.style.display='none'">
+        <button id="logout-btn" class="btn-logout" onclick="logout()">Logout</button>
+    </header>
+
+    <div class="main-content">
+        
+
+        <div id="login-view" class="card">
+            <h2>Center Login</h2>
+            <p>Sign in with your <strong>@mkcl.org</strong> email to view CRP status.</p>
+            <button class="google-btn" onclick="loginWithGoogle()">
+                Sign in with Google
+            </button>
+            <div id="login-error" id="error-box"></div>
+        </div>
+
+
+        <div id="loading-view" class="card">
+            <div class="spinner"></div>
+            <p id="loading-text" style="color: #666; font-weight: 500;">Verifying Access...</p>
+        </div>
+
+     
+        <div id="dashboard-view" class="card dashboard-card">
+            
+            <div class="welcome-section">
+                <h1 id="center-name">Welcome</h1>
+                <p id="update-time">Data updated today at 10:00 AM</p>
+            </div>
+
+            <div class="data-grid" id="data-container">
+
+            </div>
+
+            <div class="disclaimer">
+                <strong>Note:</strong> The information provided in this sheet is for informational purpose only. 
+                You are requested to kindly verify from your <strong>SOLAR login</strong>.
+            </div>
+        </div>
+
+        <div id="global-error" class="error-msg" style="display:none;"></div>
+
+    </div>
+
+    <script type="module">
+      import { initializeApp } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-app.js";
+      import { getAuth, GoogleAuthProvider, signInWithPopup, signOut, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-auth.js";
+
+      const firebaseConfig = {
+  apiKey: "AIzaSyCdu8Gno3b4NXRf7uaM9KYDK1emWn7QMQ0",
+  authDomain: "crp-2025---github.firebaseapp.com",
+  projectId: "crp-2025---github",
+  storageBucket: "crp-2025---github.firebasestorage.app",
+  messagingSenderId: "850497373894",
+  appId: "1:850497373894:web:bf37639509d207c7bf39c7"
+};
+
+
+      const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxdDqkbFfnnLQU6GMIEIDxne675xX4Z1NkvSBvdU0u9DHIuDHtrGLioYvOevAdpGnu5/exec"; 
+      // ======================================================
+
+      const app = initializeApp(firebaseConfig);
+      const auth = getAuth(app);
+      const provider = new GoogleAuthProvider();
+
+      // --- GLOBAL FUNCTIONS ---
+      window.loginWithGoogle = () => {
+        signInWithPopup(auth, provider).catch((error) => showLoginError(error.message));
+      };
+
+      window.logout = () => {
+        signOut(auth).then(() => location.reload());
+      };
+
+      // --- SET DATE ---
+      const today = new Date();
+      const dateString = today.toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
+      document.getElementById('update-time').innerText = `Data was updated at ${dateString} at 10 AM.`;
+
+      // --- AUTH STATE LISTENER ---
+      onAuthStateChanged(auth, async (user) => {
+        if (user) {
+            // 1. Domain Check
+            if (!user.email.endsWith("@mkcl.org")) {
+                alert("Restricted: Only @mkcl.org emails allowed.");
+                await signOut(auth);
+                return;
+            }
+
+            // 2. SHOW LOADING STATE (Hides Login, Shows Spinner)
+            switchView('loading');
+            document.getElementById('loading-text').innerText = "Fetching your data...";
+
+            // 3. Fetch Data
+            try {
+                const token = await user.getIdToken();
+                const response = await fetch(APPS_SCRIPT_URL, {
+                    method: "POST",
+                    body: JSON.stringify({ token: token })
+                });
+                
+                const result = await response.json();
+
+                if (result.status === "success") {
+                    renderDashboard(result);
+                    document.getElementById('logout-btn').style.display = 'block';
+                    switchView('dashboard');
+                } else {
+                    showLoginError(result.message);
+                    switchView('login');
+                }
+            } catch (err) {
+                showLoginError("Connection Error: " + err.message);
+                switchView('login');
+            }
+
+        } else {
+            
+            document.getElementById('logout-btn').style.display = 'none';
+            switchView('login');
+        }
+      });
+
+      function switchView(viewName) {
+          document.getElementById('login-view').style.display = 'none';
+          document.getElementById('loading-view').style.display = 'none';
+          document.getElementById('dashboard-view').style.display = 'none';
+
+          if (viewName === 'login') document.getElementById('login-view').style.display = 'block';
+          if (viewName === 'loading') document.getElementById('loading-view').style.display = 'block';
+          if (viewName === 'dashboard') document.getElementById('dashboard-view').style.display = 'block';
+      }
+
+      function showLoginError(msg) {
+          const errBox = document.getElementById('login-error');
+          errBox.style.display = 'block';
+          errBox.innerText = msg;
+          errBox.style.marginTop = '20px';
+          errBox.style.color = 'red';
+      }
+
+      function renderDashboard(result) {
+          document.getElementById('center-name').innerText = result.alcName || "Center";
+          
+          const container = document.getElementById('data-container');
+          container.innerHTML = "";
+
+          const data = result.data;
+          
+         
+          const eligibility = data["Renewal Eligibility"];
+          let eligClass = "";
+          let eligHTML = `<div class="data-value">${eligibility}</div>`;
+
+          if (String(eligibility).toLowerCase().includes("eligible") && !String(eligibility).toLowerCase().includes("not")) {
+              eligClass = "eligible";
+              eligHTML = `<span class="badge">🎉 Congratulations</span><h3 style="margin:10px 0; color:#28a745">${eligibility}</h3>`;
+              confetti({ particleCount: 100, spread: 70, origin: { y: 0.6 } });
+          }
+
+          const eligCard = document.createElement('div');
+          eligCard.className = `data-item highlight-card ${eligClass}`;
+          eligCard.innerHTML = `<div class="data-label">Renewal Status</div>${eligHTML}`;
+          container.appendChild(eligCard);
+
+          
+          for (const [key, value] of Object.entries(data)) {
+              if (key === "Renewal Eligibility") continue; // Already shown
+
+              const item = document.createElement('div');
+              item.className = "data-item";
+              
+              let valClass = "data-value";
+              
+              // Highlight Pending Fees
+              if (key.includes("Pending")) {
+                  const num = parseFloat(String(value).replace(/[^0-9.-]+/g,""));
+                  if (num > 0) valClass += " text-danger";
+              }
+
+              item.innerHTML = `
+                  <div class="data-label">${key}</div>
+                  <div class="${valClass}">${value}</div>
+              `;
+              container.appendChild(item);
+          }
+      }
+    </script>
+</body>
+</html>
