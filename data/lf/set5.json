@@ -109,7 +109,7 @@
   },
   {
     "id": 210,
-    "question": "What does 'PDF' stand for in document format?",
+    "question": "What does 'PDF' stand for in document format?????",
     "options": [
       "Printable Document Format",
       "Portable Document Format",
@@ -118,5 +118,485 @@
     ],
     "answer": 1,
     "explanation": "PDF stands for Portable Document Format, which preserves the formatting of documents across different devices and platforms."
+  },
+  {
+    "id": 211,
+    "question": "Physical parts of a computer that you can see and touch are collectively called as\n",
+    "options": [
+      "Touchware",
+      "Hardware",
+      "Software",
+      "Smartware"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is Hardware"
+  },
+  {
+    "id": 212,
+    "question": "A purpose of an _____________ is to organise and control hardware and software so that the computer/smartphone behaves in an efficient way.",
+    "options": [
+      "Headphone",
+      "Laptop",
+      "Operating System",
+      "Tool kit"
+    ],
+    "answer": "2",
+    "explanation": "The Correct Answer is Operating System"
+  },
+  {
+    "id": 213,
+    "question": "An ____________ determines which computer resources will be utilized for solving which problem, and the order in which they will be used.",
+    "options": [
+      "Operating System",
+      "Hardware",
+      "Smartphone",
+      "Computer"
+    ],
+    "answer": "0",
+    "explanation": "The Correct Answer is Operating System"
+  },
+  {
+    "id": 214,
+    "question": "The desktop consists of three main parts:",
+    "options": [
+      "Operating System, Icons, Hardware",
+      "Hardware, Taskbar, Wallpaper",
+      "Wallpaper, Desktop, Icons",
+      "Icons, Wallpaper, Taskbar"
+    ],
+    "answer": "3",
+    "explanation": "The Correct Answer is Icons, Wallpaper, Taskbar"
+  },
+  {
+    "id": 215,
+    "question": "Starting or restarting a computer is called__________",
+    "options": [
+      "Scooting",
+      "Booting",
+      "Rooting",
+      "Muting"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is Booting"
+  },
+  {
+    "id": 216,
+    "question": "To control the cursor of the laptop, you can use _____________.",
+    "options": [
+      "Function Keys of Laptop",
+      "Power Key of Laptop",
+      "Trackpad of Laptop",
+      "Escape Key of Laptop"
+    ],
+    "answer": "2",
+    "explanation": "The Correct Answer is Trackpad of Laptop"
+  },
+  {
+    "id": 217,
+    "question": "A ____________ is used to connect a wireless mouse to a computer.\n",
+    "options": [
+      "USB Dongle",
+      "HDMI Dongle",
+      "VGA cable",
+      "Pen Drive"
+    ],
+    "answer": "0",
+    "explanation": "The Correct Answer is USB Dongle"
+  },
+  {
+    "id": 218,
+    "question": "A __________ has a camera lens.",
+    "options": [
+      "Headphone",
+      "Mouse",
+      "Keyboard",
+      "Webcam"
+    ],
+    "answer": "3",
+    "explanation": "The Correct Answer is Webcam"
+  },
+  {
+    "id": 219,
+    "question": "_____________ is located above the laptop screen.",
+    "options": [
+      "Function Keys",
+      "Port to attach headphone",
+      "USB Port",
+      "Webcam"
+    ],
+    "answer": "3",
+    "explanation": "The Correct Answer is Webcam"
+  },
+  {
+    "id": 220,
+    "question": "If more than one person uses a laptop, it is ideal to __________ of the laptop when it is not in use.",
+    "options": [
+      "Switch Off",
+      "Shut Down",
+      "Sign Out",
+      "Black Out"
+    ],
+    "answer": "2",
+    "explanation": "The Correct Answer is Sign Out"
+  },
+  {
+    "id": 221,
+    "question": "Which of the following elements is not a part of the desktop?",
+    "options": [
+      "Wallpaper",
+      "Taskbar",
+      "Title Bar",
+      "Icons"
+    ],
+    "answer": "2",
+    "explanation": "The Correct Answer is Title Bar"
+  },
+  {
+    "id": 222,
+    "question": "A folder system is made up of __________ and __________ in it.",
+    "options": [
+      "Icons, Folders",
+      "Folders, Files",
+      "Files, Icons",
+      "Folders, Shortcuts"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is Folders, Files"
+  },
+  {
+    "id": 223,
+    "question": "Address bar in the Windows Explorer is also called as __________ bar.",
+    "options": [
+      "Breadcrumbs",
+      "Handle",
+      "Extension",
+      "Link"
+    ],
+    "answer": "0",
+    "explanation": "The Correct Answer is Breadcrumbs"
+  },
+  {
+    "id": 224,
+    "question": "A search box in the Windows Explorer helps you to search files and folders in the computer based on the",
+    "options": [
+      "names and keywords that you put in it",
+      "icons that you put in it",
+      "images that you put in it",
+      "Web Links that you put in it"
+    ],
+    "answer": "0",
+    "explanation": "The Correct Answer is names and keywords that you put in it"
+  },
+  {
+    "id": 225,
+    "question": "___________ are a convenient way to organise files on the computer.",
+    "options": [
+      "Icons",
+      "Files",
+      "Folders",
+      "Extensions"
+    ],
+    "answer": "2",
+    "explanation": "The Correct Answer is Folders"
+  },
+  {
+    "id": 226,
+    "question": "Which of the following characters can NOT be used to name a folder?\n",
+    "options": [
+      "#",
+      "&",
+      "-",
+      "*"
+    ],
+    "answer": "3",
+    "explanation": "The Correct Answer is *"
+  },
+  {
+    "id": 227,
+    "question": "_______________ is a great way to add shortcuts of most often used programs in Windows 10.",
+    "options": [
+      "Booting",
+      "Double-Clicking",
+      "Right-Clicking",
+      "Pinning"
+    ],
+    "answer": "3",
+    "explanation": "The Correct Answer is Pinning"
+  },
+  {
+    "id": 228,
+    "question": "You can pin the items to the _____________ or ___________ menu.",
+    "options": [
+      "Desktop, File menu",
+      "Taskbar, File menu",
+      "Taskbar, Start menu",
+      "Wallpaper, Start menu"
+    ],
+    "answer": "2",
+    "explanation": "The Correct Answer is Taskbar, Start menu"
+  },
+  {
+    "id": 229,
+    "question": "____________is a file management application which helps in managing files and folders on your computer.",
+    "options": [
+      "Internet Explorer",
+      "Windows Explorer/File Explorer",
+      "Task Explorer",
+      "Folder Explorer"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is Windows Explorer/File Explorer"
+  },
+  {
+    "id": 230,
+    "question": "A computer represents each file with an _________, looking at which we can identify what kind of file it is, e.g.: a music file, a document or an image.",
+    "options": [
+      "Picture",
+      "Link",
+      "Icon",
+      "Pin"
+    ],
+    "answer": "2",
+    "explanation": "The Correct Answer is Icon"
+  },
+  {
+    "id": 231,
+    "question": "A notepad file is always stored on a computer using the extension:",
+    "options": [
+      ".lxt",
+      ".text",
+      ".mxt",
+      ".txt"
+    ],
+    "answer": "3",
+    "explanation": "The Correct Answer is .txt"
+  },
+  {
+    "id": 232,
+    "question": "Which file will you use if you want to show school project with pictures and slides?",
+    "options": [
+      "xlsx file",
+      "docx file",
+      "pptx file",
+      "mp3 file"
+    ],
+    "answer": "2",
+    "explanation": "The Correct Answer is pptx file"
+  },
+  {
+    "id": 233,
+    "question": "Your teacher uses Google Meet to teach online. What is this an example of?",
+    "options": [
+      "Entertainment",
+      "Communication using IT tools",
+      "Drawing using mouse",
+      "Local networking"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is Communication using IT tools"
+  },
+  {
+    "id": 234,
+    "question": "You saved your maths file in Google Drive. Now you can open it at school. What helped you?\nRAM\n",
+    "options": [
+      "RAM",
+      "Secondary Storage",
+      "Cloud Storage",
+      "Graphic Card"
+    ],
+    "answer": "2",
+    "explanation": "The Correct Answer is Cloud Storage"
+  },
+  {
+    "id": 235,
+    "question": "Your school wants to make learning fun using pictures and videos. Which tool is most suitable?",
+    "options": [
+      "Scanner",
+      "PowerPoint",
+      "Antivirus",
+      "Task Manager"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is PowerPoint"
+  },
+  {
+    "id": 236,
+    "question": "Your classmate wants to print a story for a school event. What will you suggest?",
+    "options": [
+      "Monitor",
+      "Scanner",
+      "Printer",
+      "Hard Disk"
+    ],
+    "answer": "2",
+    "explanation": "The Correct Answer is Printer"
+  },
+  {
+    "id": 237,
+    "question": "What is cloud computing used for in school work?",
+    "options": [
+      "To play games on cloud",
+      "To send SMS without phone",
+      "To store and access files online",
+      "To record videos"
+    ],
+    "answer": "2",
+    "explanation": "The Correct Answer is To store and access files online"
+  },
+  {
+    "id": 238,
+    "question": "How can two students use Bluetooth to help each other?",
+    "options": [
+      "To print books",
+      "To scan notes",
+      "To connect to the internet",
+      "To send files wirelessly"
+    ],
+    "answer": "3",
+    "explanation": "The Correct Answer is To send files wirelessly"
+  },
+  {
+    "id": 239,
+    "question": "What is stored in .xlsx file format?",
+    "options": [
+      "Music",
+      "Text with pictures",
+      "Calculation and tables",
+      "Animation"
+    ],
+    "answer": "2",
+    "explanation": "The Correct Answer is Calculation and tables"
+  },
+  {
+    "id": 240,
+    "question": "Your teacher asks you to submit homework online. Which platform can help best?",
+    "options": [
+      "Notepad",
+      "Google Classroom",
+      "Windows Media Player",
+      "Calculator"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is Google Classroom"
+  },
+  {
+    "id": 241,
+    "question": "What is the use of a scanner?",
+    "options": [
+      "To open websites",
+      "To print documents",
+      "To convert paper into digital form",
+      "To clean the screen"
+    ],
+    "answer": "2",
+    "explanation": "The Correct Answer is To convert paper into digital form"
+  },
+  {
+    "id": 242,
+    "question": "If a user uploads spoken Marathi content on Bhashini, what would likely happen next?",
+    "options": [
+      "It will be converted into audio format",
+      "It will translate into English quickly",
+      "It will store without changes",
+      "It will summarize into shorter Marathi content"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is It will translate into English quickly"
+  },
+  {
+    "id": 243,
+    "question": "Which main functionality does Bhashini provide?",
+    "options": [
+      "Converts handwritten notes into text",
+      "Translates and transcribes languages",
+      "Enhances image resolution using AI",
+      "Generates automated replies for customer support"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is Translates and transcribes languages"
+  },
+  {
+    "id": 244,
+    "question": "You can’t open your school email after typing the wrong password. What failed?",
+    "options": [
+      "File saving",
+      "Password setting",
+      "Login authentication",
+      "Cloud syncing"
+    ],
+    "answer": "2",
+    "explanation": "The Correct Answer is Login authentication"
+  },
+  {
+    "id": 245,
+    "question": "Your classmate says smartphones are better than desktops. Why could this be true?",
+    "options": [
+      "Smartphones have much faster processors (CPUs) than desktops",
+      "Smartphones are small and portable",
+      "Smartphones have more internal storage capacity",
+      "Smartphones can run all the same complex software as desktops"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is Smartphones are small and portable"
+  },
+  {
+    "id": 246,
+    "question": "Your classroom needs internet for 40 students without wires. What should the school install?\n",
+    "options": [
+      "Wired LAN only",
+      "Wi-Fi router (Wireless connection)",
+      "Mobile games",
+      "Printer software"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is Wi-Fi router (Wireless connection)"
+  },
+  {
+    "id": 247,
+    "question": "In your school, students share their notes with each other using WhatsApp. What does this depict?",
+    "options": [
+      "Using social media for entertainment",
+      "The need for a physical storage device to transfer large files",
+      "Use of digital tools for collaboration",
+      "Need of carrying a smartphone daily"
+    ],
+    "answer": "2",
+    "explanation": "The Correct Answer is Use of digital tools for collaboration"
+  },
+  {
+    "id": 248,
+    "question": "Your elder sister uses Excel to track her monthly expenses. Which skill is she using?",
+    "options": [
+      "Video making",
+      "Financial planning using spreadsheet tools",
+      "Antivirus scanning",
+      "Notes Taking"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is Financial planning using spreadsheet tools"
+  },
+  {
+    "id": 249,
+    "question": "In a quiz competition, the teacher uses a Google Form to collect answers. What is the teacher using?",
+    "options": [
+      "Video Player",
+      "Survey Software (Form tool)",
+      "Digital Clock",
+      "Text Editor"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is Survey Software (Form tool)"
+  },
+  {
+    "id": 250,
+    "question": "A student needs to scan handwritten notes and send them to the teacher. Which device will help?",
+    "options": [
+      "Mouse",
+      "Monitor",
+      "Scanner",
+      "Speaker"
+    ],
+    "answer": "2",
+    "explanation": "The Correct Answer is Scanner"
   }
 ]

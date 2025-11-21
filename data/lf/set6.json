@@ -1,0 +1,597 @@
+[
+  {
+    "id": 251,
+    "question": "Your parents want to pay light bill (electricity bill) using a phone app. Which IT service are they using?",
+    "options": [
+      "Scanner app",
+      "Game app",
+      "UPI-based Digital Payment",
+      "Chat app"
+    ],
+    "answer": "2",
+    "explanation": "The Correct Answer is UPI-based Digital Payment"
+  },
+  {
+    "id": 252,
+    "question": "You received a file in .xlsx format but tried to open it in Word. Why didn’t it open properly?",
+    "options": [
+      "The file is too big",
+      "It needs special antivirus",
+      "File needs spreadsheet software, not word processor",
+      "The system has no mouse"
+    ],
+    "answer": "2",
+    "explanation": "The Correct Answer is File needs spreadsheet software, not word processor"
+  },
+  {
+    "id": 253,
+    "question": "A friend used Bluetooth to send you a class photo. What type of communication is this?",
+    "options": [
+      "Cloud communication",
+      "Wireless file transfer",
+      "Wired backup",
+      "Internet sharing"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is Wireless file transfer"
+  },
+  {
+    "id": 254,
+    "question": "ISP stands for ?",
+    "options": [
+      "Internal Service Plan",
+      "Internet Service Plan",
+      "Integral Service Provider",
+      "Internet Service Provider"
+    ],
+    "answer": "3",
+    "explanation": "The Correct Answer is Internet Service Provider"
+  },
+  {
+    "id": 255,
+    "question": "In Networking, Packetization refers to breaking information into small parts.",
+    "options": [
+      true,
+      false
+    ],
+    "answer": "0",
+    "explanation": "The Correct Answer is TRUE"
+  },
+  {
+    "id": 256,
+    "question": "Which primary issue does Quillbot solve for users?",
+    "options": [
+      "Managing finances",
+      "Improving writing",
+      "Planning daily tasks",
+      "Controlling screen time"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is Improving writing"
+  },
+  {
+    "id": 257,
+    "question": "How would a student most effectively use Quillbot to avoid plagiarism?",
+    "options": [
+      "By summarizing text",
+      "By translating text",
+      "By grammar checking",
+      "By using the plagiarism checker"
+    ],
+    "answer": "3",
+    "explanation": "The Correct Answer is By using the plagiarism checker"
+  },
+  {
+    "id": 258,
+    "question": "What is the function of shortcuts created for items like file, folder, or program in Windows 10?",
+    "options": [
+      "It protects the original file",
+      "It gives you a quick way to open the original file or program",
+      "It is a link to an item located online",
+      "It makes the original program run faster when you open it"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is It gives you a quick way to open the original file or program"
+  },
+  {
+    "id": 259,
+    "question": "Select the true statement about the shortcuts of files or folders.",
+    "options": [
+      "When you delete a shortcut, it just gets hidden",
+      "When you create a shortcut of an item, its copy is created",
+      "When you create a shortcut, the item is renamed with the suffix 'roriginal_file'",
+      "You cannot delete a shortcut"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is When you create a shortcut of an item, its copy is created"
+  },
+  {
+    "id": 260,
+    "question": "You forward a joke to your class group without checking. Someone got hurt. What went wrong?",
+    "options": [
+      "Forwarded at wrong time",
+      "Phone was slow",
+      "Shared without thinking about ethics",
+      "Sent to teacher too"
+    ],
+    "answer": "2",
+    "explanation": "The Correct Answer is Shared without thinking about ethics"
+  },
+  {
+    "id": 261,
+    "question": "Your teacher uses a smartboard instead of blackboard. What is the real benefit?",
+    "options": [
+      "Less chalk dust",
+      "Smartboards look nice",
+      "They can show video and images",
+      "Students can draw easily"
+    ],
+    "answer": "2",
+    "explanation": "The Correct Answer is They can show video and images"
+  },
+  {
+    "id": 262,
+    "question": "A friend wants to know the difference between hard disk and pen drive. Which is correct?",
+    "options": [
+      "A hard disk is connected to the computer wirelessly, but a pen drive requires a wired connection.",
+      "A pen drive is easy to remove and carry, while a hard disk is built inside the computer.",
+      "A hard disk needs special software to store large files, but a pen drive does not.",
+      "Pen drive needs antivirus"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is A pen drive is easy to remove and carry, while a hard disk is built inside the computer."
+  },
+  {
+    "id": 263,
+    "question": "You use headphones in computer class. What kind of device is it?",
+    "options": [
+      "Input",
+      "Storage",
+      "Output",
+      "Network"
+    ],
+    "answer": "2",
+    "explanation": "The Correct Answer is Output"
+  },
+  {
+    "id": 264,
+    "question": "A quiz form automatically shows marks after submission. What is this an example of?",
+    "options": [
+      "PowerPoint",
+      "Video call",
+      "Online form with auto calculation",
+      "Slide show"
+    ],
+    "answer": "2",
+    "explanation": "The Correct Answer is Online form with auto calculation"
+  },
+  {
+    "id": 265,
+    "question": "Your group is creating a presentation about trees. One person types, one adds pictures, one checks spelling. What is this called?",
+    "options": [
+      "Individual learning",
+      "Competition",
+      "Teamwork using digital tools",
+      "Offline gaming"
+    ],
+    "answer": "2",
+    "explanation": "The Correct Answer is Teamwork using digital tools"
+  },
+  {
+    "id": 266,
+    "question": "You and your friend both want to write a project report. Which tool is better for working together from different homes?",
+    "options": [
+      "WordPad – easy to type",
+      "Google Docs – allows both to type and see changes together",
+      "MS Paint – for drawing",
+      "Notepad – saves quickly"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is Google Docs – allows both to type and see changes together"
+  },
+  {
+    "id": 267,
+    "question": "Your parents want to pay electricity bills online. Which is the safe and quick way?",
+    "options": [
+      "Visiting the office is always better",
+      "Using an official app is faster, safer, and easier",
+      "Asking a friend to pay",
+      "Sending SMS to office"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is Using an official app is faster, safer, and easier"
+  },
+  {
+    "id": 268,
+    "question": "A friend keeps installing unknown apps from the internet. What will you suggest?",
+    "options": [
+      "Try even more apps to learn",
+      "It's okay if it's free",
+      "Only install trusted apps and check reviews",
+      "Install them all and uninstall later"
+    ],
+    "answer": "2",
+    "explanation": "The Correct Answer is Only install trusted apps and check reviews"
+  },
+  {
+    "id": 269,
+    "question": "You want to record student attendance and calculate percent. What is the best option?",
+    "options": [
+      "Write in notebook",
+      "Use Excel with formulas",
+      "Ask students daily",
+      "Take photos"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is Use Excel with formulas"
+  },
+  {
+    "id": 270,
+    "question": "What is the fundamental purpose of an email account?",
+    "options": [
+      "To store and edit large video or multimedia files",
+      "To browse websites and search the internet",
+      "Viewing advertisements and offers from various companies in one place.",
+      "To send and receive emails and manage communications"
+    ],
+    "answer": "3",
+    "explanation": "The Correct Answer is To send and receive emails and manage communications"
+  },
+  {
+    "id": 271,
+    "question": "What purpose does the \"Vacation Responder\" feature serve in Gmail?",
+    "options": [
+      "It responds to emails with a preset message when the user is unavailable",
+      "It helps change the Gmail account password",
+      "It automatically organizes incoming emails",
+      "It allows users to import contacts from other email accounts"
+    ],
+    "answer": "0",
+    "explanation": "The Correct Answer is It responds to emails with a preset message when the user is unavailable"
+  },
+  {
+    "id": 272,
+    "question": "What does Google Docs Voice Typing help users achieve easily?",
+    "options": [
+      "Editing pre-written text automatically",
+      "Typing text with simple formatting commands by speaking",
+      "Translating entire documents instantly",
+      "Generating content summaries"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is Typing text with simple formatting commands by speaking"
+  },
+  {
+    "id": 273,
+    "question": "If Google Docs Voice Typing is inaccurately recognizing speech, which AI technology is likely not performing optimally?",
+    "options": [
+      "Machine Learning",
+      "Predictive analytics",
+      "Image recognition",
+      "Automated scheduling"
+    ],
+    "answer": "0",
+    "explanation": "The Correct Answer is Machine Learning"
+  },
+  {
+    "id": 274,
+    "question": "Which is the web browser that comes pre-installed with Windows 10?",
+    "options": [
+      "Microsoft Edge",
+      "Internet Explorer",
+      "Google Chrome"
+    ],
+    "answer": "0",
+    "explanation": "The Correct Answer is Microsoft Edge"
+  },
+  {
+    "id": 275,
+    "question": "Your computer is running very slowly after installing many new programs. What will you do first?",
+    "options": [
+      "Restart the computer and change the desktop background",
+      "Install more programs",
+      "Run antivirus and delete unused apps",
+      "Turn off the computer and wait for 24 hours before using it again"
+    ],
+    "answer": "2",
+    "explanation": "The Correct Answer is Run antivirus and delete unused apps"
+  },
+  {
+    "id": 276,
+    "question": "While creating a digital notice, your friend adds only text. What can you suggest to improve it?",
+    "options": [
+      "Add songs",
+      "Add pictures, headings, and layout using PowerPoint or Canva",
+      "Add jokes",
+      "Print it with color"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is Add pictures, headings, and layout using PowerPoint or Canva"
+  },
+  {
+    "id": 277,
+    "question": "You are asked to design a digital poster on “Save Water.” Which tools will help you make it attractive and informative?",
+    "options": [
+      "Notepad and Paint",
+      "Canva or Google Slides with text, images, and shapes",
+      "Calculator and WordPad",
+      "VLC Media Player"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is Canva or Google Slides with text, images, and shapes"
+  },
+  {
+    "id": 278,
+    "question": "You want to help your grandmother learn how to pay bills online using her mobile. What is the best way to teach her?",
+    "options": [
+      "Tell her to search on YouTube",
+      "Show her steps using your phone with simple language",
+      "Ask her to ask someone else",
+      "Give her the bill and leave"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is Show her steps using your phone with simple language"
+  },
+  {
+    "id": 279,
+    "question": "You are making a class chart using Excel. What columns will you add to make it useful?",
+    "options": [
+      "Day, subject, teacher, time",
+      "Only teacher name",
+      "Only date and day",
+      "Just total marks"
+    ],
+    "answer": "0",
+    "explanation": "The Correct Answer is Day, subject, teacher, time"
+  },
+  {
+    "id": 280,
+    "question": "You want to make a fun quiz for your classmates about computer parts. Which tool will help you?",
+    "options": [
+      "Video player",
+      "Google Forms with images and MCQs",
+      "Antivirus scanner",
+      "MS Paint"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is Google Forms with images and MCQs"
+  },
+  {
+    "id": 281,
+    "question": "You have to prepare a digital classroom board for a festival. What all can you include?",
+    "options": [
+      "The complete list of class rules and penalties for conducting festivities in discipline",
+      "Festival posters, digital drawings, wishes, quotes",
+      "A long text document explaining the festival's history in detail",
+      "Links to homework assignments for the festival week"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is Festival posters, digital drawings, wishes, quotes"
+  },
+  {
+    "id": 282,
+    "question": "Your class is making a timetable app idea for a project. What features should you suggest?",
+    "options": [
+      "Background music and fun sound effects",
+      "Linking to popular social media websites for easy sharing",
+      "Subject time, reminders, and weekly view",
+      "A built-in camera and photo editor for class selfies"
+    ],
+    "answer": "2",
+    "explanation": "The Correct Answer is Subject time, reminders, and weekly view"
+  },
+  {
+    "id": 283,
+    "question": "You and your friends are making a short film about “Digital India.” What tools might you use?",
+    "options": [
+      "Excel sheet and chart",
+      "Video editor, camera, Canva for poster",
+      "Antivirus",
+      "Keyboard and monitor only"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is Video editor, camera, Canva for poster"
+  },
+  {
+    "id": 284,
+    "question": "You want to create a fun activity using IT for your school’s environment club. What will you design?",
+    "options": [
+      "A written essay in notebook",
+      "A printed map from textbook",
+      "A digital game or quiz using Scratch or Google Forms",
+      "Only drawings on paper"
+    ],
+    "answer": "2",
+    "explanation": "The Correct Answer is A digital game or quiz using Scratch or Google Forms"
+  },
+  {
+    "id": 285,
+    "question": "How can you preview a document before printing it in Microsoft Word?",
+    "options": [
+      "Click on the Print button directly",
+      "Use the Print Preview option in the File tab",
+      "Go to the View tab and select Print Layout",
+      "Open the document in a separate window"
+    ],
+    "answer": "2",
+    "explanation": "The Correct Answer is Go to the View tab and select Print Layout"
+  },
+  {
+    "id": 286,
+    "question": "What function does the \"File\" tab serve in Microsoft Word?",
+    "options": [
+      "Inserting images",
+      "Saving and opening documents",
+      "Formatting text",
+      "Changing document layout"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is Saving and opening documents"
+  },
+  {
+    "id": 287,
+    "question": "Which of the following does not fall under the category of Fonts?",
+    "options": [
+      "Calibri",
+      "Times New Roman",
+      "Century",
+      "Italic"
+    ],
+    "answer": "3",
+    "explanation": "The Correct Answer is Italic"
+  },
+  {
+    "id": 288,
+    "question": "To increase the font size we will click on the font group",
+    "options": [
+      true,
+      false
+    ],
+    "answer": "0",
+    "explanation": "The Correct Answer is TRUE"
+  },
+  {
+    "id": 289,
+    "question": "You want to add color to your text in the document. Which option from Home tab will you use to do so?",
+    "options": [
+      "Font Group",
+      "Style group",
+      "Paragraph group",
+      "Editing group"
+    ],
+    "answer": "0",
+    "explanation": "The Correct Answer is Font Group"
+  },
+  {
+    "id": 290,
+    "question": "Format Painter style option is found in __________ group",
+    "options": [
+      "Home > Clipboard",
+      "Home > Paragraph",
+      "Home > Font",
+      "Home > Styles"
+    ],
+    "answer": "0",
+    "explanation": "The Correct Answer is Home > Clipboard"
+  },
+  {
+    "id": 291,
+    "question": "Where do you find the option to change the font color?",
+    "options": [
+      "in Editing group",
+      "In Font group",
+      "In Styles group",
+      "In Paragraph group"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is In Font group"
+  },
+  {
+    "id": 292,
+    "question": "What is the default line spacing in Word document?",
+    "options": [
+      1,
+      1.5,
+      1.15,
+      2
+    ],
+    "answer": "2",
+    "explanation": "The Correct Answer is 1.15"
+  },
+  {
+    "id": 293,
+    "question": "How to remove borders from your table?",
+    "options": [
+      "Select the table cell > Click on table Design > Select Borders > No borders",
+      "Select the table cell > Click on table Design > Select Borders Painters",
+      "Select the table cell > Click on table Design > Select Borders > All borders",
+      "Select the table cell > Click on table Design > Select Borders styles"
+    ],
+    "answer": "0",
+    "explanation": "The Correct Answer is Select the table cell > Click on table Design > Select Borders > No borders"
+  },
+  {
+    "id": 294,
+    "question": "Changing the text to Bold or Italic form is known as __________.",
+    "options": [
+      "Text effects",
+      "WordArt",
+      "Font effects",
+      "Font styles"
+    ],
+    "answer": "3",
+    "explanation": "The Correct Answer is Font styles"
+  },
+  {
+    "id": 295,
+    "question": "Bullet style option is found in __________ group.",
+    "options": [
+      "Font",
+      "Styles",
+      "Editing",
+      "Paragraph"
+    ],
+    "answer": "3",
+    "explanation": "The Correct Answer is Paragraph"
+  },
+  {
+    "id": 296,
+    "question": "To enter & formate the text you will use __________ Tab.",
+    "options": [
+      "File",
+      "Insert",
+      "Home",
+      "Review"
+    ],
+    "answer": "2",
+    "explanation": "The Correct Answer is Home"
+  },
+  {
+    "id": 297,
+    "question": "Tushar wants to add a video to his school website. His teacher says he needs a tool to run media. What tool does he need?",
+    "options": [
+      "Cookie",
+      "Plug-in",
+      "Firewall",
+      "Spreadsheet"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is Plug-in"
+  },
+  {
+    "id": 298,
+    "question": "Om clicked on a website link and suddenly a new tab opened with an ad. What is this called?",
+    "options": [
+      "File Download",
+      "Hyperlink",
+      "Pop-up",
+      "Bookmark"
+    ],
+    "answer": "2",
+    "explanation": "The Correct Answer is Pop-up"
+  },
+  {
+    "id": 299,
+    "question": "Anaya is writing an email to her teacher and wants to send her homework. What should she do?",
+    "options": [
+      "Paste it in the subject",
+      "Add it as an attachment",
+      "Type it in the To field",
+      "Put it in BCC"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is Add it as an attachment"
+  },
+  {
+    "id": 300,
+    "question": "Aarav is typing “mkcl.org” but the page does not open. What should he check first?",
+    "options": [
+      "If the site is printed in bold",
+      "If he has internet connection",
+      "If his sound is working",
+      "If someone else opened it"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is If he has internet connection"
+  }
+]

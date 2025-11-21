@@ -203,13 +203,13 @@
     "id": 18,
     "question": "If MS-CIT Fees is 5000 then how much in 2 Installment Mode",
     "options": [
-      2100,
+      2600,
       "3500",
       "3600",
       "None"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: 2100"
+    "explanation": "The correct answer is: 2600"
   },
   {
     "id": 19,

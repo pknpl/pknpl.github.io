@@ -136,12 +136,12 @@
     "question": "When was MS-CIT launched?",
     "options": [
       "1999",
-      "2002",
+      2001,
       "2005",
       "2010"
     ],
     "answer": 1,
-    "explanation": "MS-CIT was launched in 2002."
+    "explanation": "MS-CIT was launched in 2001."
   },
   {
     "id": 13,

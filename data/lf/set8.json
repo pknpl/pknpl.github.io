@@ -1,0 +1,602 @@
+[
+  {
+    "id": 351,
+    "question": "What is the full form of \"TOC\" in the context of Microsoft Word?",
+    "options": [
+      "Text Outline Control",
+      "Table of Changes",
+      "Total Office Compatibility",
+      "Table of Contents"
+    ],
+    "answer": "3",
+    "explanation": "The Correct Answer is Table of Contents"
+  },
+  {
+    "id": 352,
+    "question": "What is the primary purpose of Smart Lookup in Microsoft Word?",
+    "options": [
+      "Collaborative editing suggestions.",
+      "Grammar and spelling correction.",
+      "Quick access to exploring word.",
+      "Style enhancement recommendations."
+    ],
+    "answer": "2",
+    "explanation": "The Correct Answer is Quick access to exploring word."
+  },
+  {
+    "id": 353,
+    "question": "Identify the feature in Google Lens that translates text from images.",
+    "options": [
+      "Optical Character Recognition (OCR)",
+      "Object Detection AI",
+      "Semantic Image Processing",
+      "Predictive Tagging"
+    ],
+    "answer": "0",
+    "explanation": "The Correct Answer is Optical Character Recognition (OCR)"
+  },
+  {
+    "id": 354,
+    "question": "Google Lens assists in solving math problems by using ________________.",
+    "options": [
+      "AI-powered Equation Scanner",
+      "Digital Handwriting Analysis",
+      "Predictive Analytics",
+      "Sentiment Mapping"
+    ],
+    "answer": "0",
+    "explanation": "The Correct Answer is AI-powered Equation Scanner"
+  },
+  {
+    "id": 355,
+    "question": "You are comparing two sites to buy a pen drive: one shows real customer reviews, and one has no details. Which one would you trust more and why?",
+    "options": [
+      "First – it shares honest feedback",
+      "Second – fewer words are better",
+      "Second – it’s faster to load",
+      "First – it has more photos only"
+    ],
+    "answer": "0",
+    "explanation": "The Correct Answer is First – it shares honest feedback"
+  },
+  {
+    "id": 356,
+    "question": "Your school’s result portal says “Unsecure – Not HTTPS”. Should you log in to check your marks?",
+    "options": [
+      "Yes – marks are more important",
+      "No – it may not be safe",
+      "Yes – if it loads fast",
+      "Yes – if it has a logo"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is No – it may not be safe"
+  },
+  {
+    "id": 357,
+    "question": "You are told to create a password. Which is safest?",
+    "options": [
+      "myschool123",
+      123456,
+      "School@2025!",
+      "abc123"
+    ],
+    "answer": "2",
+    "explanation": "The Correct Answer is School@2025!"
+  },
+  {
+    "id": 358,
+    "question": "Your teacher asked you to make a blog about your school’s science fair. What tool do you need?",
+    "options": [
+      "A calculator",
+      "A blogging platform or website builder",
+      "A printer",
+      "A shopping app"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is A blogging platform or website builder"
+  },
+  {
+    "id": 359,
+    "question": "You want to create a web page to show your art project online. Which language will help you start?",
+    "options": [
+      "MS Paint",
+      "HTML",
+      "Excel",
+      "PDF"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is HTML"
+  },
+  {
+    "id": 360,
+    "question": "Imagine you are launching a website for “Young Coders Club.” Which domain will suit best?",
+    "options": [
+      "www.coolgames.in",
+      "www.kidsfun.biz",
+      "www.youngcodersclub.org",
+      "www.mynewcartoon.net"
+    ],
+    "answer": "2",
+    "explanation": "The Correct Answer is www.youngcodersclub.org"
+  },
+  {
+    "id": 361,
+    "question": "Your school is celebrating Environment Day and wants to create an email campaign. What 3 elements should you include?",
+    "options": [
+      "Font colour, big title, and music",
+      "Greeting, images, and call to action (like “Join Us”)",
+      "Quotes, jokes, and cartoons",
+      "Location map only"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is Greeting, images, and call to action (like “Join Us”)"
+  },
+  {
+    "id": 362,
+    "question": "You are helping a friend create a secure e-commerce site. What should you add on the site to show it is safe?",
+    "options": [
+      "Cartoon logo",
+      "Bright colour design",
+      "HTTPS in the URL and a lock symbol",
+      "Welcome music"
+    ],
+    "answer": "2",
+    "explanation": "The Correct Answer is HTTPS in the URL and a lock symbol"
+  },
+  {
+    "id": 363,
+    "question": "Imagine you are writing a report about “Safe Internet Use”. Which 3 points would you include?",
+    "options": [
+      "Share passwords, open all links, try random sites",
+      "Use strong passwords, avoid unknown links, check for HTTPS",
+      "Visit any free site, keep passwords simple, allow pop-ups",
+      "Turn off antivirus for speed"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is Use strong passwords, avoid unknown links, check for HTTPS"
+  },
+  {
+    "id": 364,
+    "question": "Your school wants to promote its new computer lab online. What’s a creative way to do it?",
+    "options": [
+      "Post details in a WhatsApp group",
+      "Upload a poster to a secure webpage with photos and form",
+      "Print and give it to neighbours",
+      "Announce it using loudspeaker"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is Upload a poster to a secure webpage with photos and form"
+  },
+  {
+    "id": 365,
+    "question": "You are going to meet your uncle at his house which is 10 kms away. Since you are going there for the first time, your uncle wants to track you while moving so that you do not go in wrong direction. Which feature of WhatsApp can you use to help your uncle track you?",
+    "options": [
+      "WhatsApp Tracking",
+      "WhatsApp Chatting",
+      "WhatsApp Video Calling",
+      "WhatsApp Live Location Sharing"
+    ],
+    "answer": "3",
+    "explanation": "The Correct Answer is WhatsApp Live Location Sharing"
+  },
+  {
+    "id": 366,
+    "question": "Which of the following, time duration options are availale while sharing Live Location in WhatsApp?",
+    "options": [
+      "15 mins, 1 Hour and 8 hours",
+      "30 mins, 1 Hour and 4 Hours",
+      "15 mins, 1 Hour and 3 Hours",
+      "15 mins, 2 hours and 8 hours"
+    ],
+    "answer": "0",
+    "explanation": "The Correct Answer is 15 mins, 1 Hour and 8 hours"
+  },
+  {
+    "id": 367,
+    "question": "How can you copy the URL of a YouTube video at the current time for sharing?",
+    "options": [
+      "Right-click on the video, select 'Copy Video URL,' and paste it",
+      "Manually type the current time in the URL after copying",
+      "Right-click on the video, select 'Copy video URL at current time,' and paste it",
+      "Share the video and type the current time in the message"
+    ],
+    "answer": "2",
+    "explanation": "The Correct Answer is Right-click on the video, select 'Copy video URL at current time,' and paste it"
+  },
+  {
+    "id": 368,
+    "question": "How can you initiate Conversation Mode in Google Translate on a smartphone?",
+    "options": [
+      "Tap the microphone icon in the app",
+      "Shake the device",
+      "Say the wake word 'Hey Google'",
+      "Send a voice command via email"
+    ],
+    "answer": "0",
+    "explanation": "The Correct Answer is Tap the microphone icon in the app"
+  },
+  {
+    "id": 369,
+    "question": "What is the primary method to access Google Translate on a computer or laptop?",
+    "options": [
+      "Install the Google Translate software",
+      "Download the mobile app",
+      "Access it through a web browser",
+      "Request a physical copy from Google"
+    ],
+    "answer": "2",
+    "explanation": "The Correct Answer is Access it through a web browser"
+  },
+  {
+    "id": 370,
+    "question": "Which of the following is not an e-commerce company?",
+    "options": [
+      "Flipkart",
+      "Amazon",
+      "Google",
+      "Shopclues"
+    ],
+    "answer": "2",
+    "explanation": "The Correct Answer is Google"
+  },
+  {
+    "id": 371,
+    "question": "Flipkart in an e-commerce company founded in which country?",
+    "options": [
+      "United States",
+      "India",
+      "China",
+      "Japan"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is India"
+  },
+  {
+    "id": 372,
+    "question": "In PhotoScan app, what does the highlighted symbol denote?",
+    "options": [
+      "Ready to capture photo",
+      "Photo is captured and ready for scan",
+      "Ready to capture video",
+      "Video is captured and ready for scan"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is Photo is captured and ready for scan"
+  },
+  {
+    "id": 373,
+    "question": "To turn off your camera quickly in a Google Meet meeting, which keyboard shortcut should you use?",
+    "options": [
+      "Ctrl + D",
+      "Alt + C",
+      "Alt + K",
+      "Ctrl + E"
+    ],
+    "answer": "3",
+    "explanation": "The Correct Answer is Ctrl + E"
+  },
+  {
+    "id": 374,
+    "question": "Identify the feature that provides a list of email ids for the participating members in Google Meet.",
+    "options": [
+      "Google Contacts",
+      "Gmail",
+      "Google Calendar",
+      "Yahoo"
+    ],
+    "answer": "0",
+    "explanation": "The Correct Answer is Google Contacts"
+  },
+  {
+    "id": 375,
+    "question": "Where can you schedule a new meeting on Google Meet?",
+    "options": [
+      "Instagram",
+      "Google Calendar",
+      "Telegram",
+      "WhatsApp"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is Google Calendar"
+  },
+  {
+    "id": 376,
+    "question": "How can the Translated Captions feature be helpful in education settings?",
+    "options": [
+      "By providing a grid view of participants during a video call",
+      "By cancelling background noise during a video call",
+      "By allowing educators to connect and interact with students, parents, with diverse backgrounds",
+      "By translating written text into different languages"
+    ],
+    "answer": "2",
+    "explanation": "The Correct Answer is By allowing educators to connect and interact with students, parents, with diverse backgrounds"
+  },
+  {
+    "id": 377,
+    "question": "What is the Translated Captions feature in Google Meet?",
+    "options": [
+      "A feature that allows users to blur their background during video calls",
+      "A feature that translates spoken English into captions in real-time during a video conference",
+      "A feature that cancels background noise during a video call",
+      "A feature that provides a grid view of participants during a video call"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is A feature that translates spoken English into captions in real-time during a video conference"
+  },
+  {
+    "id": 378,
+    "question": "Choose the platform that helps you to hold meetings with 500 people at a time.",
+    "options": [
+      "Google Drive",
+      "Google Translate",
+      "Google Pay",
+      "Google Meet"
+    ],
+    "answer": "3",
+    "explanation": "The Correct Answer is Google Meet"
+  },
+  {
+    "id": 379,
+    "question": "Which of the following is not true in case of Truecaller?",
+    "options": [
+      "It is an online phonebook.",
+      "It is an online address book.",
+      "You can block numbers from whom you don't want to get calls.",
+      "You can know who is calling you, even you don't have the contact saved."
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is It is an online address book."
+  },
+  {
+    "id": 380,
+    "question": "What is Truecaller?",
+    "options": [
+      "Online address book",
+      "Offline address book",
+      "Online phonebook",
+      "Offline phonebook"
+    ],
+    "answer": "2",
+    "explanation": "The Correct Answer is Online phonebook"
+  },
+  {
+    "id": 381,
+    "question": "WhatsApp Meta AI helps business users mainly by providing ____.",
+    "options": [
+      "Automated document translation",
+      "Automatic customer interactions",
+      "AI-powered financial forecasting",
+      "Augmented reality product demos"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is Automatic customer interactions"
+  },
+  {
+    "id": 382,
+    "question": "This interaction best illustrates which WhatsApp Meta AI capability?",
+    "options": [
+      "Sentiment analysis",
+      "Predictive text generation",
+      "Real-time information retrieval",
+      "Automated workflow execution"
+    ],
+    "answer": "2",
+    "explanation": "The Correct Answer is Real-time information retrieval"
+  },
+  {
+    "id": 383,
+    "question": "Which technology enables Notion to respond quickly to your commands?",
+    "options": [
+      "Predictive analytics",
+      "Natural Language Processing",
+      "Audio Processing",
+      "Image recognition"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is Natural Language Processing"
+  },
+  {
+    "id": 384,
+    "question": "What is the main function of Todoist?",
+    "options": [
+      "Organizing calendar events",
+      "Tracking expenses",
+      "Task management",
+      "Streaming podcasts"
+    ],
+    "answer": "2",
+    "explanation": "The Correct Answer is Task management"
+  },
+  {
+    "id": 385,
+    "question": "Todoist uses GPT-3 AI primarily to __________________.",
+    "options": [
+      "translate documents",
+      "recognize voice commands",
+      "understand written commands",
+      "create digital art"
+    ],
+    "answer": "2",
+    "explanation": "The Correct Answer is understand written commands"
+  },
+  {
+    "id": 386,
+    "question": "What can you track using Habitica?",
+    "options": [
+      "Financial investments",
+      "Cooking recipes",
+      "Daily habits",
+      "Driving routes"
+    ],
+    "answer": "2",
+    "explanation": "The Correct Answer is Daily habits"
+  },
+  {
+    "id": 387,
+    "question": "Habitica rewards users primarily by ____________.",
+    "options": [
+      "Real money transfers",
+      "Virtual points and achievements",
+      "Extra internet data",
+      "Physical prizes mailed home"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is Virtual points and achievements"
+  },
+  {
+    "id": 388,
+    "question": "How does Suno create music?",
+    "options": [
+      "By live musicians",
+      "Using Generative AI",
+      "Manual editing only",
+      "Recording from concerts"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is Using Generative AI"
+  },
+  {
+    "id": 389,
+    "question": "What does this image most accurately depict?",
+    "options": [
+      "User learning piano",
+      "Manual songwriting",
+      "AI-based music creation",
+      "User listening to radio"
+    ],
+    "answer": "2",
+    "explanation": "The Correct Answer is AI-based music creation"
+  },
+  {
+    "id": 390,
+    "question": "Rahul typed \"https://www.mkcl.org\" in his browser and pressed Enter to open the website. What is this full line called?",
+    "options": [
+      "Website Name – because it shows where he wants to go",
+      "IP Address – because it connects to the Internet",
+      "URL – because it is the full web address",
+      "HTML – because websites are written in it"
+    ],
+    "answer": "2",
+    "explanation": "The Correct Answer is URL – because it is the full web address"
+  },
+  {
+    "id": 391,
+    "question": "A friend showed Anjali two things: a browser and an ISP. She got confused. What does an ISP help with?",
+    "options": [
+      "Making presentations",
+      "Writing emails",
+      "Connecting to the Internet",
+      "Playing music"
+    ],
+    "answer": "2",
+    "explanation": "The Correct Answer is Connecting to the Internet"
+  },
+  {
+    "id": 392,
+    "question": "Ramesh opened a news website, but some images didn’t load. His teacher said a tool might be missing. What is the tool called?",
+    "options": [
+      "Firewall – for security",
+      "Plug-in – to run extra media",
+      "Cookie – to save information",
+      "File – to download pictures"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is Plug-in – to run extra media"
+  },
+  {
+    "id": 393,
+    "question": "Sneha clicked on a button that said “Buy Now” on a shopping website. It opened a page asking for her name and address. What kind of page is this?",
+    "options": [
+      "Blog – because it has written content",
+      "E-form – because it asks for user details",
+      "Home Page – because it’s the start",
+      "Plug-in – because it adds tools"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is E-form – because it asks for user details"
+  },
+  {
+    "id": 394,
+    "question": "Your school portal allows students to download worksheets. What kind of tool or service helps this process?",
+    "options": [
+      "Firewall – because it protects data",
+      "FTP – because it moves files",
+      "URL – because it opens pages",
+      "Plug-in – because it r"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is FTP – because it moves files"
+  },
+  {
+    "id": 395,
+    "question": "A student says, “Internet and Web are just two names for the same thing.” Which sentence will help him understand correctly?",
+    "options": [
+      "Internet and Web are always used together",
+      "Web is the service that works on the Internet",
+      "Web is a network of mobile phones",
+      "Internet is only for sending messages"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is Web is the service that works on the Internet"
+  },
+  {
+    "id": 396,
+    "question": "Your teacher showed a web page with pictures and text. He said it was written using a special language. What is this language called?",
+    "options": [
+      "PDF – because the file had images",
+      "HTML – because it builds websites",
+      "Java – because it runs programs",
+      "MS Word – because it has text"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is HTML – because it builds websites"
+  },
+  {
+    "id": 397,
+    "question": "Priya clicked on the word “Gallery” on her school website, and it opened a new page with photos. What is such clickable text called?",
+    "options": [
+      "Bookmark – because it saves her page",
+      "Hyperlink – because it connects pages",
+      "Cookie – because it remembers websites",
+      "Plug-in – because it adds media"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is Hyperlink – because it connects pages"
+  },
+  {
+    "id": 398,
+    "question": "Akash visited a shopping website and selected a toy. Next day, when he opened the same site, the toy was still in his cart. What helped the site remember him?",
+    "options": [
+      "Web Page – because it keeps the toy",
+      "Cookie – because it stores user info",
+      "Email – because it knows Akash",
+      "Antivirus – because it protects websites"
+    ],
+    "answer": "1",
+    "explanation": "The Correct Answer is Cookie – because it stores user info"
+  },
+  {
+    "id": 399,
+    "question": "A student saw “.com” and “.edu” at the end of website addresses. What do these endings show?",
+    "options": [
+      "The page design",
+      "The language used",
+      "The purpose of the site",
+      "The size of the site"
+    ],
+    "answer": "2",
+    "explanation": "The Correct Answer is The purpose of the site"
+  },
+  {
+    "id": 400,
+    "question": "In the \"Mailing\" tab, which option is used to insert merge fields into a document during the mail merge process?",
+    "options": [
+      "Insert Image",
+      "Insert Table",
+      "Insert Merge Field",
+      "Insert Page Number"
+    ],
+    "answer": "2",
+    "explanation": "The Correct Answer is Insert Merge Field"
+  }
+]

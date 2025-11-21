@@ -334,12 +334,12 @@
     "question": "What is the Date when MKCL was Founded",
     "options": [
       "15 Nov 2001",
-      "14 Nov 2000",
+      37123,
       "12 Nov 2001",
       "13 Nov 2000"
     ],
     "answer": 1,
-    "explanation": "The correct answer is: 14 Nov 2000"
+    "explanation": "The correct answer is: 20 Aug 2001"
   },
   {
     "id": 60,
