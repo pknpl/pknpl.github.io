@@ -1,602 +1,362 @@
 [
   {
-    "id": 101,
-    "question": "What is the benefit of AI in daily life?",
+    "id": 61,
+    "question": "Where is MKCL Head Office",
     "options": [
-      "वेळ वाचतो आणि काम सोपे होते",
-      "इंटरनेट बंद होते",
-      "मोबाईल खराब होतो",
-      "अभ्यास कमी होतो"
-    ],
-    "answer": 0,
-    "explanation": "AI helps save time and makes tasks easier in daily life (वेळ वाचतो आणि काम सोपे होते)."
-  },
-  {
-    "id": 102,
-    "question": "Which AI tool is used for design work?",
-    "options": [
-      "Canva Magic Studio",
-      "MS Word",
-      "Calculator",
-      "VLC Player"
-    ],
-    "answer": 0,
-    "explanation": "Canva Magic Studio is specifically designed for AI-based design work."
-  },
-  {
-    "id": 103,
-    "question": "What is the major risk of AI?",
-    "options": [
-      "बेरोजगारी वाढणे",
-      "शिकणे वाढणे",
-      "नवीन नोकऱ्या निर्माण होणे",
-      "इंटरनेट स्वस्त होणे"
-    ],
-    "answer": 0,
-    "explanation": "A major risk of AI is increasing unemployment (बेरोजगारी वाढणे)."
-  },
-  {
-    "id": 104,
-    "question": "Which AI tool can generate video from text prompts?",
-    "options": [
-      "Google Veo",
-      "Excel",
-      "Chrome",
-      "Paint"
-    ],
-    "answer": 0,
-    "explanation": "Google Veo is an AI tool that generates videos from text prompts."
-  },
-  {
-    "id": 105,
-    "question": "Which AI tool can convert text to speech naturally?",
-    "options": [
-      "ElevenLabs",
-      "Photoshop",
-      "PowerPoint",
-      "MS Paint"
-    ],
-    "answer": 0,
-    "explanation": "ElevenLabs converts text to natural speech using AI."
-  },
-  {
-    "id": 106,
-    "question": "Which AI tool helps in summarizing long text automatically?",
-    "options": [
-      "ChatGPT",
-      "VLC",
-      "Calculator",
-      "Paint"
-    ],
-    "answer": 0,
-    "explanation": "ChatGPT helps to summarize long text automatically."
-  },
-  {
-    "id": 107,
-    "question": "Which AI tool is used for generating music or sound effects?",
-    "options": [
-      "Suno AI",
-      "WordPad",
-      "Excel",
-      "Chrome"
-    ],
-    "answer": 0,
-    "explanation": "Suno AI is an AI tool for generating music or sound effects."
-  },
-  {
-    "id": 108,
-    "question": "Which AI tool can enhance or upscale photos automatically?",
-    "options": [
-      "Let's Enhance",
-      "Paint",
-      "MS Word",
-      "VLC"
-    ],
-    "answer": 0,
-    "explanation": "Let's Enhance is an AI tool for enhancing or upscaling photos."
-  },
-  {
-    "id": 109,
-    "question": "Which AI tool is used for creating presentations automatically?",
-    "options": [
-      "Beautiful.ai",
-      "Chrome",
-      "Notepad",
-      "Paint"
-    ],
-    "answer": 0,
-    "explanation": "Beautiful.ai is used for automatic AI-driven presentation creation."
-  },
-  {
-    "id": 110,
-    "question": "AI tools are designed to help in —",
-    "options": [
-      "सर्जनशीलता आणि स्वयंचलन वाढवणे",
-      "इंटरनेट बंद करणे",
-      "फाइल delete करणे",
-      "कॉम्प्युटर मंद करणे"
-    ],
-    "answer": 0,
-    "explanation": "AI tools are designed to increase creativity and automation (सर्जनशीलता आणि स्वयंचलन वाढवणे)."
-  },
-  {
-    "id": 111,
-    "question": "What is the full form of AI?",
-    "options": [
-      "Artificial Information",
-      "Artificial Intelligence",
-      "Automated Internet",
-      "Advanced Interface"
+      "Mumbai",
+      "Pune",
+      "Nashik",
+      "None"
     ],
     "answer": 1,
-    "explanation": "Artificial Intelligence is the correct full form of AI."
+    "explanation": "The Correct Answer is Pune"
   },
   {
-    "id": 112,
-    "question": "Which of the following is an example of an AI tool used for chatting?",
+    "id": 62,
+    "question": "What does MKCL stands for?",
     "options": [
-      "ChatGPT",
-      "Canva",
-      "Excel",
-      "Photoshop"
+      "Maharashtra Knowledge Corporation Limited",
+      "Maharashtra Knowledge Center Limited",
+      "Maharashtra Kerala Corporation Limited",
+      "None"
     ],
     "answer": 0,
-    "explanation": "ChatGPT is an AI tool specifically designed for chatting."
+    "explanation": "The Correct Answer is Maharashtra Knowledge Corporation Limited"
   },
   {
-    "id": 113,
-    "question": "What does 'Machine Learning' mean?",
+    "id": 63,
+    "question": "Which is not the Product of MKCL",
     "options": [
-      "मशीन स्वतः शिकते",
-      "माणूस मशीनला शिकवतो",
-      "फक्त डेटा साठवतो",
-      "संगणक बंद करतो"
+      "MS-CIT",
+      "MOM",
+      "KLIC",
+      "TALLY"
     ],
-    "answer": 0,
-    "explanation": "Machine Learning means the machine learns by itself (मशीन स्वतः शिकते)."
+    "answer": 3,
+    "explanation": "The Correct Answer is TALLY"
   },
   {
-    "id": 114,
-    "question": "Which AI tool is used to create images from text?",
+    "id": 64,
+    "question": "What is the old name of MS-CIT",
     "options": [
-      "DALL·E",
-      "Excel",
-      "Notepad",
-      "Zoom"
-    ],
-    "answer": 0,
-    "explanation": "DALL·E is an AI tool that can create images from text descriptions."
-  },
-  {
-    "id": 115,
-    "question": "What is the main purpose of using AI in education?",
-    "options": [
-      "शिक्षकांना बदलणे",
-      "शिकण्याची गुणवत्ता वाढवणे",
-      "खेळ खेळणे",
-      "मोबाईल वापरणे"
+      "EASY",
+      "CIT",
+      "ERA",
+      "None"
     ],
     "answer": 1,
-    "explanation": "AI is used in education to improve the quality of learning (शिकण्याची गुणवत्ता वाढवणे)."
+    "explanation": "The Correct Answer is CIT"
   },
   {
-    "id": 116,
-    "question": "Which company created ChatGPT?",
+    "id": 65,
+    "question": "How many courses included in KLIC",
     "options": [
-      "Microsoft",
-      "OpenAI",
-      "Google",
-      "MKCL"
-    ],
-    "answer": 1,
-    "explanation": "ChatGPT was created by OpenAI."
-  },
-  {
-    "id": 117,
-    "question": "What does NLP stand for in AI?",
-    "options": [
-      "Natural Language Processing",
-      "National Learning Program",
-      "Numeric Logic Process",
-      "Neural Level Programming"
+      "256",
+      "200",
+      "300",
+      "None"
     ],
     "answer": 0,
-    "explanation": "NLP stands for Natural Language Processing."
+    "explanation": "The Correct Answer is 256"
   },
   {
-    "id": 118,
-    "question": "Which AI tool helps in generating voice?",
+    "id": 66,
+    "question": "Full form of MOM",
     "options": [
-      "ElevenLabs",
-      "Excel",
-      "WordPad",
-      "VLC"
-    ],
-    "answer": 0,
-    "explanation": "ElevenLabs is an AI tool that generates voice."
-  },
-  {
-    "id": 119,
-    "question": "AI is mainly based on which component?",
-    "options": [
-      "Data",
-      "Paint",
-      "Music",
-      "Hardware only"
-    ],
-    "answer": 0,
-    "explanation": "AI is mainly based on data."
-  },
-  {
-    "id": 120,
-    "question": "Which AI tool is useful for making videos?",
-    "options": [
-      "Pika Labs",
-      "Word",
-      "PowerPoint",
-      "Excel"
-    ],
-    "answer": 0,
-    "explanation": "Pika Labs is an AI tool used for making videos."
-  },
-  {
-    "id": 121,
-    "question": "What is the benefit of AI in daily life?",
-    "options": [
-      "वेळ वाचतो आणि काम सोपे होते",
-      "इंटरनेट बंद होते",
-      "मोबाईल खराब होतो",
-      "अभ्यास कमी होतो"
-    ],
-    "answer": 0,
-    "explanation": "AI helps save time and makes tasks easier in daily life (वेळ वाचतो आणि काम सोपे होते)."
-  },
-  {
-    "id": 122,
-    "question": "Which AI tool is used for design work?",
-    "options": [
-      "Canva Magic Studio",
-      "MS Word",
-      "Calculator",
-      "VLC Player"
-    ],
-    "answer": 0,
-    "explanation": "Canva Magic Studio is specifically designed for AI-based design work."
-  },
-  {
-    "id": 123,
-    "question": "What is the major risk of AI?",
-    "options": [
-      "बेरोजगारी वाढणे",
-      "शिकणे वाढणे",
-      "नवीन नोकऱ्या निर्माण होणे",
-      "इंटरनेट स्वस्त होणे"
-    ],
-    "answer": 0,
-    "explanation": "A major risk of AI is increasing unemployment (बेरोजगारी वाढणे)."
-  },
-  {
-    "id": 124,
-    "question": "Which AI tool can generate video from text prompts?",
-    "options": [
-      "Google Veo",
-      "Excel",
-      "Chrome",
-      "Paint"
-    ],
-    "answer": 0,
-    "explanation": "Google Veo is an AI tool that generates videos from text prompts."
-  },
-  {
-    "id": 125,
-    "question": "Which AI tool can convert text to speech naturally?",
-    "options": [
-      "ElevenLabs",
-      "Photoshop",
-      "PowerPoint",
-      "MS Paint"
-    ],
-    "answer": 0,
-    "explanation": "ElevenLabs converts text to natural speech using AI."
-  },
-  {
-    "id": 126,
-    "question": "Which AI tool helps in summarizing long text automatically?",
-    "options": [
-      "ChatGPT",
-      "VLC",
-      "Calculator",
-      "Paint"
-    ],
-    "answer": 0,
-    "explanation": "ChatGPT helps to summarize long text automatically."
-  },
-  {
-    "id": 127,
-    "question": "Which AI tool is used for generating music or sound effects?",
-    "options": [
-      "Suno AI",
-      "WordPad",
-      "Excel",
-      "Chrome"
-    ],
-    "answer": 0,
-    "explanation": "Suno AI is an AI tool for generating music or sound effects."
-  },
-  {
-    "id": 128,
-    "question": "Which AI tool can enhance or upscale photos automatically?",
-    "options": [
-      "Let's Enhance",
-      "Paint",
-      "MS Word",
-      "VLC"
-    ],
-    "answer": 0,
-    "explanation": "Let's Enhance is an AI tool for enhancing or upscaling photos."
-  },
-  {
-    "id": 129,
-    "question": "Which AI tool is used for creating presentations automatically?",
-    "options": [
-      "Beautiful.ai",
-      "Chrome",
-      "Notepad",
-      "Paint"
-    ],
-    "answer": 0,
-    "explanation": "Beautiful.ai is used for automatic AI-driven presentation creation."
-  },
-  {
-    "id": 130,
-    "question": "AI tools are designed to help in —",
-    "options": [
-      "सर्जनशीलता आणि स्वयंचलन वाढवणे",
-      "इंटरनेट बंद करणे",
-      "फाइल delete करणे",
-      "कॉम्प्युटर मंद करणे"
-    ],
-    "answer": 0,
-    "explanation": "AI tools are designed to increase creativity and automation (सर्जनशीलता आणि स्वयंचलन वाढवणे)."
-  },
-  {
-    "id": 131,
-    "question": "MS Word 2019 is used for creating what type of documents?",
-    "options": [
-      "Audio",
-      "Video",
-      "Text Documents",
-      "Games"
+      "Maharashtra Online Marketing",
+      "MKCL Online Marketing",
+      "MKCL Olympiad Movement",
+      "None"
     ],
     "answer": 2,
-    "explanation": "MS Word 2019 is used primarily for creating text documents."
+    "explanation": "The Correct Answer is MKCL Olympiad Movement"
   },
   {
-    "id": 132,
-    "question": "The default file extension of Word 2019 is?",
+    "id": 67,
+    "question": "What is the Full form of BOSCO",
     "options": [
-      ".txt",
-      ".docx",
-      ".xlsx",
-      ".pdf"
-    ],
-    "answer": 1,
-    "explanation": "The default file extension for Word 2019 documents is .docx."
-  },
-  {
-    "id": 133,
-    "question": "Which tab contains Font group?",
-    "options": [
-      "Insert",
-      "Home",
-      "Layout",
-      "View"
-    ],
-    "answer": 1,
-    "explanation": "The Font group, which allows font changes, is found under the Home tab."
-  },
-  {
-    "id": 134,
-    "question": "Shortcut for Save command?",
-    "options": [
-      "Ctrl S",
-      "Ctrl C",
-      "Ctrl X",
-      "Ctrl A"
-    ],
-    "answer": 0,
-    "explanation": "Ctrl + S is the shortcut to save a document in MS Word."
-  },
-  {
-    "id": 135,
-    "question": "To print a document, which tab is used?",
-    "options": [
-      "Insert",
-      "File",
-      "Home",
-      "View"
-    ],
-    "answer": 1,
-    "explanation": "The File tab contains the print option in MS Word."
-  },
-  {
-    "id": 136,
-    "question": "What is the use of Bold command?",
-    "options": [
-      "Underline text",
-      "Darken the text",
-      "Italic text",
-      "Change color"
-    ],
-    "answer": 1,
-    "explanation": "Bold command darkens the text making it stand out."
-  },
-  {
-    "id": 137,
-    "question": "Which key is used to undo last action?",
-    "options": [
-      "Ctrl U",
-      "Ctrl Y",
-      "Ctrl Z",
-      "Ctrl X"
+      "Bombay Online Shopping Center",
+      "BridgeCourse Online Shopping Corporation",
+      "BridgeCourse for Online System and Commerce",
+      "None"
     ],
     "answer": 2,
-    "explanation": "Ctrl + Z is the shortcut to undo the last action."
+    "explanation": "The Correct Answer is BridgeCourse for Online System and Commerce"
   },
   {
-    "id": 138,
-    "question": "Header and Footer are inserted from which tab?",
+    "id": 68,
+    "question": "What is the minimum Requirement for Coordinator",
     "options": [
-      "Insert",
-      "Layout",
-      "Design",
-      "Home"
+      "Graduate or Diploma",
+      "Post Graduate",
+      "12th Pass",
+      "None"
     ],
     "answer": 0,
-    "explanation": "Header and Footer are inserted from the Insert tab."
+    "explanation": "The Correct Answer is Graduate or Diploma"
   },
   {
-    "id": 139,
-    "question": "What does MS stand for in MS Word?",
+    "id": 69,
+    "question": "What is the maximum Center Deposit Amount",
     "options": [
-      "Microsoft",
-      "Micro System",
-      "Mega Soft",
-      "Mini Server"
+      "17500",
+      "5500",
+      "8000",
+      "None"
     ],
     "answer": 0,
-    "explanation": "MS in MS Word stands for Microsoft."
+    "explanation": "The Correct Answer is 17500"
   },
   {
-    "id": 140,
-    "question": "Which feature checks spelling and grammar?",
+    "id": 70,
+    "question": "What is the Annual Renewal Fees",
     "options": [
-      "AutoCorrect",
-      "Find",
-      "Review",
-      "Mailings"
+      "5500",
+      "2500",
+      "4500",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is 5500"
+  },
+  {
+    "id": 71,
+    "question": "Which Portal used for Registration of MSCIT Learner",
+    "options": [
+      "OES",
+      "ERA",
+      "SOLAR",
+      "None"
     ],
     "answer": 2,
-    "explanation": "Review feature checks spelling and grammar."
+    "explanation": "The Correct Answer is SOLAR"
   },
   {
-    "id": 141,
-    "question": "Page Orientation can be changed from which tab?",
+    "id": 72,
+    "question": "Which software used for check Installment Ledger",
     "options": [
-      "Layout",
-      "Insert",
-      "Home",
-      "Review"
-    ],
-    "answer": 0,
-    "explanation": "Page Orientation is changed from the Layout tab."
-  },
-  {
-    "id": 142,
-    "question": "Shortcut to create a new document?",
-    "options": [
-      "Ctrl O",
-      "Ctrl N",
-      "Ctrl P",
-      "Ctrl S"
-    ],
-    "answer": 1,
-    "explanation": "Ctrl + N is the shortcut to create a new document."
-  },
-  {
-    "id": 143,
-    "question": "Which feature allows inserting pictures?",
-    "options": [
-      "Layout",
-      "Insert",
-      "Design",
-      "File"
-    ],
-    "answer": 1,
-    "explanation": "Pictures are inserted using the Insert tab feature."
-  },
-  {
-    "id": 144,
-    "question": "Track Changes feature is available in which tab?",
-    "options": [
-      "View",
-      "Home",
-      "Review",
-      "Layout"
+      "OES",
+      "ERA",
+      "SOLAR",
+      "None"
     ],
     "answer": 2,
-    "explanation": "Track Changes feature is found in the Review tab."
+    "explanation": "The Correct Answer is SOLAR"
   },
   {
-    "id": 145,
-    "question": "To view document in full screen which option is used?",
+    "id": 73,
+    "question": "Which software used for Learner Management",
     "options": [
-      "Zoom",
-      "Print Layout",
-      "Read Mode",
-      "Outline"
+      "OES",
+      "ERA",
+      "SOLAR",
+      "None"
     ],
     "answer": 2,
-    "explanation": "Full screen view option is Read Mode."
+    "explanation": "The Correct Answer is SOLAR"
   },
   {
-    "id": 146,
-    "question": "Which key is used to select all text?",
+    "id": 74,
+    "question": "Which is the Exam Portal",
     "options": [
-      "Ctrl C",
-      "Ctrl A",
-      "Ctrl X",
-      "Ctrl V"
-    ],
-    "answer": 1,
-    "explanation": "Ctrl + A is used to select all text."
-  },
-  {
-    "id": 147,
-    "question": "To insert a table, which tab is used?",
-    "options": [
-      "Insert",
-      "Home",
-      "Layout",
-      "Design"
+      "OES",
+      "ERA",
+      "SOLAR",
+      "None"
     ],
     "answer": 0,
-    "explanation": "Table insertion is done via the Insert tab."
+    "explanation": "The Correct Answer is OES"
   },
   {
-    "id": 148,
-    "question": "Smart Lookup helps in?",
+    "id": 75,
+    "question": "Which is the Learning Portal",
     "options": [
-      "Searching meaning",
-      "Saving document",
-      "Printing",
-      "Deleting"
+      "OES",
+      "ERA",
+      "SOLAR",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is ERA"
+  },
+  {
+    "id": 76,
+    "question": "Which Portal is used for Payment",
+    "options": [
+      "OES",
+      "ERA",
+      "SOLAR",
+      "None"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is SOLAR"
+  },
+  {
+    "id": 77,
+    "question": "What is the Maximum Seat Capacity for Center",
+    "options": [
+      "24",
+      "25",
+      "30",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is 25"
+  },
+  {
+    "id": 78,
+    "question": "What is the Minimum Seat Capacity for Center",
+    "options": [
+      "8",
+      "6",
+      "10",
+      "None"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is 10"
+  },
+  {
+    "id": 79,
+    "question": "What is the maximum Concurrent Users Allowed in Center",
+    "options": [
+      "25",
+      "15",
+      "20",
+      "None"
     ],
     "answer": 0,
-    "explanation": "Smart Lookup helps in searching meaning of words."
+    "explanation": "The Correct Answer is 25"
   },
   {
-    "id": 149,
-    "question": "Default font in Word 2019 is?",
+    "id": 80,
+    "question": "What is the Minimum Room Size Required",
     "options": [
-      "Arial",
-      "Calibri",
-      "Times New Roman",
-      "Verdana"
+      "200 Sq Ft",
+      "300 Sq Ft",
+      "400 Sq Ft",
+      "None"
     ],
-    "answer": 1,
-    "explanation": "Calibri is the default font in Word 2019."
+    "answer": 0,
+    "explanation": "The Correct Answer is 200 Sq Ft"
   },
   {
-    "id": 150,
-    "question": "The shortcut for Print command?",
+    "id": 81,
+    "question": "What is the Username for ERA Portal",
     "options": [
-      "Ctrl S",
-      "Ctrl P",
-      "Ctrl O",
-      "Ctrl N"
+      "Learner ID",
+      "Batch ID",
+      "Center Code",
+      "None"
     ],
-    "answer": 1,
-    "explanation": "Ctrl + P is the shortcut for printing."
+    "answer": 0,
+    "explanation": "The Correct Answer is Learner ID"
+  },
+  {
+    "id": 82,
+    "question": "What is the Password for SOLAR Portal",
+    "options": [
+      "Solar",
+      "Password",
+      "Center Code",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Solar"
+  },
+  {
+    "id": 83,
+    "question": "What is the Username for SOLAR Portal",
+    "options": [
+      "Center Code",
+      "Batch ID",
+      "Email ID",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Center Code"
+  },
+  {
+    "id": 84,
+    "question": "What is the Helpline Number for ERA",
+    "options": [
+      "020-25899600",
+      "020-25899700",
+      "020-25899800",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is 020-25899600"
+  },
+  {
+    "id": 85,
+    "question": "What is the Email ID for ERA Support",
+    "options": [
+      "erasupport@mkcl.org",
+      "info@mkcl.org",
+      "support@mkcl.org",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is erasupport@mkcl.org"
+  },
+  {
+    "id": 86,
+    "question": "What is the Email ID for SOLAR Support",
+    "options": [
+      "solarsupport@mkcl.org",
+      "info@mkcl.org",
+      "support@mkcl.org",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is solarsupport@mkcl.org"
+  },
+  {
+    "id": 87,
+    "question": "What is the Email ID of mkcl",
+    "options": [
+      "mkcl@mkcl.org",
+      "info@mkcl.org",
+      "support@mkcl.org",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is mkcl@mkcl.org"
+  },
+  {
+    "id": 88,
+    "question": "Which Software is used for Batch Management",
+    "options": [
+      "OES",
+      "ERA",
+      "SOLAR",
+      "None"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is SOLAR"
+  },
+  {
+    "id": 89,
+    "question": "Which Software is used for EOI",
+    "options": [
+      "OES",
+      "ERA",
+      "SOLAR",
+      "None"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is SOLAR"
+  },
+  {
+    "id": 90,
+    "question": "Which Software is used for Exam Schedule",
+    "options": [
+      "OES",
+      "ERA",
+      "SOLAR",
+      "None"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is SOLAR"
   }
 ]

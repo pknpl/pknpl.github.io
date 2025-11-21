@@ -1,602 +1,358 @@
 [
   {
     "id": 1,
-    "question": "In MS-Word 2019, which feature is used to create a visually appealing document by applying a set of formatting choices including colors, fonts, and effects?",
+    "question": "How many Course is included in KLIC Product",
     "options": [
-      "Find and Replace",
-      "Styles",
-      "Spelling Grammar",
-      "Word Count"
+      "256",
+      "200",
+      "300",
+      "265"
     ],
-    "answer": 1,
-    "explanation": "Styles in MS-Word allow you to apply consistent formatting throughout your document with a single click."
+    "answer": 0,
+    "explanation": "The Correct Answer is 256"
   },
   {
     "id": 2,
-    "question": "Which view in MS-Word 2019 shows how the document will look when printed?",
+    "question": "Which Password is used to Login Biz-client",
     "options": [
-      "Draft View",
-      "Print Layout View",
-      "Web Layout View",
-      "Outline View"
+      "Solar",
+      "ERA",
+      "WORM",
+      "Biz-client"
     ],
-    "answer": 1,
-    "explanation": "Print Layout View displays the document as it will appear when printed, including margins, headers, and footers."
+    "answer": 0,
+    "explanation": "The Correct Answer is Solar"
   },
   {
     "id": 3,
-    "question": "What is the purpose of the Thesaurus feature in MS-Word 2019?",
+    "question": "Fullform of ERA is",
     "options": [
-      "Check spelling errors",
-      "Find synonyms and antonyms",
-      "Count words and characters",
-      "Insert special characters"
+      "eLearning Revolution for all",
+      "E-LEARNER",
+      "ELECTRONIC LEARNING",
+      "ELECTRICAL LEARNER"
     ],
-    "answer": 1,
-    "explanation": "The Thesaurus helps you find synonyms words with similar meanings and antonyms words with opposite meanings."
+    "answer": 0,
+    "explanation": "The Correct Answer is eLearning Revolution for all"
   },
   {
     "id": 4,
-    "question": "Which feature in MS-Word 2019 allows you to see the structure of your document with headings and subheadings?",
+    "question": "How Many Session are there in Learner Login",
     "options": [
-      "Print Layout",
-      "Navigation Pane",
-      "Read Mode",
-      "Draft View"
+      "60",
+      "50",
+      "40",
+      "10"
     ],
     "answer": 1,
-    "explanation": "The Navigation Pane displays the structure of your document based on heading styles, making it easy to navigate through long documents."
+    "explanation": "The Correct Answer is 50"
   },
   {
     "id": 5,
-    "question": "What is the function of Mail Merge in MS-Word 2019?",
+    "question": "Which Option in ERA is used to go Last Visited Page",
     "options": [
-      "To send emails directly from Word",
-      "To combine a main document with a data source for personalized documents",
-      "To merge multiple Word documents into one",
-      "To compress Word files for email attachment"
+      "GO TO",
+      "Go to Last Sequential Page",
+      "LAST PAGE",
+      "END PAGE"
     ],
     "answer": 1,
-    "explanation": "Mail Merge allows you to create personalized documents like letters or labels by combining a main document with a data source containing recipient information."
+    "explanation": "The Correct Answer is Go to Last Sequential Page"
   },
   {
     "id": 6,
-    "question": "Which tab in MS-Word 2019 contains options to insert tables, pictures, and shapes?",
+    "question": "Which Option is used to take Feedback of Student",
     "options": [
-      "Home Tab",
-      "Insert Tab",
-      "Design Tab",
-      "Layout Tab"
+      "ERA",
+      "SOLAR",
+      "BIZ-CLIENT",
+      "WORM"
     ],
-    "answer": 1,
-    "explanation": "The Insert Tab contains all the options to insert various elements like tables, pictures, shapes, charts, headers, footers, etc."
+    "answer": 0,
+    "explanation": "The Correct Answer is ERA"
   },
   {
     "id": 7,
-    "question": "What does the Format Painter tool do in MS-Word 2019?",
+    "question": "Which Software is used to Manage Exam Event",
     "options": [
-      "Changes the color of text",
-      "Copies formatting from one text to another",
-      "Paints background colors in documents",
-      "Applies artistic effects to images"
+      "OES",
+      "ERA",
+      "Solar",
+      "BIZ-CLIENT"
     ],
-    "answer": 1,
-    "explanation": "Format Painter allows you to copy formatting like font, size, color, etc. from one piece of text and apply it to another."
+    "answer": 2,
+    "explanation": "The Correct Answer is Solar"
   },
   {
     "id": 8,
-    "question": "Which feature in MS-Word 2019 protects a document with a password?",
+    "question": "Full form of LMS is",
     "options": [
-      "Track Changes",
-      "Restrict Editing",
-      "Document Inspector",
-      "Check Accessibility"
+      "Online era sir",
+      "on exam schedule",
+      "Learning Management System",
+      "online exam schedule"
     ],
-    "answer": 1,
-    "explanation": "The Restrict Editing feature allows you to protect your document with a password, limiting what changes others can make."
+    "answer": 2,
+    "explanation": "The Correct Answer is Learning Management System"
   },
   {
     "id": 9,
-    "question": "What is the purpose of Smart Art in MS-Word 2019?",
+    "question": "OES is used for making payment transactions",
     "options": [
-      "To create professional-looking diagrams and visuals",
-      "To automatically correct spelling mistakes",
-      "To convert text to speech",
-      "To translate documents to other languages"
+      "TRUE",
+      "FALSE"
     ],
-    "answer": 0,
-    "explanation": "SmartArt allows you to create professional-looking diagrams, process flows, organizational charts, and other visual representations."
+    "answer": 1,
+    "explanation": "The Correct Answer is FALSE"
   },
   {
     "id": 10,
-    "question": "Which option in MS-Word 2019 allows you to see the document without margins, headers, and footers?",
+    "question": "Learner can be added using OES",
     "options": [
-      "Print Layout View",
-      "Web Layout View",
-      "Read Mode",
-      "Draft View"
+      "TRUE",
+      "false"
     ],
-    "answer": 3,
-    "explanation": "Draft View shows a simplified version of the document without margins, headers, footers, or page breaks, focusing only on the text content."
+    "answer": 1,
+    "explanation": "The Correct Answer is false"
   },
   {
     "id": 11,
-    "question": "What does MS-CIT stand for?",
+    "question": "Which is not a KLIC course?",
     "options": [
-      "Maharashtra State Course in Internet Technology",
-      "Maharashtra State Certificate in Information Technology",
-      "Maharashtra Software Certification in IT",
-      "Maharashtra Science Computer Integration"
+      "C++",
+      "AutoCad",
+      "Tally",
+      "None"
     ],
-    "answer": 1,
-    "explanation": "MS-CIT stands for Maharashtra State Certificate in Information Technology."
+    "answer": 3,
+    "explanation": "The Correct Answer is None"
   },
   {
     "id": 12,
-    "question": "When was MS-CIT launched?",
+    "question": "Which software is used for Apply EOI for course?",
     "options": [
-      "1999",
-      2001,
-      "2005",
-      "2010"
+      "OES",
+      "ATTENDANCE SYSTEM",
+      "SOLAR",
+      "BIZCLIENT"
     ],
-    "answer": 1,
-    "explanation": "MS-CIT was launched in 2001."
+    "answer": 2,
+    "explanation": "The Correct Answer is SOLAR"
   },
   {
     "id": 13,
-    "question": "MS-CIT is jointly certified by which two bodies?",
+    "question": "Where to check center details?",
     "options": [
-      "MSBTE and MKCL",
-      "MKCL and MHRD",
-      "AICTE and MKCL",
-      "MSBTE and NCERT"
+      "OES",
+      "ATTENDANCE SYSTEM",
+      "SOLAR",
+      "BIZCLIENT"
     ],
-    "answer": 0,
-    "explanation": "MS-CIT is jointly certified by MSBTE Maharashtra State Board of Technical Education and MKCL Maharashtra Knowledge Corporation Limited."
+    "answer": 2,
+    "explanation": "The Correct Answer is SOLAR"
   },
   {
     "id": 14,
-    "question": "The main goal of MS-CIT is to",
+    "question": "What to do first for starting new course for Learner",
     "options": [
-      "Promote coding competitions",
-      "Bridge the digital divide",
-      "Develop mobile apps",
-      "Provide scholarships"
+      "Apply EOI",
+      "Make NEFT",
+      "Make Payment",
+      "Add Learner"
     ],
-    "answer": 1,
-    "explanation": "The main goal of MS-CIT is to bridge the digital divide by making digital literacy accessible to all."
+    "answer": 3,
+    "explanation": "The Correct Answer is Add Learner"
   },
   {
     "id": 15,
-    "question": "Which AI tools are included in the 2025 curriculum?",
+    "question": "Which is default deadline for MS-CIT learner admission",
     "options": [
-      "Midjourney and Gemini",
-      "ChatGPT and DALLE",
-      "Bard and Copilot",
-      "Canva and Photoshop"
+      "End Date of month For each Batch",
+      "20th of each month",
+      "21th of each month",
+      "10th of each month"
     ],
-    "answer": 1,
-    "explanation": "The 2025 curriculum includes ChatGPT and DALLE as part of AI literacy."
+    "answer": 0,
+    "explanation": "The Correct Answer is End Date of month For each Batch"
   },
   {
     "id": 16,
-    "question": "What kind of literacy does MS-CIT promote?",
+    "question": "Which type of software use for make a payment for learners fees.",
     "options": [
-      "Financial",
-      "Environmental",
-      "Digital and AI Literacy",
-      "Political"
+      "BizClient",
+      "Solar",
+      "ERA",
+      "WORM"
     ],
-    "answer": 2,
-    "explanation": "MS-CIT promotes Digital and AI Literacy to empower individuals in the digital age."
+    "answer": 1,
+    "explanation": "The Correct Answer is Solar"
   },
   {
     "id": 17,
-    "question": "MS-CIT follows which learning approach?",
+    "question": "If MS-CIT Fees is 6000 then how much in 2 Installment Mode",
     "options": [
-      "Reading only",
-      "Learn by Doing",
-      "Theoretical",
-      "Online Exam only"
+      3100,
+      "3500",
+      "3600",
+      "None"
     ],
-    "answer": 1,
-    "explanation": "MS-CIT follows the Learn by Doing approach to ensure practical understanding."
+    "answer": 0,
+    "explanation": "The Correct Answer is 3100"
   },
   {
     "id": 18,
-    "question": "On which platform is MS-CIT delivered?",
+    "question": "If MS-CIT Fees is 5000 then how much in 2 Installment Mode",
     "options": [
-      "SOLAR",
-      "ERA",
-      "ExamLive",
-      "Biometric"
+      2600,
+      "3500",
+      "3600",
+      "None"
     ],
-    "answer": 1,
-    "explanation": "MS-CIT is delivered on the ERA eLearning Revolution for All platform."
+    "answer": 0,
+    "explanation": "The Correct Answer is 2600"
   },
   {
     "id": 19,
-    "question": "How long is the MS-CIT course duration?",
+    "question": "Total MFO of the MS-CIT",
     "options": [
-      "1 month",
-      "2 months",
-      "3 months",
-      "6 months"
+      "1765",
+      "527",
+      "1238",
+      "None"
     ],
-    "answer": 1,
-    "explanation": "The MS-CIT course duration is 2 months."
+    "answer": 0,
+    "explanation": "The Correct Answer is 1765"
   },
   {
     "id": 20,
-    "question": "Total hours of MS-CIT course?",
+    "question": "Reexam Fees to paid the MKCL",
     "options": [
-      "120 hours",
-      "144 hours",
-      "160 hours",
-      "200 hours"
+      "527",
+      "1238",
+      "100",
+      "None"
     ],
-    "answer": 1,
-    "explanation": "The MS-CIT course has a total duration of 144 hours."
+    "answer": 0,
+    "explanation": "The Correct Answer is 527"
   },
   {
     "id": 21,
-    "question": "Who can become an ALC?",
+    "question": "What Is The Batch Duration in hour of MS-CIT",
     "options": [
-      "Only schools",
-      "Only government institutions",
-      "Schools, colleges, NGOs, training institutions",
-      "Only MKCL employees"
+      "144",
+      "140",
+      "240",
+      "None"
     ],
-    "answer": 2,
-    "explanation": "Schools, colleges, NGOs, and training institutions can become Authorized Learning Centers (ALCs)."
+    "answer": 0,
+    "explanation": "The Correct Answer is 144"
   },
   {
     "id": 22,
-    "question": "What does ALC stand for?",
+    "question": "What Is The Required Marks to Pass the MS-CIT Final Exam",
     "options": [
-      "Authorized Learning Center",
-      "Advanced Learning Course",
-      "Academic Level Center",
-      "Applied Literacy Center"
+      "20",
+      "40",
+      "50",
+      "None"
     ],
     "answer": 0,
-    "explanation": "ALC stands for Authorized Learning Center."
+    "explanation": "The Correct Answer is 20"
   },
   {
     "id": 23,
-    "question": "What is the key advantage of becoming an ALC?",
+    "question": "Which operating system is required for the Client",
     "options": [
-      "Free Government License",
-      "Socially Impactful Partnership",
-      "Franchise Only in Pune",
-      "No Support from MKCL"
+      "Windows 10",
+      "Win 7",
+      "Win XP",
+      "None"
     ],
-    "answer": 1,
-    "explanation": "The key advantage of becoming an ALC is the socially impactful partnership that contributes to digital literacy."
+    "answer": 0,
+    "explanation": "The Correct Answer is Windows 10"
   },
   {
     "id": 24,
-    "question": "Which framework supports online exams?",
+    "question": "Which OS is required for the Server",
     "options": [
-      "ExamLive",
-      "Solar",
-      "MKNet",
-      "ChatBot"
+      "Windows 10",
+      "Win 8",
+      "Win XP",
+      "None"
     ],
     "answer": 0,
-    "explanation": "ExamLive is the framework that supports online exams for MS-CIT."
+    "explanation": "The Correct Answer is Windows 10"
   },
   {
     "id": 25,
-    "question": "MS-CIT content is available in which languages?",
+    "question": "What is the Standard size for the Photo to upload on Solar",
     "options": [
-      "English, Marathi, Hindi",
-      "Only English",
-      "Hindi, Gujarati, English",
-      "Tamil"
+      "80 X 107 Pixel",
+      "1024 X 768 Pixel",
+      "20 X 20 Pixel",
+      "None"
     ],
     "answer": 0,
-    "explanation": "MS-CIT content is available in English, Marathi, and Hindi to cater to diverse learners."
+    "explanation": "The Correct Answer is 80 X 107 Pixel"
   },
   {
     "id": 26,
-    "question": "What kind of modules does MS-CIT include?",
+    "question": "What is the Standard size for the Sign to upload on Solar",
     "options": [
-      "Gamified AI-Powered",
-      "Text-based only",
-      "Coding only",
-      "Hardware training"
+      "80 X 35 Pixel",
+      "20 X 20 Pixel",
+      "1024 X 75 Pixel",
+      "None"
     ],
     "answer": 0,
-    "explanation": "MS-CIT includes gamified and AI-powered modules to make learning engaging and effective."
+    "explanation": "The Correct Answer is 80 X 35 Pixel"
   },
   {
     "id": 27,
-    "question": "How many learners have completed MS-CIT since 2002?",
+    "question": "If the Admission is not confirm within date then what is the late fees of the students",
     "options": [
-      "50 lakh",
-      "1 crore",
-      "More than 2 crore",
-      "5 crore"
+      "Rs. 10, Rs. 20, Rs.40",
+      "Rs.30, Rs. 50, Rs. 60",
+      "Rs. 40, Rs. 80, Rs. 120",
+      "None"
     ],
-    "answer": 2,
-    "explanation": "Since 2002, more than 2 crore learners have completed the MS-CIT course."
+    "answer": 3,
+    "explanation": "The Correct Answer is None"
   },
   {
     "id": 28,
-    "question": "Which certification do learners get after course completion?",
+    "question": "I having some problem in Era than I want to send mail to support?",
     "options": [
-      "Only MKCL",
-      "MSBTE MKCL",
-      "AICTE MKCL",
-      "NCERT"
+      "support@mkcl.org",
+      "Info@mkcl.org",
+      "erasupport@mkcl.org",
+      "None"
     ],
-    "answer": 1,
-    "explanation": "After course completion, learners receive a joint certification from MSBTE and MKCL."
+    "answer": 2,
+    "explanation": "The Correct Answer is erasupport@mkcl.org"
   },
   {
     "id": 29,
-    "question": "What is the purpose of KLiC courses?",
+    "question": "Batch duration for the MS-CIT Learners",
     "options": [
-      "Creative Learning Career Skills",
-      "Coding Only",
-      "Sports Education",
-      "Free Courses for Schools"
+      "2,3,4,5,6 months",
+      "2 months",
+      "3 months",
+      "None"
     ],
-    "answer": 0,
-    "explanation": "KLiC Knowledge-Literacy-in-Computer courses focus on creative learning and career skills development."
+    "answer": 1,
+    "explanation": "The Correct Answer is 2 months"
   },
   {
     "id": 30,
-    "question": "What software benefit is given to ALCs?",
+    "question": "MS-CIT Exam Authority",
     "options": [
-      "Linux WPS",
-      "Windows 10 MS Office 2019",
-      "MacOS Adobe",
-      "Android Studio"
-    ],
-    "answer": 1,
-    "explanation": "ALCs receive Windows 10 and MS Office 2019 as software benefits."
-  },
-  {
-    "id": 31,
-    "question": "Where can one apply for ALC authorization?",
-    "options": [
-      "MKCL Office",
-      "register.mkcl.org",
-      "mscit.mkcl.org",
-      "Offline only"
-    ],
-    "answer": 1,
-    "explanation": "One can apply for ALC authorization at register.mkcl.org."
-  },
-  {
-    "id": 32,
-    "question": "What is the EOI form?",
-    "options": [
-      "Expression of Interest",
-      "Enrollment of Institute",
-      "Education Online Interface",
-      "Examination Order Input"
-    ],
-    "answer": 0,
-    "explanation": "EOI stands for Expression of Interest form for ALC authorization."
-  },
-  {
-    "id": 33,
-    "question": "Which department approves ALC applications?",
-    "options": [
-      "LLC MKCL",
-      "RLC Only",
-      "MSBTE Only",
-      "AICTE"
-    ],
-    "answer": 0,
-    "explanation": "ALC applications are approved by LLC Lead Learning Center and MKCL."
-  },
-  {
-    "id": 34,
-    "question": "What is MKCLs full form?",
-    "options": [
-      "Maharashtra Knowledge Corporation Limited",
-      "Maharashtra Knowledge Computer Lab",
-      "Modern Knowledge Council Ltd",
-      "Maharashtra Key Coding League"
-    ],
-    "answer": 0,
-    "explanation": "MKCL stands for Maharashtra Knowledge Corporation Limited."
-  },
-  {
-    "id": 35,
-    "question": "Which frameworks are part of MKCLs system?",
-    "options": [
-      "SOLAR, ERA, ExamLive, Biometric",
-      "Moodle, Canva, Firebase",
-      "WordPress, ExamPro, GitHub",
-      "ChatGPT"
-    ],
-    "answer": 0,
-    "explanation": "SOLAR, ERA, ExamLive, and Biometric are part of MKCLs comprehensive system."
-  },
-  {
-    "id": 36,
-    "question": "What is the Mastering Series?",
-    "options": [
-      "Advanced Skill Development Courses",
-      "Basic IT Course",
-      "Government Certificate",
-      "Hardware Workshop"
-    ],
-    "answer": 0,
-    "explanation": "The Mastering Series consists of advanced skill development courses offered by MKCL."
-  },
-  {
-    "id": 37,
-    "question": "What support does MKCL provide to ALCs?",
-    "options": [
-      "Technical, Training, Promotional",
-      "Financial only",
-      "None",
-      "Limited"
-    ],
-    "answer": 0,
-    "explanation": "MKCL provides technical, training, and promotional support to ALCs."
-  },
-  {
-    "id": 38,
-    "question": "Which organization conducts MKCL Olympiad Movement MOM?",
-    "options": [
-      "MKCL",
       "MSBTE",
-      "AICTE",
-      "NCERT"
+      "Easy",
+      "MKCL",
+      "YCMOU"
     ],
     "answer": 0,
-    "explanation": "MKCL conducts the MKCL Olympiad Movement MOM to promote talent."
-  },
-  {
-    "id": 39,
-    "question": "What is the Career Inclination Test?",
-    "options": [
-      "Students Career Interest Assessment",
-      "IQ Test",
-      "Typing Speed Test",
-      "Coding Competition"
-    ],
-    "answer": 0,
-    "explanation": "The Career Inclination Test assesses students career interests and aptitudes."
-  },
-  {
-    "id": 40,
-    "question": "What is the main message of MS-CIT 2026 initiative?",
-    "options": [
-      "Become AI Certified",
-      "Empower Communities with Digital AI Literacy",
-      "Learn Coding for Free",
-      "Online Job Portal"
-    ],
-    "answer": 1,
-    "explanation": "The main message of MS-CIT 2026 is to empower communities with Digital and AI Literacy."
-  },
-  {
-    "id": 41,
-    "question": "What is the full form of AI?",
-    "options": [
-      "Artificial Information",
-      "Artificial Intelligence",
-      "Automated Internet",
-      "Advanced Interface"
-    ],
-    "answer": 1,
-    "explanation": "Artificial Intelligence is the full form of AI."
-  },
-  {
-    "id": 42,
-    "question": "Which of the following is an example of an AI tool used for chatting?",
-    "options": [
-      "ChatGPT",
-      "Canva",
-      "Excel",
-      "Photoshop"
-    ],
-    "answer": 0,
-    "explanation": "ChatGPT is an AI tool used for chatting."
-  },
-  {
-    "id": 43,
-    "question": "What does Machine Learning mean?",
-    "options": [
-      "A process where machines automatically improve from experience",
-      "A process of manual programming of machines",
-      "A type of internet-based learning",
-      "A learning system without data"
-    ],
-    "answer": 0,
-    "explanation": "Machine Learning means a process where machines automatically improve from experience."
-  },
-  {
-    "id": 44,
-    "question": "Which AI tool is used to create images from text?",
-    "options": [
-      "DALL-E",
-      "ChatGPT",
-      "Excel",
-      "Photoshop"
-    ],
-    "answer": 0,
-    "explanation": "DALL-E is an AI tool used to create images from text."
-  },
-  {
-    "id": 45,
-    "question": "What is the main purpose of using AI in education?",
-    "options": [
-      "To replace teachers",
-      "To make learning personalized and effective",
-      "To reduce the number of students",
-      "To make exams harder"
-    ],
-    "answer": 1,
-    "explanation": "The main purpose of using AI in education is to make learning personalized and effective."
-  },
-  {
-    "id": 46,
-    "question": "Which company created ChatGPT?",
-    "options": [
-      "Microsoft",
-      "Google",
-      "OpenAI",
-      "IBM"
-    ],
-    "answer": 2,
-    "explanation": "ChatGPT was created by OpenAI."
-  },
-  {
-    "id": 47,
-    "question": "What does NLP stand for in AI?",
-    "options": [
-      "Natural Language Processing",
-      "Neural Learning Program",
-      "Network Learning Protocol",
-      "Non-linear Programming"
-    ],
-    "answer": 0,
-    "explanation": "NLP stands for Natural Language Processing in AI."
-  },
-  {
-    "id": 48,
-    "question": "Which AI tool helps in generating voice?",
-    "options": [
-      "Synthesia",
-      "DALL-E",
-      "ChatGPT",
-      "Canva"
-    ],
-    "answer": 0,
-    "explanation": "Synthesia is an AI tool that helps in generating voice."
-  },
-  {
-    "id": 49,
-    "question": "AI is mainly based on which component?",
-    "options": [
-      "Software",
-      "Hardware",
-      "Data",
-      "Electricity"
-    ],
-    "answer": 2,
-    "explanation": "AI is mainly based on data."
-  },
-  {
-    "id": 50,
-    "question": "Which AI tool is useful for making videos?",
-    "options": [
-      "Synthesia",
-      "Excel",
-      "PowerPoint",
-      "Canva"
-    ],
-    "answer": 0,
-    "explanation": "Synthesia is an AI tool useful for making videos."
+    "explanation": "The Correct Answer is MSBTE"
   }
 ]

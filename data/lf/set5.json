@@ -1,602 +1,362 @@
 [
   {
-    "id": 201,
-    "question": "What is the primary function of AI-powered chatbots?",
+    "id": 121,
+    "question": "All MKCL Details is available on",
     "options": [
-      "To create documents",
-      "To simulate human conversation and provide assistance",
-      "To manage emails",
-      "To create presentations"
-    ],
-    "answer": 1,
-    "explanation": "AI chatbots use natural language processing to understand and respond to user queries, simulating human conversation."
-  },
-  {
-    "id": 202,
-    "question": "Which AI technology is used for recognizing and classifying objects in images?",
-    "options": [
-      "Natural Language Processing",
-      "Computer Vision",
-      "Speech Recognition",
-      "Machine Learning"
-    ],
-    "answer": 1,
-    "explanation": "Computer Vision enables computers to interpret and understand the visual world through digital images or videos."
-  },
-  {
-    "id": 203,
-    "question": "What is 'Machine Learning'?",
-    "options": [
-      "A type of computer hardware",
-      "A method of data entry",
-      "A subset of AI that enables systems to learn from data",
-      "A programming language"
-    ],
-    "answer": 2,
-    "explanation": "Machine Learning is a subset of AI that provides systems the ability to automatically learn and improve from experience without being explicitly programmed."
-  },
-  {
-    "id": 204,
-    "question": "Which AI application converts spoken language into written text?",
-    "options": [
-      "Text-to-Speech",
-      "Speech Recognition",
-      "Natural Language Generation",
-      "Computer Vision"
-    ],
-    "answer": 1,
-    "explanation": "Speech Recognition technology converts spoken words into written text."
-  },
-  {
-    "id": 205,
-    "question": "What is the purpose of AI in recommendation systems?",
-    "options": [
-      "To create user accounts",
-      "To suggest relevant items based on user preferences",
-      "To manage computer networks",
-      "To create security protocols"
-    ],
-    "answer": 1,
-    "explanation": "AI-powered recommendation systems analyze user behavior and preferences to suggest relevant products, content, or services."
-  },
-  {
-    "id": 206,
-    "question": "What is the purpose of 'OneDrive' in Microsoft Office?",
-    "options": [
-      "To create documents",
-      "To manage emails",
-      "To store files in the cloud",
-      "To create presentations"
-    ],
-    "answer": 2,
-    "explanation": "OneDrive is Microsoft's cloud storage service that allows you to store, access, and share files from anywhere."
-  },
-  {
-    "id": 207,
-    "question": "Which keyboard shortcut is used to paste copied content in most Windows applications?",
-    "options": [
-      "Ctrl+C",
-      "Ctrl+V",
-      "Ctrl+X",
-      "Ctrl+Z"
-    ],
-    "answer": 1,
-    "explanation": "Ctrl+V is the standard keyboard shortcut for pasting copied or cut content."
-  },
-  {
-    "id": 208,
-    "question": "What is the function of 'Firewall' in computer security?",
-    "options": [
-      "To prevent physical damage to computer",
-      "To block unauthorized access while allowing authorized communications",
-      "To increase internet speed",
-      "To protect against viruses only"
-    ],
-    "answer": 1,
-    "explanation": "A firewall monitors and controls incoming and outgoing network traffic based on predetermined security rules."
-  },
-  {
-    "id": 209,
-    "question": "Which feature in web browsers allows you to store website passwords?",
-    "options": [
-      "Bookmarks",
-      "History",
-      "Password Manager",
-      "Cookies"
-    ],
-    "answer": 2,
-    "explanation": "Password managers in browsers securely store and autofill login credentials for websites."
-  },
-  {
-    "id": 210,
-    "question": "What does 'PDF' stand for in document format?????",
-    "options": [
-      "Printable Document Format",
-      "Portable Document Format",
-      "Professional Document Format",
-      "Public Document Format"
-    ],
-    "answer": 1,
-    "explanation": "PDF stands for Portable Document Format, which preserves the formatting of documents across different devices and platforms."
-  },
-  {
-    "id": 211,
-    "question": "Physical parts of a computer that you can see and touch are collectively called as\n",
-    "options": [
-      "Touchware",
-      "Hardware",
-      "Software",
-      "Smartware"
-    ],
-    "answer": 1,
-    "explanation": "The Correct Answer is Hardware"
-  },
-  {
-    "id": 212,
-    "question": "A purpose of an _____________ is to organise and control hardware and software so that the computer/smartphone behaves in an efficient way.",
-    "options": [
-      "Headphone",
-      "Laptop",
-      "Operating System",
-      "Tool kit"
-    ],
-    "answer": 2,
-    "explanation": "The Correct Answer is Operating System"
-  },
-  {
-    "id": 213,
-    "question": "An ____________ determines which computer resources will be utilized for solving which problem, and the order in which they will be used.",
-    "options": [
-      "Operating System",
-      "Hardware",
-      "Smartphone",
-      "Computer"
+      "https://mkcl.org/",
+      "www.mkcl.org/MSCIT",
+      "www.mkcl.org/ef",
+      "www.mkcl.easy"
     ],
     "answer": 0,
-    "explanation": "The Correct Answer is Operating System"
+    "explanation": "The Correct Answer is https://mkcl.org/"
   },
   {
-    "id": 214,
-    "question": "The desktop consists of three main parts:",
+    "id": 122,
+    "question": "What is the non-refundable 'Processing Fee' component of the Center Registration Fee?",
     "options": [
-      "Operating System, Icons, Hardware",
-      "Hardware, Taskbar, Wallpaper",
-      "Wallpaper, Desktop, Icons",
-      "Icons, Wallpaper, Taskbar"
-    ],
-    "answer": 3,
-    "explanation": "The Correct Answer is Icons, Wallpaper, Taskbar"
-  },
-  {
-    "id": 215,
-    "question": "Starting or restarting a computer is called__________",
-    "options": [
-      "Scooting",
-      "Booting",
-      "Rooting",
-      "Muting"
-    ],
-    "answer": 1,
-    "explanation": "The Correct Answer is Booting"
-  },
-  {
-    "id": 216,
-    "question": "To control the cursor of the laptop, you can use _____________.",
-    "options": [
-      "Function Keys of Laptop",
-      "Power Key of Laptop",
-      "Trackpad of Laptop",
-      "Escape Key of Laptop"
-    ],
-    "answer": 2,
-    "explanation": "The Correct Answer is Trackpad of Laptop"
-  },
-  {
-    "id": 217,
-    "question": "A ____________ is used to connect a wireless mouse to a computer.\n",
-    "options": [
-      "USB Dongle",
-      "HDMI Dongle",
-      "VGA cable",
-      "Pen Drive"
+      "Rs. 500/-",
+      "Rs. 2,500/-",
+      "Rs. 5,000/-",
+      "Rs. 9,500/-"
     ],
     "answer": 0,
-    "explanation": "The Correct Answer is USB Dongle"
+    "explanation": "According to the Registration Fee guidelines, the Center Registration Fee includes Rs. 500/- towards Processing Fee which is Non-Refundable."
   },
   {
-    "id": 218,
-    "question": "A __________ has a camera lens.",
+    "id": 123,
+    "question": "What is the duration of the OnCeT Examination for the Learning Facilitator (LF)?",
     "options": [
-      "Headphone",
-      "Mouse",
-      "Keyboard",
-      "Webcam"
+      "30 Minutes",
+      "45 Minutes",
+      "60 Minutes",
+      "90 Minutes"
+    ],
+    "answer": 2,
+    "explanation": "The OnCeT & Interview Guidelines specify that the Test Duration for the Learning Facilitator (Faculty) examination is 60 minutes."
+  },
+  {
+    "id": 124,
+    "question": "Which of the following topics is included in the syllabus for the Center Coordinator OnCeT Exam?",
+    "options": [
+      "MS-Office 2019",
+      "Windows 10",
+      "Marketing & Promotion",
+      "AI Tools"
+    ],
+    "answer": 2,
+    "explanation": "The Syllabus for Center Coordinator OnCeT includes 'Marketing & Promotion', 'Offering Details', 'Administrative Details', and 'Process Details'. Topics like MS-Office and Windows 10 are part of the LF syllabus."
+  },
+  {
+    "id": 125,
+    "question": "Which document is explicitly mentioned as mandatory for the finalization of the MS-CIT New Center Registration?",
+    "options": [
+      "Driving License",
+      "Voter ID",
+      "PAN Card",
+      "Passport"
+    ],
+    "answer": 2,
+    "explanation": "The FAQs and Required Documents sections state that the PAN Card is mandatory for the finalization of new centers."
+  },
+  {
+    "id": 126,
+    "question": "What is the Performance Guarantee Amount applicable for a Rural Center (Regular ALC)?",
+    "options": [
+      "Rs. 10,000/-",
+      "Rs. 25,000/-",
+      "Rs. 50,000/-",
+      "Rs. 75,000/-"
+    ],
+    "answer": 1,
+    "explanation": "As per the Registration Fee structure, the Performance Guarantee Amount for a Rural Center is Rs. 25,000/-."
+  },
+  {
+    "id": 127,
+    "question": "Which type of Applicant Organization is exempted from paying the Performance Guarantee Amount?",
+    "options": [
+      "Private Computer Institutes",
+      "Educational Institutes (Schools & Colleges)",
+      "Cyber Cafes",
+      "Coaching Classes"
+    ],
+    "answer": 1,
+    "explanation": "The guidelines state that if the Applicant Organization is an Educational Institute (only for Schools & Colleges), there is no need to pay the Performance Guarantee Amount."
+  },
+  {
+    "id": 128,
+    "question": "What is the minimum RAM required for the Server computer as per the Computing Resources guidelines?",
+    "options": [
+      "2 GB",
+      "4 GB",
+      "8 GB",
+      "16 GB"
+    ],
+    "answer": 2,
+    "explanation": "The Computing Resources page specifies that the minimum Server Configuration requires 8 GB RAM."
+  },
+  {
+    "id": 129,
+    "question": "Is the MS-CIT ALC Authorization transferable to another person or organization?",
+    "options": [
+      "Yes, after 1 year",
+      "Yes, with a transfer fee",
+      "No, it is non-transferable",
+      "Yes, with Training Provider approval"
+    ],
+    "answer": 2,
+    "explanation": "The Important Instructions state that MKCL MS-CIT ALC Authorization is non-transferable and cannot be sold or transferred to any other party."
+  },
+  {
+    "id": 130,
+    "question": "How is the 'Total Score' calculated for the selection of a new center?",
+    "options": [
+      "LF OnCeT Score + Interview Score",
+      "Center Coordinator OnCeT Score + Interview Score",
+      "LF OnCeT Score + Center Coordinator OnCeT Score + Interview Score",
+      "LF OnCeT Score + Center Coordinator OnCeT Score"
+    ],
+    "answer": 2,
+    "explanation": "The OnCeT & Interview Guidelines define the Total Score as the sum of the LF OnCeT Score, Center Coordinator OnCeT Score, and Interview Score."
+  },
+  {
+    "id": 131,
+    "question": "Can an Applicant Organization (AO) change their selected Training Provider (TP) after receiving TP approval?",
+    "options": [
+      "Yes, anytime before finalization",
+      "No, once approved, the TP cannot be changed",
+      "Yes, by paying a penalty",
+      "Yes, if the LLC permits"
+    ],
+    "answer": 1,
+    "explanation": "The FAQs regarding the process clarify that once an AO gets TP approval, they cannot change the Training Provider."
+  },
+  {
+    "id": 132,
+    "question": "What is the minimum Hard Disk capacity and type required for the Server at an MS-CIT Center?",
+    "options": [
+      "500 GB HDD",
+      "1 TB HDD",
+      "500 GB SSD",
+      "1 TB SSD"
     ],
     "answer": 3,
-    "explanation": "The Correct Answer is Webcam"
+    "explanation": "The Computing Resources guidelines specify that the minimum Server Configuration requires a 1 TB SSD Hard disk."
   },
   {
-    "id": 219,
-    "question": "_____________ is located above the laptop screen.",
+    "id": 133,
+    "question": "Which operating system is required for both Server and Client machines?",
     "options": [
-      "Function Keys",
-      "Port to attach headphone",
-      "USB Port",
-      "Webcam"
+      "Windows 7 Professional",
+      "Windows 10 Enterprise (64-bit)",
+      "Windows 11 Home",
+      "Linux Ubuntu"
+    ],
+    "answer": 1,
+    "explanation": "The required operating system is Windows 10 (64-bit) Enterprise Edition with Service Pack 1."
+  },
+  {
+    "id": 134,
+    "question": "What is the minimum RAM required for Client computers?",
+    "options": [
+      "2 GB",
+      "4 GB",
+      "8 GB",
+      "16 GB"
+    ],
+    "answer": 1,
+    "explanation": "The Minimum Client Configuration specifies 4 GB RAM."
+  },
+  {
+    "id": 135,
+    "question": "How many Learning Facilitators (LFs) can an Applicant Organization nominate for the OnCeT Examination?",
+    "options": [
+      "Only 1",
+      "Minimum 1 and Maximum 2",
+      "Minimum 1 and Maximum 3",
+      "Unlimited"
+    ],
+    "answer": 2,
+    "explanation": "The FAQs state that a minimum of one and a maximum of three Learning Facilitator nominations are allowed for the OnCeT Examination."
+  },
+  {
+    "id": 136,
+    "question": "What is the fee for the OnCeT Examination per Learning Facilitator?",
+    "options": [
+      "Rs. 100/-",
+      "Rs. 250/-",
+      "Rs. 500/-",
+      "Rs. 1000/-"
+    ],
+    "answer": 1,
+    "explanation": "The OnCeT fee is Rs. 250/- per Learning Facilitator/Center Coordinator, which is non-refundable."
+  },
+  {
+    "id": 137,
+    "question": "What is the passing criteria (minimum marks) for the Learning Facilitator OnCeT Exam?",
+    "options": [
+      "12 Marks (40%)",
+      "20 Marks (40%)",
+      "25 Marks (50%)",
+      "30 Marks (60%)"
+    ],
+    "answer": 1,
+    "explanation": "The Total Marks for the LF OnCeT are 50, and the passing criteria is 40%, which equals 20 Marks."
+  },
+  {
+    "id": 138,
+    "question": "What is the passing criteria (minimum marks) for the Center Coordinator OnCeT Exam?",
+    "options": [
+      "10 Marks",
+      "12 Marks",
+      "15 Marks",
+      "20 Marks"
+    ],
+    "answer": 1,
+    "explanation": "The Total Marks for the Center Coordinator OnCeT are 30, and the passing criteria is 40%, which equals 12 Marks."
+  },
+  {
+    "id": 139,
+    "question": "What is the maximum number of ALCs allowed under a single Franchisee or common brand network?",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "answer": 1,
+    "explanation": "MKCL allows a maximum of 10 (Ten) ALCs under any Franchisee, chain, or similar type of common brand network."
+  },
+  {
+    "id": 140,
+    "question": "If an Applicant Organization (AO) is rejected, how is the refundable fee returned?",
+    "options": [
+      "By Cheque",
+      "By Demand Draft (DD)",
+      "To the AO's SOLAR Wallet",
+      "Directly to the registered Bank Account via SOLAR application"
     ],
     "answer": 3,
-    "explanation": "The Correct Answer is Webcam"
+    "explanation": "Refundable amounts are processed through SOLAR and refunded to the AO's bank account registered at the time of the process. MKCL does not use Cheque or DD."
   },
   {
-    "id": 220,
-    "question": "If more than one person uses a laptop, it is ideal to __________ of the laptop when it is not in use.",
+    "id": 141,
+    "question": "What is the minimum internet connection speed required for the center?",
     "options": [
-      "Switch Off",
-      "Shut Down",
-      "Sign Out",
-      "Black Out"
-    ],
-    "answer": 2,
-    "explanation": "The Correct Answer is Sign Out"
-  },
-  {
-    "id": 221,
-    "question": "Which of the following elements is not a part of the desktop?",
-    "options": [
-      "Wallpaper",
-      "Taskbar",
-      "Title Bar",
-      "Icons"
-    ],
-    "answer": 2,
-    "explanation": "The Correct Answer is Title Bar"
-  },
-  {
-    "id": 222,
-    "question": "A folder system is made up of __________ and __________ in it.",
-    "options": [
-      "Icons, Folders",
-      "Folders, Files",
-      "Files, Icons",
-      "Folders, Shortcuts"
-    ],
-    "answer": 1,
-    "explanation": "The Correct Answer is Folders, Files"
-  },
-  {
-    "id": 223,
-    "question": "Address bar in the Windows Explorer is also called as __________ bar.",
-    "options": [
-      "Breadcrumbs",
-      "Handle",
-      "Extension",
-      "Link"
-    ],
-    "answer": 0,
-    "explanation": "The Correct Answer is Breadcrumbs"
-  },
-  {
-    "id": 224,
-    "question": "A search box in the Windows Explorer helps you to search files and folders in the computer based on the",
-    "options": [
-      "names and keywords that you put in it",
-      "icons that you put in it",
-      "images that you put in it",
-      "Web Links that you put in it"
-    ],
-    "answer": 0,
-    "explanation": "The Correct Answer is names and keywords that you put in it"
-  },
-  {
-    "id": 225,
-    "question": "___________ are a convenient way to organise files on the computer.",
-    "options": [
-      "Icons",
-      "Files",
-      "Folders",
-      "Extensions"
-    ],
-    "answer": 2,
-    "explanation": "The Correct Answer is Folders"
-  },
-  {
-    "id": 226,
-    "question": "Which of the following characters can NOT be used to name a folder?\n",
-    "options": [
-      "#",
-      "&",
-      "-",
-      "*"
+      "10 Mbps",
+      "20 Mbps",
+      "50 Mbps",
+      "100 Mbps"
     ],
     "answer": 3,
-    "explanation": "The Correct Answer is *"
+    "explanation": "The minimum required Internet connection is 50 Mbps."
   },
   {
-    "id": 227,
-    "question": "_______________ is a great way to add shortcuts of most often used programs in Windows 10.",
+    "id": 142,
+    "question": "Is the use of Thin Client or Xtenda Setup allowed in the lab?",
     "options": [
-      "Booting",
-      "Double-Clicking",
-      "Right-Clicking",
-      "Pinning"
+      "Yes, it is recommended",
+      "Yes, but only for rural centers",
+      "No, it is not allowed",
+      "Yes, with prior permission"
+    ],
+    "answer": 2,
+    "explanation": "The Computing Resources guidelines explicitly state: 'Xtenda Setup / Thin Client Setup is not allowed'."
+  },
+  {
+    "id": 143,
+    "question": "What is the mandatory distance to be maintained if Electrical and LAN wiring run parallel?",
+    "options": [
+      "6 inches",
+      "1 foot",
+      "2 feet",
+      "There is no restriction"
+    ],
+    "answer": 2,
+    "explanation": "If Electrical and LAN wiring are parallel, a distance of 2 feet should be maintained to avoid interference."
+  },
+  {
+    "id": 144,
+    "question": "Which of the following is Optional in the peripheral requirements?",
+    "options": [
+      "Biometric Device",
+      "CCTV",
+      "Power Backup (UPS/Inverter)",
+      "Projector or LCD Display"
     ],
     "answer": 3,
-    "explanation": "The Correct Answer is Pinning"
+    "explanation": "Biometric Device, CCTV, and Power Backup are marked as Compulsory. Projector or LCD Display is marked as Optional."
   },
   {
-    "id": 228,
-    "question": "You can pin the items to the _____________ or ___________ menu.",
+    "id": 145,
+    "question": "What is the weightage of the Interview Score in the Total Score calculation for center selection?",
     "options": [
-      "Desktop, File menu",
-      "Taskbar, File menu",
-      "Taskbar, Start menu",
-      "Wallpaper, Start menu"
-    ],
-    "answer": 2,
-    "explanation": "The Correct Answer is Taskbar, Start menu"
-  },
-  {
-    "id": 229,
-    "question": "____________is a file management application which helps in managing files and folders on your computer.",
-    "options": [
-      "Internet Explorer",
-      "Windows Explorer/File Explorer",
-      "Task Explorer",
-      "Folder Explorer"
+      "10 Marks",
+      "20 Marks",
+      "30 Marks",
+      "50 Marks"
     ],
     "answer": 1,
-    "explanation": "The Correct Answer is Windows Explorer/File Explorer"
+    "explanation": "The Interview Score carries a weightage of 20 Marks in the Total Score."
   },
   {
-    "id": 230,
-    "question": "A computer represents each file with an _________, looking at which we can identify what kind of file it is, e.g.: a music file, a document or an image.",
+    "id": 146,
+    "question": "What happens to the Performance Guarantee Amount for a new ALC in the subsequent year (2027) if they satisfy admission conditions?",
     "options": [
-      "Picture",
-      "Link",
-      "Icon",
-      "Pin"
+      "It is refunded immediately",
+      "It is forfeited",
+      "It is carried forward for the year 2027",
+      "It is converted to a bonus"
     ],
     "answer": 2,
-    "explanation": "The Correct Answer is Icon"
+    "explanation": "If the ALC satisfies admission conditions for 2026, the Performance Guarantee Amount is carried forward for the year 2027."
   },
   {
-    "id": 231,
-    "question": "A notepad file is always stored on a computer using the extension:",
+    "id": 147,
+    "question": "Which software license is provided by MKCL to the ALCs?",
     "options": [
-      ".lxt",
-      ".text",
-      ".mxt",
-      ".txt"
-    ],
-    "answer": 3,
-    "explanation": "The Correct Answer is .txt"
-  },
-  {
-    "id": 232,
-    "question": "Which file will you use if you want to show school project with pictures and slides?",
-    "options": [
-      "xlsx file",
-      "docx file",
-      "pptx file",
-      "mp3 file"
+      "Adobe Creative Cloud",
+      "Quick Heal Antivirus",
+      "MS-Office 2019 Standard Edition",
+      "Tally Prime"
     ],
     "answer": 2,
-    "explanation": "The Correct Answer is pptx file"
+    "explanation": "MKCL provides licenses for Windows 10 Enterprise and MS-Office 2019 (64-bit) Standard Edition."
   },
   {
-    "id": 233,
-    "question": "Your teacher uses Google Meet to teach online. What is this an example of?",
+    "id": 148,
+    "question": "What is the total number of Microsoft Office licenses provided by MKCL for one unit (1 Server + 10 Clients)?",
     "options": [
-      "Entertainment",
-      "Communication using IT tools",
-      "Drawing using mouse",
-      "Local networking"
+      "10",
+      "11",
+      "12",
+      "20"
     ],
     "answer": 1,
-    "explanation": "The Correct Answer is Communication using IT tools"
+    "explanation": "MKCL provides 11 licenses (1 for Server + 10 for Clients)."
   },
   {
-    "id": 234,
-    "question": "You saved your maths file in Google Drive. Now you can open it at school. What helped you?\nRAM\n",
+    "id": 149,
+    "question": "Can an Applicant Organization select more than one Training Provider (TP)?",
     "options": [
-      "RAM",
-      "Secondary Storage",
-      "Cloud Storage",
-      "Graphic Card"
+      "Yes, up to 2",
+      "Yes, up to 3",
+      "No, only one TP can be selected",
+      "Yes, if applying for multiple districts"
     ],
     "answer": 2,
-    "explanation": "The Correct Answer is Cloud Storage"
+    "explanation": "AOs can select only one Training Provider at the time of EOI submission."
   },
   {
-    "id": 235,
-    "question": "Your school wants to make learning fun using pictures and videos. Which tool is most suitable?",
+    "id": 150,
+    "question": "What is the minimum resolution required for the Printer and Scanner?",
     "options": [
-      "Scanner",
-      "PowerPoint",
-      "Antivirus",
-      "Task Manager"
+      "300 dpi",
+      "600 dpi",
+      "1200 dpi",
+      "2400 dpi"
     ],
     "answer": 1,
-    "explanation": "The Correct Answer is PowerPoint"
-  },
-  {
-    "id": 236,
-    "question": "Your classmate wants to print a story for a school event. What will you suggest?",
-    "options": [
-      "Monitor",
-      "Scanner",
-      "Printer",
-      "Hard Disk"
-    ],
-    "answer": 2,
-    "explanation": "The Correct Answer is Printer"
-  },
-  {
-    "id": 237,
-    "question": "What is cloud computing used for in school work?",
-    "options": [
-      "To play games on cloud",
-      "To send SMS without phone",
-      "To store and access files online",
-      "To record videos"
-    ],
-    "answer": 2,
-    "explanation": "The Correct Answer is To store and access files online"
-  },
-  {
-    "id": 238,
-    "question": "How can two students use Bluetooth to help each other?",
-    "options": [
-      "To print books",
-      "To scan notes",
-      "To connect to the internet",
-      "To send files wirelessly"
-    ],
-    "answer": 3,
-    "explanation": "The Correct Answer is To send files wirelessly"
-  },
-  {
-    "id": 239,
-    "question": "What is stored in .xlsx file format?",
-    "options": [
-      "Music",
-      "Text with pictures",
-      "Calculation and tables",
-      "Animation"
-    ],
-    "answer": 2,
-    "explanation": "The Correct Answer is Calculation and tables"
-  },
-  {
-    "id": 240,
-    "question": "Your teacher asks you to submit homework online. Which platform can help best?",
-    "options": [
-      "Notepad",
-      "Google Classroom",
-      "Windows Media Player",
-      "Calculator"
-    ],
-    "answer": 1,
-    "explanation": "The Correct Answer is Google Classroom"
-  },
-  {
-    "id": 241,
-    "question": "What is the use of a scanner?",
-    "options": [
-      "To open websites",
-      "To print documents",
-      "To convert paper into digital form",
-      "To clean the screen"
-    ],
-    "answer": 2,
-    "explanation": "The Correct Answer is To convert paper into digital form"
-  },
-  {
-    "id": 242,
-    "question": "If a user uploads spoken Marathi content on Bhashini, what would likely happen next?",
-    "options": [
-      "It will be converted into audio format",
-      "It will translate into English quickly",
-      "It will store without changes",
-      "It will summarize into shorter Marathi content"
-    ],
-    "answer": 1,
-    "explanation": "The Correct Answer is It will translate into English quickly"
-  },
-  {
-    "id": 243,
-    "question": "Which main functionality does Bhashini provide?",
-    "options": [
-      "Converts handwritten notes into text",
-      "Translates and transcribes languages",
-      "Enhances image resolution using AI",
-      "Generates automated replies for customer support"
-    ],
-    "answer": 1,
-    "explanation": "The Correct Answer is Translates and transcribes languages"
-  },
-  {
-    "id": 244,
-    "question": "You can’t open your school email after typing the wrong password. What failed?",
-    "options": [
-      "File saving",
-      "Password setting",
-      "Login authentication",
-      "Cloud syncing"
-    ],
-    "answer": 2,
-    "explanation": "The Correct Answer is Login authentication"
-  },
-  {
-    "id": 245,
-    "question": "Your classmate says smartphones are better than desktops. Why could this be true?",
-    "options": [
-      "Smartphones have much faster processors (CPUs) than desktops",
-      "Smartphones are small and portable",
-      "Smartphones have more internal storage capacity",
-      "Smartphones can run all the same complex software as desktops"
-    ],
-    "answer": 1,
-    "explanation": "The Correct Answer is Smartphones are small and portable"
-  },
-  {
-    "id": 246,
-    "question": "Your classroom needs internet for 40 students without wires. What should the school install?\n",
-    "options": [
-      "Wired LAN only",
-      "Wi-Fi router (Wireless connection)",
-      "Mobile games",
-      "Printer software"
-    ],
-    "answer": 1,
-    "explanation": "The Correct Answer is Wi-Fi router (Wireless connection)"
-  },
-  {
-    "id": 247,
-    "question": "In your school, students share their notes with each other using WhatsApp. What does this depict?",
-    "options": [
-      "Using social media for entertainment",
-      "The need for a physical storage device to transfer large files",
-      "Use of digital tools for collaboration",
-      "Need of carrying a smartphone daily"
-    ],
-    "answer": 2,
-    "explanation": "The Correct Answer is Use of digital tools for collaboration"
-  },
-  {
-    "id": 248,
-    "question": "Your elder sister uses Excel to track her monthly expenses. Which skill is she using?",
-    "options": [
-      "Video making",
-      "Financial planning using spreadsheet tools",
-      "Antivirus scanning",
-      "Notes Taking"
-    ],
-    "answer": 1,
-    "explanation": "The Correct Answer is Financial planning using spreadsheet tools"
-  },
-  {
-    "id": 249,
-    "question": "In a quiz competition, the teacher uses a Google Form to collect answers. What is the teacher using?",
-    "options": [
-      "Video Player",
-      "Survey Software (Form tool)",
-      "Digital Clock",
-      "Text Editor"
-    ],
-    "answer": 1,
-    "explanation": "The Correct Answer is Survey Software (Form tool)"
-  },
-  {
-    "id": 250,
-    "question": "A student needs to scan handwritten notes and send them to the teacher. Which device will help?",
-    "options": [
-      "Mouse",
-      "Monitor",
-      "Scanner",
-      "Speaker"
-    ],
-    "answer": 2,
-    "explanation": "The Correct Answer is Scanner"
+    "explanation": "The peripheral requirements state a minimum of 600 dpi resolution for both Printer and Scanner."
   }
 ]
