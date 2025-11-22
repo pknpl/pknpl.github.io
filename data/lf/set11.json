@@ -1,18 +1,6 @@
 [
   {
     "id": 501,
-    "question": "You will be able to view the weather forecast for the next _____ days, on the Kisan Suvidha app.",
-    "options": [
-      3,
-      5,
-      7,
-      10
-    ],
-    "answer": 1,
-    "explanation": "The Correct Answer is 5"
-  },
-  {
-    "id": 502,
     "question": "What do the fine lines around the forecast line represent?",
     "options": [
       "Existing data and predicted values",
@@ -24,7 +12,7 @@
     "explanation": "The Correct Answer is Lower and upper confidence boundaries"
   },
   {
-    "id": 503,
+    "id": 502,
     "question": "Which web address takes you to the website for the National Digital Library of India?",
     "options": [
       "mygov.in",
@@ -36,7 +24,7 @@
     "explanation": "The Correct Answer is ndl.iitkgp.ac.in"
   },
   {
-    "id": 504,
+    "id": 503,
     "question": "All Indian citizens between the age of 18 to 70 years are eligible for the Pradhan Mantri Suraksha Bhima Yojana.",
     "options": [
       true,
@@ -46,7 +34,7 @@
     "explanation": "The Correct Answer is TRUE"
   },
   {
-    "id": 505,
+    "id": 504,
     "question": "The Pradhan Mantri Suraksha Bima Yojana offers a cover in case of accidental death or permanent disability of the eyes or limbs.",
     "options": [
       true,
@@ -56,7 +44,7 @@
     "explanation": "The Correct Answer is TRUE"
   },
   {
-    "id": 506,
+    "id": 505,
     "question": "What is the cover provided by the Pradhan Mantri Suraksha Bima Yojana?",
     "options": [
       "4 to 5 lakhs",
@@ -68,7 +56,7 @@
     "explanation": "The Correct Answer is 1 to 2 lakhs"
   },
   {
-    "id": 507,
+    "id": 506,
     "question": "How many numbers does the Rakshak app send an SMS to, in case of an emergency?",
     "options": [
       10,
@@ -80,7 +68,7 @@
     "explanation": "The Correct Answer is 4"
   },
   {
-    "id": 508,
+    "id": 507,
     "question": "Which app helps to protect women and senior citizens in India?",
     "options": [
       "Rakshak app",
@@ -92,7 +80,7 @@
     "explanation": "The Correct Answer is Rakshak app"
   },
   {
-    "id": 509,
+    "id": 508,
     "question": "Which web address is for the PMMY website?",
     "options": [
       "www.mudra.org.in",
@@ -104,7 +92,7 @@
     "explanation": "The Correct Answer is www.mudra.org.in"
   },
   {
-    "id": 510,
+    "id": 509,
     "question": "The Mudra loan applicant should not be ___________ with any financial institution.",
     "options": [
       "an applicant",
@@ -116,7 +104,7 @@
     "explanation": "The Correct Answer is a defaulter"
   },
   {
-    "id": 511,
+    "id": 510,
     "question": "What is Pradhanmantri Awas Yojana?",
     "options": [
       "Employment Scheme",
@@ -128,7 +116,7 @@
     "explanation": "The Correct Answer is Housing Sheme"
   },
   {
-    "id": 512,
+    "id": 511,
     "question": "Which of the following does not include in the process of application of Toilet Certificate on Aaple Sarkar website?",
     "options": [
       "Payment",
@@ -140,7 +128,7 @@
     "explanation": "The Correct Answer is Biometric"
   },
   {
-    "id": 513,
+    "id": 512,
     "question": "Which web address is for the PMMY website?",
     "options": [
       "www.mudra.org.in",
@@ -152,7 +140,7 @@
     "explanation": "The Correct Answer is www.mudra.org.in"
   },
   {
-    "id": 514,
+    "id": 513,
     "question": "Select the website that you must visit to apply for an Age Nationality and Domicile Certificate.",
     "options": [
       "https://data.gov.in/",
@@ -164,7 +152,7 @@
     "explanation": "The Correct Answer is www.aaplesarkar.mahaonline.gov.in"
   },
   {
-    "id": 515,
+    "id": 514,
     "question": "You have successfully registered on the website to apply for an Age Nationality Domicile Certificate. Which sub department will you have to select now, to apply for the same?",
     "options": [
       "Domestic Services",
@@ -176,7 +164,7 @@
     "explanation": "The Correct Answer is Revenue Services"
   },
   {
-    "id": 516,
+    "id": 515,
     "question": "After logging into your account at the aaplesarkar website, click on the option ________________ to apply for your Marriage Registration Certificate.",
     "options": [
       "Rural Development and Panchayat Raj Department",
@@ -188,7 +176,7 @@
     "explanation": "The Correct Answer is Rural Development and Panchayat Raj Department"
   },
   {
-    "id": 517,
+    "id": 516,
     "question": "Which option must you choose from the Rural Development Department's list of certificates, in order to apply for the Marriage Registration Ceritificate?",
     "options": [
       "Resident Certificate",
@@ -200,7 +188,7 @@
     "explanation": "The Correct Answer is Marriage Certificate"
   },
   {
-    "id": 518,
+    "id": 517,
     "question": "The activation link for your LPG account verification is sent to your __________.",
     "options": [
       "email id",
@@ -212,7 +200,7 @@
     "explanation": "The Correct Answer is email id"
   },
   {
-    "id": 519,
+    "id": 518,
     "question": "The __________ portal provides LPG-related services such as registering for new connections and giving up LPG subsidies.",
     "options": [
       "eGreetings",
@@ -224,7 +212,7 @@
     "explanation": "The Correct Answer is My LPG"
   },
   {
-    "id": 520,
+    "id": 519,
     "question": "Its been two days that you have sent Rakhi to your brother through post. You want to track the delivery status of your package. Which option will you choose to do so?",
     "options": [
       "Email",
@@ -236,7 +224,7 @@
     "explanation": "The Correct Answer is ePost Office"
   },
   {
-    "id": 521,
+    "id": 520,
     "question": "What is the use of the highlighted feature on the MGNREGA website?",
     "options": [
       "To apply for work",
@@ -248,7 +236,7 @@
     "explanation": "The Correct Answer is To view the details of work and payment"
   },
   {
-    "id": 522,
+    "id": 521,
     "question": "What is Mahatma Gandhi National Rural Employment Guarantee Act(MGNREGA)?",
     "options": [
       "Employment scheme for rurals",
@@ -260,7 +248,7 @@
     "explanation": "The Correct Answer is Employment scheme for rurals"
   },
   {
-    "id": 523,
+    "id": 522,
     "question": "You should click on the __________ option in the Kisan Suvidha app to view the list of advisors in your area.",
     "options": [
       "Agro Advisory",
@@ -272,7 +260,7 @@
     "explanation": "The Correct Answer is Agro Advisory"
   },
   {
-    "id": 524,
+    "id": 523,
     "question": "Ravi uses mKisan App for accessing farming related information. What kind of information won't be accessible using this App?",
     "options": [
       "Mandi Prices",
@@ -284,7 +272,7 @@
     "explanation": "The Correct Answer is Farmer's Aadhar Card"
   },
   {
-    "id": 525,
+    "id": 524,
     "question": "The URL to open the Self4Society platform is ________________.",
     "options": [
       "www.self4society.mygov.in",
@@ -296,7 +284,7 @@
     "explanation": "The Correct Answer is www.self4society.mygov.in"
   },
   {
-    "id": 526,
+    "id": 525,
     "question": "Which tab do you have to click on, if you want to volunteer in a group, as part of an organization?",
     "options": [
       "Join Organization",
@@ -308,7 +296,7 @@
     "explanation": "The Correct Answer is Organisation Volunteer"
   },
   {
-    "id": 527,
+    "id": 526,
     "question": "Which of the following portals is the right one to report a crime that you suspect is happening in your village?",
     "options": [
       "CoWIN",
@@ -320,7 +308,7 @@
     "explanation": "The Correct Answer is Crime and Criminal Tracking Network & Systems"
   },
   {
-    "id": 528,
+    "id": 527,
     "question": "When you submit a feedback on CCTNS, who will be responsible for looking into it?",
     "options": [
       "The cabinet ministers",
@@ -332,7 +320,7 @@
     "explanation": "The Correct Answer is The respective police station"
   },
   {
-    "id": 529,
+    "id": 528,
     "question": "Riya uses icons to open apps, but her friend types long commands. What’s the key difference?",
     "options": [
       "Riya’s system has more storage",
@@ -344,7 +332,7 @@
     "explanation": "The Correct Answer is Riya’s system uses a Graphical User Interface"
   },
   {
-    "id": 530,
+    "id": 529,
     "question": "Ajay opens a folder but sees mixed-up file names. What helps him organize?",
     "options": [
       "Use antivirus software",
@@ -356,7 +344,7 @@
     "explanation": "The Correct Answer is Rename and arrange using folders"
   },
   {
-    "id": 531,
+    "id": 530,
     "question": "Suresh connects a USB printer, and it works instantly. What makes this possible?",
     "options": [
       "Internet connection",
@@ -368,7 +356,7 @@
     "explanation": "The Correct Answer is Auto-detection feature of OS"
   },
   {
-    "id": 532,
+    "id": 531,
     "question": "Tina’s smartphone behaves differently than her laptop. Why?",
     "options": [
       "Screen size matters most",
@@ -380,7 +368,7 @@
     "explanation": "The Correct Answer is Mobile OS and Desktop OS are different"
   },
   {
-    "id": 533,
+    "id": 532,
     "question": "Rahul prefers fewer permissions when installing apps. Which OS suits him?",
     "options": [
       "Android",
@@ -392,7 +380,7 @@
     "explanation": "The Correct Answer is Android"
   },
   {
-    "id": 534,
+    "id": 533,
     "question": "Priya is buying a tablet and wants to use mobile banking apps. Which OS should she choose if she prefers flexibility and lower cost?",
     "options": [
       "iOS because it is expensive",
@@ -404,7 +392,7 @@
     "explanation": "The Correct Answer is Android because it allows flexibility and is widely available"
   },
   {
-    "id": 535,
+    "id": 534,
     "question": "Nisha installs apps from outside the Play Store on her Android phone. What should she evaluate before doing this?",
     "options": [
       "If the app has colorful icons",
@@ -416,7 +404,7 @@
     "explanation": "The Correct Answer is The safety and permissions of the app"
   },
   {
-    "id": 536,
+    "id": 535,
     "question": "Leela wants to use her computer only for printing and browsing. Which OS should she install?",
     "options": [
       "Server OS",
@@ -428,7 +416,7 @@
     "explanation": "The Correct Answer is Standalone OS"
   },
   {
-    "id": 537,
+    "id": 536,
     "question": "Kunal’s phone offers frequent security updates managed by company. What does this suggest?",
     "options": [
       "He is using Android",
@@ -440,7 +428,7 @@
     "explanation": "The Correct Answer is He is using iOS"
   },
   {
-    "id": 538,
+    "id": 537,
     "question": "Print Priview option is available on __________ Tab",
     "options": [
       "Insert",
@@ -452,7 +440,7 @@
     "explanation": "The Correct Answer is File"
   },
   {
-    "id": 539,
+    "id": 538,
     "question": "How to open a blank sheet ?",
     "options": [
       "Click on File Tab > New > Blank Sheet",
@@ -464,7 +452,7 @@
     "explanation": "The Correct Answer is Click on File Tab > New > Blank Sheet"
   },
   {
-    "id": 540,
+    "id": 539,
     "question": "How you will save the document? Click on correct tab?",
     "options": [
       "Insert",
@@ -476,7 +464,7 @@
     "explanation": "The Correct Answer is File"
   },
   {
-    "id": 541,
+    "id": 540,
     "question": "We can export the document in PDF form ?",
     "options": [
       true,
@@ -486,7 +474,7 @@
     "explanation": "The Correct Answer is TRUE"
   },
   {
-    "id": 542,
+    "id": 541,
     "question": "Which of these page sizes is not available in Microsoft Excel?",
     "options": [
       "A4",
@@ -498,7 +486,7 @@
     "explanation": "The Correct Answer is A2"
   },
   {
-    "id": 543,
+    "id": 542,
     "question": "Which group you will select To clear the format & apply font style?",
     "options": [
       "Editing Group & Font Group",
@@ -510,7 +498,7 @@
     "explanation": "The Correct Answer is Editing Group & Font Group"
   },
   {
-    "id": 544,
+    "id": 543,
     "question": "Wrap Text is a feature that __________ all information in a cell, even if it overflows the cell boundary.",
     "options": [
       "hides",
@@ -522,7 +510,7 @@
     "explanation": "The Correct Answer is shows"
   },
   {
-    "id": 545,
+    "id": 544,
     "question": "To change the number format, click on __________ tab from format cells.",
     "options": [
       "Font",
@@ -534,7 +522,7 @@
     "explanation": "The Correct Answer is Number"
   },
   {
-    "id": 546,
+    "id": 545,
     "question": "To change the font size of the text we can click on __________ Tab & __________ Group",
     "options": [
       "Home > Alignment",
@@ -546,7 +534,7 @@
     "explanation": "The Correct Answer is Home > Font"
   },
   {
-    "id": 547,
+    "id": 546,
     "question": "You need to apply font style to your text. Which steps you will follow?",
     "options": [
       "Home > Font > Font style > Select the style",
@@ -558,7 +546,7 @@
     "explanation": "The Correct Answer is Home > Font > Font style > Select the style"
   },
   {
-    "id": 548,
+    "id": 547,
     "question": "A student wants to design posters on a desktop. Which OS is best?",
     "options": [
       "Android",
@@ -570,7 +558,7 @@
     "explanation": "The Correct Answer is Linux (Desktop version)"
   },
   {
-    "id": 549,
+    "id": 548,
     "question": "Sneha wants to use PowerPoint from her mobile on a projector. What may limit her?",
     "options": [
       "Battery level",
@@ -582,7 +570,7 @@
     "explanation": "The Correct Answer is Mobile OS may not support it fully"
   },
   {
-    "id": 550,
+    "id": 549,
     "question": "You see a person use Android for calls and Windows for typing. What does this show?",
     "options": [
       "Both OS can be used for calling",
@@ -592,5 +580,17 @@
     ],
     "answer": 2,
     "explanation": "The Correct Answer is Different OS serve different needs"
+  },
+  {
+    "id": 550,
+    "question": "Why can't you install a mobile OS on your desktop?",
+    "options": [
+      "It’s too large",
+      "Mobile OS is locked",
+      "They are made for different hardware and usage",
+      "Desktops don’t support apps"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is They are made for different hardware and usage"
   }
 ]

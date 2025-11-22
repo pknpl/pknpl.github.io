@@ -253,18 +253,6 @@
   },
   {
     "id": 82,
-    "question": "What is the Password for SOLAR Portal",
-    "options": [
-      "Solar",
-      "Password",
-      "Center Code",
-      "None"
-    ],
-    "answer": 0,
-    "explanation": "The Correct Answer is Solar"
-  },
-  {
-    "id": 83,
     "question": "What is the Username for SOLAR Portal",
     "options": [
       "Center Code",
@@ -276,7 +264,7 @@
     "explanation": "The Correct Answer is Center Code"
   },
   {
-    "id": 84,
+    "id": 83,
     "question": "What is the Helpline Number for ERA",
     "options": [
       "020-25899600",
@@ -288,7 +276,7 @@
     "explanation": "The Correct Answer is 020-25899600"
   },
   {
-    "id": 85,
+    "id": 84,
     "question": "What is the Email ID for ERA Support",
     "options": [
       "erasupport@mkcl.org",
@@ -300,7 +288,7 @@
     "explanation": "The Correct Answer is erasupport@mkcl.org"
   },
   {
-    "id": 86,
+    "id": 85,
     "question": "What is the Email ID for SOLAR Support",
     "options": [
       "solarsupport@mkcl.org",
@@ -312,7 +300,7 @@
     "explanation": "The Correct Answer is solarsupport@mkcl.org"
   },
   {
-    "id": 87,
+    "id": 86,
     "question": "What is the Email ID of mkcl",
     "options": [
       "mkcl@mkcl.org",
@@ -324,7 +312,7 @@
     "explanation": "The Correct Answer is mkcl@mkcl.org"
   },
   {
-    "id": 88,
+    "id": 87,
     "question": "Which Software is used for Batch Management",
     "options": [
       "OES",
@@ -336,7 +324,7 @@
     "explanation": "The Correct Answer is SOLAR"
   },
   {
-    "id": 89,
+    "id": 88,
     "question": "Which Software is used for EOI",
     "options": [
       "OES",
@@ -348,7 +336,7 @@
     "explanation": "The Correct Answer is SOLAR"
   },
   {
-    "id": 90,
+    "id": 89,
     "question": "Which Software is used for Exam Schedule",
     "options": [
       "OES",
@@ -358,5 +346,17 @@
     ],
     "answer": 2,
     "explanation": "The Correct Answer is SOLAR"
+  },
+  {
+    "id": 90,
+    "question": "Which Software is used for Attendance",
+    "options": [
+      "OES",
+      "BizClient",
+      "SOLAR",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is BizClient"
   }
 ]

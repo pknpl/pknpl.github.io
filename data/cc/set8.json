@@ -1,18 +1,6 @@
 [
   {
     "id": 211,
-    "question": "What is the minimum area size for the Lecture Room?",
-    "options": [
-      "50 sq. feet",
-      "100 sq. feet",
-      "150 sq. feet",
-      "200 sq. feet"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: 100 sq. feet."
-  },
-  {
-    "id": 212,
     "question": "Is Air Conditioning facility compulsory for the Computer Lab?",
     "options": [
       "Yes, Compulsory",
@@ -24,7 +12,7 @@
     "explanation": "The correct answer is: No, Optional. However, proper ventilation is required."
   },
   {
-    "id": 213,
+    "id": 212,
     "question": "What is the syllabus for the Center Coordinator ONCET Exam?",
     "options": [
       "Only C Programming",
@@ -36,7 +24,7 @@
     "explanation": "The correct answer is: Administrative, Marketing Skills & MKCL Offerings."
   },
   {
-    "id": 214,
+    "id": 213,
     "question": "What are the passing marks for the Center Coordinator ONCET Exam?",
     "options": [
       "10 marks",
@@ -48,7 +36,7 @@
     "explanation": "The correct answer is: 12 marks (40% of 30)."
   },
   {
-    "id": 215,
+    "id": 214,
     "question": "Are 'Headphones with Mic' required for Client computers?",
     "options": [
       "No",
@@ -60,7 +48,7 @@
     "explanation": "The correct answer is: Yes, Compulsory. It is part of the minimum client configuration."
   },
   {
-    "id": 216,
+    "id": 215,
     "question": "What is the full form of ALC?",
     "options": [
       "Authorized Learner Center",
@@ -72,7 +60,7 @@
     "explanation": "The correct answer is: Authorized Learning Center."
   },
   {
-    "id": 217,
+    "id": 216,
     "question": "Who decides the 'Open Area' list for new center registration?",
     "options": [
       "District Collector",
@@ -84,7 +72,7 @@
     "explanation": "The correct answer is: MKCL. They decide based on business potential and existing center presence."
   },
   {
-    "id": 218,
+    "id": 217,
     "question": "Can an existing Super Performing ALC apply for a new center in another district with preference?",
     "options": [
       "Yes",
@@ -96,7 +84,7 @@
     "explanation": "The correct answer is: No. Preference is only for the same LLC region or District."
   },
   {
-    "id": 219,
+    "id": 218,
     "question": "What is the 'Performance Guarantee Amount'?",
     "options": [
       "A fee paid by students",
@@ -108,7 +96,7 @@
     "explanation": "The correct answer is: An amount paid by AO to register, kept with MKCL."
   },
   {
-    "id": 220,
+    "id": 219,
     "question": "Who is exempt from paying the Performance Guarantee Amount?",
     "options": [
       "Private Computer Institutes",
@@ -120,7 +108,7 @@
     "explanation": "The correct answer is: Educational Institutes (Schools & Colleges)."
   },
   {
-    "id": 221,
+    "id": 220,
     "question": "What is the total duration of the MS-CIT Course?",
     "options": [
       "1 Month",
@@ -132,7 +120,7 @@
     "explanation": "The correct answer is: 3 Months (144 Hours)."
   },
   {
-    "id": 222,
+    "id": 221,
     "question": "What are the three languages in which MS-CIT course is available?",
     "options": [
       "English, Marathi, Gujarati",
@@ -144,7 +132,7 @@
     "explanation": "The correct answer is: English, Marathi, Hindi."
   },
   {
-    "id": 223,
+    "id": 222,
     "question": "What is the passing mark for the MS-CIT Final Online Examination (Students)?",
     "options": [
       "18 Marks",
@@ -156,7 +144,7 @@
     "explanation": "The correct answer is: 20 Marks out of 50."
   },
   {
-    "id": 224,
+    "id": 223,
     "question": "How many internal marks are allocated in the MS-CIT course?",
     "options": [
       "20 Marks",
@@ -168,7 +156,7 @@
     "explanation": "The correct answer is: 50 Marks. These are based on session completion and challenges."
   },
   {
-    "id": 225,
+    "id": 224,
     "question": "What is the full form of CCTP?",
     "options": [
       "Certificate of Computer Training Program",
@@ -180,7 +168,7 @@
     "explanation": "The correct answer is: Certificate of Computer Typing Proficiency."
   },
   {
-    "id": 226,
+    "id": 225,
     "question": "Who certifies the CCTP course?",
     "options": [
       "MKCL only",
@@ -192,7 +180,7 @@
     "explanation": "The correct answer is: Jointly by MKCL and MSBTE."
   },
   {
-    "id": 227,
+    "id": 226,
     "question": "What is the typing speed option available in CCTP?",
     "options": [
       "10 WPM and 20 WPM",
@@ -204,7 +192,7 @@
     "explanation": "The correct answer is: 30 WPM and 40 WPM."
   },
   {
-    "id": 228,
+    "id": 227,
     "question": "What keyboard layout is used in CCTP?",
     "options": [
       "Dvorak",
@@ -216,7 +204,7 @@
     "explanation": "The correct answer is: Remington."
   },
   {
-    "id": 229,
+    "id": 228,
     "question": "Who is eligible for CCTP?",
     "options": [
       "Any 10th pass student",
@@ -228,7 +216,7 @@
     "explanation": "The correct answer is: MS-CIT learners confirmed for the exam."
   },
   {
-    "id": 230,
+    "id": 229,
     "question": "Which item is NOT part of the mandatory Counseling Area setup?",
     "options": [
       "Notice Board",
@@ -240,7 +228,7 @@
     "explanation": "The correct answer is: Projector. This is required in the Lecture Room, not the Counseling Area."
   },
   {
-    "id": 231,
+    "id": 230,
     "question": "What is the mandatory identity document for New Center Registration finalization in 2026?",
     "options": [
       "Aadhaar Card",
@@ -252,7 +240,7 @@
     "explanation": "The correct answer is: Aadhaar Card. Both PAN and Aadhaar are mandatory."
   },
   {
-    "id": 232,
+    "id": 231,
     "question": "What is the standard student fee for MS-CIT in Single Installment (prior to June 2025 revision)?",
     "options": [
       "Rs. 4,000/-",
@@ -264,7 +252,7 @@
     "explanation": "The correct answer is: Rs. 4,500/- (Note: Fees may vary by region/date, but this is the standard base)."
   },
   {
-    "id": 233,
+    "id": 232,
     "question": "Does the student fee include the Examination and Certification fee?",
     "options": [
       "No, paid separately",
@@ -276,7 +264,7 @@
     "explanation": "The correct answer is: Yes, it is inclusive."
   },
   {
-    "id": 234,
+    "id": 233,
     "question": "What is the 'MFO' component in the fee structure?",
     "options": [
       "Master Franchisee Office",
@@ -288,7 +276,7 @@
     "explanation": "The correct answer is: MKCL Fee Component (often referred to as MKCL's share)."
   },
   {
-    "id": 235,
+    "id": 234,
     "question": "What is the minimum age requirement for a student to join MS-CIT?",
     "options": [
       "10 years",
@@ -300,7 +288,7 @@
     "explanation": "The correct answer is: No specific age limit (preferably 5th Std pass)."
   },
   {
-    "id": 236,
+    "id": 235,
     "question": "Which application is used by learners to access the e-book?",
     "options": [
       "MKCL ERA",
@@ -312,7 +300,7 @@
     "explanation": "The correct answer is: MKCL Learner App."
   },
   {
-    "id": 237,
+    "id": 236,
     "question": "What is the ERA in the context of MS-CIT?",
     "options": [
       "Education Registration Agency",
@@ -324,7 +312,7 @@
     "explanation": "The correct answer is: eLearning Revolution for All (MKCL's learning framework)."
   },
   {
-    "id": 238,
+    "id": 237,
     "question": "Can a center use a 'DG Set' for power backup?",
     "options": [
       "No",
@@ -336,7 +324,7 @@
     "explanation": "The correct answer is: Yes, it is optional. UPS/Inverter is compulsory."
   },
   {
-    "id": 239,
+    "id": 238,
     "question": "What is the minimum number of USB ports required on the Server?",
     "options": [
       "2",
@@ -348,7 +336,7 @@
     "explanation": "The correct answer is: 3."
   },
   {
-    "id": 240,
+    "id": 239,
     "question": "Does the Center Coordinator need to clear the ONCET exam?",
     "options": [
       "No, only faculty needs to",
@@ -358,5 +346,17 @@
     ],
     "answer": 1,
     "explanation": "The correct answer is: Yes, mandatory."
+  },
+  {
+    "id": 240,
+    "question": "What is the total time duration for the CCTP typing test?",
+    "options": [
+      "5 Minutes",
+      "10 Minutes",
+      "15 Minutes",
+      "30 Minutes"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: 10 Minutes."
   }
 ]

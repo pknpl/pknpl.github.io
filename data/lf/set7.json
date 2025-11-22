@@ -433,18 +433,6 @@
   },
   {
     "id": 337,
-    "question": "Which option should we click on, in order to edit a selected template online?",
-    "options": [
-      "Unzip file",
-      "Zip file",
-      "Download",
-      "Open in browser"
-    ],
-    "answer": 3,
-    "explanation": "The Correct Answer is Open in browser"
-  },
-  {
-    "id": 338,
     "question": "How does HeyGen enhance the realism of AI-generated avatars?",
     "options": [
       "By analyzing voice tone for emotions",
@@ -456,7 +444,7 @@
     "explanation": "The Correct Answer is By using deep learning to match lip movements with text"
   },
   {
-    "id": 339,
+    "id": 338,
     "question": "You want to explain “cookies” to your friend. Which example works best?",
     "options": [
       "A security alarm",
@@ -468,7 +456,7 @@
     "explanation": "The Correct Answer is A tiny file that remembers you"
   },
   {
-    "id": 340,
+    "id": 339,
     "question": "You entered wrong password many times and got blocked. Why do websites do this?",
     "options": [
       "Waste your time",
@@ -480,7 +468,7 @@
     "explanation": "The Correct Answer is To prevent hackers from guessing"
   },
   {
-    "id": 341,
+    "id": 340,
     "question": "You received an email that says, “You won 10 lakh rupees!” What is the best step?",
     "options": [
       "Reply and give your bank info",
@@ -492,7 +480,7 @@
     "explanation": "The Correct Answer is Report it as spam or delete it"
   },
   {
-    "id": 342,
+    "id": 341,
     "question": "A website asked you to allow “notifications”. What should you do?",
     "options": [
       "Always allow all notifications",
@@ -504,7 +492,7 @@
     "explanation": "The Correct Answer is Allow only if it’s a trusted site"
   },
   {
-    "id": 343,
+    "id": 342,
     "question": "You’re creating a blog. Which feature lets readers move from one section to another easily?",
     "options": [
       "Cookie",
@@ -516,7 +504,7 @@
     "explanation": "The Correct Answer is Hyperlink"
   },
   {
-    "id": 344,
+    "id": 343,
     "question": "Your e-commerce order failed but your money got deducted. What should you check next?",
     "options": [
       "Browser tab colour",
@@ -528,7 +516,7 @@
     "explanation": "The Correct Answer is Error code and confirmation email"
   },
   {
-    "id": 345,
+    "id": 344,
     "question": "You are designing a website for your school. Which domain will build more trust?",
     "options": [
       "www.schoolphoto.fun",
@@ -540,7 +528,7 @@
     "explanation": "The Correct Answer is www.yourschool.edu"
   },
   {
-    "id": 346,
+    "id": 345,
     "question": "You want to share a long article with your class group. Which method is better and why?",
     "options": [
       "Type it word by word in chat – it's direct",
@@ -552,7 +540,7 @@
     "explanation": "The Correct Answer is Email it with an attachment – it’s structured and sharable"
   },
   {
-    "id": 347,
+    "id": 346,
     "question": "A shopping website asks you to save your card details. What should you evaluate before clicking “Save”?",
     "options": [
       "Whether the site has HTTPS",
@@ -564,7 +552,7 @@
     "explanation": "The Correct Answer is Whether the site has HTTPS"
   },
   {
-    "id": 348,
+    "id": 347,
     "question": "You and your friend search the same thing online but get different results. Why might that happen?",
     "options": [
       "Because one browser is better",
@@ -576,7 +564,7 @@
     "explanation": "The Correct Answer is Because of location, history, and cookies"
   },
   {
-    "id": 349,
+    "id": 348,
     "question": "What is the primary purpose of the \"Insert Index\" feature in Microsoft Word?",
     "options": [
       "It automatically inserts an alphabetical list of all words in the document.",
@@ -588,7 +576,7 @@
     "explanation": "The Correct Answer is It generates an alphabetical list of key terms and their page numbers for quick reference."
   },
   {
-    "id": 350,
+    "id": 349,
     "question": "What is the primary function of the \"Table of Authorities\" group in Microsoft Word?",
     "options": [
       "It assists in creating a table of contents for legal documents.",
@@ -598,5 +586,17 @@
     ],
     "answer": 2,
     "explanation": "The Correct Answer is It allows you to manage and generate a table of authorities for legal citations."
+  },
+  {
+    "id": 350,
+    "question": "What is the full form of \"TOC\" in the context of Microsoft Word?",
+    "options": [
+      "Text Outline Control",
+      "Table of Changes",
+      "Total Office Compatibility",
+      "Table of Contents"
+    ],
+    "answer": 3,
+    "explanation": "The Correct Answer is Table of Contents"
   }
 ]

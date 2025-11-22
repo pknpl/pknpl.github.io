@@ -13,6 +13,18 @@
   },
   {
     "id": 32,
+    "question": "Who is the Chief Mentor of MKCL",
+    "options": [
+      "Dr. Vijay Bhatkar",
+      "Ho. Vivek Sawant",
+      "Mr. Sameer Pande",
+      "Radius Master"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Ho. Vivek Sawant"
+  },
+  {
+    "id": 33,
     "question": "Fullform of RM",
     "options": [
       "Regional Manager",
@@ -24,7 +36,7 @@
     "explanation": "The Correct Answer is Regional Manager"
   },
   {
-    "id": 33,
+    "id": 34,
     "question": "Fullform of RLC",
     "options": [
       "Regional Lead Center",
@@ -36,7 +48,7 @@
     "explanation": "The Correct Answer is Regional Lead Center"
   },
   {
-    "id": 34,
+    "id": 35,
     "question": "Fullform of LLC",
     "options": [
       "Local Lead Center",
@@ -48,7 +60,7 @@
     "explanation": "The Correct Answer is Local Lead Center"
   },
   {
-    "id": 35,
+    "id": 36,
     "question": "Fullform of ALC",
     "options": [
       "Authorised Learning Center",
@@ -60,7 +72,7 @@
     "explanation": "The Correct Answer is Authorised Learning Center"
   },
   {
-    "id": 36,
+    "id": 37,
     "question": "Fullform of MI",
     "options": [
       "Marketing Interns",
@@ -72,7 +84,7 @@
     "explanation": "The Correct Answer is Marketing Interns"
   },
   {
-    "id": 37,
+    "id": 38,
     "question": "Fullform of ERA",
     "options": [
       "eLearning Revolution for all",
@@ -84,7 +96,7 @@
     "explanation": "The Correct Answer is eLearning Revolution for all"
   },
   {
-    "id": 38,
+    "id": 39,
     "question": "What is the Financial Year of MKCL",
     "options": [
       "Jan - Dec",
@@ -96,7 +108,7 @@
     "explanation": "The Correct Answer is Jan - Dec"
   },
   {
-    "id": 39,
+    "id": 40,
     "question": "What is the Renewal Fees of MKCL ALC",
     "options": [
       "4500",
@@ -108,7 +120,7 @@
     "explanation": "The Correct Answer is 5500"
   },
   {
-    "id": 40,
+    "id": 41,
     "question": "What is the amount Of Study Material Deposit",
     "options": [
       "0",
@@ -120,7 +132,7 @@
     "explanation": "The Correct Answer is 0"
   },
   {
-    "id": 41,
+    "id": 42,
     "question": "Solar App is used for status of Rejected Learners",
     "options": [
       "TRUE",
@@ -130,7 +142,7 @@
     "explanation": "The Correct Answer is TRUE"
   },
   {
-    "id": 42,
+    "id": 43,
     "question": "Solar App is used for status of Payment Balance",
     "options": [
       "TRUE",
@@ -140,7 +152,7 @@
     "explanation": "The Correct Answer is TRUE"
   },
   {
-    "id": 43,
+    "id": 44,
     "question": "Solar Application is used to Analysis My Bussiness",
     "options": [
       "TRUE",
@@ -150,7 +162,7 @@
     "explanation": "The Correct Answer is TRUE"
   },
   {
-    "id": 44,
+    "id": 45,
     "question": "What is the maximum Installments are allowed in Center Fees",
     "options": [
       "1",
@@ -162,7 +174,7 @@
     "explanation": "The Correct Answer is 2"
   },
   {
-    "id": 45,
+    "id": 46,
     "question": "What is the amount of Admission Registration (Fee)",
     "options": [
       "1238",
@@ -174,7 +186,7 @@
     "explanation": "The Correct Answer is 1238"
   },
   {
-    "id": 46,
+    "id": 47,
     "question": "What is the minimum Learning Hours for MS-CIT learner",
     "options": [
       "144",
@@ -186,7 +198,7 @@
     "explanation": "The Correct Answer is 144"
   },
   {
-    "id": 47,
+    "id": 48,
     "question": "How much is MSCIT MFO that is paid to MKCL from Solar",
     "options": [
       "1238",
@@ -198,7 +210,7 @@
     "explanation": "The Correct Answer is 1765"
   },
   {
-    "id": 48,
+    "id": 49,
     "question": "How much mfo amount goes to MSBTE",
     "options": [
       "527",
@@ -210,7 +222,7 @@
     "explanation": "The Correct Answer is 527"
   },
   {
-    "id": 49,
+    "id": 50,
     "question": "How much mfo amount goes to MKCL",
     "options": [
       1238,
@@ -222,8 +234,8 @@
     "explanation": "The Correct Answer is 1238"
   },
   {
-    "id": 50,
-    "question": "What is the Exam Fees of MFO Plan",
+    "id": 51,
+    "question": "What is the MSBTE Exam Fees out of MFO Plan",
     "options": [
       "527",
       "1238",
@@ -234,7 +246,7 @@
     "explanation": "The Correct Answer is 527"
   },
   {
-    "id": 51,
+    "id": 52,
     "question": "Number of Certificates given by MKCL",
     "options": [
       "1",
@@ -246,7 +258,7 @@
     "explanation": "The Correct Answer is 2"
   },
   {
-    "id": 52,
+    "id": 53,
     "question": "Certificate Number 1 Name",
     "options": [
       "Provisional Certificate",
@@ -258,7 +270,7 @@
     "explanation": "The Correct Answer is Provisional Certificate"
   },
   {
-    "id": 53,
+    "id": 54,
     "question": "Certificate Number 2 Name",
     "options": [
       "Provisional Certificate",
@@ -270,7 +282,7 @@
     "explanation": "The Correct Answer is Final Certificate"
   },
   {
-    "id": 54,
+    "id": 55,
     "question": "Who issue MS-CIT Final Certifcate",
     "options": [
       "MKCL",
@@ -282,7 +294,7 @@
     "explanation": "The Correct Answer is MKCL & MSBTE"
   },
   {
-    "id": 55,
+    "id": 56,
     "question": "Who issue Provisional Certificate",
     "options": [
       "MKCL",
@@ -294,7 +306,7 @@
     "explanation": "The Correct Answer is MKCL"
   },
   {
-    "id": 56,
+    "id": 57,
     "question": "What is the Fees of Duplicate certificate issued",
     "options": [
       "500",
@@ -306,7 +318,7 @@
     "explanation": "The Correct Answer is 300"
   },
   {
-    "id": 57,
+    "id": 58,
     "question": "What is the Batch Duration for MS-CIT",
     "options": [
       "2 Months",
@@ -318,7 +330,7 @@
     "explanation": "The Correct Answer is 2 Months"
   },
   {
-    "id": 58,
+    "id": 59,
     "question": "In which Month MKCL celebrate their Foundation Day",
     "options": [
       "January",
@@ -330,7 +342,7 @@
     "explanation": "The Correct Answer is August"
   },
   {
-    "id": 59,
+    "id": 60,
     "question": "What is the Date when MKCL was Founded",
     "options": [
       "15 Nov 2001",
@@ -340,17 +352,5 @@
     ],
     "answer": 1,
     "explanation": "The Correct Answer is 20 Aug 2001"
-  },
-  {
-    "id": 60,
-    "question": "What is the CMD of MKCL full Name",
-    "options": [
-      "Mr. Sameer Pande",
-      "Mr. Vivek Sawant",
-      "Dr. Vijay Bhatkar",
-      "None"
-    ],
-    "answer": 0,
-    "explanation": "The Correct Answer is Mr. Sameer Pande"
   }
 ]
