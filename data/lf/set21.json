@@ -578,5 +578,125 @@
     ],
     "answer": 1,
     "explanation": "The Correct Answer is Categorize > Clear All Categories"
+  },
+  {
+    "id": 1051,
+    "question": "You can assign _____________ to your messages to remind you to follow up on an issue.",
+    "options": [
+      "Folders",
+      "Contact Groups",
+      "Tasks",
+      "Flags"
+    ],
+    "answer": 3,
+    "explanation": "The Correct Answer is Flags"
+  },
+  {
+    "id": 1052,
+    "question": "Have a look at this picture. The event in this Outlook Calendar has an icon. What does that stand for?",
+    "options": [
+      "Charm",
+      "Category",
+      "Flag",
+      "Board"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Charm"
+  },
+  {
+    "id": 1053,
+    "question": "What purpose does a reminder serve?",
+    "options": [
+      "It reminds you about the event",
+      "It erases the event",
+      "It saves the event for you",
+      "It sends out an email to people"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is It reminds you about the event"
+  },
+  {
+    "id": 1054,
+    "question": "If you enter % Complete as 25, even though the Status has been set as Not Started, it is automatically displayed as _______.",
+    "options": [
+      "In Progress",
+      "Not started",
+      "Completed",
+      "Failed"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is In Progress"
+  },
+  {
+    "id": 1055,
+    "question": "You might find your Task List cluttered with completed tasks. In this case, you can ____________ such tasks from the Task List.",
+    "options": [
+      "add more",
+      "remove",
+      "send",
+      "mark"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is remove"
+  },
+  {
+    "id": 1056,
+    "question": "While saving data on a computer, you choose between .txt, .csv, and .doc formats. What are these called?",
+    "options": [
+      "Data structures",
+      "File formats",
+      "Data models",
+      "Backup types"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is File formats"
+  },
+  {
+    "id": 1057,
+    "question": "A photograph taken on your phone is stored as a .jpg file. What type of data format is this?",
+    "options": [
+      "Text format",
+      "Image format",
+      "Video format",
+      "Audio format"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Image format"
+  },
+  {
+    "id": 1058,
+    "question": "You listen to a song in MP3 format on your computer. Which type of data is this?",
+    "options": [
+      "Image data",
+      "Audio data",
+      "Video data",
+      "Text data"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Audio data"
+  },
+  {
+    "id": 1059,
+    "question": "While making a school project video, you save it as an .mp4 file. What type of file is this?",
+    "options": [
+      "Text file",
+      "Audio file",
+      "Video file",
+      "Image file"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Video file"
+  },
+  {
+    "id": 1060,
+    "question": "When entering marks, the system does not allow numbers above 100. What is this process called?",
+    "options": [
+      "Verification",
+      "Validation",
+      "Encryption",
+      "Duplication"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Validation"
   }
 ]

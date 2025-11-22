@@ -1,2402 +1,2281 @@
 [
   {
-    "id": 1,
-    "question": "Which AI tool developed by OpenAI is primarily used for generating human-like text responses and drafting content?",
-    "options": [
-      "DALL-E",
-      "ChatGPT",
-      "Suno AI",
-      "Otter.ai"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: ChatGPT. It is a conversational AI model designed for natural language understanding and text generation."
-  },
-  {
-    "id": 2,
-    "question": "Which platform is best known for generating images from text descriptions?",
-    "options": [
-      "Otter.ai",
-      "DALL-E",
-      "Grammarly",
-      "Todoist"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: DALL-E. It is an AI system developed by OpenAI that creates realistic images and art from a description in natural language."
-  },
-  {
-    "id": 3,
-    "question": "What is the primary function of 'Otter.ai'?",
-    "options": [
-      "Video Editing",
-      "Graphic Design",
-      "Meeting Transcription and Note-taking",
-      "Task Automation"
-    ],
-    "answer": 2,
-    "explanation": "The correct answer is: Meeting Transcription and Note-taking. Otter.ai uses AI to transcribe voice conversations and meetings in real-time."
-  },
-  {
-    "id": 4,
-    "question": "IFTTT stands for:",
-    "options": [
-      "If This Then That",
-      "Input Format Text To Transfer",
-      "International File Transfer Technology",
-      "Image Format Text Translation"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: If This Then That. It is a service that allows users to create chains of simple conditional statements, called 'Applets'."
-  },
-  {
-    "id": 5,
-    "question": "Which Google initiative focuses on helping users maintain a healthy relationship with technology?",
-    "options": [
-      "Google Fit",
-      "Digital Wellbeing",
-      "Google Keep",
-      "Google Ads"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Digital Wellbeing. It provides tools to help users monitor and manage their device usage habits."
-  },
-  {
-    "id": 6,
-    "question": "Which AI tool is integrated into Microsoft Edge and Windows to act as an AI-powered assistant?",
-    "options": [
-      "Siri",
-      "Microsoft Co-Pilot",
-      "Alexa",
-      "Watson"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Microsoft Co-Pilot. It is Microsoft's AI assistant that integrates with Microsoft 365 apps and the Windows operating system."
-  },
-  {
-    "id": 7,
-    "question": "What is the primary purpose of the 'Bhashini' platform launched by the Government of India?",
-    "options": [
-      "Agricultural planning",
-      "Language translation and voice interfacing",
-      "Weather forecasting",
-      "Digital currency management"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Language translation and voice interfacing. Bhashini aims to transcend language barriers in India using AI."
-  },
-  {
-    "id": 8,
-    "question": "Which tool would you use to paraphrase text or improve the fluency of your writing?",
-    "options": [
-      "Quillbot",
-      "Midjourney",
-      "Synthesia",
-      "Lookout"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Quillbot. It is an AI-powered writing tool specifically designing for paraphrasing and summarizing text."
-  },
-  {
-    "id": 9,
-    "question": "Which application is primarily used for organizing tasks and to-do lists?",
-    "options": [
-      "Suno AI",
-      "Todoist",
-      "HeyGen",
-      "Veed.io"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Todoist. It is a popular productivity application used for task management."
-  },
-  {
-    "id": 10,
-    "question": "Notion is best described as:",
-    "options": [
-      "A music generation tool",
-      "An all-in-one workspace for notes, tasks, and databases",
-      "A video conferencing tool",
-      "An antivirus software"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: An all-in-one workspace for notes, tasks, and databases. Notion allows users to organize various types of information in one platform."
-  },
-  {
-    "id": 11,
-    "question": "Habitica turns habit-building and productivity into a:",
-    "options": [
-      "Spreadsheet",
-      "RPG (Role-Playing Game)",
-      "Podcast",
-      "Legal Document"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: RPG (Role-Playing Game). Habitica gamifies your life by rewarding you for completing tasks and good habits."
-  },
-  {
-    "id": 12,
-    "question": "Which AI tool is specialized in generating music and songs from text prompts?",
-    "options": [
-      "Suno AI",
-      "DALL-E",
-      "Jasper",
-      "GitHub Copilot"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Suno AI. It is designed to generate realistic audio, including speech and music, from text descriptions."
-  },
-  {
-    "id": 13,
-    "question": "In MS PowerPoint, which feature uses AI to suggest professional slide layouts automatically?",
-    "options": [
-      "Slide Master",
-      "Design Ideas / Designer",
-      "Animation Pane",
-      "Presenter View"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Design Ideas / Designer. It analyzes the content of your slide and suggests professional designs."
-  },
-  {
-    "id": 14,
-    "question": "Which feature in Google Chrome uses AI to assist users in drafting text for various web fields?",
-    "options": [
-      "Google Translate",
-      "Help Me Write",
-      "Reading Mode",
-      "Incognito Mode"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Help Me Write. This generative AI feature helps users draft or refine content directly within the browser."
-  },
-  {
-    "id": 15,
-    "question": "eNAM stands for:",
-    "options": [
-      "Electronic National Agriculture Market",
-      "Energy and Natural Asset Management",
-      "Electronic Network for Arts and Media",
-      "Education National Assessment Module"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Electronic National Agriculture Market. It is a pan-India electronic trading portal for agricultural commodities."
-  },
-  {
-    "id": 16,
-    "question": "Which Government of India app provides access to various central and state government services in a single platform?",
-    "options": [
-      "Instagram",
-      "Umang",
-      "Candy Crush",
-      "Netflix"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Umang (Unified Mobile Application for New-age Governance). It aggregates government services for citizens."
-  },
-  {
-    "id": 17,
-    "question": "Research Rabbit is a tool primarily used for:",
-    "options": [
-      "Generating logos",
-      "Visualizing research papers and literature reviews",
-      "Editing videos",
-      "Automating emails"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Visualizing research papers and literature reviews. It helps researchers find connected papers and authors visually."
-  },
-  {
-    "id": 18,
-    "question": "Which AI tool helps users find high-quality stock photos and graphic resources?",
-    "options": [
-      "Freepik",
-      "Wireshark",
-      "Postman",
-      "Ubuntu"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Freepik. While originally a resource site, it now integrates AI to help search and generate graphic assets."
-  },
-  {
-    "id": 19,
-    "question": "HeyGen AI is best known for:",
-    "options": [
-      "Cybersecurity protection",
-      "Creating AI-generated avatar videos",
-      "Solving math problems",
-      "Managing passwords"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Creating AI-generated avatar videos. HeyGen allows users to create spokesperson videos with lip-syncing avatars."
-  },
-  {
-    "id": 20,
-    "question": "Which AI developed by Anthropic is a direct competitor to ChatGPT?",
-    "options": [
-      "Claude AI",
-      "Photoshop",
-      "WinRAR",
-      "VLC Player"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Claude AI. Developed by Anthropic, it is a large language model known for its focus on safety and large context windows."
-  },
-  {
-    "id": 21,
-    "question": "Gradescope is an AI-assisted tool designed for:",
-    "options": [
-      "Stock market analysis",
-      "Grading and assessing student work",
-      "Music composition",
-      "Fitness tracking"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Grading and assessing student work. It streamlines the grading process for exams, homework, and code."
-  },
-  {
-    "id": 22,
-    "question": "Which tool is widely used for reference management and academic social networking?",
-    "options": [
-      "Mendeley",
-      "Canva",
-      "Spotify",
-      "Uber"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Mendeley. It helps researchers manage references, generate citations, and connect with other researchers."
-  },
-  {
-    "id": 23,
-    "question": "Wolfram Alpha is known as a:",
-    "options": [
-      "Social Media Platform",
-      "Computational Knowledge Engine",
-      "Video Game Engine",
-      "Web Browser"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Computational Knowledge Engine. It answers factual queries by computing answers from externally sourced data."
-  },
-  {
-    "id": 24,
-    "question": "Google Bolo (now Read Along) is designed to help children:",
-    "options": [
-      "Learn to code",
-      "Improve their reading skills",
-      "Edit photos",
-      "Play multiplayer games"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Improve their reading skills. It uses speech recognition to listen to children read and provides feedback."
-  },
-  {
-    "id": 25,
-    "question": "Which tool allows you to write and execute Python code in a browser with zero configuration?",
-    "options": [
-      "Notepad",
-      "Google Colab",
-      "MS Word",
-      "Paint"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Google Colab (Colaboratory). It is a free Jupyter notebook environment that runs in the cloud."
-  },
-  {
-    "id": 26,
-    "question": "Amazon CodeWhisperer is an AI coding companion that:",
-    "options": [
-      "Plays soothing music while you code",
-      "Generates code suggestions in real-time",
-      "Deletes bugs automatically without asking",
-      "Translates code into spoken language"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Generates code suggestions in real-time. It helps developers write code faster by suggesting snippets and functions."
-  },
-  {
-    "id": 27,
-    "question": "Slidesgo is primarily a resource for:",
-    "options": [
-      "Downloading free Google Slides and PowerPoint templates",
-      "Booking airline tickets",
-      "Streaming movies",
-      "Learning guitar"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Downloading free Google Slides and PowerPoint templates. It offers creative themes for presentations."
-  },
-  {
-    "id": 28,
-    "question": "Photomath is an app that uses the camera to:",
-    "options": [
-      "Identify plants",
-      "Scan and solve mathematical problems",
-      "Translate street signs",
-      "Measure the height of buildings"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Scan and solve mathematical problems. It provides step-by-step explanations for math problems scanned via camera."
-  },
-  {
-    "id": 29,
-    "question": "Which AI-powered search engine provides direct answers with citations rather than just a list of links?",
-    "options": [
-      "Perplexity AI",
-      "Yahoo",
-      "DuckDuckGo",
-      "AOL"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Perplexity AI. It acts as an answer engine that compiles information and cites sources."
-  },
-  {
-    "id": 30,
-    "question": "Quizizz is an educational platform primarily used for:",
-    "options": [
-      "Writing detailed essays",
-      "Gamified quizzes and interactive lessons",
-      "3D Modeling",
-      "Secure file storage"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Gamified quizzes and interactive lessons. It allows teachers to conduct student-paced formative assessments."
-  },
-  {
-    "id": 31,
-    "question": "W3Schools is a popular online platform for learning:",
-    "options": [
-      "Cooking",
-      "Web development technologies (HTML, CSS, etc.)",
-      "Carpentry",
-      "History"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Web development technologies. It offers tutorials and references for web development languages."
-  },
-  {
-    "id": 32,
-    "question": "Pictory is an AI tool mainly used for:",
-    "options": [
-      "Creating short videos from long content",
-      "Painting digital art",
-      "Managing social media passwords",
-      "Tracking calories"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Creating short videos from long content. It automatically extracts highlights from long-form video or text."
-  },
-  {
-    "id": 33,
-    "question": "Hootsuite and Socialbee are tools used for:",
-    "options": [
-      "Social Media Management and Scheduling",
-      "Video Game Streaming",
-      "Medical Diagnosis",
-      "Weather tracking"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Social Media Management and Scheduling. They help users schedule posts across multiple social networks."
-  },
-  {
-    "id": 34,
-    "question": "Which tool is known for 'Help Me Write' and 'Smart Compose' features?",
-    "options": [
-      "Google Workspace (Docs/Gmail)",
-      "Adobe Premiere",
-      "Blender",
-      "Unity"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Google Workspace. Features like 'Help Me Write' utilize AI to assist in drafting emails and documents."
-  },
-  {
-    "id": 35,
-    "question": "Synthesia allows users to create videos using:",
-    "options": [
-      "Stop motion claymation",
-      "AI avatars and text-to-speech",
-      "Hand-drawn animation",
-      "Live actors only"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: AI avatars and text-to-speech. Synthesia generates professional videos from text without needing cameras or actors."
-  },
-  {
-    "id": 36,
-    "question": "Wireshark is a tool used for:",
-    "options": [
-      "Network Protocol Analysis",
-      "Photo editing",
-      "Music mixing",
-      "Text translation"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Network Protocol Analysis. It captures and displays the data traveling back and forth on a network."
-  },
-  {
-    "id": 37,
-    "question": "1Password is a tool designed for:",
-    "options": [
-      "Generating random jokes",
-      "Secure password management",
-      "One-click shopping",
-      "Speed reading"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Secure password management. It stores various passwords and sensitive data in a virtual vault."
-  },
-  {
-    "id": 38,
-    "question": "CyberChef is often referred to as:",
-    "options": [
-      "A cooking recipe generator",
-      "The Cyber Swiss Army Knife",
-      "A hacking game",
-      "A food delivery app"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: The Cyber Swiss Army Knife. It is a web app for encryption, encoding, compression, and data analysis."
-  },
-  {
-    "id": 39,
-    "question": "Replika is an AI designed to be:",
-    "options": [
-      "A personal AI companion/friend",
-      "A strict math tutor",
-      "A coding compiler",
-      "A stock market advisor"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: A personal AI companion/friend. Users chat with Replika to form an emotional connection or friendship."
-  },
-  {
-    "id": 40,
-    "question": "Ecosia is a search engine that uses its profits to:",
-    "options": [
-      "Buy cryptocurrency",
-      "Plant trees",
-      "Fund space travel",
-      "Build robots"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Plant trees. Ecosia donates a significant portion of its ad revenue to reforestation organizations."
-  },
-  {
-    "id": 41,
-    "question": "EyeLeo is a desktop application designed to:",
-    "options": [
-      "Track eye movement for gaming",
-      "Remind users to take breaks for eye health",
-      "Change screen colors to neon",
-      "Enhance webcam resolution"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Remind users to take breaks for eye health. It helps prevent eye strain for people who work at computers."
-  },
-  {
-    "id": 42,
-    "question": "AutoWater is a concept/tool generally associated with:",
-    "options": [
-      "Automatic irrigation/watering systems",
-      "Creating water from air",
-      "Measuring ocean depth",
-      "Filtering coffee"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Automatic irrigation/watering systems. It often refers to devices (like smart faucets or plant waterers) that automate water flow."
-  },
-  {
-    "id": 43,
-    "question": "Microsoft Security Copilot is a tool that helps security professionals by:",
-    "options": [
-      "Replacing all human staff",
-      "Analyzing threats using generative AI",
-      "Physically locking server room doors",
-      "Printing ID cards"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Analyzing threats using generative AI. It helps detect and respond to cyber threats at machine speed."
-  },
-  {
-    "id": 44,
-    "question": "What is the main purpose of 'Lumen5'?",
-    "options": [
-      "Turning text content into engaging videos",
-      "Measuring light intensity",
-      "Designing 3D lumens",
-      "Creating spreadsheets"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Turning text content into engaging videos. It is an AI video creation platform for content marketing."
-  },
-  {
-    "id": 45,
-    "question": "Veed.io is an online platform for:",
-    "options": [
-      "Video editing and recording",
-      "Sending emails",
-      "Coding Python",
-      "Playing chess"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Video editing and recording. It offers tools like auto-subtitles, cutting, and cropping in the browser."
-  },
-  {
-    "id": 46,
-    "question": "Which tool from the list is an 'AI Personality' often used to help draft emails in MS Outlook?",
-    "options": [
-      "Copilot / Smart Compose",
-      "EyeLeo",
-      "Wireshark",
-      "Habitica"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Copilot / Smart Compose. Microsoft integrates these AI features into Outlook to help draft emails."
-  },
-  {
-    "id": 47,
-    "question": "Gram Swaraj is a portal launched to strengthen:",
-    "options": [
-      "E-Governance in Panchayati Raj Institutions",
-      "Space research",
-      "Urban planning",
-      "Foreign trade"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: E-Governance in Panchayati Raj Institutions. It simplifies the work of accounting and monitoring for rural India."
-  },
-  {
-    "id": 48,
-    "question": "Brainly is a platform that functions as:",
-    "options": [
-      "A peer-to-peer learning community",
-      "A cloud storage service",
-      "A virus scanner",
-      "A dating app"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: A peer-to-peer learning community. Students ask homework questions and receive help from other students or experts."
-  },
-  {
-    "id": 49,
-    "question": "Which AI model by Google is multimodal and can process text, code, audio, image and video?",
-    "options": [
-      "Gemini",
-      "Cortana",
-      "Siri",
-      "Alexa"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Gemini. It is Google's most capable AI model, designed to be multimodal."
-  },
-  {
-    "id": 50,
-    "question": "Which tool is designed to help you check grammar and plagiarism?",
-    "options": [
-      "Grammarly / Quillbot",
-      "VLC Media Player",
-      "WinZip",
-      "Notepad++"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Grammarly / Quillbot. These tools use AI to detect writing errors and suggest improvements."
-  },
-  {
-    "id": 51,
-    "question": "Which AI assistant is integrated into Meta's platforms like WhatsApp, Instagram, and Facebook?",
-    "options": [
-      "Meta AI",
-      "Siri",
-      "Alexa",
-      "Cortana"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Meta AI. It is an artificial intelligence assistant powered by the Llama model, available across Meta's family of apps."
-  },
-  {
-    "id": 52,
-    "question": "Leonardo.Ai is primarily used for:",
-    "options": [
-      "Spreadsheet management",
-      "High-quality image generation and creative assets",
-      "Sending automated emails",
-      "Measuring heart rate"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: High-quality image generation and creative assets. It is a popular generative AI platform for creating game assets and art."
-  },
-  {
-    "id": 53,
-    "question": "Google Fit is a health-tracking platform that mainly monitors:",
-    "options": [
-      "Stock market trends",
-      "Physical activity (Heart Points and Steps)",
-      "Car engine health",
-      "Computer virus threats"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Physical activity. Google Fit collaborates with the AHA to track metrics like Heart Points and Move Minutes."
-  },
-  {
-    "id": 54,
-    "question": "UFSI stands for which agricultural initiative?",
-    "options": [
-      "Unified Farmer Service Interface",
-      "United Farming Standard Index",
-      "Universal Food Safety Institute",
-      "Union for Sustainable Irrigation"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Unified Farmer Service Interface. It is a core component of the 'AgriStack' to enable interoperability among agricultural software."
-  },
-  {
-    "id": 55,
-    "question": "GramCover is a platform specifically focused on:",
-    "options": [
-      "Designing book covers",
-      "Rural insurance and financial protection",
-      "Grammar checking",
-      "Covering crops with plastic"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Rural insurance and financial protection. GramCover works to de-risk rural India by providing accessible insurance products."
-  },
-  {
-    "id": 56,
-    "question": "Iris.ai is an AI tool designed to assist with:",
-    "options": [
-      "Scientific research and literature mapping",
-      "Iris scanning for security",
-      "Flower gardening tips",
-      "Photo editing"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Scientific research and literature mapping. It helps researchers navigate millions of research papers to find relevant information."
-  },
-  {
-    "id": 57,
-    "question": "Which app helps users solve homework questions by taking a picture of the problem, powered by Google AI?",
-    "options": [
-      "Socratic",
-      "TikTok",
-      "Uber",
-      "Spotify"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Socratic. It uses Google's AI to recognize problems and provide explanations and resources."
-  },
-  {
-    "id": 58,
-    "question": "UnstuckStudy AI is a tool geared towards:",
-    "options": [
-      "Helping students study more effectively",
-      "Unsticking car gears",
-      "Cooking recipes",
-      "Video game streaming"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Helping students study more effectively. It often generates quizzes, flashcards, and summaries from study materials."
-  },
-  {
-    "id": 59,
-    "question": "Coconote is best described as an AI tool for:",
-    "options": [
-      "Identifying coconut types",
-      "Transcribing and summarizing lectures/notes",
-      "Buying groceries",
-      "Weather forecasting"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Transcribing and summarizing lectures/notes. It is designed to help students capture and organize information from classes."
-  },
-  {
-    "id": 60,
-    "question": "Microsoft Math Solver differs from a standard calculator because it:",
-    "options": [
-      "Only does addition",
-      "Provides step-by-step explanations for problems",
-      "Costs $1000 per month",
-      "Requires a VR headset"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Provides step-by-step explanations for problems. It helps users learn the method, not just get the final answer."
-  },
-  {
-    "id": 61,
-    "question": "Mimo, Tynker, and Grasshopper are all apps designed to teach:",
-    "options": [
-      "Cooking",
-      "Coding and Programming",
-      "Yoga",
-      "Driving"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Coding and Programming. They use gamified lessons to teach languages like Python, JavaScript, and HTML."
-  },
-  {
-    "id": 62,
-    "question": "PyCharm Edu is an IDE specifically tailored for:",
-    "options": [
-      "Learning and teaching Python programming",
-      "Editing 4K video",
-      "Managing payroll",
-      "Designing 3D buildings"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Learning and teaching Python programming. It provides interactive courses and a professional development environment."
-  },
-  {
-    "id": 63,
-    "question": "Canva's 'Magic Studio' features allow users to:",
-    "options": [
-      "Perform magic tricks on stage",
-      "Generate and edit designs using AI",
-      "Hack into bank accounts",
-      "Repair hardware issues"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Generate and edit designs using AI. Features include Magic Write, Magic Edit, and Magic Design."
-  },
-  {
-    "id": 64,
-    "question": "Pexels is a platform that provides:",
-    "options": [
-      "Free stock photos and videos",
-      "Cryptocurrency trading",
-      "Legal advice",
-      "Online dating"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Free stock photos and videos. It uses AI algorithms to help surface the most relevant visual content for users."
-  },
-  {
-    "id": 65,
-    "question": "Lately.ai is a marketing tool used to:",
-    "options": [
-      "Automatically generate social media posts from long content",
-      "Schedule meetings late at night",
-      "Track package deliveries",
-      "Edit sound waves"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Automatically generate social media posts from long content. It slices blogs or videos into dozens of social posts."
-  },
-  {
-    "id": 66,
-    "question": "Vectra AI is a cybersecurity tool focused on:",
-    "options": [
-      "Vector graphics design",
-      "Network Detection and Response (NDR)",
-      "Email marketing",
-      "Employee payroll"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Network Detection and Response (NDR). It uses AI to detect hidden cyber threats in real-time."
-  },
-  {
-    "id": 67,
-    "question": "Anomali is a platform known for:",
-    "options": [
-      "Threat Intelligence and Cybersecurity",
-      "Animation creation",
-      "Weather anomalies",
-      "Online shopping"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Threat Intelligence and Cybersecurity. It helps organizations identify and address malicious activity."
-  },
-  {
-    "id": 68,
-    "question": "CrowdStrike Falcon is a leading solution for:",
-    "options": [
-      "Bird watching",
-      "Endpoint Security and Cloud Protection",
-      "Video game development",
-      "Social networking"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Endpoint Security and Cloud Protection. It is a cloud-native platform to stop breaches."
-  },
-  {
-    "id": 69,
-    "question": "Lookout is a security application primarily designed for:",
-    "options": [
-      "Mobile device security",
-      "Home surveillance cameras",
-      "Binoculars",
-      "Lighthouse management"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Mobile device security. It protects mobile data from threats like phishing and malware."
-  },
-  {
-    "id": 70,
-    "question": "Google Vids (part of Workspace) is an AI-powered app for:",
-    "options": [
-      "Watching movies",
-      "Creating videos for work (collaborative video creation)",
-      "Video calling",
-      "Recording security footage"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Creating videos for work. It assists in writing, recording, and editing videos for professional use."
-  },
-  {
-    "id": 71,
-    "question": "Which feature in Google Slides uses AI to automatically adjust text boxes and layouts?",
-    "options": [
-      "Smart Compose / Auto-layout",
-      "Spell check",
-      "Transitions",
-      "WordArt"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Smart Compose / Auto-layout. While Smart Compose suggests text, Google Slides also uses AI to format slides automatically."
-  },
-  {
-    "id": 72,
-    "question": "Stretchly is an open-source application that:",
-    "options": [
-      "Teaches yoga poses",
-      "Reminds users to take breaks from the computer",
-      "Stretches images without distortion",
-      "Calculates elasticity"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Reminds users to take breaks from the computer. It is a break time reminder app to prevent RSI."
-  },
-  {
-    "id": 73,
-    "question": "PostureMinder uses the webcam to:",
-    "options": [
-      "Take selfies",
-      "Monitor your sitting posture and alert you to sit up straight",
-      "Scan documents",
-      "Identify intruders"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Monitor your sitting posture. It uses AI/computer vision to ensure you maintain a healthy posture."
-  },
-  {
-    "id": 74,
-    "question": "Earth Hero is an app designed to help users:",
-    "options": [
-      "Become a superhero",
-      "Track and reduce their carbon footprint",
-      "Navigate the globe",
-      "Identify rocks"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Track and reduce their carbon footprint. It provides actionable steps to address climate change."
-  },
-  {
-    "id": 75,
-    "question": "Ecowrap is a solution generally associated with:",
-    "options": [
-      "Waste management and recycling supply chain",
-      "Gift wrapping paper",
-      "Music remixing",
-      "Food packaging"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Waste management and recycling supply chain. It often refers to tech-enabled waste collection and upcycling."
-  },
-  {
-    "id": 76,
-    "question": "Crystal (CrystalKnows) is an AI tool that analyzes:",
-    "options": [
-      "Gemstones",
-      "Personality profiles (DISC) to improve communication",
-      "Crystal ball predictions",
-      "Water clarity"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Personality profiles (DISC). It advises on how to communicate effectively with others based on their online profile."
-  },
-  {
-    "id": 77,
-    "question": "In MS Excel, the 'Analyze Data' feature uses AI to:",
-    "options": [
-      "Delete all data",
-      "Identify trends, patterns, and create summaries automatically",
-      "Change font colors randomly",
-      "Play music"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Identify trends, patterns, and create summaries. It allows users to ask natural language questions about their data."
-  },
-  {
-    "id": 78,
-    "question": "Google AI Essentials is best described as:",
-    "options": [
-      "A hardware kit",
-      "A self-paced course to learn how to use AI tools",
-      "A new smartphone",
-      "A coding language"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: A self-paced course to learn how to use AI tools. It is a certification program offered by Google."
-  },
-  {
-    "id": 79,
-    "question": "Which tool allows you to automate tasks between different apps (e.g., 'Save Instagram photos to Dropbox')?",
-    "options": [
-      "IFTTT (If This Then That)",
-      "Paint",
-      "Calculator",
-      "Notepad"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: IFTTT. It connects disparate apps and devices to create automated workflows."
-  },
-  {
-    "id": 80,
-    "question": "What is the primary function of 'Google Assistant'?",
-    "options": [
-      "To physically clean your house",
-      "A virtual helper that responds to voice commands",
-      "A video editor",
-      "A database manager"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: A virtual helper that responds to voice commands. It helps perform tasks, set reminders, and answer questions."
-  },
-  {
-    "id": 81,
-    "question": "Which of the following is a popular tool for plagiarism detection and grading assistance?",
-    "options": [
-      "Turnitin / Gradescope",
-      "VLC",
-      "WinAmp",
-      "Steam"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Turnitin / Gradescope. These tools are widely used in academic settings to ensure integrity and streamline grading."
-  },
-  {
-    "id": 82,
-    "question": "Amazon CodeWhisperer is most similar to which other tool?",
-    "options": [
-      "GitHub Copilot",
-      "Adobe Photoshop",
-      "Microsoft Excel",
-      "Google Maps"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: GitHub Copilot. Both are AI-powered coding assistants that suggest code snippets."
-  },
-  {
-    "id": 83,
-    "question": "Slidesgo is useful for users who need:",
-    "options": [
-      "Presentation templates for Google Slides and PowerPoint",
-      "To learn to drive",
-      "To order food",
-      "To book a hotel"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Presentation templates. It provides a library of creative, ready-to-use slide designs."
-  },
-  {
-    "id": 84,
-    "question": "What type of tool is 'Grasshopper' by Google?",
-    "options": [
-      "A pest control app",
-      "A beginner-friendly coding app for JavaScript",
-      "A flight simulator",
-      "A music player"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: A beginner-friendly coding app. It teaches JavaScript concepts through mini-games."
-  },
-  {
-    "id": 85,
-    "question": "Socialbee is primarily used to:",
-    "options": [
-      "Study bee behavior",
-      "Categorize and recycle evergreen social media content",
-      "Chat with friends",
-      "Watch movies"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Categorize and recycle evergreen social media content. It is a social media management tool."
-  },
-  {
-    "id": 86,
-    "question": "Which tool uses AI to help you improve your speaking and presentation skills by analyzing your voice?",
-    "options": [
-      "Speaker Coach (in PowerPoint)",
-      "Notepad",
-      "Snipping Tool",
-      "Calculator"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Speaker Coach. Available in PowerPoint, it provides feedback on pace, pitch, and filler words."
-  },
-  {
-    "id": 87,
-    "question": "What is the core function of '1Password'?",
-    "options": [
-      "To use only one password for everything (like '123456')",
-      "To store and manage strong, unique passwords securely",
-      "To hack passwords",
-      "To design websites"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: To store and manage strong, unique passwords securely. It acts as an encrypted vault for credentials."
-  },
-  {
-    "id": 88,
-    "question": "In the context of Google tools, 'Smart Compose' helps with:",
-    "options": [
-      "Composing music",
-      "Predictive text to complete sentences in emails",
-      "Drawing pictures",
-      "Calculating taxes"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Predictive text to complete sentences in emails. It is a feature in Gmail and Google Docs."
-  },
-  {
-    "id": 89,
-    "question": "Which AI tool helps in summarizing long YouTube videos?",
-    "options": [
-      "YouTube Summary with ChatGPT / Pictory",
-      "Paint 3D",
-      "Windows Media Player",
-      "Skype"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: YouTube Summary with ChatGPT / Pictory. These tools extract transcripts and key points from video content."
-  },
-  {
-    "id": 90,
-    "question": "Which government initiative aims to create a unique digital identity for farmers?",
-    "options": [
-      "AgriStack / UFSI",
-      "Digital India",
-      "Make in India",
-      "Swachh Bharat"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: AgriStack / UFSI. It aims to streamline farmer services and schemes through digital IDs."
-  },
-  {
-    "id": 91,
-    "question": "What is 'Wolfram Alpha' most famous for?",
-    "options": [
-      "Social networking",
-      "Providing computed answers to factual queries",
-      "Streaming sports",
-      "Sharing photos"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Providing computed answers to factual queries. It is a computational knowledge engine, not a standard search engine."
-  },
-  {
-    "id": 92,
-    "question": "Quizizz differs from Kahoot mainly by offering:",
-    "options": [
-      "Student-paced quizzes",
-      "Paper-only tests",
-      "No internet requirement",
-      "Only math questions"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Student-paced quizzes. Students can answer questions on their own device at their own speed."
-  },
-  {
-    "id": 93,
-    "question": "Which tool is essentially a 'Search Engine for Code'?",
-    "options": [
-      "Grepper / Sourcegraph",
-      "Instagram",
-      "Pinterest",
-      "Tinder"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Grepper / Sourcegraph. Developers use these to find code snippets and examples across repositories."
-  },
-  {
-    "id": 94,
-    "question": "What is the main benefit of using 'Google Colab'?",
-    "options": [
-      "Free access to GPUs for machine learning",
-      "Unlimited cloud storage for photos",
-      "Free movie streaming",
-      "Offline music playback"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Free access to GPUs for machine learning. It allows users to run Python code on Google's powerful hardware."
-  },
-  {
-    "id": 95,
-    "question": "Which AI tool is designed to help with 'Task Automation' specifically between web services?",
-    "options": [
-      "Zapier / IFTTT",
-      "Adobe Reader",
-      "WinRAR",
-      "McAfee"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Zapier / IFTTT. They automate workflows by moving data between different web applications."
-  },
-  {
-    "id": 96,
-    "question": "Perplexity AI combines the functions of:",
-    "options": [
-      "A chatbot and a search engine",
-      "A toaster and a microwave",
-      "A calculator and a calendar",
-      "A camera and a phone"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: A chatbot and a search engine. It converses like a chatbot but cites real-time web sources."
-  },
-  {
-    "id": 97,
-    "question": "Which tool would you use to 'humanize' AI-generated text to bypass detection?",
-    "options": [
-      "Undetectable.ai / StealthWriter",
-      "Notepad",
-      "Google Drive",
-      "Zoom"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Undetectable.ai / StealthWriter. These tools rewrite AI text to make it sound more natural and human-like."
-  },
-  {
-    "id": 98,
-    "question": "What is 'Gamma App' used for?",
-    "options": [
-      "Creating presentations, documents, and webpages with AI",
-      "Measuring radiation",
-      "Playing card games",
-      "Editing audio"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Creating presentations, documents, and webpages. It generates slide decks and layouts from simple text prompts."
-  },
-  {
-    "id": 99,
-    "question": "Which app is known for its 'AI-powered Search' for stock photography?",
-    "options": [
-      "Pexels / Shutterstock AI",
-      "Excel",
-      "Word",
-      "PowerPoint"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Pexels / Shutterstock AI. They use computer vision to tag and retrieve images accurately."
-  },
-  {
-    "id": 100,
-    "question": "What is the purpose of 'Microsoft Security Copilot'?",
-    "options": [
-      "To assist security teams with AI-driven insights",
-      "To fly planes",
-      "To drive cars",
-      "To clean windows"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: To assist security teams. It simplifies complex security data and helps responders react faster."
-  },
-  {
     "id": 101,
-    "question": "Which AI tool is known as the 'Cyber Swiss Army Knife' due to its ability to perform various data operations like decoding and encryption?",
+    "question": "Which keyboard shortcut is used to lock your Windows 10 computer immediately?",
     "options": [
-      "CyberChef",
-      "MasterChef",
-      "SousChef",
-      "DataCook"
+      "Ctrl + L",
+      "Windows Key + L",
+      "Alt + L",
+      "Shift + L"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: CyberChef. It is a versatile web-based tool used by cybersecurity professionals for data manipulation and analysis."
+    "answer": 1,
+    "explanation": "The correct answer is: Windows Key + L. This command instantly locks the workstation."
   },
   {
     "id": 102,
-    "question": "Lately.ai is specifically designed to leverage AI for:",
+    "question": "In MS Word 365, which shortcut is used to 'Select All' content in the document?",
     "options": [
-      "Repurposing long-form content into social media posts",
-      "Translating ancient languages",
-      "Predicting the weather",
-      "Designing architectural blueprints"
+      "Ctrl + S",
+      "Ctrl + A",
+      "Alt + A",
+      "Shift + A"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Repurposing long-form content into social media posts. It analyzes content like blogs or videos and generates dozens of social posts."
+    "answer": 1,
+    "explanation": "The correct answer is: Ctrl + A. This selects the entire text and objects in the document."
   },
   {
     "id": 103,
-    "question": "Which platform uses AI to provide 'Network Detection and Response' (NDR) to find hidden cyber threats?",
+    "question": "Which shortcut key combination opens the 'File Explorer' in Windows 10?",
     "options": [
-      "Vectra AI",
-      "Adobe Illustrator",
-      "Spotify",
-      "Dropbox"
+      "Windows Key + E",
+      "Windows Key + F",
+      "Ctrl + E",
+      "Alt + E"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: Vectra AI. It monitors network traffic to detect and respond to cyberattacks in real-time."
+    "explanation": "The correct answer is: Windows Key + E. This opens the My Computer/File Explorer window."
   },
   {
     "id": 104,
-    "question": "What is the primary function of 'Google Lens' (often integrated with Assistant/Gemini)?",
+    "question": "In MS Excel 365, which key is used to edit the contents of the selected cell?",
     "options": [
-      "To record studio-quality audio",
-      "To search and identify objects using the camera",
-      "To manage calendar events",
-      "To compress video files"
+      "F1",
+      "F2",
+      "F4",
+      "F12"
     ],
     "answer": 1,
-    "explanation": "The correct answer is: To search and identify objects using the camera. It uses visual analysis to identify plants, text, products, and landmarks."
+    "explanation": "The correct answer is: F2. Pressing F2 activates the cursor inside the active cell for editing."
   },
   {
     "id": 105,
-    "question": "Which AI companion app allows users to create a virtual friend with a customizable personality?",
+    "question": "What is the universal shortcut for 'Undo' in Windows and MS Office?",
     "options": [
-      "Replika",
-      "Excel",
-      "PowerPoint",
-      "Access"
+      "Ctrl + Y",
+      "Ctrl + U",
+      "Ctrl + Z",
+      "Alt + Backspace"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Replika. It is an AI chatbot designed to provide companionship and emotional support."
+    "answer": 2,
+    "explanation": "The correct answer is: Ctrl + Z. This reverses the last action performed."
   },
   {
     "id": 106,
-    "question": "Lumen5 is an AI-powered video creation platform that is best suited for:",
+    "question": "In MS PowerPoint 365, which shortcut key starts the slideshow from the beginning?",
     "options": [
-      "Content marketers and bloggers",
-      "Professional film directors",
-      "Audio engineers",
-      "Video game developers"
+      "F5",
+      "Shift + F5",
+      "Ctrl + F5",
+      "Alt + S"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: Content marketers and bloggers. It converts text content (like blog posts) into engaging social videos automatically."
+    "explanation": "The correct answer is: F5. Shift + F5 starts from the current slide, but F5 starts from the beginning."
   },
   {
     "id": 107,
-    "question": "Which tool would you use to automate the process of saving Gmail attachments directly to Google Drive?",
+    "question": "Which shortcut opens the 'Run' dialog box in Windows 10?",
     "options": [
-      "IFTTT / Zapier",
-      "Paint",
-      "Notepad",
-      "Calculator"
+      "Ctrl + R",
+      "Alt + R",
+      "Windows Key + R",
+      "Shift + R"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: IFTTT / Zapier. These automation tools can trigger actions (save to Drive) based on events (receive email)."
+    "answer": 2,
+    "explanation": "The correct answer is: Windows Key + R. This opens the Run command window."
   },
   {
     "id": 108,
-    "question": "What does 'UFSI' stand for in the context of the Indian Digital Agriculture Mission?",
+    "question": "In MS Word, which shortcut aligns the selected text to the Center?",
     "options": [
-      "Unified Farmer Service Interface",
-      "Universal Farming System Internet",
-      "United Food Security Initiative",
-      "Urban Farming Service Index"
+      "Ctrl + C",
+      "Ctrl + E",
+      "Ctrl + J",
+      "Ctrl + R"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Unified Farmer Service Interface. It is part of the 'AgriStack' initiative to digitize farmer data."
+    "answer": 1,
+    "explanation": "The correct answer is: Ctrl + E. Ctrl + C is for Copy, whereas Ctrl + E centers the text."
   },
   {
     "id": 109,
-    "question": "Microsoft Security Copilot mainly helps security analysts by:",
+    "question": "Which shortcut is used to switch between open applications in Windows 10?",
     "options": [
-      "Summarizing complex security incidents using generative AI",
-      "Physically patrolling the office",
-      "Installing antivirus software manually",
-      "Resetting Wi-Fi routers"
+      "Alt + Tab",
+      "Ctrl + Tab",
+      "Shift + Tab",
+      "Windows Key + Tab"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: Summarizing complex security incidents using generative AI. It helps analysts understand and respond to threats faster."
+    "explanation": "The correct answer is: Alt + Tab. This allows you to toggle through open windows."
   },
   {
     "id": 110,
-    "question": "Which tool is a packet analyzer used for network troubleshooting and analysis?",
+    "question": "In MS Excel, how do you quickly insert the current date?",
     "options": [
-      "Wireshark",
-      "Photoshop",
-      "Audacity",
-      "Blender"
+      "Ctrl + ; (Semicolon)",
+      "Ctrl + : (Colon)",
+      "Ctrl + D",
+      "Alt + Shift + D"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: Wireshark. It captures data packets traveling on a network for detailed inspection."
+    "explanation": "The correct answer is: Ctrl + ; (Semicolon). This inserts the current static date."
   },
   {
     "id": 111,
-    "question": "Google Vids is an AI-powered app designed to help users:",
+    "question": "Which shortcut opens the Windows Task Manager directly?",
     "options": [
-      "Create and edit videos for professional work contexts",
-      "Watch viral cat videos",
-      "Download movies illegally",
-      "Stream live TV"
+      "Ctrl + Alt + Delete",
+      "Ctrl + Shift + Esc",
+      "Alt + Shift + Delete",
+      "Windows Key + T"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Create and edit videos for professional work contexts. It assists with storyboarding, voiceovers, and editing."
+    "answer": 1,
+    "explanation": "The correct answer is: Ctrl + Shift + Esc. While Ctrl+Alt+Del opens a menu, this shortcut opens Task Manager directly."
   },
   {
     "id": 112,
-    "question": "Stretchly is an open-source app that focuses on:",
+    "question": "In MS Word, what does 'Ctrl + B' do?",
     "options": [
-      "Ergonomics and break reminders",
-      "Yoga tutorials",
-      "Stretching photos",
-      "Elastic manufacturing"
+      "Adds a border",
+      "Makes text Bold",
+      "Breaks the page",
+      "Bookmarks the page"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Ergonomics and break reminders. It enforces breaks to prevent Repetitive Strain Injury (RSI)."
+    "answer": 1,
+    "explanation": "The correct answer is: Makes text Bold. It toggles bold formatting on selected text."
   },
   {
     "id": 113,
-    "question": "Which application uses the webcam to detect poor posture and alerts the user?",
+    "question": "Which Windows 10 shortcut takes a screenshot of a specific part of the screen (Snip)?",
     "options": [
-      "PostureMinder",
-      "Instagram",
-      "Snapchat",
-      "FaceTime"
+      "PrtScn",
+      "Windows Key + Shift + S",
+      "Alt + PrtScn",
+      "Ctrl + PrtScn"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: PostureMinder. It uses AI computer vision to monitor sitting position and encourage better posture."
+    "answer": 1,
+    "explanation": "The correct answer is: Windows Key + Shift + S. This opens the Snipping Tool overlay."
   },
   {
     "id": 114,
-    "question": "EyeLeo is a tool designed to prevent:",
+    "question": "In MS Office, which shortcut opens the 'Find' dialog box?",
     "options": [
-      "Computer Vision Syndrome / Eye Strain",
-      "Blindness",
-      "Color blindness",
-      "Eye infections"
+      "Ctrl + H",
+      "Ctrl + F",
+      "Ctrl + G",
+      "Alt + F"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Computer Vision Syndrome / Eye Strain. It dims the screen and reminds users to exercise their eyes."
+    "answer": 1,
+    "explanation": "The correct answer is: Ctrl + F. This opens the navigation or find pane."
   },
   {
     "id": 115,
-    "question": "Ecosia is distinct from Google because it:",
+    "question": "Which shortcut minimizes all open windows and shows the Desktop?",
     "options": [
-      "Does not track users and plants trees with ad revenue",
-      "Is faster than light",
-      "Only searches for eco-friendly products",
-      "Requires a paid subscription"
+      "Windows Key + D",
+      "Windows Key + M",
+      "Windows Key + Down Arrow",
+      "Ctrl + D"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: Does not track users and plants trees with ad revenue. It is an eco-friendly search engine."
+    "explanation": "The correct answer is: Windows Key + D. It toggles between showing the desktop and restoring windows."
   },
   {
     "id": 116,
-    "question": "Earth Hero is an app that helps users calculate and reduce their:",
+    "question": "In MS Excel, which key combination creates a chart from the selected data?",
     "options": [
-      "Carbon Footprint",
-      "Bank Balance",
-      "Step Count",
-      "Calorie Intake"
+      "F11",
+      "Alt + F1",
+      "Ctrl + F1",
+      "Shift + F1"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Carbon Footprint. It offers personalized actions to help users live more sustainably."
+    "answer": 1,
+    "explanation": "The correct answer is: Alt + F1. This creates an embedded chart on the current sheet. (F11 creates a chart on a new sheet)."
   },
   {
     "id": 117,
-    "question": "Ecowrap acts as a tech-enabled platform for:",
+    "question": "What does 'Ctrl + P' do in almost all Windows applications?",
     "options": [
-      "Waste collection and upcycling",
-      "Music distribution",
-      "Fast food delivery",
-      "Online gaming"
+      "Paste",
+      "Print",
+      "Preview",
+      "Properties"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Waste collection and upcycling. It focuses on waste segregation and the recycling supply chain."
+    "answer": 1,
+    "explanation": "The correct answer is: Print. It opens the print dialog."
   },
   {
     "id": 118,
-    "question": "AutoWater usually refers to devices that:",
+    "question": "In MS Word, how do you insert a Hyperlink?",
     "options": [
-      "Convert standard faucets into touchless, water-saving ones",
-      "Create water from air",
-      "Freeze water instantly",
-      "Boil water automatically"
+      "Ctrl + H",
+      "Ctrl + L",
+      "Ctrl + K",
+      "Alt + K"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Convert standard faucets into touchless, water-saving ones. It uses motion sensors to reduce water wastage."
+    "answer": 2,
+    "explanation": "The correct answer is: Ctrl + K. This opens the 'Insert Hyperlink' dialog box."
   },
   {
     "id": 119,
-    "question": "Crystal (CrystalKnows) uses AI to analyze online profiles and predict:",
+    "question": "Which shortcut opens the Windows 10 Settings app?",
     "options": [
-      "Personality types (DISC)",
-      "Future wealth",
-      "Health status",
-      "Travel plans"
+      "Windows Key + I",
+      "Windows Key + S",
+      "Ctrl + I",
+      "Alt + Settings"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: Personality types (DISC). It helps sales and HR professionals communicate better based on personality insights."
+    "explanation": "The correct answer is: Windows Key + I. This launches the main Settings window."
   },
   {
     "id": 120,
-    "question": "Which tool is a threat intelligence platform that helps organizations identify cyber threats?",
+    "question": "In MS PowerPoint, how do you insert a New Slide?",
     "options": [
-      "Anomali",
-      "Pinterest",
-      "Tumblr",
-      "Reddit"
+      "Ctrl + N",
+      "Ctrl + M",
+      "Ctrl + Enter",
+      "Alt + N"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Anomali. It provides intelligence-driven cybersecurity solutions to detect and respond to threats."
+    "answer": 1,
+    "explanation": "The correct answer is: Ctrl + M. Ctrl + N creates a new presentation file."
   },
   {
     "id": 121,
-    "question": "Lookout is primarily known as a security solution for:",
+    "question": "Which shortcut closes the currently active window or application?",
     "options": [
-      "Mobile devices (Android/iOS)",
-      "Desktop PCs only",
-      "Mainframe computers",
-      "Smart fridges"
+      "Ctrl + F4",
+      "Alt + F4",
+      "Shift + F4",
+      "Windows Key + C"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Mobile devices. It protects phones and tablets from phishing, malware, and theft."
+    "answer": 1,
+    "explanation": "The correct answer is: Alt + F4. This command closes the active app."
   },
   {
     "id": 122,
-    "question": "CrowdStrike Falcon is a cloud-native platform famous for:",
+    "question": "In MS Excel, what does 'Ctrl + Space' do?",
     "options": [
-      "Endpoint Protection",
-      "Video Streaming",
-      "Social Networking",
-      "Graphic Design"
+      "Selects the entire row",
+      "Selects the entire column",
+      "Deletes the cell content",
+      "Inserts a space"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Endpoint Protection. It secures devices (endpoints) like laptops and servers from cyberattacks."
+    "answer": 1,
+    "explanation": "The correct answer is: Selects the entire column. Shift + Space selects the row."
   },
   {
     "id": 123,
-    "question": "Which feature in MS PowerPoint uses AI to coach you on your presentation skills?",
+    "question": "What is the shortcut for 'Redo' (reverse an Undo) in Windows?",
     "options": [
-      "Speaker Coach",
-      "Slide Master",
-      "Animation Painter",
-      "Selection Pane"
+      "Ctrl + R",
+      "Ctrl + Y",
+      "Ctrl + Shift + Z",
+      "Alt + U"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Speaker Coach. It listens to your rehearsal and gives feedback on pace, pitch, and filler words."
+    "answer": 1,
+    "explanation": "The correct answer is: Ctrl + Y. It redoes the last action that was undone."
   },
   {
     "id": 124,
-    "question": "Socialbee helps users with:",
+    "question": "Which shortcut opens the 'Action Center' (notifications) in Windows 10?",
     "options": [
-      "Scheduling and recycling social media content",
-      "Beekeeping tips",
-      "Identifying insects",
-      "Finding local honey"
+      "Windows Key + A",
+      "Windows Key + N",
+      "Ctrl + A",
+      "Alt + A"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: Scheduling and recycling social media content. It categorizes content to keep social feeds active."
+    "explanation": "The correct answer is: Windows Key + A. This opens the side panel for notifications."
   },
   {
     "id": 125,
-    "question": "Which AI tool allows you to turn blog posts into engaging videos using stock footage?",
+    "question": "In MS Word, what is the shortcut for 'Replace'?",
     "options": [
-      "Lumen5",
-      "Audacity",
-      "WinRAR",
-      "VLC"
+      "Ctrl + R",
+      "Ctrl + F",
+      "Ctrl + H",
+      "Alt + R"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Lumen5. It uses AI to match text from your blog to relevant video clips and images."
+    "answer": 2,
+    "explanation": "The correct answer is: Ctrl + H. This opens the Find and Replace dialog box."
   },
   {
     "id": 126,
-    "question": "PyCharm Edu is a version of the PyCharm IDE specifically designed for:",
+    "question": "Which key combination snaps a window to the left half of the screen in Windows 10?",
     "options": [
-      "Learners and educators",
-      "Professional hackers",
-      "Video editors",
-      "Music producers"
+      "Windows Key + Left Arrow",
+      "Ctrl + Left Arrow",
+      "Alt + Left Arrow",
+      "Shift + Left Arrow"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: Learners and educators. It includes interactive courses to help users learn Python."
+    "explanation": "The correct answer is: Windows Key + Left Arrow. This invokes the Snap Assist feature."
   },
   {
     "id": 127,
-    "question": "Tynker is a coding platform aimed primarily at:",
+    "question": "In MS Excel, how do you move to the next sheet in the workbook?",
     "options": [
-      "Children and K-12 students",
-      "Senior Data Scientists",
-      "Cybersecurity experts",
-      "Network Engineers"
+      "Ctrl + Tab",
+      "Ctrl + Page Down",
+      "Alt + Page Down",
+      "Shift + Tab"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Children and K-12 students. It uses block-based coding to teach programming concepts."
+    "answer": 1,
+    "explanation": "The correct answer is: Ctrl + Page Down. Ctrl + Page Up moves to the previous sheet."
   },
   {
     "id": 128,
-    "question": "Mimo is a mobile app that gamifies learning for:",
+    "question": "What does 'Ctrl + Shift + N' do on the Windows Desktop or File Explorer?",
     "options": [
-      "Coding (Python, HTML, SQL)",
-      "Cooking",
-      "Dancing",
-      "Singing"
+      "Opens a new window",
+      "Creates a new folder",
+      "Renames a folder",
+      "Deletes a folder"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Coding. Mimo offers bite-sized lessons to learn programming on the go."
+    "answer": 1,
+    "explanation": "The correct answer is: Creates a new folder. It instantly creates a folder ready to be named."
   },
   {
     "id": 129,
-    "question": "Which Google tool helps developers write code faster by providing AI-generated suggestions?",
+    "question": "In MS Office, what does the F12 key typically do?",
     "options": [
-      "Google Colab (with AI coding features) / Gemini Code Assist",
-      "Google Earth",
-      "Google Maps",
-      "Google Photos"
+      "Save",
+      "Save As",
+      "Open",
+      "Print"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Google Colab / Gemini Code Assist. These tools integrate AI to autocomplete and suggest code."
+    "answer": 1,
+    "explanation": "The correct answer is: Save As. It opens the dialog to save the file with a new name or format."
   },
   {
     "id": 130,
-    "question": "Amazon CodeWhisperer is an AI coding companion that supports:",
+    "question": "Which shortcut opens the 'Project' menu (to connect to a second screen/projector) in Windows 10?",
     "options": [
-      "Multiple programming languages and IDEs",
-      "Only Amazon Kindle books",
-      "Only shopping lists",
-      "Only writing emails"
+      "Windows Key + P",
+      "Windows Key + C",
+      "Alt + P",
+      "Ctrl + P"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: Multiple programming languages and IDEs. It generates code suggestions within the developer's editor."
+    "explanation": "The correct answer is: Windows Key + P. This opens the projection sidebar (PC screen only, Duplicate, Extend, etc.)."
   },
   {
     "id": 131,
-    "question": "Which tool is designed to help researchers organize, cite, and share research papers?",
+    "question": "In Windows 10, which shortcut creates a new Virtual Desktop?",
     "options": [
-      "Mendeley",
-      "Spotify",
-      "Netflix",
-      "Hulu"
+      "Windows Key + Ctrl + D",
+      "Windows Key + Shift + D",
+      "Ctrl + Alt + D",
+      "Alt + Shift + D"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: Mendeley. It is a reference manager and academic social network."
+    "explanation": "The correct answer is: Windows Key + Ctrl + D. This creates a fresh virtual desktop instantly."
   },
   {
     "id": 132,
-    "question": "Gradescope uses AI to assist instructors with:",
+    "question": "In MS Excel, what does the shortcut 'Alt + =' (Alt + Equals) do?",
     "options": [
-      "Grading exams and homework",
-      "Cleaning the classroom",
-      "Taking attendance",
-      "Ordering lunch"
+      "Inserts a new equation",
+      "AutoSum selected cells",
+      "Zooms in",
+      "Checks spelling"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Grading exams and homework. It groups similar answers to speed up the grading process."
+    "answer": 1,
+    "explanation": "The correct answer is: AutoSum selected cells. It automatically inserts the Sum function for adjacent cells."
   },
   {
     "id": 133,
-    "question": "Claude AI is a large language model developed by:",
+    "question": "Which shortcut toggles 'Full Screen Mode' in many Windows applications (like browsers)?",
     "options": [
-      "Anthropic",
-      "Facebook",
-      "Apple",
-      "Netflix"
+      "F10",
+      "F11",
+      "F12",
+      "Alt + Enter"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Anthropic. Claude is known for its focus on safety and ability to process large amounts of text."
+    "answer": 1,
+    "explanation": "The correct answer is: F11. It hides the address bar and menus to show the content in full screen."
   },
   {
     "id": 134,
-    "question": "HeyGen AI is best known for its ability to:",
+    "question": "In MS Word, which key combination inserts a Page Break?",
     "options": [
-      "Translate videos while maintaining lip-sync",
-      "Generate random numbers",
-      "Create Excel spreadsheets",
-      "Edit audio files only"
+      "Shift + Enter",
+      "Ctrl + Enter",
+      "Alt + Enter",
+      "Space + Enter"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Translate videos while maintaining lip-sync. It can dub a video into another language and adjust the speaker's lip movements."
+    "answer": 1,
+    "explanation": "The correct answer is: Ctrl + Enter. Shift + Enter inserts a line break, while Ctrl + Enter moves to a new page."
   },
   {
     "id": 135,
-    "question": "Freepik is a resource that now includes:",
+    "question": "Which shortcut opens the 'magnifier' tool to zoom in on parts of the screen in Windows?",
     "options": [
-      "AI-generated images and design assets",
-      "Live news broadcasts",
-      "Weather forecasts",
-      "Stock market data"
+      "Windows Key + Plus Sign (+)",
+      "Ctrl + Plus Sign (+)",
+      "Alt + Plus Sign (+)",
+      "Shift + Z"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: AI-generated images and design assets. It combines traditional stock assets with AI creation tools."
+    "explanation": "The correct answer is: Windows Key + Plus Sign (+). To zoom out, use Windows Key + Minus Sign (-)."
   },
   {
     "id": 136,
-    "question": "Iris.ai helps users specifically with:",
+    "question": "In MS PowerPoint, which shortcut duplicates the selected slide or object?",
     "options": [
-      "Navigating scientific research",
-      "Navigating city streets",
-      "Designing gardens",
-      "Choosing paint colors"
+      "Ctrl + C",
+      "Ctrl + D",
+      "Ctrl + X",
+      "Alt + D"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Navigating scientific research. It maps out research papers to help users find relevant studies."
+    "answer": 1,
+    "explanation": "The correct answer is: Ctrl + D. It is a quick way to duplicate without using Copy and Paste separately."
   },
   {
     "id": 137,
-    "question": "Research Rabbit is often called the:",
+    "question": "What is the shortcut to 'Peel' at the desktop (temporarily hide all windows) in Windows 10?",
     "options": [
-      "'Spotify for Research Papers'",
-      "'Netflix for Movies'",
-      "'Uber for Taxis'",
-      "'Tinder for Dates'"
+      "Windows Key + Space",
+      "Windows Key + Comma (,)",
+      "Windows Key + Period (.)",
+      "Ctrl + D"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: 'Spotify for Research Papers'. It recommends new papers based on what you are already reading."
+    "answer": 1,
+    "explanation": "The correct answer is: Windows Key + Comma (,). You hold it to see the desktop and release it to return."
   },
   {
     "id": 138,
-    "question": "Umang is a mobile app that provides access to:",
+    "question": "In MS Excel, which shortcut formats cells (opens the Format Cells dialog)?",
     "options": [
-      "Central and State Government services",
-      "Online shopping deals",
-      "Movie tickets",
-      "Food delivery"
+      "Ctrl + 1",
+      "Ctrl + F",
+      "Alt + F",
+      "Shift + F1"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: Central and State Government services. It acts as a unified gateway for Indian citizens."
+    "explanation": "The correct answer is: Ctrl + 1. It opens the detailed formatting menu for numbers, alignment, borders, etc."
   },
   {
     "id": 139,
-    "question": "Gram Swaraj is a web portal primarily for:",
+    "question": "Which shortcut switches the keyboard input language (if multiple are installed) in Windows?",
     "options": [
-      "Panchayati Raj Institutions (Rural Governance)",
-      "Space exploration",
-      "Stock trading",
-      "Urban housing"
+      "Windows Key + Space",
+      "Ctrl + Space",
+      "Alt + Space",
+      "Shift + Space"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: Panchayati Raj Institutions. It aids in decentralized planning and accounting."
+    "explanation": "The correct answer is: Windows Key + Space. It cycles through installed languages/keyboards."
   },
   {
     "id": 140,
-    "question": "GramCover works to provide:",
+    "question": "In MS Word, what does 'Shift + F3' do?",
     "options": [
-      "Insurance products to rural India",
-      "Book covers",
-      "Mobile covers",
-      "Table covers"
+      "Saves the document",
+      "Changes case (Upper/Lower/Title)",
+      "Opens the Thesaurus",
+      "Finds text"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Insurance products to rural India. It leverages technology to distribute insurance in rural areas."
+    "answer": 1,
+    "explanation": "The correct answer is: Changes case. It toggles selected text between uppercase, lowercase, and title case."
   },
   {
     "id": 141,
-    "question": "eNAM creates a unified national market for:",
+    "question": "Which shortcut opens the Windows 'Emoji Panel' to insert emojis?",
     "options": [
-      "Agricultural commodities",
-      "Automobiles",
-      "Electronics",
-      "Textiles"
+      "Windows Key + Period (.)",
+      "Ctrl + Period (.)",
+      "Alt + E",
+      "Shift + E"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: Agricultural commodities. It connects existing APMC mandis to create a unified market."
+    "explanation": "The correct answer is: Windows Key + Period (.). It opens a small window to select emojis and symbols."
   },
   {
     "id": 142,
-    "question": "Which feature in Google Slides uses AI to suggest layouts and formatting?",
+    "question": "In MS Excel, how do you quickly insert the current Time?",
     "options": [
-      "Explore / Smart Compose",
-      "Paint Bucket",
-      "Crop Tool",
-      "Eraser"
+      "Ctrl + ;",
+      "Ctrl + Shift + : (Colon)",
+      "Alt + T",
+      "Ctrl + T"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Explore / Smart Compose. It automatically suggests professional designs for your content."
+    "answer": 1,
+    "explanation": "The correct answer is: Ctrl + Shift + : (Colon). Ctrl + ; inserts the Date."
   },
   {
     "id": 143,
-    "question": "Microsoft Outlook's AI features can help users:",
+    "question": "What does 'Ctrl + W' do in most Windows applications (File Explorer, Browser, Word)?",
     "options": [
-      "Draft emails and summarize long threads",
-      "Wash clothes",
-      "Cook food",
-      "Drive cars"
+      "Opens a new window",
+      "Writes a file",
+      "Closes the current tab/document",
+      "Wakes the computer"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Draft emails and summarize long threads. Tools like Copilot integrate directly into Outlook."
+    "answer": 2,
+    "explanation": "The correct answer is: Closes the current tab/document. It doesn't close the whole app if other tabs are open."
   },
   {
     "id": 144,
-    "question": "Google Chrome's 'Help Me Write' feature is used to:",
+    "question": "In MS PowerPoint, which key turns the screen 'Black' during a presentation?",
     "options": [
-      "Generate text for forms and emails within the browser",
-      "Fix hardware issues",
-      "Install drivers",
-      "Clean the screen"
+      "B",
+      "W",
+      "Ctrl + B",
+      "Alt + B"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: Generate text for forms and emails within the browser. It uses generative AI to assist with writing tasks online."
+    "explanation": "The correct answer is: B. Pressing 'W' turns the screen White."
   },
   {
     "id": 145,
-    "question": "Suno AI differs from other generative AI because it generates:",
+    "question": "Which shortcut opens the 'Hidden Menu' (Quick Link menu) for the Start button in Windows 10?",
     "options": [
-      "Full songs with vocals and lyrics",
-      "Only text",
-      "Only images",
-      "Only code"
+      "Windows Key + X",
+      "Windows Key + Z",
+      "Ctrl + Esc",
+      "Alt + S"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: Full songs with vocals and lyrics. It is a specialized AI for music generation."
+    "explanation": "The correct answer is: Windows Key + X. It opens a menu with links to Device Manager, Disk Management, etc."
   },
   {
     "id": 146,
-    "question": "Habitica is a productivity app that:",
+    "question": "In MS Word, which shortcut creates a 'Hanging Indent'?",
     "options": [
-      "Gamifies your life like an RPG",
-      "Writes your emails",
-      "Pays your bills",
-      "Cleans your house"
+      "Ctrl + H",
+      "Ctrl + T",
+      "Ctrl + I",
+      "Alt + T"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Gamifies your life like an RPG. Completing tasks levels up your character."
+    "answer": 1,
+    "explanation": "The correct answer is: Ctrl + T. It indents the second line of the paragraph onwards."
   },
   {
     "id": 147,
-    "question": "Notion is an all-in-one workspace known for its:",
+    "question": "What does 'Alt + F8' do in MS Office applications?",
     "options": [
-      "Flexibility in combining notes, docs, and databases",
-      "Strict rigidity",
-      "Inability to store text",
-      "Focus on video editing only"
+      "Opens the Macros dialog",
+      "Saves as PDF",
+      "Opens Formatting",
+      "Checks Accessibility"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: Flexibility in combining notes, docs, and databases. It is highly customizable."
+    "explanation": "The correct answer is: Opens the Macros dialog. It allows you to run, edit, or create macros."
   },
   {
     "id": 148,
-    "question": "Todoist is primarily used for:",
+    "question": "Which Windows shortcut permanently deletes a file (bypassing the Recycle Bin)?",
     "options": [
-      "Task management and to-do lists",
-      "Social media streaming",
-      "Weather tracking",
-      "Music playback"
+      "Ctrl + Delete",
+      "Shift + Delete",
+      "Alt + Delete",
+      "Windows Key + Delete"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Task management and to-do lists. It helps users organize and prioritize tasks."
+    "answer": 1,
+    "explanation": "The correct answer is: Shift + Delete. This action cannot be undone via the Recycle Bin."
   },
   {
     "id": 149,
-    "question": "Quillbot is widely used by students to:",
+    "question": "In MS Excel, which shortcut allows you to toggle between displaying cell values and Formulas?",
     "options": [
-      "Paraphrase and summarize text",
-      "Copy exams",
-      "Hack school servers",
-      "Skip classes"
+      "Ctrl + ` (Grave Accent)",
+      "Ctrl + F",
+      "Alt + V",
+      "Shift + F"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: Paraphrase and summarize text. It helps improve writing fluency and avoid plagiarism."
+    "explanation": "The correct answer is: Ctrl + ` (Grave Accent). This key is usually located near the '1' key."
   },
   {
     "id": 150,
-    "question": "Bhashini is an AI initiative by the Indian government focused on:",
+    "question": "Which shortcut aligns text to the 'Justify' setting in MS Word?",
     "options": [
-      "Language translation and breaking language barriers",
-      "Building roads",
-      "Space travel",
-      "Nuclear energy"
+      "Ctrl + L",
+      "Ctrl + R",
+      "Ctrl + J",
+      "Ctrl + E"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Language translation. It aims to make digital services accessible in native Indian languages."
+    "answer": 2,
+    "explanation": "The correct answer is: Ctrl + J. It spreads text evenly between the margins."
   },
   {
     "id": 151,
-    "question": "Which feature in 'Digital Wellbeing' allows you to pause distracting apps temporarily?",
+    "question": "In Windows 10, how do you close a Virtual Desktop?",
     "options": [
-      "Focus Mode",
-      "Sleep Mode",
-      "Airplane Mode",
-      "Game Mode"
+      "Windows Key + Ctrl + F4",
+      "Alt + F4",
+      "Ctrl + Shift + W",
+      "Windows Key + X"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: Focus Mode. It lets you select apps you find distracting and pauses them so you can focus on your work."
+    "explanation": "The correct answer is: Windows Key + Ctrl + F4. It closes the active virtual desktop."
   },
   {
     "id": 152,
-    "question": "Google Fit collaborates with which organization to define 'Heart Points'?",
+    "question": "In MS PowerPoint, how do you change the pen tool to an arrow/cursor during a slide show?",
     "options": [
-      "American Heart Association (AHA)",
-      "NASA",
-      "FIFA",
-      "World Wildlife Fund"
+      "Ctrl + A",
+      "Ctrl + U",
+      "Ctrl + P",
+      "Esc"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: American Heart Association (AHA). They worked together to create an activity goal based on physical activity recommendations."
+    "explanation": "The correct answer is: Ctrl + A. Ctrl + P changes the cursor to a Pen."
   },
   {
     "id": 153,
-    "question": "In Windows 11, Microsoft Co-Pilot is primarily accessed via:",
+    "question": "Which shortcut in MS Word applies 'Subscript' formatting (e.g., H₂O)?",
     "options": [
-      "The Taskbar or Win+C",
-      "The Bios settings",
-      "The Control Panel only",
-      "A floppy disk"
+      "Ctrl + Shift + +",
+      "Ctrl + = (Equal Sign)",
+      "Alt + S",
+      "Ctrl + Down Arrow"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: The Taskbar or Win+C. It is integrated directly into the Windows desktop interface."
+    "answer": 1,
+    "explanation": "The correct answer is: Ctrl + =. For Superscript, it is Ctrl + Shift + +."
   },
   {
     "id": 154,
-    "question": "The 'Bhasha Daan' initiative is associated with which platform?",
+    "question": "What does 'Windows Key + Up Arrow' do to an active window?",
     "options": [
-      "Bhashini",
-      "Spotify",
-      "Uber",
-      "Zomato"
+      "Minimizes it",
+      "Maximizes it",
+      "Closes it",
+      "Moves it to the top screen"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Bhashini. Bhasha Daan is a crowdsourcing initiative to collect voice and text data for Indian languages."
+    "answer": 1,
+    "explanation": "The correct answer is: Maximizes it. Windows Key + Down Arrow restores or minimizes it."
   },
   {
     "id": 155,
-    "question": "Quillbot is available as an extension for:",
+    "question": "In MS Excel, which key repeats the last action?",
     "options": [
-      "Chrome, Word, and macOS",
-      "Toasters",
-      "Washing Machines",
-      "Calculators"
+      "F4",
+      "F2",
+      "F9",
+      "F5"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: Chrome, Word, and macOS. It integrates into writing workflows across browsers and word processors."
+    "explanation": "The correct answer is: F4. In Excel, F4 repeats the last command (like formatting), whereas in Word it's often F4 or Ctrl+Y."
   },
   {
     "id": 156,
-    "question": "Which unique feature of Todoist allows you to type 'Buy milk every Monday' and have it automatically schedule a recurring task?",
+    "question": "Which shortcut opens the 'Connect' pane (for Bluetooth/Wireless devices) in Windows 10?",
     "options": [
-      "Natural Language Input",
-      "Voice Screaming",
-      "Binary Code Entry",
-      "Mind Reading"
+      "Windows Key + K",
+      "Windows Key + C",
+      "Ctrl + K",
+      "Alt + K"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: Natural Language Input. Todoist parses simple English sentences to set dates and recurring schedules."
+    "explanation": "The correct answer is: Windows Key + K. This searches for wireless display and audio devices."
   },
   {
     "id": 157,
-    "question": "In Notion, the basic unit of content (text, image, todo) is called a:",
+    "question": "In MS Word, how do you quickly go to the beginning of the document?",
     "options": [
-      "Block",
-      "Brick",
-      "Pixel",
-      "Byte"
+      "Home",
+      "Page Up",
+      "Ctrl + Home",
+      "Alt + Home"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Block. Everything in Notion, from a paragraph to an image, is a 'block' that can be moved around."
+    "answer": 2,
+    "explanation": "The correct answer is: Ctrl + Home. Pressing just 'Home' goes to the start of the line."
   },
   {
     "id": 158,
-    "question": "In Habitica, what happens if you fail to complete your daily tasks?",
+    "question": "What does 'Ctrl + Shift + Esc' do in Windows?",
     "options": [
-      "Your avatar loses health",
-      "Your computer shuts down",
-      "You get a fine",
-      "Nothing happens"
+      "Locks the PC",
+      "Opens Task Manager",
+      "Opens Start Menu",
+      "Signs Out"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Your avatar loses health. This gamification element motivates users to complete their habits."
+    "answer": 1,
+    "explanation": "The correct answer is: Opens Task Manager. It is a direct shortcut unlike Ctrl+Alt+Del."
   },
   {
     "id": 159,
-    "question": "Suno AI is capable of generating:",
+    "question": "In MS Excel, which shortcut opens the 'Paste Special' dialog box?",
     "options": [
-      "Both instrumental tracks and songs with lyrics",
-      "Only drum beats",
-      "Only piano sounds",
-      "Only silence"
+      "Ctrl + V",
+      "Ctrl + Alt + V",
+      "Shift + V",
+      "Alt + Shift + V"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Both instrumental tracks and songs with lyrics. It uses generative AI to compose full musical pieces."
+    "answer": 1,
+    "explanation": "The correct answer is: Ctrl + Alt + V. This opens options to paste values, formats, transpose, etc."
   },
   {
     "id": 160,
-    "question": "Where is the 'Analyze Data' button typically found in the MS Excel ribbon?",
+    "question": "Which shortcut minimizes all windows except the active one (Shake feature shortcut)?",
     "options": [
-      "Home Tab (far right)",
-      "File Menu",
-      "Help Menu",
-      "Page Layout"
+      "Windows Key + Home",
+      "Windows Key + End",
+      "Windows Key + M",
+      "Windows Key + Space"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: Home Tab. It is usually located on the far right of the Home ribbon in modern Excel versions."
+    "explanation": "The correct answer is: Windows Key + Home. It mimics the 'Aero Shake' mouse gesture."
   },
   {
     "id": 161,
-    "question": "What is a key benefit of using 'Copilot in Outlook'?",
+    "question": "In MS PowerPoint, which key stops or restarts an automatic slide show?",
     "options": [
-      "It can summarize long email threads instantly",
-      "It delivers physical mail",
-      "It prints emails automatically",
-      "It changes your email password daily"
+      "S",
+      "Esc",
+      "Spacebar",
+      "Enter"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: It can summarize long email threads instantly. This helps users catch up on long conversations quickly."
+    "explanation": "The correct answer is: S. It pauses the slideshow. Pressing it again restarts it."
   },
   {
     "id": 162,
-    "question": "Google Chrome's 'Reading Mode' (often AI-enhanced) is designed to:",
+    "question": "In MS Word, what is the shortcut for 'Double Underline'?",
     "options": [
-      "Remove distractions like ads and sidebars for easier reading",
-      "Read your credit card number out loud",
-      "Close all tabs",
-      "Delete your history"
+      "Ctrl + U",
+      "Ctrl + Shift + D",
+      "Ctrl + D",
+      "Alt + U"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Remove distractions. It simplifies web pages to text and images for better readability."
+    "answer": 1,
+    "explanation": "The correct answer is: Ctrl + Shift + D. Ctrl + U is for single underline."
   },
   {
     "id": 163,
-    "question": "In the context of eNAM, what does FPO stand for?",
+    "question": "Which shortcut locks the screen orientation (Tablet Mode) or opens the Ease of Access Center in Windows?",
     "options": [
-      "Farmer Producer Organization",
-      "Fast Potato Order",
-      "Free Public Opinion",
-      "Fruit Production Office"
+      "Windows Key + O",
+      "Windows Key + U",
+      "Windows Key + L",
+      "Ctrl + U"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Farmer Producer Organization. FPOs are key stakeholders in the eNAM ecosystem."
+    "answer": 1,
+    "explanation": "The correct answer is: Windows Key + U. It opens the Ease of Access settings (Display, Magnifier, etc.)."
   },
   {
     "id": 164,
-    "question": "GramCover primarily targets which demographic?",
+    "question": "In MS Excel, how do you add a new line within the same cell (Wrap Text manually)?",
     "options": [
-      "Rural population and farmers",
-      "Urban billionaires",
-      "International tourists",
-      "Astronauts"
+      "Enter",
+      "Shift + Enter",
+      "Alt + Enter",
+      "Ctrl + Enter"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Rural population and farmers. It aims to bring financial inclusion and insurance to rural India."
+    "answer": 2,
+    "explanation": "The correct answer is: Alt + Enter. 'Enter' moves to the next cell down."
   },
   {
     "id": 165,
-    "question": "The 'AgriStack' initiative involves creating:",
+    "question": "What does 'Ctrl + Shift + T' do in most Web Browsers on Windows?",
     "options": [
-      "A unique Farmer ID for every farmer in India",
-      "A stack of pancakes",
-      "A new currency",
-      "A robot farmer"
+      "Opens a new tab",
+      "Reopens the last closed tab",
+      "Opens a private window",
+      "Translates the page"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: A unique Farmer ID. This ID links farmers to land records and government schemes."
+    "answer": 1,
+    "explanation": "The correct answer is: Reopens the last closed tab. It is very useful if you accidentally close a tab."
   },
   {
     "id": 166,
-    "question": "Umang App supports how many languages (approximately)?",
+    "question": "In MS Word, which shortcut opens the 'Font' dialog box?",
     "options": [
-      "13+ Indian Languages",
-      "Only English",
-      "Only Hindi",
-      "All world languages"
+      "Ctrl + F",
+      "Ctrl + D",
+      "Alt + F",
+      "Shift + F"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: 13+ Indian Languages. It is designed to be accessible to a diverse Indian population."
+    "answer": 1,
+    "explanation": "The correct answer is: Ctrl + D. It opens the detailed font formatting window."
   },
   {
     "id": 167,
-    "question": "Research Rabbit allows users to visualize connections between papers using:",
+    "question": "Which shortcut opens the 'Talk to Cortana' listening mode (if enabled)?",
     "options": [
-      "Interactive graphs and networks",
-      "Bar charts only",
-      "Pie charts only",
-      "Spreadsheets only"
+      "Windows Key + C",
+      "Windows Key + S",
+      "Windows Key + Q",
+      "Ctrl + C"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: Interactive graphs and networks. It shows how papers cite one another visually."
+    "explanation": "The correct answer is: Windows Key + C. Note: This behavior depends on specific Windows 10 version updates."
   },
   {
     "id": 168,
-    "question": "Iris.ai is particularly useful for which stage of research?",
+    "question": "In MS Excel, which shortcut hides the selected rows?",
     "options": [
-      "The exploration and literature review stage",
-      "The printing stage",
-      "The binding stage",
-      "The grading stage"
+      "Ctrl + 9",
+      "Ctrl + 0",
+      "Ctrl + H",
+      "Alt + 9"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: The exploration and literature review stage. It helps researchers find relevant papers quickly without knowing specific keywords."
+    "explanation": "The correct answer is: Ctrl + 9. Ctrl + 0 (zero) hides the selected columns."
   },
   {
     "id": 169,
-    "question": "Freepik offers which types of assets?",
+    "question": "Which shortcut key is used to 'Rename' a selected file or folder in File Explorer?",
     "options": [
-      "Vectors, photos, PSDs, and icons",
-      "Music only",
-      "Code only",
-      "Videos only"
+      "F2",
+      "F4",
+      "Enter",
+      "Ctrl + R"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: Vectors, photos, PSDs, and icons. It is a comprehensive resource for graphic designers."
+    "explanation": "The correct answer is: F2. It highlights the name text for editing."
   },
   {
     "id": 170,
-    "question": "HeyGen allows users to create custom avatars by:",
+    "question": "In MS PowerPoint, which shortcut opens the 'Presenter View' while in slide show mode?",
     "options": [
-      "Uploading a video of themselves",
-      "Drawing a cartoon",
-      "Scanning a QR code",
-      "Describing a dream"
+      "Alt + F5",
+      "Ctrl + F5",
+      "Shift + F10",
+      "Alt + P"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: Uploading a video of themselves. HeyGen can clone a user's appearance and voice (with permission) for video generation."
+    "explanation": "The correct answer is: Alt + F5. This starts the presentation with Presenter View on the current screen."
   },
   {
     "id": 171,
-    "question": "Claude AI is often noted for having a large 'Context Window', which means:",
+    "question": "Which Windows 10 shortcut opens the 'Clipboard History' (to see multiple copied items)?",
     "options": [
-      "It can process and remember very large documents or books at once",
-      "It has a large screen",
-      "It opens many windows",
-      "It runs slowly"
+      "Ctrl + V",
+      "Windows Key + V",
+      "Alt + V",
+      "Shift + Insert"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: It can process and remember very large documents. This allows it to analyze entire books or long reports in one prompt."
+    "answer": 1,
+    "explanation": "The correct answer is: Windows Key + V. It opens a history of copied text and images that you can paste."
   },
   {
     "id": 172,
-    "question": "Gradescope is particularly strong in grading which type of assignment?",
+    "question": "In MS Excel, which shortcut selects the entire current Row?",
     "options": [
-      "STEM subjects (Code, Math, Bubble sheets)",
-      "Art portfolios",
-      "Physical education",
-      "Oral debates"
+      "Ctrl + Space",
+      "Shift + Space",
+      "Alt + Space",
+      "Ctrl + R"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: STEM subjects. It has specific features for grouping similar math answers and auto-grading code."
+    "answer": 1,
+    "explanation": "The correct answer is: Shift + Space. Ctrl + Space selects the Column."
   },
   {
     "id": 173,
-    "question": "The 'Mendeley Web Importer' is a browser extension that:",
+    "question": "What does 'Windows Key + H' do in Windows 10?",
     "options": [
-      "Imports papers and citations directly from the web to your library",
-      "Imports viruses",
-      "Changes the website color",
-      "Translates pages"
+      "Opens Help",
+      "Hides all windows",
+      "Starts Dictation",
+      "Opens History"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Imports papers and citations. It simplifies saving research from sites like IEEE or Google Scholar."
+    "answer": 2,
+    "explanation": "The correct answer is: Starts Dictation. It opens the voice typing toolbar."
   },
   {
     "id": 174,
-    "question": "How does Wolfram Alpha differ from Google Search?",
+    "question": "In MS Word, which shortcut changes the line spacing to 'Double Spacing'?",
     "options": [
-      "Wolfram Alpha computes answers; Google searches for pages",
-      "Wolfram Alpha is for images only",
-      "Google is for math only",
-      "They are identical"
+      "Ctrl + 2",
+      "Ctrl + D",
+      "Alt + 2",
+      "Shift + 2"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: Wolfram Alpha computes answers. It uses structured data to calculate results rather than indexing web pages."
+    "explanation": "The correct answer is: Ctrl + 2. Ctrl + 1 sets single spacing, and Ctrl + 5 sets 1.5 spacing."
   },
   {
     "id": 175,
-    "question": "In Brainly, answers are often verified by:",
+    "question": "Which shortcut allows you to switch between Virtual Desktops in Windows 10?",
     "options": [
-      "Moderators and experts",
-      "Robots only",
-      "Random guessing",
-      "Coin toss"
+      "Alt + Tab",
+      "Windows Key + Tab",
+      "Windows Key + Ctrl + Left/Right Arrow",
+      "Ctrl + Alt + Left/Right Arrow"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Moderators and experts. The community helps ensure the accuracy of homework help provided."
+    "answer": 2,
+    "explanation": "The correct answer is: Windows Key + Ctrl + Left/Right Arrow. This moves you instantly between created desktops."
   },
   {
     "id": 176,
-    "question": "Google Read Along uses an in-app reading assistant named:",
+    "question": "In MS Excel, which shortcut hides the selected Columns?",
     "options": [
-      "Diya",
-      "Siri",
-      "Maya",
-      "Riya"
+      "Ctrl + 9",
+      "Ctrl + 0",
+      "Ctrl + C",
+      "Alt + 0"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Diya. She listens to the child read and provides positive reinforcement and help."
+    "answer": 1,
+    "explanation": "The correct answer is: Ctrl + 0 (Zero). Ctrl + 9 hides rows."
   },
   {
     "id": 177,
-    "question": "Unstuckstudy AI is best characterized as:",
+    "question": "In MS PowerPoint, what does 'Ctrl + G' do to selected objects?",
     "options": [
-      "A personalized AI tutor for students",
-      "A game for procrastinators",
-      "A glue brand",
-      "A travel agency"
+      "Groups them",
+      "Ungroups them",
+      "Generates a slide",
+      "Goes to slide"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: A personalized AI tutor. It helps students organize their study materials and prepare for exams."
+    "explanation": "The correct answer is: Groups them. This combines multiple objects into one unit."
   },
   {
     "id": 178,
-    "question": "Coconote AI is primarily designed to be used during:",
+    "question": "Which shortcut opens an app pinned to the Taskbar based on its position number (e.g., 1st app)?",
     "options": [
-      "Lectures and meetings",
-      "Sleeping",
-      "Swimming",
-      "Driving"
+      "Alt + 1",
+      "Ctrl + 1",
+      "Windows Key + 1",
+      "Shift + 1"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Lectures and meetings. It listens to audio and generates summaries and flashcards."
+    "answer": 2,
+    "explanation": "The correct answer is: Windows Key + 1. Pressing Win + 2 opens the second app, and so on."
   },
   {
     "id": 179,
-    "question": "Google Colab notebooks are stored in:",
+    "question": "In MS Word, how do you show/hide non-printing characters (paragraph marks)?",
     "options": [
-      "Google Drive",
-      "Dropbox",
-      "OneDrive",
-      "A USB stick"
+      "Ctrl + * (or Ctrl + Shift + 8)",
+      "Ctrl + P",
+      "Alt + P",
+      "Ctrl + H"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: Google Drive. This makes them easy to share and access from anywhere."
+    "explanation": "The correct answer is: Ctrl + Shift + 8. It toggles the display of formatting marks like spaces and returns."
   },
   {
     "id": 180,
-    "question": "Amazon CodeWhisperer is optimized to work best with:",
+    "question": "In MS Excel, which shortcut quickly adds the 'Filter' arrows to the header row?",
     "options": [
-      "AWS (Amazon Web Services) Cloud services",
-      "Google Cloud",
-      "Azure",
-      "IBM Cloud"
+      "Ctrl + F",
+      "Ctrl + Shift + L",
+      "Alt + F",
+      "Ctrl + Shift + F"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: AWS. It is trained specifically to help developers write code for Amazon's cloud ecosystem."
+    "answer": 1,
+    "explanation": "The correct answer is: Ctrl + Shift + L. It toggles AutoFilter on or off."
   },
   {
     "id": 181,
-    "question": "Slidesgo templates are compatible with:",
+    "question": "Which Windows shortcut opens the 'Task View' (Timeline) to see all open windows and desktops?",
     "options": [
-      "Google Slides and Microsoft PowerPoint",
-      "Only Google Slides",
-      "Only PowerPoint",
-      "Notepad"
+      "Alt + Tab",
+      "Windows Key + Tab",
+      "Ctrl + Tab",
+      "Shift + Tab"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Google Slides and Microsoft PowerPoint. Users can download templates for either platform."
+    "answer": 1,
+    "explanation": "The correct answer is: Windows Key + Tab. It provides a bird's-eye view of current tasks and history."
   },
   {
     "id": 182,
-    "question": "Photomath supports which method of input?",
+    "question": "In MS Word, what does 'Ctrl + Shift + >' do?",
     "options": [
-      "Scanning handwriting with a camera",
-      "Voice only",
-      "Thought transmission",
-      "Morse code"
+      "Indents the paragraph",
+      "Increases font size",
+      "Decreases font size",
+      "Selects next word"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Scanning handwriting. It can recognize handwritten math problems."
+    "answer": 1,
+    "explanation": "The correct answer is: Increases font size. Ctrl + Shift + < decreases it."
   },
   {
     "id": 183,
-    "question": "Socratic by Google covers subjects like:",
+    "question": "In MS Excel, how do you jump to the last cell with data in a row or column?",
     "options": [
-      "Science, Math, Literature, and Social Studies",
-      "Only Math",
-      "Only Coding",
-      "Only Sports"
+      "Ctrl + Arrow Key",
+      "Shift + Arrow Key",
+      "Alt + Arrow Key",
+      "Tab"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: Science, Math, Literature, and Social Studies. It is a broad educational assistant."
+    "explanation": "The correct answer is: Ctrl + Arrow Key. It navigates to the edge of the data region."
   },
   {
     "id": 184,
-    "question": "Microsoft Math Solver includes a feature to:",
+    "question": "Which shortcut takes a screenshot of ONLY the active window (not the whole screen)?",
     "options": [
-      "Generate practice quizzes based on your problems",
-      "Play video games",
-      "Chat with friends",
-      "Order pizza"
+      "PrtScn",
+      "Alt + PrtScn",
+      "Ctrl + PrtScn",
+      "Windows Key + PrtScn"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Generate practice quizzes. This helps users test their knowledge after learning a concept."
+    "answer": 1,
+    "explanation": "The correct answer is: Alt + PrtScn. It copies the active window's image to the clipboard."
   },
   {
     "id": 185,
-    "question": "Perplexity AI differentiates itself by always providing:",
+    "question": "In MS PowerPoint, what does the 'W' key do during a presentation?",
     "options": [
-      "Citations/Sources for its answers",
-      "Jokes",
-      "Images only",
-      "False information"
+      "Ends the show",
+      "Turns screen White",
+      "Turns screen Black",
+      "Shows Window"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Citations/Sources. It builds trust by showing where the information came from."
+    "answer": 1,
+    "explanation": "The correct answer is: Turns screen White. 'B' turns it Black."
   },
   {
     "id": 186,
-    "question": "In Quizizz, 'Homework Mode' allows:",
+    "question": "In MS Word, which shortcut deletes the word immediately to the LEFT of the cursor?",
     "options": [
-      "Students to complete the quiz by a deadline on their own time",
-      "Students to skip the quiz",
-      "Teachers to sleep in class",
-      "Parents to take the quiz"
+      "Backspace",
+      "Ctrl + Backspace",
+      "Alt + Backspace",
+      "Delete"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Students to complete the quiz by a deadline. It is an asynchronous learning mode."
+    "answer": 1,
+    "explanation": "The correct answer is: Ctrl + Backspace. Standard Backspace deletes just one character."
   },
   {
     "id": 187,
-    "question": "Mimo uses 'Streaks' to encourage:",
+    "question": "What does 'Windows Key + Shift + Left/Right Arrow' do?",
     "options": [
-      "Daily coding practice",
-      "Running",
-      "Cleaning",
-      "Sleeping"
+      "Selects text",
+      "Moves the active window to the next monitor",
+      "Rotates the screen",
+      "Snaps window to corner"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Daily coding practice. Maintaining a streak keeps learners consistent."
+    "answer": 1,
+    "explanation": "The correct answer is: Moves the active window to the next monitor. Essential for multi-monitor setups."
   },
   {
     "id": 188,
-    "question": "Tynker introduces coding concepts using:",
+    "question": "In MS Excel, which shortcut fills the cell contents 'Down' from the cell above?",
     "options": [
-      "Visual blocks",
-      "Binary code only",
-      "Assembly language",
-      "Punch cards"
+      "Ctrl + D",
+      "Ctrl + F",
+      "Ctrl + Down Arrow",
+      "Alt + D"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: Visual blocks. Users drag and drop blocks to create code logic."
+    "explanation": "The correct answer is: Ctrl + D. To fill to the Right, use Ctrl + R."
   },
   {
     "id": 189,
-    "question": "Grasshopper by Google focuses primarily on teaching:",
+    "question": "Which shortcut opens the 'Game Bar' in Windows 10 (for recording screen/audio)?",
     "options": [
-      "JavaScript",
-      "C++",
-      "Rust",
-      "Cobol"
+      "Windows Key + G",
+      "Ctrl + G",
+      "Alt + G",
+      "Shift + G"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: JavaScript. It is designed to teach the fundamentals of this specific language."
+    "explanation": "The correct answer is: Windows Key + G. It opens the overlay for gaming features."
   },
   {
     "id": 190,
-    "question": "W3Schools is famous for its 'Try it Yourself' editor, which allows users to:",
+    "question": "In MS Word, what is the shortcut for 'Format Painter' (Copy Formatting)?",
     "options": [
-      "Edit and run code directly in the browser",
-      "Download the website",
-      "Hack the server",
-      "Send emails"
+      "Ctrl + C",
+      "Ctrl + Shift + C",
+      "Alt + C",
+      "Ctrl + F"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Edit and run code directly in the browser. It provides instant feedback on code changes."
+    "answer": 1,
+    "explanation": "The correct answer is: Ctrl + Shift + C. You paste the formatting using Ctrl + Shift + V."
   },
   {
     "id": 191,
-    "question": "PyCharm Edu allows educators to create:",
+    "question": "In MS Excel, which key moves you to the previous sheet?",
     "options": [
-      "Interactive programming courses and assignments",
-      "Video games",
-      "Music playlists",
-      "Spreadsheets"
+      "Ctrl + Page Down",
+      "Ctrl + Page Up",
+      "Alt + Page Up",
+      "Shift + Tab"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Interactive programming courses. Teachers can build fill-in-the-blank coding tasks."
+    "answer": 1,
+    "explanation": "The correct answer is: Ctrl + Page Up. Ctrl + Page Down moves to the next sheet."
   },
   {
     "id": 192,
-    "question": "Pictory is an ideal tool for:",
+    "question": "Which shortcut opens the 'Search' window/bar in Windows 10?",
     "options": [
-      "Converting blog posts into short, shareable videos",
-      "Writing code",
-      "Managing passwords",
-      "Scanning networks"
+      "Windows Key + S",
+      "Ctrl + S",
+      "Alt + S",
+      "Shift + S"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: Converting blog posts into short videos. It automatically selects visuals to match the text."
+    "explanation": "The correct answer is: Windows Key + S. Windows Key + Q also often performs a similar search function."
   },
   {
     "id": 193,
-    "question": "Hootsuite provides 'Analytics' to help users:",
+    "question": "In MS PowerPoint, how do you 'Ungroup' selected objects?",
     "options": [
-      "Measure the performance of their social media posts",
-      "Count their steps",
-      "Measure temperature",
-      "Weigh food"
+      "Ctrl + U",
+      "Ctrl + Shift + G",
+      "Alt + Shift + G",
+      "Ctrl + G"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Measure the performance of their social media posts. It tracks likes, shares, and engagement."
+    "answer": 1,
+    "explanation": "The correct answer is: Ctrl + Shift + G. Ctrl + G is for grouping."
   },
   {
     "id": 194,
-    "question": "Socialbee organizes content into:",
+    "question": "In MS Word, which shortcut applies 'Heading 1' style?",
     "options": [
-      "Categories (e.g., Curated, Promotional)",
-      "Beehives",
-      "Colors",
-      "Shapes"
+      "Ctrl + 1",
+      "Alt + Ctrl + 1",
+      "Shift + 1",
+      "Ctrl + H"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Categories. This ensures a balanced mix of content is posted."
+    "answer": 1,
+    "explanation": "The correct answer is: Alt + Ctrl + 1. Ctrl + 1 is for single spacing."
   },
   {
     "id": 195,
-    "question": "Canva's 'Magic Switch' feature allows users to:",
+    "question": "What does 'Windows Key + M' do?",
     "options": [
-      "Resize a design for different social platforms instantly",
-      "Turn off the lights",
-      "Switch user accounts",
-      "Delete the app"
+      "Maximizes all windows",
+      "Minimizes all windows",
+      "Opens Mail",
+      "Mutes audio"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Resize a design. It uses AI to reformat a design (e.g., form Instagram Post to Story)."
+    "answer": 1,
+    "explanation": "The correct answer is: Minimizes all windows. Windows Key + Shift + M will restore them."
   },
   {
     "id": 196,
-    "question": "One of the main advantages of Synthesia is:",
+    "question": "In MS Excel, which shortcut applies the 'Strikethrough' format?",
     "options": [
-      "No need for cameras, microphones, or actors",
-      "Free pizza",
-      "Unlimited cloud storage",
-      "Faster internet speed"
+      "Ctrl + 5",
+      "Ctrl + S",
+      "Ctrl + -",
+      "Alt + S"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: No need for cameras. You create video content by typing text."
+    "explanation": "The correct answer is: Ctrl + 5. It draws a line through the cell content."
   },
   {
     "id": 197,
-    "question": "Pexels is known for providing photos that are:",
+    "question": "Which shortcut highlights the URL bar in most browsers and File Explorer?",
     "options": [
-      "Royalty-free and free to use",
-      "Very expensive",
-      "Watermarked heavily",
-      "Low resolution only"
+      "Ctrl + L",
+      "Ctrl + U",
+      "Alt + D",
+      "Both A and C"
     ],
-    "answer": 0,
-    "explanation": "The correct answer is: Royalty-free and free to use. It is a popular resource for creatives."
+    "answer": 3,
+    "explanation": "The correct answer is: Both A and C. Ctrl + L and Alt + D both select the address bar."
   },
   {
     "id": 198,
-    "question": "Lumen5 uses AI to automatically match your text with:",
+    "question": "In MS Office, what is the shortcut to check 'Spelling and Grammar'?",
     "options": [
-      "Relevant stock video clips and images",
-      "Random noises",
-      "Cartoons",
-      "Nothing"
+      "F7",
+      "F1",
+      "Ctrl + S",
+      "Alt + F7"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: Relevant stock video clips. It searches its library to find visuals that match your keywords."
+    "explanation": "The correct answer is: F7. It launches the Editor or Spell Check pane."
   },
   {
     "id": 199,
-    "question": "Lately.ai focuses on the concept of 'Social AI Management' to:",
+    "question": "In MS Word, how do you split the document window to view two parts of the file at once?",
     "options": [
-      "Scale content creation",
-      "Reduce internet usage",
-      "Block social media",
-      "Print newspapers"
+      "Ctrl + Alt + S",
+      "Ctrl + W",
+      "Alt + Shift + S",
+      "Windows Key + S"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: Scale content creation. It turns one piece of content into many social posts."
+    "explanation": "The correct answer is: Ctrl + Alt + S. It toggles the window split."
   },
   {
     "id": 200,
-    "question": "Generative AI (like ChatGPT, DALL-E, Gemini) is defined by its ability to:",
+    "question": "What does 'Ctrl + Shift + T' do in File Explorer or Browsers?",
     "options": [
-      "Create new content (text, images, audio) rather than just analyzing existing data",
-      "Only copy and paste",
-      "Only perform math",
-      "Only search the web"
+      "Creates a new tab",
+      "Reopens the last closed tab",
+      "Translates page",
+      "Opens Task Manager"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Reopens the last closed tab. It restores the tab you just closed."
+  },
+  {
+    "id": 201,
+    "question": "In MS Excel, which shortcut inserts a new Worksheet?",
+    "options": [
+      "Shift + F11",
+      "Ctrl + F11",
+      "Alt + F11",
+      "Ctrl + N"
     ],
     "answer": 0,
-    "explanation": "The correct answer is: Create new content. Generative AI generates novel outputs based on its training."
+    "explanation": "The correct answer is: Shift + F11. It adds a new sheet to the current workbook."
+  },
+  {
+    "id": 202,
+    "question": "Which shortcut opens the 'System Properties' window in Windows?",
+    "options": [
+      "Windows Key + Pause/Break",
+      "Windows Key + S",
+      "Ctrl + Esc",
+      "Alt + Enter"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Windows Key + Pause/Break. It shows RAM, Processor, and OS info."
+  },
+  {
+    "id": 203,
+    "question": "In MS PowerPoint, which shortcut changes the pointer to an 'Eraser' during a slideshow?",
+    "options": [
+      "Ctrl + E",
+      "Ctrl + A",
+      "Ctrl + P",
+      "E"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + E. 'E' by itself usually erases all ink, while Ctrl+E toggles the eraser tool."
+  },
+  {
+    "id": 204,
+    "question": "In MS Word, what does 'Ctrl + 5' do?",
+    "options": [
+      "Sets 1.5 line spacing",
+      "Strikethrough",
+      "Underline",
+      "50% Zoom"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Sets 1.5 line spacing. In Excel, Ctrl + 5 is Strikethrough, but in Word, it is spacing."
+  },
+  {
+    "id": 205,
+    "question": "Which shortcut cycles through apps on the taskbar without opening them (Peeking)?",
+    "options": [
+      "Windows Key + T",
+      "Alt + Tab",
+      "Ctrl + Tab",
+      "Windows Key + P"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Windows Key + T. It sets focus to the taskbar icons."
+  },
+  {
+    "id": 206,
+    "question": "In MS Excel, how do you calculate the active sheet manually?",
+    "options": [
+      "Shift + F9",
+      "F9",
+      "Ctrl + F9",
+      "Alt + F9"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Shift + F9. F9 calculates all open workbooks."
+  },
+  {
+    "id": 207,
+    "question": "In MS Word, which shortcut opens the Thesaurus?",
+    "options": [
+      "Shift + F7",
+      "F7",
+      "Ctrl + F7",
+      "Alt + F7"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Shift + F7. F7 checks spelling."
+  },
+  {
+    "id": 208,
+    "question": "What does 'Ctrl + Alt + Delete' primarily do in Windows 10?",
+    "options": [
+      "Deletes selected file",
+      "Opens the security screen (Lock, Sign out, Task Manager)",
+      "Restarts computer",
+      "Closes app"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Opens the security screen. It is a system interrupt command."
+  },
+  {
+    "id": 209,
+    "question": "In MS Excel, which shortcut applies the 'Percentage' format?",
+    "options": [
+      "Ctrl + Shift + %",
+      "Ctrl + P",
+      "Alt + P",
+      "Ctrl + 5"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + Shift + %. It converts the number to a percentage style."
+  },
+  {
+    "id": 210,
+    "question": "In MS PowerPoint, holding which key while drawing a shape maintains its aspect ratio (e.g., perfect circle)?",
+    "options": [
+      "Shift",
+      "Ctrl",
+      "Alt",
+      "Tab"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Shift. Holding Shift ensures circles stay circles and squares stay squares."
+  },
+  {
+    "id": 211,
+    "question": "In MS Word, what does 'Shift + Enter' do?",
+    "options": [
+      "Inserts a Page Break",
+      "Inserts a Line Break (Soft Return)",
+      "Enters a new paragraph",
+      "Saves the file"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Inserts a Line Break. This starts a new line without starting a new paragraph block."
+  },
+  {
+    "id": 212,
+    "question": "In MS Excel, which shortcut applies the 'Currency' format ($) to the selected cells?",
+    "options": [
+      "Ctrl + Shift + 4 (or $)",
+      "Ctrl + C",
+      "Ctrl + Shift + C",
+      "Alt + 4"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + Shift + 4. It applies the currency format with two decimal places."
+  },
+  {
+    "id": 213,
+    "question": "Which shortcut is the equivalent of 'Right-Clicking' on the selected item (opens Context Menu)?",
+    "options": [
+      "Shift + F10",
+      "Ctrl + F10",
+      "Alt + F10",
+      "Windows Key + F10"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Shift + F10. This opens the context menu for the selected file or text."
+  },
+  {
+    "id": 214,
+    "question": "In MS PowerPoint, how do you turn the mouse pointer into a 'Laser Pointer' during a slide show?",
+    "options": [
+      "Ctrl + L",
+      "Ctrl + P",
+      "Ctrl + A",
+      "L"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + L. Ctrl + P is for Pen, and Ctrl + A is for Arrow."
+  },
+  {
+    "id": 215,
+    "question": "Which shortcut allows you to Expand or Collapse the Ribbon in MS Office apps?",
+    "options": [
+      "Ctrl + F1",
+      "Alt + F1",
+      "Shift + F1",
+      "Windows Key + F1"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + F1. It hides the toolbar commands to provide more screen space."
+  },
+  {
+    "id": 216,
+    "question": "In MS Excel, what does 'Ctrl + T' do?",
+    "options": [
+      "Inserts the Time",
+      "Creates a Table",
+      "Selects the Table",
+      "Transforms data"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Creates a Table. It converts a range of data into an official Excel Table."
+  },
+  {
+    "id": 217,
+    "question": "In MS Word, which shortcut increases the font size by exactly 1 point?",
+    "options": [
+      "Ctrl + ] (Right Bracket)",
+      "Ctrl + [ (Left Bracket)",
+      "Ctrl + >",
+      "Alt + Up Arrow"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + ]. Ctrl + [ decreases the font size by 1 point."
+  },
+  {
+    "id": 218,
+    "question": "Which shortcut in File Explorer moves you 'Up' one level in the folder hierarchy?",
+    "options": [
+      "Alt + Up Arrow",
+      "Ctrl + Up Arrow",
+      "Alt + Left Arrow",
+      "Backspace"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Alt + Up Arrow. Alt + Left Arrow goes 'Back' in history, which isn't always 'Up' a level."
+  },
+  {
+    "id": 219,
+    "question": "In MS Excel, what is the shortcut for 'Flash Fill' (automatically filling data based on a pattern)?",
+    "options": [
+      "Ctrl + F",
+      "Ctrl + E",
+      "Alt + F",
+      "Shift + E"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Ctrl + E. It is a powerful tool for separating or combining data without formulas."
+  },
+  {
+    "id": 220,
+    "question": "In MS Word, how do you Align Text to the Right?",
+    "options": [
+      "Ctrl + R",
+      "Ctrl + L",
+      "Ctrl + J",
+      "Ctrl + E"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + R. Ctrl + E is Center, Ctrl + L is Left."
+  },
+  {
+    "id": 221,
+    "question": "Which Windows shortcut cycles through open windows in the reverse direction?",
+    "options": [
+      "Alt + Shift + Tab",
+      "Ctrl + Shift + Tab",
+      "Windows Key + Shift + Tab",
+      "Alt + Tab + Left"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Alt + Shift + Tab. Adding Shift reverses the direction of the cycle."
+  },
+  {
+    "id": 222,
+    "question": "In MS PowerPoint, which shortcut hides the mouse pointer and navigation button immediately?",
+    "options": [
+      "Ctrl + H",
+      "Ctrl + M",
+      "A",
+      "S"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + H. To bring it back (Arrow), usually Ctrl + A or moving the mouse works."
+  },
+  {
+    "id": 223,
+    "question": "In MS Excel, which shortcut inserts or deletes cells/rows/columns (opens dialog)?",
+    "options": [
+      "Ctrl + + / Ctrl + -",
+      "Alt + I",
+      "Shift + Insert",
+      "Ctrl + D"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + + (Plus) to insert and Ctrl + - (Minus) to delete."
+  },
+  {
+    "id": 224,
+    "question": "In MS Word, which shortcut applies 'Superscript' formatting (e.g., X²)?",
+    "options": [
+      "Ctrl + Shift + +",
+      "Ctrl + =",
+      "Ctrl + Shift + S",
+      "Alt + Up Arrow"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + Shift + +. Ctrl + = is for Subscript."
+  },
+  {
+    "id": 225,
+    "question": "What does 'Ctrl + F6' do in MS Office applications?",
+    "options": [
+      "Switches between open documents of the same app",
+      "Closes the file",
+      "Minimizes the window",
+      "Opens the Help pane"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Switches between open documents. For example, toggling between two open Word docs."
+  },
+  {
+    "id": 226,
+    "question": "In MS Excel, which shortcut formats the cell as 'Number' with two decimal places?",
+    "options": [
+      "Ctrl + Shift + 1 (or !)",
+      "Ctrl + Shift + 2",
+      "Ctrl + N",
+      "Alt + N"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + Shift + 1. Ctrl + Shift + 2 is typically for Time."
+  },
+  {
+    "id": 227,
+    "question": "Which shortcut in Windows moves the keyboard focus to the 'Notification Area' (System Tray)?",
+    "options": [
+      "Windows Key + B",
+      "Windows Key + A",
+      "Windows Key + N",
+      "Ctrl + B"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Windows Key + B. It highlights the icons near the clock."
+  },
+  {
+    "id": 228,
+    "question": "In MS Word, how do you remove all manual formatting from the selected text?",
+    "options": [
+      "Ctrl + Spacebar",
+      "Ctrl + Shift + N",
+      "Ctrl + Delete",
+      "Alt + Clear"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + Spacebar. It resets the text to the default font and size of the style."
+  },
+  {
+    "id": 229,
+    "question": "In MS PowerPoint, how do you jump directly to a specific slide number (e.g., Slide 5)?",
+    "options": [
+      "Type 5 then Enter",
+      "Ctrl + 5",
+      "Alt + 5",
+      "Shift + 5"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Type 5 then Enter. This works only during the slideshow."
+  },
+  {
+    "id": 230,
+    "question": "Which shortcut is used to 'Go Back' in Web Browsers and File Explorer?",
+    "options": [
+      "Alt + Left Arrow",
+      "Alt + Right Arrow",
+      "Ctrl + Left Arrow",
+      "Shift + Backspace"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Alt + Left Arrow. Alt + Right Arrow goes Forward."
+  },
+  {
+    "id": 231,
+    "question": "In MS Excel, what does 'Ctrl + Shift + U' do?",
+    "options": [
+      "Underlines the text",
+      "Expands/Collapses the Formula Bar",
+      "Unhides rows",
+      "Updates links"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Expands/Collapses the Formula Bar. Useful for viewing long formulas."
+  },
+  {
+    "id": 232,
+    "question": "In MS Word, what is the shortcut to display the 'Word Count' dialog box?",
+    "options": [
+      "Ctrl + Shift + G",
+      "Ctrl + W",
+      "Alt + W",
+      "F7"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + Shift + G. It shows pages, words, characters, lines, etc."
+  },
+  {
+    "id": 233,
+    "question": "What does 'Windows Key + Down Arrow' do if a window is maximized?",
+    "options": [
+      "Minimizes it",
+      "Restores it (un-maximizes)",
+      "Closes it",
+      "Snaps it to bottom"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Restores it. Pressing it a second time will then Minimize it."
+  },
+  {
+    "id": 234,
+    "question": "In MS PowerPoint, which shortcut starts the slideshow from the 'Current Slide'?",
+    "options": [
+      "Shift + F5",
+      "F5",
+      "Alt + F5",
+      "Ctrl + F5"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Shift + F5. F5 always starts from the beginning."
+  },
+  {
+    "id": 235,
+    "question": "In MS Excel, which shortcut Unhides rows within the selection?",
+    "options": [
+      "Ctrl + Shift + 9 (or ( )",
+      "Ctrl + 9",
+      "Ctrl + Shift + 0",
+      "Alt + 9"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + Shift + 9. (Ctrl + 9 hides them)."
+  },
+  {
+    "id": 236,
+    "question": "Which shortcut opens the window menu (Restore, Move, Size, Minimize, Close) for the active window?",
+    "options": [
+      "Alt + Spacebar",
+      "Alt + Enter",
+      "Shift + Spacebar",
+      "Windows Key + Spacebar"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Alt + Spacebar. It opens the small menu in the top-left corner."
+  },
+  {
+    "id": 237,
+    "question": "In MS Word, what does 'Ctrl + [' (Left Bracket) do?",
+    "options": [
+      "Decreases font size by 1 point",
+      "Aligns Left",
+      "Indents paragraph",
+      "Moves to previous paragraph"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Decreases font size by 1 point. Ctrl + ] increases it."
+  },
+  {
+    "id": 238,
+    "question": "In MS Excel, which shortcut creates a 'Chart Sheet' (a separate sheet for the chart) instantly?",
+    "options": [
+      "F11",
+      "Alt + F1",
+      "Ctrl + F1",
+      "Shift + F1"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: F11. Alt + F1 creates an embedded chart on the *same* sheet."
+  },
+  {
+    "id": 239,
+    "question": "Which shortcut zooms out in Windows (using Magnifier)?",
+    "options": [
+      "Windows Key + Minus Sign (-)",
+      "Ctrl + Minus Sign (-)",
+      "Alt + Minus Sign (-)",
+      "Shift + Z"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Windows Key + Minus Sign (-). Windows Key + Plus (+) zooms in."
+  },
+  {
+    "id": 240,
+    "question": "In MS Word, which shortcut pastes ONLY the formatting of the copied text?",
+    "options": [
+      "Ctrl + Shift + V",
+      "Ctrl + V",
+      "Alt + V",
+      "Ctrl + P"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + Shift + V. You must first copy formatting with Ctrl + Shift + C."
+  },
+  {
+    "id": 241,
+    "question": "In MS Excel, which shortcut toggles the 'Outline Border' on selected cells?",
+    "options": [
+      "Ctrl + Shift + &",
+      "Ctrl + Shift + _",
+      "Ctrl + B",
+      "Alt + B"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + Shift + &. To remove borders, use Ctrl + Shift + _ (Underscore)."
+  },
+  {
+    "id": 242,
+    "question": "What does 'Ctrl + Shift + Delete' do in web browsers (Chrome/Edge)?",
+    "options": [
+      "Opens Clear Browsing Data menu",
+      "Closes the browser",
+      "Deletes the current bookmark",
+      "Reopens closed tab"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Opens Clear Browsing Data menu. Useful for clearing cache/history quickly."
+  },
+  {
+    "id": 243,
+    "question": "In MS Word, which shortcut applies 'Single' line spacing?",
+    "options": [
+      "Ctrl + 1",
+      "Ctrl + S",
+      "Alt + 1",
+      "Shift + 1"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + 1. Ctrl + 2 is double spacing, Ctrl + 5 is 1.5 spacing."
+  },
+  {
+    "id": 244,
+    "question": "In MS PowerPoint, which shortcut 'Promotes' a bullet point (moves it to a higher level)?",
+    "options": [
+      "Shift + Tab",
+      "Tab",
+      "Ctrl + Left Arrow",
+      "Alt + Up Arrow"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Shift + Tab. Pressing 'Tab' demotes the bullet point."
+  },
+  {
+    "id": 245,
+    "question": "Which shortcut opens the 'Date and Time' flyout from the taskbar in Windows?",
+    "options": [
+      "Windows Key + Alt + D",
+      "Windows Key + T",
+      "Ctrl + D",
+      "Alt + D"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Windows Key + Alt + D. It shows the calendar/clock pane."
+  },
+  {
+    "id": 246,
+    "question": "In MS Excel, which shortcut applies the 'General' number format (removes specific formatting)?",
+    "options": [
+      "Ctrl + Shift + ~ (Tilde)",
+      "Ctrl + Shift + !",
+      "Ctrl + G",
+      "Alt + G"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + Shift + ~ (Tilde). It reverts the cell to default formatting."
+  },
+  {
+    "id": 247,
+    "question": "In MS Word, how do you select text from the cursor to the end of the line?",
+    "options": [
+      "Shift + End",
+      "Ctrl + End",
+      "Alt + End",
+      "Shift + Right Arrow"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Shift + End. Shift + Home selects to the beginning of the line."
+  },
+  {
+    "id": 248,
+    "question": "What does 'Ctrl + Y' do in most applications?",
+    "options": [
+      "Redo (Reverse Undo)",
+      "Undo",
+      "Cut",
+      "Paste"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Redo. It repeats an action that was undone with Ctrl + Z."
+  },
+  {
+    "id": 249,
+    "question": "In MS Excel, how do you toggle 'Absolute Reference' ($) in a formula (e.g., A1 to $A$1)?",
+    "options": [
+      "F4",
+      "F2",
+      "F9",
+      "Ctrl + 4"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: F4. Pressing it repeatedly cycles through absolute row, absolute column, and relative references."
+  },
+  {
+    "id": 250,
+    "question": "Which shortcut locks the Windows PC immediately?",
+    "options": [
+      "Windows Key + L",
+      "Ctrl + L",
+      "Alt + L",
+      "Shift + L"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Windows Key + L. It takes you to the lock screen instantly."
+  },{
+    "id": 251,
+    "question": "In MS Word, which shortcut opens the 'Print Preview' directly?",
+    "options": [
+      "Ctrl + F2",
+      "Ctrl + P",
+      "Alt + P",
+      "Shift + F2"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + F2. While Ctrl + P opens the Print dialog, Ctrl + F2 specifically switches to the Preview view."
+  },
+  {
+    "id": 252,
+    "question": "In MS Excel, what does 'Ctrl + A' do if the cursor is inside a data block?",
+    "options": [
+      "Selects the entire worksheet",
+      "Selects the 'Current Region' (the data block)",
+      "Selects the row",
+      "Adds a comment"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Selects the 'Current Region'. Pressing it a second time selects the entire worksheet."
+  },
+  {
+    "id": 253,
+    "question": "Which Windows shortcut opens the 'Properties' dialog for a selected file or folder?",
+    "options": [
+      "Alt + Enter",
+      "Ctrl + Enter",
+      "Shift + Enter",
+      "Windows Key + Enter"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Alt + Enter. It is a quick way to check file size, creation date, or read-only status."
+  },
+  {
+    "id": 254,
+    "question": "In MS PowerPoint, which key ends the slide show and returns to the editor?",
+    "options": [
+      "Enter",
+      "Esc",
+      "Spacebar",
+      "Backspace"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Esc. It stops the presentation immediately."
+  },
+  {
+    "id": 255,
+    "question": "In MS Excel, which shortcut inserts a 'Note' (formerly Comment) attached to a cell?",
+    "options": [
+      "Shift + F2",
+      "Ctrl + F2",
+      "Alt + N",
+      "Ctrl + Alt + C"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Shift + F2. It opens a yellow box to type notes for that cell."
+  },
+  {
+    "id": 256,
+    "question": "Which function key 'Refreshes' the active window (Browser or File Explorer) in Windows?",
+    "options": [
+      "F4",
+      "F5",
+      "F9",
+      "F11"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: F5. It reloads the web page or updates the file list in a folder."
+  },
+  {
+    "id": 257,
+    "question": "In MS Word, which shortcut opens the 'Go To' tab in the Find/Replace dialog?",
+    "options": [
+      "Ctrl + G",
+      "Ctrl + F",
+      "Ctrl + T",
+      "Alt + G"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + G. It allows you to jump to a specific page, section, or line."
+  },
+  {
+    "id": 258,
+    "question": "In MS Excel, which shortcut applies the 'Time' format (e.g., 1:30 PM)?",
+    "options": [
+      "Ctrl + Shift + 2 (or @)",
+      "Ctrl + Shift + 3",
+      "Ctrl + T",
+      "Alt + T"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + Shift + 2. It formats the number as time."
+  },
+  {
+    "id": 259,
+    "question": "Which shortcut opens the 'Downloads' page in most Web Browsers (Chrome, Edge)?",
+    "options": [
+      "Ctrl + D",
+      "Ctrl + J",
+      "Ctrl + H",
+      "Alt + D"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Ctrl + J. Ctrl + D usually adds a bookmark."
+  },
+  {
+    "id": 260,
+    "question": "In MS Word, which shortcut 'Indents' the entire paragraph to the right?",
+    "options": [
+      "Ctrl + M",
+      "Ctrl + I",
+      "Tab",
+      "Ctrl + Shift + M"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + M. To un-indent (move back left), use Ctrl + Shift + M."
+  },
+  {
+    "id": 261,
+    "question": "In MS Excel, which shortcut applies the 'Date' format (e.g., 1-Jan)?",
+    "options": [
+      "Ctrl + Shift + 3 (or #)",
+      "Ctrl + Shift + 2",
+      "Ctrl + D",
+      "Alt + D"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + Shift + 3. It applies the default date format."
+  },
+  {
+    "id": 262,
+    "question": "In MS PowerPoint, which key advances to the 'Next Slide' during a show?",
+    "options": [
+      "Spacebar",
+      "Backspace",
+      "Esc",
+      "Home"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Spacebar. 'Enter' and 'Right Arrow' also work."
+  },
+  {
+    "id": 263,
+    "question": "Which shortcut opens the 'Help' pane in almost all Windows applications?",
+    "options": [
+      "F1",
+      "F2",
+      "F3",
+      "Ctrl + H"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: F1. It usually opens Microsoft Help or a browser support page."
+  },
+  {
+    "id": 264,
+    "question": "In MS Word, which shortcut 'Un-indents' a paragraph (moves it back to the left)?",
+    "options": [
+      "Ctrl + Shift + M",
+      "Ctrl + M",
+      "Ctrl + U",
+      "Alt + Backspace"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + Shift + M. It reverses the action of Ctrl + M."
+  },
+  {
+    "id": 265,
+    "question": "In MS Excel, which shortcut jumps instantly to cell A1 (top-left corner)?",
+    "options": [
+      "Ctrl + Home",
+      "Home",
+      "Alt + Home",
+      "Shift + Home"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + Home. Pressing just 'Home' goes to the start of the current row."
+  },
+  {
+    "id": 266,
+    "question": "Which shortcut resets the browser or document Zoom level to 100%?",
+    "options": [
+      "Ctrl + 0 (Zero)",
+      "Ctrl + 1",
+      "Ctrl + Z",
+      "Alt + 0"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + 0. It removes any zoom magnification."
+  },
+  {
+    "id": 267,
+    "question": "In MS Word, which shortcut inserts the Copyright symbol (©)?",
+    "options": [
+      "Alt + Ctrl + C",
+      "Ctrl + C",
+      "Shift + C",
+      "Ctrl + Shift + C"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Alt + Ctrl + C. Ctrl + C is for Copy."
+  },
+  {
+    "id": 268,
+    "question": "In MS Excel, how do you Select All cells in the sheet?",
+    "options": [
+      "Ctrl + A (pressed twice if in data)",
+      "Ctrl + S",
+      "Alt + A",
+      "Shift + A"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + A. If you are in a data table, the first press selects the table, the second selects the whole sheet."
+  },
+  {
+    "id": 269,
+    "question": "Which key allows you to select multiple non-adjacent items (files, cells, text) in Windows?",
+    "options": [
+      "Hold Ctrl + Click",
+      "Hold Shift + Click",
+      "Hold Alt + Click",
+      "Hold Tab + Click"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Hold Ctrl + Click. Holding Shift selects a continuous block of items."
+  },
+  {
+    "id": 270,
+    "question": "In MS PowerPoint, which key goes back to the 'Previous Slide'?",
+    "options": [
+      "Backspace",
+      "Spacebar",
+      "Enter",
+      "Esc"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Backspace. 'Left Arrow' or 'Page Up' also works."
+  },
+  {
+    "id": 271,
+    "question": "In MS Word, how do you select text from the cursor position to the beginning of the document?",
+    "options": [
+      "Ctrl + Shift + Home",
+      "Ctrl + Shift + End",
+      "Ctrl + Home",
+      "Shift + Page Up"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + Shift + Home. Ctrl + Shift + End selects to the end of the document."
+  },
+  {
+    "id": 272,
+    "question": "In MS Excel, which shortcut applies the 'Scientific' number format (e.g., 1.00E+02)?",
+    "options": [
+      "Ctrl + Shift + 6 (or ^)",
+      "Ctrl + Shift + 5",
+      "Ctrl + S",
+      "Alt + S"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + Shift + 6. It is used for very large or small numbers."
+  },
+  {
+    "id": 273,
+    "question": "Which shortcut opens the 'History' tab in Web Browsers?",
+    "options": [
+      "Ctrl + H",
+      "Ctrl + Shift + H",
+      "Alt + H",
+      "F4"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + H. In MS Word, Ctrl + H is Find/Replace, but in browsers, it is History."
+  },
+  {
+    "id": 274,
+    "question": "In MS Word, which shortcut inserts the Registered Trademark symbol (®)?",
+    "options": [
+      "Alt + Ctrl + R",
+      "Ctrl + R",
+      "Alt + R",
+      "Ctrl + Shift + R"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Alt + Ctrl + R. Ctrl + R is Right Align."
+  },
+  {
+    "id": 275,
+    "question": "Which key is used to select a continuous block of items (from Point A to Point B) in Windows?",
+    "options": [
+      "Shift + Click",
+      "Ctrl + Click",
+      "Alt + Click",
+      "Tab + Click"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Shift + Click. You click the first item, hold Shift, and click the last item."
+  },
+  {
+    "id": 276,
+    "question": "In MS Excel, which shortcut opens the 'Insert Function' dialog box?",
+    "options": [
+      "Shift + F3",
+      "Ctrl + F3",
+      "Alt + F3",
+      "F3"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Shift + F3. It helps you search for formulas like SUM, AVERAGE, or VLOOKUP."
+  },
+  {
+    "id": 277,
+    "question": "In MS PowerPoint, which key erases all on-screen ink/drawings during a presentation?",
+    "options": [
+      "E",
+      "A",
+      "P",
+      "Ctrl + E"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: E. It stands for Erase. Note: This cannot be undone easily during the show."
+  },
+  {
+    "id": 278,
+    "question": "In MS Word, which shortcut maximizes or restores the document window (inside the app)?",
+    "options": [
+      "Ctrl + F10",
+      "Ctrl + F12",
+      "Alt + F10",
+      "Shift + F10"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + F10. This is legacy MDI (Multiple Document Interface) behavior still present in Office."
+  },
+  {
+    "id": 279,
+    "question": "In MS Excel, which shortcut removes Borders from the selected cells?",
+    "options": [
+      "Ctrl + Shift + _ (Underscore)",
+      "Ctrl + Shift + &",
+      "Ctrl + B",
+      "Alt + B"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + Shift + _. Ctrl + Shift + & adds an outline border."
+  },
+  {
+    "id": 280,
+    "question": "Which shortcut allows you to cycle through open 'Tabs' in Browsers or Excel?",
+    "options": [
+      "Ctrl + Tab",
+      "Alt + Tab",
+      "Windows Key + Tab",
+      "Shift + Tab"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + Tab. Alt + Tab switches between separate application windows."
+  },
+  {
+    "id": 281,
+    "question": "Which shortcut creates a 'Bookmark' for the current page in Web Browsers?",
+    "options": [
+      "Ctrl + D",
+      "Ctrl + B",
+      "Alt + B",
+      "Ctrl + Shift + B"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + D. It opens the dialog to save the favorite/bookmark."
+  },
+  {
+    "id": 282,
+    "question": "In MS Word, which shortcut inserts the Trademark symbol (™)?",
+    "options": [
+      "Alt + Ctrl + T",
+      "Ctrl + T",
+      "Ctrl + Shift + T",
+      "Alt + T"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Alt + Ctrl + T. Ctrl + T is Hanging Indent."
+  },
+  {
+    "id": 283,
+    "question": "In MS Excel, which shortcut copies the value from the cell directly Above into the current cell?",
+    "options": [
+      "Ctrl + Shift + \" (Quote)",
+      "Ctrl + D",
+      "Ctrl + ' (Apostrophe)",
+      "Alt + Down Arrow"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + Shift + \". Ctrl + D fills the cell including formatting, while this copies the value."
+  },
+  {
+    "id": 284,
+    "question": "In MS PowerPoint, how do you jump to 'Slide 1' immediately during a show?",
+    "options": [
+      "Press 1 then Enter",
+      "Press Home",
+      "Press Left Arrow twice",
+      "Both A and B"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is: Both A and B. Typing the slide number + Enter goes to that slide; Home goes to the start."
+  },
+  {
+    "id": 285,
+    "question": "Which shortcut restores a Minimized window in Windows (undoes Win + M)?",
+    "options": [
+      "Windows Key + Shift + M",
+      "Windows Key + Up Arrow",
+      "Ctrl + M",
+      "Alt + M"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Windows Key + Shift + M. It brings back windows minimized by the Show Desktop command."
+  },
+  {
+    "id": 286,
+    "question": "In MS Word, how do you close the current Document without closing the Word application?",
+    "options": [
+      "Ctrl + W",
+      "Alt + F4",
+      "Ctrl + Q",
+      "Esc"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + W. Alt + F4 closes the entire Word program."
+  },
+  {
+    "id": 287,
+    "question": "Which shortcut opens an existing file (Open dialog) in most applications?",
+    "options": [
+      "Ctrl + O",
+      "Ctrl + F12",
+      "Alt + O",
+      "Both A and B"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is: Both A and B. Ctrl + O is the standard shortcut, but Ctrl + F12 also opens the file dialog in Office."
+  },
+  {
+    "id": 288,
+    "question": "In MS PowerPoint, which key toggles the 'Ink Markup' visibility (show/hide drawings)?",
+    "options": [
+      "Ctrl + M",
+      "Ctrl + H",
+      "I",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + M. This allows you to hide annotations without erasing them."
+  },
+  {
+    "id": 289,
+    "question": "Which shortcut turns on 'High Contrast' mode in Windows (Accessibility feature)?",
+    "options": [
+      "Left Alt + Left Shift + Print Screen",
+      "Windows Key + H",
+      "Ctrl + Alt + H",
+      "Alt + Enter"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Left Alt + Left Shift + Print Screen. It changes the color scheme for better visibility."
+  },
+  {
+    "id": 290,
+    "question": "Which shortcut opens a New Window of the current application (e.g., a second Chrome window)?",
+    "options": [
+      "Ctrl + N",
+      "Ctrl + T",
+      "Alt + N",
+      "Shift + N"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + N. Ctrl + T usually opens a new Tab."
   }
 ]

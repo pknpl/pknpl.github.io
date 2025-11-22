@@ -1,122 +1,2406 @@
 [
   {
-    "id": 1051,
-    "question": "You can assign _____________ to your messages to remind you to follow up on an issue.",
+    "id": 1,
+    "question": "Which AI tool developed by OpenAI is primarily used for generating human-like text responses and drafting content?",
     "options": [
-      "Folders",
-      "Contact Groups",
-      "Tasks",
-      "Flags"
-    ],
-    "answer": 3,
-    "explanation": "The Correct Answer is Flags"
-  },
-  {
-    "id": 1052,
-    "question": "Have a look at this picture. The event in this Outlook Calendar has an icon. What does that stand for?",
-    "options": [
-      "Charm",
-      "Category",
-      "Flag",
-      "Board"
-    ],
-    "answer": 0,
-    "explanation": "The Correct Answer is Charm"
-  },
-  {
-    "id": 1053,
-    "question": "What purpose does a reminder serve?",
-    "options": [
-      "It reminds you about the event",
-      "It erases the event",
-      "It saves the event for you",
-      "It sends out an email to people"
-    ],
-    "answer": 0,
-    "explanation": "The Correct Answer is It reminds you about the event"
-  },
-  {
-    "id": 1054,
-    "question": "If you enter % Complete as 25, even though the Status has been set as Not Started, it is automatically displayed as _______.",
-    "options": [
-      "In Progress",
-      "Not started",
-      "Completed",
-      "Failed"
-    ],
-    "answer": 0,
-    "explanation": "The Correct Answer is In Progress"
-  },
-  {
-    "id": 1055,
-    "question": "You might find your Task List cluttered with completed tasks. In this case, you can ____________ such tasks from the Task List.",
-    "options": [
-      "add more",
-      "remove",
-      "send",
-      "mark"
+      "DALL-E",
+      "ChatGPT",
+      "Suno AI",
+      "Otter.ai"
     ],
     "answer": 1,
-    "explanation": "The Correct Answer is remove"
+    "explanation": "The correct answer is: ChatGPT. It is a conversational AI model designed for natural language understanding and text generation."
   },
   {
-    "id": 1056,
-    "question": "While saving data on a computer, you choose between .txt, .csv, and .doc formats. What are these called?",
+    "id": 2,
+    "question": "Which platform is best known for generating images from text descriptions?",
     "options": [
-      "Data structures",
-      "File formats",
-      "Data models",
-      "Backup types"
+      "Otter.ai",
+      "DALL-E",
+      "Grammarly",
+      "Todoist"
     ],
     "answer": 1,
-    "explanation": "The Correct Answer is File formats"
+    "explanation": "The correct answer is: DALL-E. It is an AI system developed by OpenAI that creates realistic images and art from a description in natural language."
   },
   {
-    "id": 1057,
-    "question": "A photograph taken on your phone is stored as a .jpg file. What type of data format is this?",
+    "id": 3,
+    "question": "What is the primary function of 'Otter.ai'?",
     "options": [
-      "Text format",
-      "Image format",
-      "Video format",
-      "Audio format"
-    ],
-    "answer": 1,
-    "explanation": "The Correct Answer is Image format"
-  },
-  {
-    "id": 1058,
-    "question": "You listen to a song in MP3 format on your computer. Which type of data is this?",
-    "options": [
-      "Image data",
-      "Audio data",
-      "Video data",
-      "Text data"
-    ],
-    "answer": 1,
-    "explanation": "The Correct Answer is Audio data"
-  },
-  {
-    "id": 1059,
-    "question": "While making a school project video, you save it as an .mp4 file. What type of file is this?",
-    "options": [
-      "Text file",
-      "Audio file",
-      "Video file",
-      "Image file"
+      "Video Editing",
+      "Graphic Design",
+      "Meeting Transcription and Note-taking",
+      "Task Automation"
     ],
     "answer": 2,
-    "explanation": "The Correct Answer is Video file"
+    "explanation": "The correct answer is: Meeting Transcription and Note-taking. Otter.ai uses AI to transcribe voice conversations and meetings in real-time."
   },
   {
-    "id": 1060,
-    "question": "When entering marks, the system does not allow numbers above 100. What is this process called?",
+    "id": 4,
+    "question": "IFTTT stands for:",
     "options": [
-      "Verification",
-      "Validation",
-      "Encryption",
-      "Duplication"
+      "If This Then That",
+      "Input Format Text To Transfer",
+      "International File Transfer Technology",
+      "Image Format Text Translation"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: If This Then That. It is a service that allows users to create chains of simple conditional statements, called 'Applets'."
+  },
+  {
+    "id": 5,
+    "question": "Which Google initiative focuses on helping users maintain a healthy relationship with technology?",
+    "options": [
+      "Google Fit",
+      "Digital Wellbeing",
+      "Google Keep",
+      "Google Ads"
     ],
     "answer": 1,
-    "explanation": "The Correct Answer is Validation"
+    "explanation": "The correct answer is: Digital Wellbeing. It provides tools to help users monitor and manage their device usage habits."
+  },
+  {
+    "id": 6,
+    "question": "Which AI tool is integrated into Microsoft Edge and Windows to act as an AI-powered assistant?",
+    "options": [
+      "Siri",
+      "Microsoft Co-Pilot",
+      "Alexa",
+      "Watson"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Microsoft Co-Pilot. It is Microsoft's AI assistant that integrates with Microsoft 365 apps and the Windows operating system."
+  },
+  {
+    "id": 7,
+    "question": "What is the primary purpose of the 'Bhashini' platform launched by the Government of India?",
+    "options": [
+      "Agricultural planning",
+      "Language translation and voice interfacing",
+      "Weather forecasting",
+      "Digital currency management"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Language translation and voice interfacing. Bhashini aims to transcend language barriers in India using AI."
+  },
+  {
+    "id": 8,
+    "question": "Which tool would you use to paraphrase text or improve the fluency of your writing?",
+    "options": [
+      "Quillbot",
+      "Midjourney",
+      "Synthesia",
+      "Lookout"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Quillbot. It is an AI-powered writing tool specifically designing for paraphrasing and summarizing text."
+  },
+  {
+    "id": 9,
+    "question": "Which application is primarily used for organizing tasks and to-do lists?",
+    "options": [
+      "Suno AI",
+      "Todoist",
+      "HeyGen",
+      "Veed.io"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Todoist. It is a popular productivity application used for task management."
+  },
+  {
+    "id": 10,
+    "question": "Notion is best described as:",
+    "options": [
+      "A music generation tool",
+      "An all-in-one workspace for notes, tasks, and databases",
+      "A video conferencing tool",
+      "An antivirus software"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: An all-in-one workspace for notes, tasks, and databases. Notion allows users to organize various types of information in one platform."
+  },
+  {
+    "id": 11,
+    "question": "Habitica turns habit-building and productivity into a:",
+    "options": [
+      "Spreadsheet",
+      "RPG (Role-Playing Game)",
+      "Podcast",
+      "Legal Document"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: RPG (Role-Playing Game). Habitica gamifies your life by rewarding you for completing tasks and good habits."
+  },
+  {
+    "id": 12,
+    "question": "Which AI tool is specialized in generating music and songs from text prompts?",
+    "options": [
+      "Suno AI",
+      "DALL-E",
+      "Jasper",
+      "GitHub Copilot"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Suno AI. It is designed to generate realistic audio, including speech and music, from text descriptions."
+  },
+  {
+    "id": 13,
+    "question": "In MS PowerPoint, which feature uses AI to suggest professional slide layouts automatically?",
+    "options": [
+      "Slide Master",
+      "Design Ideas / Designer",
+      "Animation Pane",
+      "Presenter View"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Design Ideas / Designer. It analyzes the content of your slide and suggests professional designs."
+  },
+  {
+    "id": 14,
+    "question": "Which feature in Google Chrome uses AI to assist users in drafting text for various web fields?",
+    "options": [
+      "Google Translate",
+      "Help Me Write",
+      "Reading Mode",
+      "Incognito Mode"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Help Me Write. This generative AI feature helps users draft or refine content directly within the browser."
+  },
+  {
+    "id": 15,
+    "question": "eNAM stands for:",
+    "options": [
+      "Electronic National Agriculture Market",
+      "Energy and Natural Asset Management",
+      "Electronic Network for Arts and Media",
+      "Education National Assessment Module"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Electronic National Agriculture Market. It is a pan-India electronic trading portal for agricultural commodities."
+  },
+  {
+    "id": 16,
+    "question": "Which Government of India app provides access to various central and state government services in a single platform?",
+    "options": [
+      "Instagram",
+      "Umang",
+      "Candy Crush",
+      "Netflix"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Umang (Unified Mobile Application for New-age Governance). It aggregates government services for citizens."
+  },
+  {
+    "id": 17,
+    "question": "Research Rabbit is a tool primarily used for:",
+    "options": [
+      "Generating logos",
+      "Visualizing research papers and literature reviews",
+      "Editing videos",
+      "Automating emails"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Visualizing research papers and literature reviews. It helps researchers find connected papers and authors visually."
+  },
+  {
+    "id": 18,
+    "question": "Which AI tool helps users find high-quality stock photos and graphic resources?",
+    "options": [
+      "Freepik",
+      "Wireshark",
+      "Postman",
+      "Ubuntu"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Freepik. While originally a resource site, it now integrates AI to help search and generate graphic assets."
+  },
+  {
+    "id": 19,
+    "question": "HeyGen AI is best known for:",
+    "options": [
+      "Cybersecurity protection",
+      "Creating AI-generated avatar videos",
+      "Solving math problems",
+      "Managing passwords"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Creating AI-generated avatar videos. HeyGen allows users to create spokesperson videos with lip-syncing avatars."
+  },
+  {
+    "id": 20,
+    "question": "Which AI developed by Anthropic is a direct competitor to ChatGPT?",
+    "options": [
+      "Claude AI",
+      "Photoshop",
+      "WinRAR",
+      "VLC Player"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Claude AI. Developed by Anthropic, it is a large language model known for its focus on safety and large context windows."
+  },
+  {
+    "id": 21,
+    "question": "Gradescope is an AI-assisted tool designed for:",
+    "options": [
+      "Stock market analysis",
+      "Grading and assessing student work",
+      "Music composition",
+      "Fitness tracking"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Grading and assessing student work. It streamlines the grading process for exams, homework, and code."
+  },
+  {
+    "id": 22,
+    "question": "Which tool is widely used for reference management and academic social networking?",
+    "options": [
+      "Mendeley",
+      "Canva",
+      "Spotify",
+      "Uber"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Mendeley. It helps researchers manage references, generate citations, and connect with other researchers."
+  },
+  {
+    "id": 23,
+    "question": "Wolfram Alpha is known as a:",
+    "options": [
+      "Social Media Platform",
+      "Computational Knowledge Engine",
+      "Video Game Engine",
+      "Web Browser"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Computational Knowledge Engine. It answers factual queries by computing answers from externally sourced data."
+  },
+  {
+    "id": 24,
+    "question": "Google Bolo (now Read Along) is designed to help children:",
+    "options": [
+      "Learn to code",
+      "Improve their reading skills",
+      "Edit photos",
+      "Play multiplayer games"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Improve their reading skills. It uses speech recognition to listen to children read and provides feedback."
+  },
+  {
+    "id": 25,
+    "question": "Which tool allows you to write and execute Python code in a browser with zero configuration?",
+    "options": [
+      "Notepad",
+      "Google Colab",
+      "MS Word",
+      "Paint"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Google Colab (Colaboratory). It is a free Jupyter notebook environment that runs in the cloud."
+  },
+  {
+    "id": 26,
+    "question": "Amazon CodeWhisperer is an AI coding companion that:",
+    "options": [
+      "Plays soothing music while you code",
+      "Generates code suggestions in real-time",
+      "Deletes bugs automatically without asking",
+      "Translates code into spoken language"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Generates code suggestions in real-time. It helps developers write code faster by suggesting snippets and functions."
+  },
+  {
+    "id": 27,
+    "question": "Slidesgo is primarily a resource for:",
+    "options": [
+      "Downloading free Google Slides and PowerPoint templates",
+      "Booking airline tickets",
+      "Streaming movies",
+      "Learning guitar"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Downloading free Google Slides and PowerPoint templates. It offers creative themes for presentations."
+  },
+  {
+    "id": 28,
+    "question": "Photomath is an app that uses the camera to:",
+    "options": [
+      "Identify plants",
+      "Scan and solve mathematical problems",
+      "Translate street signs",
+      "Measure the height of buildings"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Scan and solve mathematical problems. It provides step-by-step explanations for math problems scanned via camera."
+  },
+  {
+    "id": 29,
+    "question": "Which AI-powered search engine provides direct answers with citations rather than just a list of links?",
+    "options": [
+      "Perplexity AI",
+      "Yahoo",
+      "DuckDuckGo",
+      "AOL"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Perplexity AI. It acts as an answer engine that compiles information and cites sources."
+  },
+  {
+    "id": 30,
+    "question": "Quizizz is an educational platform primarily used for:",
+    "options": [
+      "Writing detailed essays",
+      "Gamified quizzes and interactive lessons",
+      "3D Modeling",
+      "Secure file storage"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Gamified quizzes and interactive lessons. It allows teachers to conduct student-paced formative assessments."
+  },
+  {
+    "id": 31,
+    "question": "W3Schools is a popular online platform for learning:",
+    "options": [
+      "Cooking",
+      "Web development technologies (HTML, CSS, etc.)",
+      "Carpentry",
+      "History"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Web development technologies. It offers tutorials and references for web development languages."
+  },
+  {
+    "id": 32,
+    "question": "Pictory is an AI tool mainly used for:",
+    "options": [
+      "Creating short videos from long content",
+      "Painting digital art",
+      "Managing social media passwords",
+      "Tracking calories"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Creating short videos from long content. It automatically extracts highlights from long-form video or text."
+  },
+  {
+    "id": 33,
+    "question": "Hootsuite and Socialbee are tools used for:",
+    "options": [
+      "Social Media Management and Scheduling",
+      "Video Game Streaming",
+      "Medical Diagnosis",
+      "Weather tracking"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Social Media Management and Scheduling. They help users schedule posts across multiple social networks."
+  },
+  {
+    "id": 34,
+    "question": "Which tool is known for 'Help Me Write' and 'Smart Compose' features?",
+    "options": [
+      "Google Workspace (Docs/Gmail)",
+      "Adobe Premiere",
+      "Blender",
+      "Unity"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Google Workspace. Features like 'Help Me Write' utilize AI to assist in drafting emails and documents."
+  },
+  {
+    "id": 35,
+    "question": "Synthesia allows users to create videos using:",
+    "options": [
+      "Stop motion claymation",
+      "AI avatars and text-to-speech",
+      "Hand-drawn animation",
+      "Live actors only"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: AI avatars and text-to-speech. Synthesia generates professional videos from text without needing cameras or actors."
+  },
+  {
+    "id": 36,
+    "question": "Wireshark is a tool used for:",
+    "options": [
+      "Network Protocol Analysis",
+      "Photo editing",
+      "Music mixing",
+      "Text translation"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Network Protocol Analysis. It captures and displays the data traveling back and forth on a network."
+  },
+  {
+    "id": 37,
+    "question": "1Password is a tool designed for:",
+    "options": [
+      "Generating random jokes",
+      "Secure password management",
+      "One-click shopping",
+      "Speed reading"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Secure password management. It stores various passwords and sensitive data in a virtual vault."
+  },
+  {
+    "id": 38,
+    "question": "CyberChef is often referred to as:",
+    "options": [
+      "A cooking recipe generator",
+      "The Cyber Swiss Army Knife",
+      "A hacking game",
+      "A food delivery app"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: The Cyber Swiss Army Knife. It is a web app for encryption, encoding, compression, and data analysis."
+  },
+  {
+    "id": 39,
+    "question": "Replika is an AI designed to be:",
+    "options": [
+      "A personal AI companion/friend",
+      "A strict math tutor",
+      "A coding compiler",
+      "A stock market advisor"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: A personal AI companion/friend. Users chat with Replika to form an emotional connection or friendship."
+  },
+  {
+    "id": 40,
+    "question": "Ecosia is a search engine that uses its profits to:",
+    "options": [
+      "Buy cryptocurrency",
+      "Plant trees",
+      "Fund space travel",
+      "Build robots"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Plant trees. Ecosia donates a significant portion of its ad revenue to reforestation organizations."
+  },
+  {
+    "id": 41,
+    "question": "EyeLeo is a desktop application designed to:",
+    "options": [
+      "Track eye movement for gaming",
+      "Remind users to take breaks for eye health",
+      "Change screen colors to neon",
+      "Enhance webcam resolution"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Remind users to take breaks for eye health. It helps prevent eye strain for people who work at computers."
+  },
+  {
+    "id": 42,
+    "question": "AutoWater is a concept/tool generally associated with:",
+    "options": [
+      "Automatic irrigation/watering systems",
+      "Creating water from air",
+      "Measuring ocean depth",
+      "Filtering coffee"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Automatic irrigation/watering systems. It often refers to devices (like smart faucets or plant waterers) that automate water flow."
+  },
+  {
+    "id": 43,
+    "question": "Microsoft Security Copilot is a tool that helps security professionals by:",
+    "options": [
+      "Replacing all human staff",
+      "Analyzing threats using generative AI",
+      "Physically locking server room doors",
+      "Printing ID cards"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Analyzing threats using generative AI. It helps detect and respond to cyber threats at machine speed."
+  },
+  {
+    "id": 44,
+    "question": "What is the main purpose of 'Lumen5'?",
+    "options": [
+      "Turning text content into engaging videos",
+      "Measuring light intensity",
+      "Designing 3D lumens",
+      "Creating spreadsheets"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Turning text content into engaging videos. It is an AI video creation platform for content marketing."
+  },
+  {
+    "id": 45,
+    "question": "Veed.io is an online platform for:",
+    "options": [
+      "Video editing and recording",
+      "Sending emails",
+      "Coding Python",
+      "Playing chess"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Video editing and recording. It offers tools like auto-subtitles, cutting, and cropping in the browser."
+  },
+  {
+    "id": 46,
+    "question": "Which tool from the list is an 'AI Personality' often used to help draft emails in MS Outlook?",
+    "options": [
+      "Copilot / Smart Compose",
+      "EyeLeo",
+      "Wireshark",
+      "Habitica"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Copilot / Smart Compose. Microsoft integrates these AI features into Outlook to help draft emails."
+  },
+  {
+    "id": 47,
+    "question": "Gram Swaraj is a portal launched to strengthen:",
+    "options": [
+      "E-Governance in Panchayati Raj Institutions",
+      "Space research",
+      "Urban planning",
+      "Foreign trade"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: E-Governance in Panchayati Raj Institutions. It simplifies the work of accounting and monitoring for rural India."
+  },
+  {
+    "id": 48,
+    "question": "Brainly is a platform that functions as:",
+    "options": [
+      "A peer-to-peer learning community",
+      "A cloud storage service",
+      "A virus scanner",
+      "A dating app"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: A peer-to-peer learning community. Students ask homework questions and receive help from other students or experts."
+  },
+  {
+    "id": 49,
+    "question": "Which AI model by Google is multimodal and can process text, code, audio, image and video?",
+    "options": [
+      "Gemini",
+      "Cortana",
+      "Siri",
+      "Alexa"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Gemini. It is Google's most capable AI model, designed to be multimodal."
+  },
+  {
+    "id": 50,
+    "question": "Which tool is designed to help you check grammar and plagiarism?",
+    "options": [
+      "Grammarly / Quillbot",
+      "VLC Media Player",
+      "WinZip",
+      "Notepad++"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Grammarly / Quillbot. These tools use AI to detect writing errors and suggest improvements."
+  },
+  {
+    "id": 51,
+    "question": "Which AI assistant is integrated into Meta's platforms like WhatsApp, Instagram, and Facebook?",
+    "options": [
+      "Meta AI",
+      "Siri",
+      "Alexa",
+      "Cortana"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Meta AI. It is an artificial intelligence assistant powered by the Llama model, available across Meta's family of apps."
+  },
+  {
+    "id": 52,
+    "question": "Leonardo.Ai is primarily used for:",
+    "options": [
+      "Spreadsheet management",
+      "High-quality image generation and creative assets",
+      "Sending automated emails",
+      "Measuring heart rate"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: High-quality image generation and creative assets. It is a popular generative AI platform for creating game assets and art."
+  },
+  {
+    "id": 53,
+    "question": "Google Fit is a health-tracking platform that mainly monitors:",
+    "options": [
+      "Stock market trends",
+      "Physical activity (Heart Points and Steps)",
+      "Car engine health",
+      "Computer virus threats"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Physical activity. Google Fit collaborates with the AHA to track metrics like Heart Points and Move Minutes."
+  },
+  {
+    "id": 54,
+    "question": "UFSI stands for which agricultural initiative?",
+    "options": [
+      "Unified Farmer Service Interface",
+      "United Farming Standard Index",
+      "Universal Food Safety Institute",
+      "Union for Sustainable Irrigation"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Unified Farmer Service Interface. It is a core component of the 'AgriStack' to enable interoperability among agricultural software."
+  },
+  {
+    "id": 55,
+    "question": "GramCover is a platform specifically focused on:",
+    "options": [
+      "Designing book covers",
+      "Rural insurance and financial protection",
+      "Grammar checking",
+      "Covering crops with plastic"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Rural insurance and financial protection. GramCover works to de-risk rural India by providing accessible insurance products."
+  },
+  {
+    "id": 56,
+    "question": "Iris.ai is an AI tool designed to assist with:",
+    "options": [
+      "Scientific research and literature mapping",
+      "Iris scanning for security",
+      "Flower gardening tips",
+      "Photo editing"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Scientific research and literature mapping. It helps researchers navigate millions of research papers to find relevant information."
+  },
+  {
+    "id": 57,
+    "question": "Which app helps users solve homework questions by taking a picture of the problem, powered by Google AI?",
+    "options": [
+      "Socratic",
+      "TikTok",
+      "Uber",
+      "Spotify"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Socratic. It uses Google's AI to recognize problems and provide explanations and resources."
+  },
+  {
+    "id": 58,
+    "question": "UnstuckStudy AI is a tool geared towards:",
+    "options": [
+      "Helping students study more effectively",
+      "Unsticking car gears",
+      "Cooking recipes",
+      "Video game streaming"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Helping students study more effectively. It often generates quizzes, flashcards, and summaries from study materials."
+  },
+  {
+    "id": 59,
+    "question": "Coconote is best described as an AI tool for:",
+    "options": [
+      "Identifying coconut types",
+      "Transcribing and summarizing lectures/notes",
+      "Buying groceries",
+      "Weather forecasting"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Transcribing and summarizing lectures/notes. It is designed to help students capture and organize information from classes."
+  },
+  {
+    "id": 60,
+    "question": "Microsoft Math Solver differs from a standard calculator because it:",
+    "options": [
+      "Only does addition",
+      "Provides step-by-step explanations for problems",
+      "Costs $1000 per month",
+      "Requires a VR headset"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Provides step-by-step explanations for problems. It helps users learn the method, not just get the final answer."
+  },
+  {
+    "id": 61,
+    "question": "Mimo, Tynker, and Grasshopper are all apps designed to teach:",
+    "options": [
+      "Cooking",
+      "Coding and Programming",
+      "Yoga",
+      "Driving"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Coding and Programming. They use gamified lessons to teach languages like Python, JavaScript, and HTML."
+  },
+  {
+    "id": 62,
+    "question": "PyCharm Edu is an IDE specifically tailored for:",
+    "options": [
+      "Learning and teaching Python programming",
+      "Editing 4K video",
+      "Managing payroll",
+      "Designing 3D buildings"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Learning and teaching Python programming. It provides interactive courses and a professional development environment."
+  },
+  {
+    "id": 63,
+    "question": "Canva's 'Magic Studio' features allow users to:",
+    "options": [
+      "Perform magic tricks on stage",
+      "Generate and edit designs using AI",
+      "Hack into bank accounts",
+      "Repair hardware issues"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Generate and edit designs using AI. Features include Magic Write, Magic Edit, and Magic Design."
+  },
+  {
+    "id": 64,
+    "question": "Pexels is a platform that provides:",
+    "options": [
+      "Free stock photos and videos",
+      "Cryptocurrency trading",
+      "Legal advice",
+      "Online dating"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Free stock photos and videos. It uses AI algorithms to help surface the most relevant visual content for users."
+  },
+  {
+    "id": 65,
+    "question": "Lately.ai is a marketing tool used to:",
+    "options": [
+      "Automatically generate social media posts from long content",
+      "Schedule meetings late at night",
+      "Track package deliveries",
+      "Edit sound waves"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Automatically generate social media posts from long content. It slices blogs or videos into dozens of social posts."
+  },
+  {
+    "id": 66,
+    "question": "Vectra AI is a cybersecurity tool focused on:",
+    "options": [
+      "Vector graphics design",
+      "Network Detection and Response (NDR)",
+      "Email marketing",
+      "Employee payroll"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Network Detection and Response (NDR). It uses AI to detect hidden cyber threats in real-time."
+  },
+  {
+    "id": 67,
+    "question": "Anomali is a platform known for:",
+    "options": [
+      "Threat Intelligence and Cybersecurity",
+      "Animation creation",
+      "Weather anomalies",
+      "Online shopping"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Threat Intelligence and Cybersecurity. It helps organizations identify and address malicious activity."
+  },
+  {
+    "id": 68,
+    "question": "CrowdStrike Falcon is a leading solution for:",
+    "options": [
+      "Bird watching",
+      "Endpoint Security and Cloud Protection",
+      "Video game development",
+      "Social networking"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Endpoint Security and Cloud Protection. It is a cloud-native platform to stop breaches."
+  },
+  {
+    "id": 69,
+    "question": "Lookout is a security application primarily designed for:",
+    "options": [
+      "Mobile device security",
+      "Home surveillance cameras",
+      "Binoculars",
+      "Lighthouse management"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Mobile device security. It protects mobile data from threats like phishing and malware."
+  },
+  {
+    "id": 70,
+    "question": "Google Vids (part of Workspace) is an AI-powered app for:",
+    "options": [
+      "Watching movies",
+      "Creating videos for work (collaborative video creation)",
+      "Video calling",
+      "Recording security footage"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Creating videos for work. It assists in writing, recording, and editing videos for professional use."
+  },
+  {
+    "id": 71,
+    "question": "Which feature in Google Slides uses AI to automatically adjust text boxes and layouts?",
+    "options": [
+      "Smart Compose / Auto-layout",
+      "Spell check",
+      "Transitions",
+      "WordArt"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Smart Compose / Auto-layout. While Smart Compose suggests text, Google Slides also uses AI to format slides automatically."
+  },
+  {
+    "id": 72,
+    "question": "Stretchly is an open-source application that:",
+    "options": [
+      "Teaches yoga poses",
+      "Reminds users to take breaks from the computer",
+      "Stretches images without distortion",
+      "Calculates elasticity"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Reminds users to take breaks from the computer. It is a break time reminder app to prevent RSI."
+  },
+  {
+    "id": 73,
+    "question": "PostureMinder uses the webcam to:",
+    "options": [
+      "Take selfies",
+      "Monitor your sitting posture and alert you to sit up straight",
+      "Scan documents",
+      "Identify intruders"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Monitor your sitting posture. It uses AI/computer vision to ensure you maintain a healthy posture."
+  },
+  {
+    "id": 74,
+    "question": "Earth Hero is an app designed to help users:",
+    "options": [
+      "Become a superhero",
+      "Track and reduce their carbon footprint",
+      "Navigate the globe",
+      "Identify rocks"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Track and reduce their carbon footprint. It provides actionable steps to address climate change."
+  },
+  {
+    "id": 75,
+    "question": "Ecowrap is a solution generally associated with:",
+    "options": [
+      "Waste management and recycling supply chain",
+      "Gift wrapping paper",
+      "Music remixing",
+      "Food packaging"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Waste management and recycling supply chain. It often refers to tech-enabled waste collection and upcycling."
+  },
+  {
+    "id": 76,
+    "question": "Crystal (CrystalKnows) is an AI tool that analyzes:",
+    "options": [
+      "Gemstones",
+      "Personality profiles (DISC) to improve communication",
+      "Crystal ball predictions",
+      "Water clarity"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Personality profiles (DISC). It advises on how to communicate effectively with others based on their online profile."
+  },
+  {
+    "id": 77,
+    "question": "In MS Excel, the 'Analyze Data' feature uses AI to:",
+    "options": [
+      "Delete all data",
+      "Identify trends, patterns, and create summaries automatically",
+      "Change font colors randomly",
+      "Play music"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Identify trends, patterns, and create summaries. It allows users to ask natural language questions about their data."
+  },
+  {
+    "id": 78,
+    "question": "Google AI Essentials is best described as:",
+    "options": [
+      "A hardware kit",
+      "A self-paced course to learn how to use AI tools",
+      "A new smartphone",
+      "A coding language"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: A self-paced course to learn how to use AI tools. It is a certification program offered by Google."
+  },
+  {
+    "id": 79,
+    "question": "Which tool allows you to automate tasks between different apps (e.g., 'Save Instagram photos to Dropbox')?",
+    "options": [
+      "IFTTT (If This Then That)",
+      "Paint",
+      "Calculator",
+      "Notepad"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: IFTTT. It connects disparate apps and devices to create automated workflows."
+  },
+  {
+    "id": 80,
+    "question": "What is the primary function of 'Google Assistant'?",
+    "options": [
+      "To physically clean your house",
+      "A virtual helper that responds to voice commands",
+      "A video editor",
+      "A database manager"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: A virtual helper that responds to voice commands. It helps perform tasks, set reminders, and answer questions."
+  },
+  {
+    "id": 81,
+    "question": "Which of the following is a popular tool for plagiarism detection and grading assistance?",
+    "options": [
+      "Turnitin / Gradescope",
+      "VLC",
+      "WinAmp",
+      "Steam"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Turnitin / Gradescope. These tools are widely used in academic settings to ensure integrity and streamline grading."
+  },
+  {
+    "id": 82,
+    "question": "Amazon CodeWhisperer is most similar to which other tool?",
+    "options": [
+      "GitHub Copilot",
+      "Adobe Photoshop",
+      "Microsoft Excel",
+      "Google Maps"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: GitHub Copilot. Both are AI-powered coding assistants that suggest code snippets."
+  },
+  {
+    "id": 83,
+    "question": "Slidesgo is useful for users who need:",
+    "options": [
+      "Presentation templates for Google Slides and PowerPoint",
+      "To learn to drive",
+      "To order food",
+      "To book a hotel"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Presentation templates. It provides a library of creative, ready-to-use slide designs."
+  },
+  {
+    "id": 84,
+    "question": "What type of tool is 'Grasshopper' by Google?",
+    "options": [
+      "A pest control app",
+      "A beginner-friendly coding app for JavaScript",
+      "A flight simulator",
+      "A music player"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: A beginner-friendly coding app. It teaches JavaScript concepts through mini-games."
+  },
+  {
+    "id": 85,
+    "question": "Socialbee is primarily used to:",
+    "options": [
+      "Study bee behavior",
+      "Categorize and recycle evergreen social media content",
+      "Chat with friends",
+      "Watch movies"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Categorize and recycle evergreen social media content. It is a social media management tool."
+  },
+  {
+    "id": 86,
+    "question": "Which tool uses AI to help you improve your speaking and presentation skills by analyzing your voice?",
+    "options": [
+      "Speaker Coach (in PowerPoint)",
+      "Notepad",
+      "Snipping Tool",
+      "Calculator"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Speaker Coach. Available in PowerPoint, it provides feedback on pace, pitch, and filler words."
+  },
+  {
+    "id": 87,
+    "question": "What is the core function of '1Password'?",
+    "options": [
+      "To use only one password for everything (like '123456')",
+      "To store and manage strong, unique passwords securely",
+      "To hack passwords",
+      "To design websites"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: To store and manage strong, unique passwords securely. It acts as an encrypted vault for credentials."
+  },
+  {
+    "id": 88,
+    "question": "In the context of Google tools, 'Smart Compose' helps with:",
+    "options": [
+      "Composing music",
+      "Predictive text to complete sentences in emails",
+      "Drawing pictures",
+      "Calculating taxes"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Predictive text to complete sentences in emails. It is a feature in Gmail and Google Docs."
+  },
+  {
+    "id": 89,
+    "question": "Which AI tool helps in summarizing long YouTube videos?",
+    "options": [
+      "YouTube Summary with ChatGPT / Pictory",
+      "Paint 3D",
+      "Windows Media Player",
+      "Skype"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: YouTube Summary with ChatGPT / Pictory. These tools extract transcripts and key points from video content."
+  },
+  {
+    "id": 90,
+    "question": "Which government initiative aims to create a unique digital identity for farmers?",
+    "options": [
+      "AgriStack / UFSI",
+      "Digital India",
+      "Make in India",
+      "Swachh Bharat"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: AgriStack / UFSI. It aims to streamline farmer services and schemes through digital IDs."
+  },
+  {
+    "id": 91,
+    "question": "What is 'Wolfram Alpha' most famous for?",
+    "options": [
+      "Social networking",
+      "Providing computed answers to factual queries",
+      "Streaming sports",
+      "Sharing photos"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Providing computed answers to factual queries. It is a computational knowledge engine, not a standard search engine."
+  },
+  {
+    "id": 92,
+    "question": "Quizizz differs from Kahoot mainly by offering:",
+    "options": [
+      "Student-paced quizzes",
+      "Paper-only tests",
+      "No internet requirement",
+      "Only math questions"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Student-paced quizzes. Students can answer questions on their own device at their own speed."
+  },
+  {
+    "id": 93,
+    "question": "Which tool is essentially a 'Search Engine for Code'?",
+    "options": [
+      "Grepper / Sourcegraph",
+      "Instagram",
+      "Pinterest",
+      "Tinder"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Grepper / Sourcegraph. Developers use these to find code snippets and examples across repositories."
+  },
+  {
+    "id": 94,
+    "question": "What is the main benefit of using 'Google Colab'?",
+    "options": [
+      "Free access to GPUs for machine learning",
+      "Unlimited cloud storage for photos",
+      "Free movie streaming",
+      "Offline music playback"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Free access to GPUs for machine learning. It allows users to run Python code on Google's powerful hardware."
+  },
+  {
+    "id": 95,
+    "question": "Which AI tool is designed to help with 'Task Automation' specifically between web services?",
+    "options": [
+      "Zapier / IFTTT",
+      "Adobe Reader",
+      "WinRAR",
+      "McAfee"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Zapier / IFTTT. They automate workflows by moving data between different web applications."
+  },
+  {
+    "id": 96,
+    "question": "Perplexity AI combines the functions of:",
+    "options": [
+      "A chatbot and a search engine",
+      "A toaster and a microwave",
+      "A calculator and a calendar",
+      "A camera and a phone"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: A chatbot and a search engine. It converses like a chatbot but cites real-time web sources."
+  },
+  {
+    "id": 97,
+    "question": "Which tool would you use to 'humanize' AI-generated text to bypass detection?",
+    "options": [
+      "Undetectable.ai / StealthWriter",
+      "Notepad",
+      "Google Drive",
+      "Zoom"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Undetectable.ai / StealthWriter. These tools rewrite AI text to make it sound more natural and human-like."
+  },
+  {
+    "id": 98,
+    "question": "What is 'Gamma App' used for?",
+    "options": [
+      "Creating presentations, documents, and webpages with AI",
+      "Measuring radiation",
+      "Playing card games",
+      "Editing audio"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Creating presentations, documents, and webpages. It generates slide decks and layouts from simple text prompts."
+  },
+  {
+    "id": 99,
+    "question": "Which app is known for its 'AI-powered Search' for stock photography?",
+    "options": [
+      "Pexels / Shutterstock AI",
+      "Excel",
+      "Word",
+      "PowerPoint"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Pexels / Shutterstock AI. They use computer vision to tag and retrieve images accurately."
+  },
+  {
+    "id": 100,
+    "question": "What is the purpose of 'Microsoft Security Copilot'?",
+    "options": [
+      "To assist security teams with AI-driven insights",
+      "To fly planes",
+      "To drive cars",
+      "To clean windows"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: To assist security teams. It simplifies complex security data and helps responders react faster."
+  },
+  {
+    "id": 101,
+    "question": "Which AI tool is known as the 'Cyber Swiss Army Knife' due to its ability to perform various data operations like decoding and encryption?",
+    "options": [
+      "CyberChef",
+      "MasterChef",
+      "SousChef",
+      "DataCook"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: CyberChef. It is a versatile web-based tool used by cybersecurity professionals for data manipulation and analysis."
+  },
+  {
+    "id": 102,
+    "question": "Lately.ai is specifically designed to leverage AI for:",
+    "options": [
+      "Repurposing long-form content into social media posts",
+      "Translating ancient languages",
+      "Predicting the weather",
+      "Designing architectural blueprints"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Repurposing long-form content into social media posts. It analyzes content like blogs or videos and generates dozens of social posts."
+  },
+  {
+    "id": 103,
+    "question": "Which platform uses AI to provide 'Network Detection and Response' (NDR) to find hidden cyber threats?",
+    "options": [
+      "Vectra AI",
+      "Adobe Illustrator",
+      "Spotify",
+      "Dropbox"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Vectra AI. It monitors network traffic to detect and respond to cyberattacks in real-time."
+  },
+  {
+    "id": 104,
+    "question": "What is the primary function of 'Google Lens' (often integrated with Assistant/Gemini)?",
+    "options": [
+      "To record studio-quality audio",
+      "To search and identify objects using the camera",
+      "To manage calendar events",
+      "To compress video files"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: To search and identify objects using the camera. It uses visual analysis to identify plants, text, products, and landmarks."
+  },
+  {
+    "id": 105,
+    "question": "Which AI companion app allows users to create a virtual friend with a customizable personality?",
+    "options": [
+      "Replika",
+      "Excel",
+      "PowerPoint",
+      "Access"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Replika. It is an AI chatbot designed to provide companionship and emotional support."
+  },
+  {
+    "id": 106,
+    "question": "Lumen5 is an AI-powered video creation platform that is best suited for:",
+    "options": [
+      "Content marketers and bloggers",
+      "Professional film directors",
+      "Audio engineers",
+      "Video game developers"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Content marketers and bloggers. It converts text content (like blog posts) into engaging social videos automatically."
+  },
+  {
+    "id": 107,
+    "question": "Which tool would you use to automate the process of saving Gmail attachments directly to Google Drive?",
+    "options": [
+      "IFTTT / Zapier",
+      "Paint",
+      "Notepad",
+      "Calculator"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: IFTTT / Zapier. These automation tools can trigger actions (save to Drive) based on events (receive email)."
+  },
+  {
+    "id": 108,
+    "question": "What does 'UFSI' stand for in the context of the Indian Digital Agriculture Mission?",
+    "options": [
+      "Unified Farmer Service Interface",
+      "Universal Farming System Internet",
+      "United Food Security Initiative",
+      "Urban Farming Service Index"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Unified Farmer Service Interface. It is part of the 'AgriStack' initiative to digitize farmer data."
+  },
+  {
+    "id": 109,
+    "question": "Microsoft Security Copilot mainly helps security analysts by:",
+    "options": [
+      "Summarizing complex security incidents using generative AI",
+      "Physically patrolling the office",
+      "Installing antivirus software manually",
+      "Resetting Wi-Fi routers"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Summarizing complex security incidents using generative AI. It helps analysts understand and respond to threats faster."
+  },
+  {
+    "id": 110,
+    "question": "Which tool is a packet analyzer used for network troubleshooting and analysis?",
+    "options": [
+      "Wireshark",
+      "Photoshop",
+      "Audacity",
+      "Blender"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Wireshark. It captures data packets traveling on a network for detailed inspection."
+  },
+  {
+    "id": 111,
+    "question": "Google Vids is an AI-powered app designed to help users:",
+    "options": [
+      "Create and edit videos for professional work contexts",
+      "Watch viral cat videos",
+      "Download movies illegally",
+      "Stream live TV"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Create and edit videos for professional work contexts. It assists with storyboarding, voiceovers, and editing."
+  },
+  {
+    "id": 112,
+    "question": "Stretchly is an open-source app that focuses on:",
+    "options": [
+      "Ergonomics and break reminders",
+      "Yoga tutorials",
+      "Stretching photos",
+      "Elastic manufacturing"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ergonomics and break reminders. It enforces breaks to prevent Repetitive Strain Injury (RSI)."
+  },
+  {
+    "id": 113,
+    "question": "Which application uses the webcam to detect poor posture and alerts the user?",
+    "options": [
+      "PostureMinder",
+      "Instagram",
+      "Snapchat",
+      "FaceTime"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: PostureMinder. It uses AI computer vision to monitor sitting position and encourage better posture."
+  },
+  {
+    "id": 114,
+    "question": "EyeLeo is a tool designed to prevent:",
+    "options": [
+      "Computer Vision Syndrome / Eye Strain",
+      "Blindness",
+      "Color blindness",
+      "Eye infections"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Computer Vision Syndrome / Eye Strain. It dims the screen and reminds users to exercise their eyes."
+  },
+  {
+    "id": 115,
+    "question": "Ecosia is distinct from Google because it:",
+    "options": [
+      "Does not track users and plants trees with ad revenue",
+      "Is faster than light",
+      "Only searches for eco-friendly products",
+      "Requires a paid subscription"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Does not track users and plants trees with ad revenue. It is an eco-friendly search engine."
+  },
+  {
+    "id": 116,
+    "question": "Earth Hero is an app that helps users calculate and reduce their:",
+    "options": [
+      "Carbon Footprint",
+      "Bank Balance",
+      "Step Count",
+      "Calorie Intake"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Carbon Footprint. It offers personalized actions to help users live more sustainably."
+  },
+  {
+    "id": 117,
+    "question": "Ecowrap acts as a tech-enabled platform for:",
+    "options": [
+      "Waste collection and upcycling",
+      "Music distribution",
+      "Fast food delivery",
+      "Online gaming"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Waste collection and upcycling. It focuses on waste segregation and the recycling supply chain."
+  },
+  {
+    "id": 118,
+    "question": "AutoWater usually refers to devices that:",
+    "options": [
+      "Convert standard faucets into touchless, water-saving ones",
+      "Create water from air",
+      "Freeze water instantly",
+      "Boil water automatically"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Convert standard faucets into touchless, water-saving ones. It uses motion sensors to reduce water wastage."
+  },
+  {
+    "id": 119,
+    "question": "Crystal (CrystalKnows) uses AI to analyze online profiles and predict:",
+    "options": [
+      "Personality types (DISC)",
+      "Future wealth",
+      "Health status",
+      "Travel plans"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Personality types (DISC). It helps sales and HR professionals communicate better based on personality insights."
+  },
+  {
+    "id": 120,
+    "question": "Which tool is a threat intelligence platform that helps organizations identify cyber threats?",
+    "options": [
+      "Anomali",
+      "Pinterest",
+      "Tumblr",
+      "Reddit"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Anomali. It provides intelligence-driven cybersecurity solutions to detect and respond to threats."
+  },
+  {
+    "id": 121,
+    "question": "Lookout is primarily known as a security solution for:",
+    "options": [
+      "Mobile devices (Android/iOS)",
+      "Desktop PCs only",
+      "Mainframe computers",
+      "Smart fridges"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Mobile devices. It protects phones and tablets from phishing, malware, and theft."
+  },
+  {
+    "id": 122,
+    "question": "CrowdStrike Falcon is a cloud-native platform famous for:",
+    "options": [
+      "Endpoint Protection",
+      "Video Streaming",
+      "Social Networking",
+      "Graphic Design"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Endpoint Protection. It secures devices (endpoints) like laptops and servers from cyberattacks."
+  },
+  {
+    "id": 123,
+    "question": "Which feature in MS PowerPoint uses AI to coach you on your presentation skills?",
+    "options": [
+      "Speaker Coach",
+      "Slide Master",
+      "Animation Painter",
+      "Selection Pane"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Speaker Coach. It listens to your rehearsal and gives feedback on pace, pitch, and filler words."
+  },
+  {
+    "id": 124,
+    "question": "Socialbee helps users with:",
+    "options": [
+      "Scheduling and recycling social media content",
+      "Beekeeping tips",
+      "Identifying insects",
+      "Finding local honey"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Scheduling and recycling social media content. It categorizes content to keep social feeds active."
+  },
+  {
+    "id": 125,
+    "question": "Which AI tool allows you to turn blog posts into engaging videos using stock footage?",
+    "options": [
+      "Lumen5",
+      "Audacity",
+      "WinRAR",
+      "VLC"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Lumen5. It uses AI to match text from your blog to relevant video clips and images."
+  },
+  {
+    "id": 126,
+    "question": "PyCharm Edu is a version of the PyCharm IDE specifically designed for:",
+    "options": [
+      "Learners and educators",
+      "Professional hackers",
+      "Video editors",
+      "Music producers"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Learners and educators. It includes interactive courses to help users learn Python."
+  },
+  {
+    "id": 127,
+    "question": "Tynker is a coding platform aimed primarily at:",
+    "options": [
+      "Children and K-12 students",
+      "Senior Data Scientists",
+      "Cybersecurity experts",
+      "Network Engineers"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Children and K-12 students. It uses block-based coding to teach programming concepts."
+  },
+  {
+    "id": 128,
+    "question": "Mimo is a mobile app that gamifies learning for:",
+    "options": [
+      "Coding (Python, HTML, SQL)",
+      "Cooking",
+      "Dancing",
+      "Singing"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Coding. Mimo offers bite-sized lessons to learn programming on the go."
+  },
+  {
+    "id": 129,
+    "question": "Which Google tool helps developers write code faster by providing AI-generated suggestions?",
+    "options": [
+      "Google Colab (with AI coding features) / Gemini Code Assist",
+      "Google Earth",
+      "Google Maps",
+      "Google Photos"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Google Colab / Gemini Code Assist. These tools integrate AI to autocomplete and suggest code."
+  },
+  {
+    "id": 130,
+    "question": "Amazon CodeWhisperer is an AI coding companion that supports:",
+    "options": [
+      "Multiple programming languages and IDEs",
+      "Only Amazon Kindle books",
+      "Only shopping lists",
+      "Only writing emails"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Multiple programming languages and IDEs. It generates code suggestions within the developer's editor."
+  },
+  {
+    "id": 131,
+    "question": "Which tool is designed to help researchers organize, cite, and share research papers?",
+    "options": [
+      "Mendeley",
+      "Spotify",
+      "Netflix",
+      "Hulu"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Mendeley. It is a reference manager and academic social network."
+  },
+  {
+    "id": 132,
+    "question": "Gradescope uses AI to assist instructors with:",
+    "options": [
+      "Grading exams and homework",
+      "Cleaning the classroom",
+      "Taking attendance",
+      "Ordering lunch"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Grading exams and homework. It groups similar answers to speed up the grading process."
+  },
+  {
+    "id": 133,
+    "question": "Claude AI is a large language model developed by:",
+    "options": [
+      "Anthropic",
+      "Facebook",
+      "Apple",
+      "Netflix"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Anthropic. Claude is known for its focus on safety and ability to process large amounts of text."
+  },
+  {
+    "id": 134,
+    "question": "HeyGen AI is best known for its ability to:",
+    "options": [
+      "Translate videos while maintaining lip-sync",
+      "Generate random numbers",
+      "Create Excel spreadsheets",
+      "Edit audio files only"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Translate videos while maintaining lip-sync. It can dub a video into another language and adjust the speaker's lip movements."
+  },
+  {
+    "id": 135,
+    "question": "Freepik is a resource that now includes:",
+    "options": [
+      "AI-generated images and design assets",
+      "Live news broadcasts",
+      "Weather forecasts",
+      "Stock market data"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: AI-generated images and design assets. It combines traditional stock assets with AI creation tools."
+  },
+  {
+    "id": 136,
+    "question": "Iris.ai helps users specifically with:",
+    "options": [
+      "Navigating scientific research",
+      "Navigating city streets",
+      "Designing gardens",
+      "Choosing paint colors"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Navigating scientific research. It maps out research papers to help users find relevant studies."
+  },
+  {
+    "id": 137,
+    "question": "Research Rabbit is often called the:",
+    "options": [
+      "'Spotify for Research Papers'",
+      "'Netflix for Movies'",
+      "'Uber for Taxis'",
+      "'Tinder for Dates'"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: 'Spotify for Research Papers'. It recommends new papers based on what you are already reading."
+  },
+  {
+    "id": 138,
+    "question": "Umang is a mobile app that provides access to:",
+    "options": [
+      "Central and State Government services",
+      "Online shopping deals",
+      "Movie tickets",
+      "Food delivery"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Central and State Government services. It acts as a unified gateway for Indian citizens."
+  },
+  {
+    "id": 139,
+    "question": "Gram Swaraj is a web portal primarily for:",
+    "options": [
+      "Panchayati Raj Institutions (Rural Governance)",
+      "Space exploration",
+      "Stock trading",
+      "Urban housing"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Panchayati Raj Institutions. It aids in decentralized planning and accounting."
+  },
+  {
+    "id": 140,
+    "question": "GramCover works to provide:",
+    "options": [
+      "Insurance products to rural India",
+      "Book covers",
+      "Mobile covers",
+      "Table covers"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Insurance products to rural India. It leverages technology to distribute insurance in rural areas."
+  },
+  {
+    "id": 141,
+    "question": "eNAM creates a unified national market for:",
+    "options": [
+      "Agricultural commodities",
+      "Automobiles",
+      "Electronics",
+      "Textiles"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Agricultural commodities. It connects existing APMC mandis to create a unified market."
+  },
+  {
+    "id": 142,
+    "question": "Which feature in Google Slides uses AI to suggest layouts and formatting?",
+    "options": [
+      "Explore / Smart Compose",
+      "Paint Bucket",
+      "Crop Tool",
+      "Eraser"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Explore / Smart Compose. It automatically suggests professional designs for your content."
+  },
+  {
+    "id": 143,
+    "question": "Microsoft Outlook's AI features can help users:",
+    "options": [
+      "Draft emails and summarize long threads",
+      "Wash clothes",
+      "Cook food",
+      "Drive cars"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Draft emails and summarize long threads. Tools like Copilot integrate directly into Outlook."
+  },
+  {
+    "id": 144,
+    "question": "Google Chrome's 'Help Me Write' feature is used to:",
+    "options": [
+      "Generate text for forms and emails within the browser",
+      "Fix hardware issues",
+      "Install drivers",
+      "Clean the screen"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Generate text for forms and emails within the browser. It uses generative AI to assist with writing tasks online."
+  },
+  {
+    "id": 145,
+    "question": "Suno AI differs from other generative AI because it generates:",
+    "options": [
+      "Full songs with vocals and lyrics",
+      "Only text",
+      "Only images",
+      "Only code"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Full songs with vocals and lyrics. It is a specialized AI for music generation."
+  },
+  {
+    "id": 146,
+    "question": "Habitica is a productivity app that:",
+    "options": [
+      "Gamifies your life like an RPG",
+      "Writes your emails",
+      "Pays your bills",
+      "Cleans your house"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Gamifies your life like an RPG. Completing tasks levels up your character."
+  },
+  {
+    "id": 147,
+    "question": "Notion is an all-in-one workspace known for its:",
+    "options": [
+      "Flexibility in combining notes, docs, and databases",
+      "Strict rigidity",
+      "Inability to store text",
+      "Focus on video editing only"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Flexibility in combining notes, docs, and databases. It is highly customizable."
+  },
+  {
+    "id": 148,
+    "question": "Todoist is primarily used for:",
+    "options": [
+      "Task management and to-do lists",
+      "Social media streaming",
+      "Weather tracking",
+      "Music playback"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Task management and to-do lists. It helps users organize and prioritize tasks."
+  },
+  {
+    "id": 149,
+    "question": "Quillbot is widely used by students to:",
+    "options": [
+      "Paraphrase and summarize text",
+      "Copy exams",
+      "Hack school servers",
+      "Skip classes"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Paraphrase and summarize text. It helps improve writing fluency and avoid plagiarism."
+  },
+  {
+    "id": 150,
+    "question": "Bhashini is an AI initiative by the Indian government focused on:",
+    "options": [
+      "Language translation and breaking language barriers",
+      "Building roads",
+      "Space travel",
+      "Nuclear energy"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Language translation. It aims to make digital services accessible in native Indian languages."
+  },
+  {
+    "id": 151,
+    "question": "Which feature in 'Digital Wellbeing' allows you to pause distracting apps temporarily?",
+    "options": [
+      "Focus Mode",
+      "Sleep Mode",
+      "Airplane Mode",
+      "Game Mode"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Focus Mode. It lets you select apps you find distracting and pauses them so you can focus on your work."
+  },
+  {
+    "id": 152,
+    "question": "Google Fit collaborates with which organization to define 'Heart Points'?",
+    "options": [
+      "American Heart Association (AHA)",
+      "NASA",
+      "FIFA",
+      "World Wildlife Fund"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: American Heart Association (AHA). They worked together to create an activity goal based on physical activity recommendations."
+  },
+  {
+    "id": 153,
+    "question": "In Windows 11, Microsoft Co-Pilot is primarily accessed via:",
+    "options": [
+      "The Taskbar or Win+C",
+      "The Bios settings",
+      "The Control Panel only",
+      "A floppy disk"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: The Taskbar or Win+C. It is integrated directly into the Windows desktop interface."
+  },
+  {
+    "id": 154,
+    "question": "The 'Bhasha Daan' initiative is associated with which platform?",
+    "options": [
+      "Bhashini",
+      "Spotify",
+      "Uber",
+      "Zomato"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Bhashini. Bhasha Daan is a crowdsourcing initiative to collect voice and text data for Indian languages."
+  },
+  {
+    "id": 155,
+    "question": "Quillbot is available as an extension for:",
+    "options": [
+      "Chrome, Word, and macOS",
+      "Toasters",
+      "Washing Machines",
+      "Calculators"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Chrome, Word, and macOS. It integrates into writing workflows across browsers and word processors."
+  },
+  {
+    "id": 156,
+    "question": "Which unique feature of Todoist allows you to type 'Buy milk every Monday' and have it automatically schedule a recurring task?",
+    "options": [
+      "Natural Language Input",
+      "Voice Screaming",
+      "Binary Code Entry",
+      "Mind Reading"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Natural Language Input. Todoist parses simple English sentences to set dates and recurring schedules."
+  },
+  {
+    "id": 157,
+    "question": "In Notion, the basic unit of content (text, image, todo) is called a:",
+    "options": [
+      "Block",
+      "Brick",
+      "Pixel",
+      "Byte"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Block. Everything in Notion, from a paragraph to an image, is a 'block' that can be moved around."
+  },
+  {
+    "id": 158,
+    "question": "In Habitica, what happens if you fail to complete your daily tasks?",
+    "options": [
+      "Your avatar loses health",
+      "Your computer shuts down",
+      "You get a fine",
+      "Nothing happens"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Your avatar loses health. This gamification element motivates users to complete their habits."
+  },
+  {
+    "id": 159,
+    "question": "Suno AI is capable of generating:",
+    "options": [
+      "Both instrumental tracks and songs with lyrics",
+      "Only drum beats",
+      "Only piano sounds",
+      "Only silence"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Both instrumental tracks and songs with lyrics. It uses generative AI to compose full musical pieces."
+  },
+  {
+    "id": 160,
+    "question": "Where is the 'Analyze Data' button typically found in the MS Excel ribbon?",
+    "options": [
+      "Home Tab (far right)",
+      "File Menu",
+      "Help Menu",
+      "Page Layout"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Home Tab. It is usually located on the far right of the Home ribbon in modern Excel versions."
+  },
+  {
+    "id": 161,
+    "question": "What is a key benefit of using 'Copilot in Outlook'?",
+    "options": [
+      "It can summarize long email threads instantly",
+      "It delivers physical mail",
+      "It prints emails automatically",
+      "It changes your email password daily"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: It can summarize long email threads instantly. This helps users catch up on long conversations quickly."
+  },
+  {
+    "id": 162,
+    "question": "Google Chrome's 'Reading Mode' (often AI-enhanced) is designed to:",
+    "options": [
+      "Remove distractions like ads and sidebars for easier reading",
+      "Read your credit card number out loud",
+      "Close all tabs",
+      "Delete your history"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Remove distractions. It simplifies web pages to text and images for better readability."
+  },
+  {
+    "id": 163,
+    "question": "In the context of eNAM, what does FPO stand for?",
+    "options": [
+      "Farmer Producer Organization",
+      "Fast Potato Order",
+      "Free Public Opinion",
+      "Fruit Production Office"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Farmer Producer Organization. FPOs are key stakeholders in the eNAM ecosystem."
+  },
+  {
+    "id": 164,
+    "question": "GramCover primarily targets which demographic?",
+    "options": [
+      "Rural population and farmers",
+      "Urban billionaires",
+      "International tourists",
+      "Astronauts"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Rural population and farmers. It aims to bring financial inclusion and insurance to rural India."
+  },
+  {
+    "id": 165,
+    "question": "The 'AgriStack' initiative involves creating:",
+    "options": [
+      "A unique Farmer ID for every farmer in India",
+      "A stack of pancakes",
+      "A new currency",
+      "A robot farmer"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: A unique Farmer ID. This ID links farmers to land records and government schemes."
+  },
+  {
+    "id": 166,
+    "question": "Umang App supports how many languages (approximately)?",
+    "options": [
+      "13+ Indian Languages",
+      "Only English",
+      "Only Hindi",
+      "All world languages"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: 13+ Indian Languages. It is designed to be accessible to a diverse Indian population."
+  },
+  {
+    "id": 167,
+    "question": "Research Rabbit allows users to visualize connections between papers using:",
+    "options": [
+      "Interactive graphs and networks",
+      "Bar charts only",
+      "Pie charts only",
+      "Spreadsheets only"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Interactive graphs and networks. It shows how papers cite one another visually."
+  },
+  {
+    "id": 168,
+    "question": "Iris.ai is particularly useful for which stage of research?",
+    "options": [
+      "The exploration and literature review stage",
+      "The printing stage",
+      "The binding stage",
+      "The grading stage"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: The exploration and literature review stage. It helps researchers find relevant papers quickly without knowing specific keywords."
+  },
+  {
+    "id": 169,
+    "question": "Freepik offers which types of assets?",
+    "options": [
+      "Vectors, photos, PSDs, and icons",
+      "Music only",
+      "Code only",
+      "Videos only"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Vectors, photos, PSDs, and icons. It is a comprehensive resource for graphic designers."
+  },
+  {
+    "id": 170,
+    "question": "HeyGen allows users to create custom avatars by:",
+    "options": [
+      "Uploading a video of themselves",
+      "Drawing a cartoon",
+      "Scanning a QR code",
+      "Describing a dream"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Uploading a video of themselves. HeyGen can clone a user's appearance and voice (with permission) for video generation."
+  },
+  {
+    "id": 171,
+    "question": "Claude AI is often noted for having a large 'Context Window', which means:",
+    "options": [
+      "It can process and remember very large documents or books at once",
+      "It has a large screen",
+      "It opens many windows",
+      "It runs slowly"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: It can process and remember very large documents. This allows it to analyze entire books or long reports in one prompt."
+  },
+  {
+    "id": 172,
+    "question": "Gradescope is particularly strong in grading which type of assignment?",
+    "options": [
+      "STEM subjects (Code, Math, Bubble sheets)",
+      "Art portfolios",
+      "Physical education",
+      "Oral debates"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: STEM subjects. It has specific features for grouping similar math answers and auto-grading code."
+  },
+  {
+    "id": 173,
+    "question": "The 'Mendeley Web Importer' is a browser extension that:",
+    "options": [
+      "Imports papers and citations directly from the web to your library",
+      "Imports viruses",
+      "Changes the website color",
+      "Translates pages"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Imports papers and citations. It simplifies saving research from sites like IEEE or Google Scholar."
+  },
+  {
+    "id": 174,
+    "question": "How does Wolfram Alpha differ from Google Search?",
+    "options": [
+      "Wolfram Alpha computes answers; Google searches for pages",
+      "Wolfram Alpha is for images only",
+      "Google is for math only",
+      "They are identical"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Wolfram Alpha computes answers. It uses structured data to calculate results rather than indexing web pages."
+  },
+  {
+    "id": 175,
+    "question": "In Brainly, answers are often verified by:",
+    "options": [
+      "Moderators and experts",
+      "Robots only",
+      "Random guessing",
+      "Coin toss"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Moderators and experts. The community helps ensure the accuracy of homework help provided."
+  },
+  {
+    "id": 176,
+    "question": "Google Read Along uses an in-app reading assistant named:",
+    "options": [
+      "Diya",
+      "Siri",
+      "Maya",
+      "Riya"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Diya. She listens to the child read and provides positive reinforcement and help."
+  },
+  {
+    "id": 177,
+    "question": "Unstuckstudy AI is best characterized as:",
+    "options": [
+      "A personalized AI tutor for students",
+      "A game for procrastinators",
+      "A glue brand",
+      "A travel agency"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: A personalized AI tutor. It helps students organize their study materials and prepare for exams."
+  },
+  {
+    "id": 178,
+    "question": "Coconote AI is primarily designed to be used during:",
+    "options": [
+      "Lectures and meetings",
+      "Sleeping",
+      "Swimming",
+      "Driving"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Lectures and meetings. It listens to audio and generates summaries and flashcards."
+  },
+  {
+    "id": 179,
+    "question": "Google Colab notebooks are stored in:",
+    "options": [
+      "Google Drive",
+      "Dropbox",
+      "OneDrive",
+      "A USB stick"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Google Drive. This makes them easy to share and access from anywhere."
+  },
+  {
+    "id": 180,
+    "question": "Amazon CodeWhisperer is optimized to work best with:",
+    "options": [
+      "AWS (Amazon Web Services) Cloud services",
+      "Google Cloud",
+      "Azure",
+      "IBM Cloud"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: AWS. It is trained specifically to help developers write code for Amazon's cloud ecosystem."
+  },
+  {
+    "id": 181,
+    "question": "Slidesgo templates are compatible with:",
+    "options": [
+      "Google Slides and Microsoft PowerPoint",
+      "Only Google Slides",
+      "Only PowerPoint",
+      "Notepad"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Google Slides and Microsoft PowerPoint. Users can download templates for either platform."
+  },
+  {
+    "id": 182,
+    "question": "Photomath supports which method of input?",
+    "options": [
+      "Scanning handwriting with a camera",
+      "Voice only",
+      "Thought transmission",
+      "Morse code"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Scanning handwriting. It can recognize handwritten math problems."
+  },
+  {
+    "id": 183,
+    "question": "Socratic by Google covers subjects like:",
+    "options": [
+      "Science, Math, Literature, and Social Studies",
+      "Only Math",
+      "Only Coding",
+      "Only Sports"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Science, Math, Literature, and Social Studies. It is a broad educational assistant."
+  },
+  {
+    "id": 184,
+    "question": "Microsoft Math Solver includes a feature to:",
+    "options": [
+      "Generate practice quizzes based on your problems",
+      "Play video games",
+      "Chat with friends",
+      "Order pizza"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Generate practice quizzes. This helps users test their knowledge after learning a concept."
+  },
+  {
+    "id": 185,
+    "question": "Perplexity AI differentiates itself by always providing:",
+    "options": [
+      "Citations/Sources for its answers",
+      "Jokes",
+      "Images only",
+      "False information"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Citations/Sources. It builds trust by showing where the information came from."
+  },
+  {
+    "id": 186,
+    "question": "In Quizizz, 'Homework Mode' allows:",
+    "options": [
+      "Students to complete the quiz by a deadline on their own time",
+      "Students to skip the quiz",
+      "Teachers to sleep in class",
+      "Parents to take the quiz"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Students to complete the quiz by a deadline. It is an asynchronous learning mode."
+  },
+  {
+    "id": 187,
+    "question": "Mimo uses 'Streaks' to encourage:",
+    "options": [
+      "Daily coding practice",
+      "Running",
+      "Cleaning",
+      "Sleeping"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Daily coding practice. Maintaining a streak keeps learners consistent."
+  },
+  {
+    "id": 188,
+    "question": "Tynker introduces coding concepts using:",
+    "options": [
+      "Visual blocks",
+      "Binary code only",
+      "Assembly language",
+      "Punch cards"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Visual blocks. Users drag and drop blocks to create code logic."
+  },
+  {
+    "id": 189,
+    "question": "Grasshopper by Google focuses primarily on teaching:",
+    "options": [
+      "JavaScript",
+      "C++",
+      "Rust",
+      "Cobol"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: JavaScript. It is designed to teach the fundamentals of this specific language."
+  },
+  {
+    "id": 190,
+    "question": "W3Schools is famous for its 'Try it Yourself' editor, which allows users to:",
+    "options": [
+      "Edit and run code directly in the browser",
+      "Download the website",
+      "Hack the server",
+      "Send emails"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Edit and run code directly in the browser. It provides instant feedback on code changes."
+  },
+  {
+    "id": 191,
+    "question": "PyCharm Edu allows educators to create:",
+    "options": [
+      "Interactive programming courses and assignments",
+      "Video games",
+      "Music playlists",
+      "Spreadsheets"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Interactive programming courses. Teachers can build fill-in-the-blank coding tasks."
+  },
+  {
+    "id": 192,
+    "question": "Pictory is an ideal tool for:",
+    "options": [
+      "Converting blog posts into short, shareable videos",
+      "Writing code",
+      "Managing passwords",
+      "Scanning networks"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Converting blog posts into short videos. It automatically selects visuals to match the text."
+  },
+  {
+    "id": 193,
+    "question": "Hootsuite provides 'Analytics' to help users:",
+    "options": [
+      "Measure the performance of their social media posts",
+      "Count their steps",
+      "Measure temperature",
+      "Weigh food"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Measure the performance of their social media posts. It tracks likes, shares, and engagement."
+  },
+  {
+    "id": 194,
+    "question": "Socialbee organizes content into:",
+    "options": [
+      "Categories (e.g., Curated, Promotional)",
+      "Beehives",
+      "Colors",
+      "Shapes"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Categories. This ensures a balanced mix of content is posted."
+  },
+  {
+    "id": 195,
+    "question": "Canva's 'Magic Switch' feature allows users to:",
+    "options": [
+      "Resize a design for different social platforms instantly",
+      "Turn off the lights",
+      "Switch user accounts",
+      "Delete the app"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Resize a design. It uses AI to reformat a design (e.g., form Instagram Post to Story)."
+  },
+  {
+    "id": 196,
+    "question": "One of the main advantages of Synthesia is:",
+    "options": [
+      "No need for cameras, microphones, or actors",
+      "Free pizza",
+      "Unlimited cloud storage",
+      "Faster internet speed"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: No need for cameras. You create video content by typing text."
+  },
+  {
+    "id": 197,
+    "question": "Pexels is known for providing photos that are:",
+    "options": [
+      "Royalty-free and free to use",
+      "Very expensive",
+      "Watermarked heavily",
+      "Low resolution only"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Royalty-free and free to use. It is a popular resource for creatives."
+  },
+  {
+    "id": 198,
+    "question": "Lumen5 uses AI to automatically match your text with:",
+    "options": [
+      "Relevant stock video clips and images",
+      "Random noises",
+      "Cartoons",
+      "Nothing"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Relevant stock video clips. It searches its library to find visuals that match your keywords."
+  },
+  {
+    "id": 199,
+    "question": "Lately.ai focuses on the concept of 'Social AI Management' to:",
+    "options": [
+      "Scale content creation",
+      "Reduce internet usage",
+      "Block social media",
+      "Print newspapers"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Scale content creation. It turns one piece of content into many social posts."
+  },
+  {
+    "id": 200,
+    "question": "Generative AI (like ChatGPT, DALL-E, Gemini) is defined by its ability to:",
+    "options": [
+      "Create new content (text, images, audio) rather than just analyzing existing data",
+      "Only copy and paste",
+      "Only perform math",
+      "Only search the web"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Create new content. Generative AI generates novel outputs based on its training."
   }
 ]
+
+
+
+
