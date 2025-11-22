@@ -272,5 +272,315 @@
     ],
     "answer": 0,
     "explanation": "The Correct Answer is In the Sent Items"
+  },
+  {
+    "id": 974,
+    "question": "Which of the following is safe to post on a social networking site?",
+    "options": [
+      "Your location",
+      "Your birthday",
+      "An alias",
+      "A picture of you with your friends"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is An alias"
+  },
+  {
+    "id": 975,
+    "question": "Which of the following types of people can you find on Social Networking sites?",
+    "options": [
+      "Musicians",
+      "Politicians",
+      "Criminals",
+      "All of the above"
+    ],
+    "answer": 3,
+    "explanation": "The Correct Answer is All of the above"
+  },
+  {
+    "id": 976,
+    "question": "Which of these mobile devices should be protected with a password?",
+    "options": [
+      "USB Pen Drive",
+      "Laptop",
+      "Tablet PC",
+      "All of the above"
+    ],
+    "answer": 3,
+    "explanation": "The Correct Answer is All of the above"
+  },
+  {
+    "id": 977,
+    "question": "Which of the below is not a social network?",
+    "options": [
+      "Facebook",
+      "Instagram",
+      "Flipkart",
+      "Twitter"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Flipkart"
+  },
+  {
+    "id": 978,
+    "question": "You can give out an online password only when:",
+    "options": [
+      "You go and change the password right after",
+      "An online service representative asks you in an e-mail or instant message to tell it to them.",
+      "The other person promises not to tell anyone else.",
+      "None of the above"
+    ],
+    "answer": 3,
+    "explanation": "The Correct Answer is None of the above"
+  },
+  {
+    "id": 979,
+    "question": "Windows Administrative account has full rights of that computer / laptop.",
+    "options": [
+      true,
+      false
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is TRUE"
+  },
+  {
+    "id": 980,
+    "question": "Social Networking involves communication between ___________ ?",
+    "options": [
+      "Two computers",
+      "A computer and a router",
+      "A human and a computer",
+      "Two or more people"
+    ],
+    "answer": 3,
+    "explanation": "The Correct Answer is Two or more people"
+  },
+  {
+    "id": 981,
+    "question": "Which username tells too much about the person?",
+    "options": [
+      "JoeDavid2008",
+      "Goldfish23",
+      "paperbag2222",
+      "HappyZebra8"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is JoeDavid2008"
+  },
+  {
+    "id": 982,
+    "question": "GUEST user account has full Administrative rights for a Windows OS installed on a computer.",
+    "options": [
+      true,
+      false
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is FALSE"
+  },
+  {
+    "id": 983,
+    "question": "Which of the following is the built-in user account in Windows ?",
+    "options": [
+      "Test",
+      "Admin",
+      "Administrator",
+      "User"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Administrator"
+  },
+  {
+    "id": 984,
+    "question": "Which of the following storage devices can be used for data Transfer using USB interface cable?",
+    "options": [
+      "Digital Camera",
+      "Pen Drive",
+      "Smartphone",
+      "All of the above"
+    ],
+    "answer": 3,
+    "explanation": "The Correct Answer is All of the above"
+  },
+  {
+    "id": 985,
+    "question": "In Windows , GUEST user account is a built - in account.",
+    "options": [
+      true,
+      false
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is TRUE"
+  },
+  {
+    "id": 986,
+    "question": "Which Section of the IT Act deals with any information sent using computers for creating annoyance, hatred etc.?",
+    "options": [
+      "67A",
+      72,
+      "66C",
+      "66A"
+    ],
+    "answer": 3,
+    "explanation": "The Correct Answer is 66A"
+  },
+  {
+    "id": 987,
+    "question": "Which of the following is not covered under IT Act?",
+    "options": [
+      "Digital Signatures",
+      "Privacy",
+      "Piracy",
+      "Cyber Crime"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Privacy"
+  },
+  {
+    "id": 988,
+    "question": "Legally, we should take the consent/ permission of other person before taking their picture / recording their conversation",
+    "options": [
+      true,
+      false
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is TRUE"
+  },
+  {
+    "id": 989,
+    "question": "Which Section of the IT Act deals with Sexual Offence using computers?",
+    "options": [
+      "67A",
+      72,
+      "66C",
+      "66A"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is 67A"
+  },
+  {
+    "id": 990,
+    "question": "You go on to a social networking website, a stranger starts talking to you, you reply and start talking for a while. One day they say “hey, we’ve been talking for a while, we’re getting to know each other pretty well, I think we should meet up sometime, what you think?”",
+    "options": [
+      "yeah, sure I’d love to ... “",
+      "“yeah, okay I’ll bring a friend though”",
+      "“No, sorry I don’t want to” And from then on stop talking to them.",
+      "Well, you should never have started talking to them in the first place"
+    ],
+    "answer": 3,
+    "explanation": "The Correct Answer is Well, you should never have started talking to them in the first place"
+  },
+  {
+    "id": 991,
+    "question": "If you use a public computer, before leaving you should:",
+    "options": [
+      "Log out of your windows login session",
+      "Delete any confidential files you downloaded, and empty the recycle bin",
+      "Clear the browser history and close the browser",
+      "All of the above"
+    ],
+    "answer": 3,
+    "explanation": "The Correct Answer is All of the above"
+  },
+  {
+    "id": 992,
+    "question": "Suppose you received random friend requests on a social internet site, you don’t know them, they have no profile picture, their age is listed as the same as yours. What should you do?",
+    "options": [
+      "Accept them, start talking find out who they are.",
+      "Decline them, why would you add someone you don’t know?",
+      "Mail them, and get to know them.",
+      "None of These"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Decline them, why would you add someone you don’t know?"
+  },
+  {
+    "id": 993,
+    "question": "A link for a new social networking comes onto your screen; you click on it to check it out. It seems a bit dodgy, and the age restriction is a lot older than you are, so you:",
+    "options": [
+      "Ignore it and carry on with what your doing",
+      "wait until your older to sign up",
+      "all your friends are members, so why can’t you be two",
+      "You’re with friends and they want to try it out, have a laugh"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Ignore it and carry on with what your doing"
+  },
+  {
+    "id": 994,
+    "question": "When traveling for business you should :",
+    "options": [
+      "Take only what you need in terms of mobile devices and files.",
+      "Keep all of your files on your laptop",
+      "Keep all of your files on your mobile",
+      "Do not carry any data on mobile and laptop"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Take only what you need in terms of mobile devices and files."
+  },
+  {
+    "id": 995,
+    "question": "It is NOT necessary to lock confidential and important Apps and files on a mobile computing device.",
+    "options": [
+      true,
+      false
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is FALSE"
+  },
+  {
+    "id": 996,
+    "question": "Online conversations that you have can be used as evidence to put you in jail, if you do something illegal.",
+    "options": [
+      true,
+      false
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is TRUE"
+  },
+  {
+    "id": 997,
+    "question": "I'm online and I meet someone my age on a matrimony site. Is it OK to give him or her my address or phone number immediately so we can meet and further discuss the things?",
+    "options": [
+      "Yes",
+      "No"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is No"
+  },
+  {
+    "id": 998,
+    "question": "A promise made by a seller or manufacturer to replace and/or repair the product or thing or any part thereof, within the specified time, if necessary,is called as",
+    "options": [
+      "Guarantee",
+      "Safety",
+      "Security",
+      "Warranty"
+    ],
+    "answer": 3,
+    "explanation": "The Correct Answer is Warranty"
+  },
+  {
+    "id": 999,
+    "question": "If you have to leave your computer in a car, you should put it:",
+    "options": [
+      "In a laptop bag",
+      "On the front seat",
+      "On the back seat",
+      "On the floor"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is In a laptop bag"
+  },
+  {
+    "id": 1000,
+    "question": "How can you prevent the theft of your laptop?",
+    "options": [
+      "When in use, secure it with a laptop lock.",
+      "When storing it, put it in a locked drawer.",
+      "When travelling, keep it with you until it can be locked up safely.",
+      "All of the above"
+    ],
+    "answer": 3,
+    "explanation": "The Correct Answer is All of the above"
   }
 ]

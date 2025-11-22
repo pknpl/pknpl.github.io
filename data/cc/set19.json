@@ -164,8 +164,8 @@
       "50 Mbps",
       "100 Mbps"
     ],
-    "answer": 2,
-    "explanation": "The Computing Resources page states a requirement of 'Minimum 50 Mbps Internet connection'."
+    "answer": 3,
+    "explanation": "The Computing Resources page states a requirement of 'Minimum 100 Mbps Internet connection'."
   },
   {
     "id": 555,
@@ -253,15 +253,15 @@
   },
   {
     "id": 562,
-    "question": "What is the minimum hard disk space required for a Client machine?",
+    "question": "What is the minimum disk space required for a Client machine?",
     "options": [
       "80 GB",
-      "160 GB",
+      "1 TB",
       "250 GB",
       "500 GB"
     ],
     "answer": 1,
-    "explanation": "The Minimum Client Configuration requires a 160 GB Hard disk (or higher, but 160 is the stated minimum)."
+    "explanation": "The Minimum Client Configuration requires a 1 TB SSd"
   },
   {
     "id": 563,
