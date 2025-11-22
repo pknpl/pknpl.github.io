@@ -1,0 +1,2283 @@
+[
+  {
+    "id": 101,
+    "question": "Which keyboard shortcut is used to lock your Windows 10 computer immediately?",
+    "options": [
+      "Ctrl + L",
+      "Windows Key + L",
+      "Alt + L",
+      "Shift + L"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Windows Key + L. This command instantly locks the workstation."
+  },
+  {
+    "id": 102,
+    "question": "In MS Word 365, which shortcut is used to 'Select All' content in the document?",
+    "options": [
+      "Ctrl + S",
+      "Ctrl + A",
+      "Alt + A",
+      "Shift + A"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Ctrl + A. This selects the entire text and objects in the document."
+  },
+  {
+    "id": 103,
+    "question": "Which shortcut key combination opens the 'File Explorer' in Windows 10?",
+    "options": [
+      "Windows Key + E",
+      "Windows Key + F",
+      "Ctrl + E",
+      "Alt + E"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Windows Key + E. This opens the My Computer/File Explorer window."
+  },
+  {
+    "id": 104,
+    "question": "In MS Excel 365, which key is used to edit the contents of the selected cell?",
+    "options": [
+      "F1",
+      "F2",
+      "F4",
+      "F12"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: F2. Pressing F2 activates the cursor inside the active cell for editing."
+  },
+  {
+    "id": 105,
+    "question": "What is the universal shortcut for 'Undo' in Windows and MS Office?",
+    "options": [
+      "Ctrl + Y",
+      "Ctrl + U",
+      "Ctrl + Z",
+      "Alt + Backspace"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: Ctrl + Z. This reverses the last action performed."
+  },
+  {
+    "id": 106,
+    "question": "In MS PowerPoint 365, which shortcut key starts the slideshow from the beginning?",
+    "options": [
+      "F5",
+      "Shift + F5",
+      "Ctrl + F5",
+      "Alt + S"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: F5. Shift + F5 starts from the current slide, but F5 starts from the beginning."
+  },
+  {
+    "id": 107,
+    "question": "Which shortcut opens the 'Run' dialog box in Windows 10?",
+    "options": [
+      "Ctrl + R",
+      "Alt + R",
+      "Windows Key + R",
+      "Shift + R"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: Windows Key + R. This opens the Run command window."
+  },
+  {
+    "id": 108,
+    "question": "In MS Word, which shortcut aligns the selected text to the Center?",
+    "options": [
+      "Ctrl + C",
+      "Ctrl + E",
+      "Ctrl + J",
+      "Ctrl + R"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Ctrl + E. Ctrl + C is for Copy, whereas Ctrl + E centers the text."
+  },
+  {
+    "id": 109,
+    "question": "Which shortcut is used to switch between open applications in Windows 10?",
+    "options": [
+      "Alt + Tab",
+      "Ctrl + Tab",
+      "Shift + Tab",
+      "Windows Key + Tab"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Alt + Tab. This allows you to toggle through open windows."
+  },
+  {
+    "id": 110,
+    "question": "In MS Excel, how do you quickly insert the current date?",
+    "options": [
+      "Ctrl + ; (Semicolon)",
+      "Ctrl + : (Colon)",
+      "Ctrl + D",
+      "Alt + Shift + D"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + ; (Semicolon). This inserts the current static date."
+  },
+  {
+    "id": 111,
+    "question": "Which shortcut opens the Windows Task Manager directly?",
+    "options": [
+      "Ctrl + Alt + Delete",
+      "Ctrl + Shift + Esc",
+      "Alt + Shift + Delete",
+      "Windows Key + T"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Ctrl + Shift + Esc. While Ctrl+Alt+Del opens a menu, this shortcut opens Task Manager directly."
+  },
+  {
+    "id": 112,
+    "question": "In MS Word, what does 'Ctrl + B' do?",
+    "options": [
+      "Adds a border",
+      "Makes text Bold",
+      "Breaks the page",
+      "Bookmarks the page"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Makes text Bold. It toggles bold formatting on selected text."
+  },
+  {
+    "id": 113,
+    "question": "Which Windows 10 shortcut takes a screenshot of a specific part of the screen (Snip)?",
+    "options": [
+      "PrtScn",
+      "Windows Key + Shift + S",
+      "Alt + PrtScn",
+      "Ctrl + PrtScn"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Windows Key + Shift + S. This opens the Snipping Tool overlay."
+  },
+  {
+    "id": 114,
+    "question": "In MS Office, which shortcut opens the 'Find' dialog box?",
+    "options": [
+      "Ctrl + H",
+      "Ctrl + F",
+      "Ctrl + G",
+      "Alt + F"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Ctrl + F. This opens the navigation or find pane."
+  },
+  {
+    "id": 115,
+    "question": "Which shortcut minimizes all open windows and shows the Desktop?",
+    "options": [
+      "Windows Key + D",
+      "Windows Key + M",
+      "Windows Key + Down Arrow",
+      "Ctrl + D"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Windows Key + D. It toggles between showing the desktop and restoring windows."
+  },
+  {
+    "id": 116,
+    "question": "In MS Excel, which key combination creates a chart from the selected data?",
+    "options": [
+      "F11",
+      "Alt + F1",
+      "Ctrl + F1",
+      "Shift + F1"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Alt + F1. This creates an embedded chart on the current sheet. (F11 creates a chart on a new sheet)."
+  },
+  {
+    "id": 117,
+    "question": "What does 'Ctrl + P' do in almost all Windows applications?",
+    "options": [
+      "Paste",
+      "Print",
+      "Preview",
+      "Properties"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Print. It opens the print dialog."
+  },
+  {
+    "id": 118,
+    "question": "In MS Word, how do you insert a Hyperlink?",
+    "options": [
+      "Ctrl + H",
+      "Ctrl + L",
+      "Ctrl + K",
+      "Alt + K"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: Ctrl + K. This opens the 'Insert Hyperlink' dialog box."
+  },
+  {
+    "id": 119,
+    "question": "Which shortcut opens the Windows 10 Settings app?",
+    "options": [
+      "Windows Key + I",
+      "Windows Key + S",
+      "Ctrl + I",
+      "Alt + Settings"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Windows Key + I. This launches the main Settings window."
+  },
+  {
+    "id": 120,
+    "question": "In MS PowerPoint, how do you insert a New Slide?",
+    "options": [
+      "Ctrl + N",
+      "Ctrl + M",
+      "Ctrl + Enter",
+      "Alt + N"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Ctrl + M. Ctrl + N creates a new presentation file."
+  },
+  {
+    "id": 121,
+    "question": "Which shortcut closes the currently active window or application?",
+    "options": [
+      "Ctrl + F4",
+      "Alt + F4",
+      "Shift + F4",
+      "Windows Key + C"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Alt + F4. This command closes the active app."
+  },
+  {
+    "id": 122,
+    "question": "In MS Excel, what does 'Ctrl + Space' do?",
+    "options": [
+      "Selects the entire row",
+      "Selects the entire column",
+      "Deletes the cell content",
+      "Inserts a space"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Selects the entire column. Shift + Space selects the row."
+  },
+  {
+    "id": 123,
+    "question": "What is the shortcut for 'Redo' (reverse an Undo) in Windows?",
+    "options": [
+      "Ctrl + R",
+      "Ctrl + Y",
+      "Ctrl + Shift + Z",
+      "Alt + U"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Ctrl + Y. It redoes the last action that was undone."
+  },
+  {
+    "id": 124,
+    "question": "Which shortcut opens the 'Action Center' (notifications) in Windows 10?",
+    "options": [
+      "Windows Key + A",
+      "Windows Key + N",
+      "Ctrl + A",
+      "Alt + A"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Windows Key + A. This opens the side panel for notifications."
+  },
+  {
+    "id": 125,
+    "question": "In MS Word, what is the shortcut for 'Replace'?",
+    "options": [
+      "Ctrl + R",
+      "Ctrl + F",
+      "Ctrl + H",
+      "Alt + R"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: Ctrl + H. This opens the Find and Replace dialog box."
+  },
+  {
+    "id": 126,
+    "question": "Which key combination snaps a window to the left half of the screen in Windows 10?",
+    "options": [
+      "Windows Key + Left Arrow",
+      "Ctrl + Left Arrow",
+      "Alt + Left Arrow",
+      "Shift + Left Arrow"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Windows Key + Left Arrow. This invokes the Snap Assist feature."
+  },
+  {
+    "id": 127,
+    "question": "In MS Excel, how do you move to the next sheet in the workbook?",
+    "options": [
+      "Ctrl + Tab",
+      "Ctrl + Page Down",
+      "Alt + Page Down",
+      "Shift + Tab"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Ctrl + Page Down. Ctrl + Page Up moves to the previous sheet."
+  },
+  {
+    "id": 128,
+    "question": "What does 'Ctrl + Shift + N' do on the Windows Desktop or File Explorer?",
+    "options": [
+      "Opens a new window",
+      "Creates a new folder",
+      "Renames a folder",
+      "Deletes a folder"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Creates a new folder. It instantly creates a folder ready to be named."
+  },
+  {
+    "id": 129,
+    "question": "In MS Office, what does the F12 key typically do?",
+    "options": [
+      "Save",
+      "Save As",
+      "Open",
+      "Print"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Save As. It opens the dialog to save the file with a new name or format."
+  },
+  {
+    "id": 130,
+    "question": "Which shortcut opens the 'Project' menu (to connect to a second screen/projector) in Windows 10?",
+    "options": [
+      "Windows Key + P",
+      "Windows Key + C",
+      "Alt + P",
+      "Ctrl + P"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Windows Key + P. This opens the projection sidebar (PC screen only, Duplicate, Extend, etc.)."
+  },
+  {
+    "id": 131,
+    "question": "In Windows 10, which shortcut creates a new Virtual Desktop?",
+    "options": [
+      "Windows Key + Ctrl + D",
+      "Windows Key + Shift + D",
+      "Ctrl + Alt + D",
+      "Alt + Shift + D"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Windows Key + Ctrl + D. This creates a fresh virtual desktop instantly."
+  },
+  {
+    "id": 132,
+    "question": "In MS Excel, what does the shortcut 'Alt + =' (Alt + Equals) do?",
+    "options": [
+      "Inserts a new equation",
+      "AutoSum selected cells",
+      "Zooms in",
+      "Checks spelling"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: AutoSum selected cells. It automatically inserts the Sum function for adjacent cells."
+  },
+  {
+    "id": 133,
+    "question": "Which shortcut toggles 'Full Screen Mode' in many Windows applications (like browsers)?",
+    "options": [
+      "F10",
+      "F11",
+      "F12",
+      "Alt + Enter"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: F11. It hides the address bar and menus to show the content in full screen."
+  },
+  {
+    "id": 134,
+    "question": "In MS Word, which key combination inserts a Page Break?",
+    "options": [
+      "Shift + Enter",
+      "Ctrl + Enter",
+      "Alt + Enter",
+      "Space + Enter"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Ctrl + Enter. Shift + Enter inserts a line break, while Ctrl + Enter moves to a new page."
+  },
+  {
+    "id": 135,
+    "question": "Which shortcut opens the 'magnifier' tool to zoom in on parts of the screen in Windows?",
+    "options": [
+      "Windows Key + Plus Sign (+)",
+      "Ctrl + Plus Sign (+)",
+      "Alt + Plus Sign (+)",
+      "Shift + Z"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Windows Key + Plus Sign (+). To zoom out, use Windows Key + Minus Sign (-)."
+  },
+  {
+    "id": 136,
+    "question": "In MS PowerPoint, which shortcut duplicates the selected slide or object?",
+    "options": [
+      "Ctrl + C",
+      "Ctrl + D",
+      "Ctrl + X",
+      "Alt + D"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Ctrl + D. It is a quick way to duplicate without using Copy and Paste separately."
+  },
+  {
+    "id": 137,
+    "question": "What is the shortcut to 'Peel' at the desktop (temporarily hide all windows) in Windows 10?",
+    "options": [
+      "Windows Key + Space",
+      "Windows Key + Comma (,)",
+      "Windows Key + Period (.)",
+      "Ctrl + D"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Windows Key + Comma (,). You hold it to see the desktop and release it to return."
+  },
+  {
+    "id": 138,
+    "question": "In MS Excel, which shortcut formats cells (opens the Format Cells dialog)?",
+    "options": [
+      "Ctrl + 1",
+      "Ctrl + F",
+      "Alt + F",
+      "Shift + F1"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + 1. It opens the detailed formatting menu for numbers, alignment, borders, etc."
+  },
+  {
+    "id": 139,
+    "question": "Which shortcut switches the keyboard input language (if multiple are installed) in Windows?",
+    "options": [
+      "Windows Key + Space",
+      "Ctrl + Space",
+      "Alt + Space",
+      "Shift + Space"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Windows Key + Space. It cycles through installed languages/keyboards."
+  },
+  {
+    "id": 140,
+    "question": "In MS Word, what does 'Shift + F3' do?",
+    "options": [
+      "Saves the document",
+      "Changes case (Upper/Lower/Title)",
+      "Opens the Thesaurus",
+      "Finds text"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Changes case. It toggles selected text between uppercase, lowercase, and title case."
+  },
+  {
+    "id": 141,
+    "question": "Which shortcut opens the Windows 'Emoji Panel' to insert emojis?",
+    "options": [
+      "Windows Key + Period (.)",
+      "Ctrl + Period (.)",
+      "Alt + E",
+      "Shift + E"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Windows Key + Period (.). It opens a small window to select emojis and symbols."
+  },
+  {
+    "id": 142,
+    "question": "In MS Excel, how do you quickly insert the current Time?",
+    "options": [
+      "Ctrl + ;",
+      "Ctrl + Shift + : (Colon)",
+      "Alt + T",
+      "Ctrl + T"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Ctrl + Shift + : (Colon). Ctrl + ; inserts the Date."
+  },
+  {
+    "id": 143,
+    "question": "What does 'Ctrl + W' do in most Windows applications (File Explorer, Browser, Word)?",
+    "options": [
+      "Opens a new window",
+      "Writes a file",
+      "Closes the current tab/document",
+      "Wakes the computer"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: Closes the current tab/document. It doesn't close the whole app if other tabs are open."
+  },
+  {
+    "id": 144,
+    "question": "In MS PowerPoint, which key turns the screen 'Black' during a presentation?",
+    "options": [
+      "B",
+      "W",
+      "Ctrl + B",
+      "Alt + B"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: B. Pressing 'W' turns the screen White."
+  },
+  {
+    "id": 145,
+    "question": "Which shortcut opens the 'Hidden Menu' (Quick Link menu) for the Start button in Windows 10?",
+    "options": [
+      "Windows Key + X",
+      "Windows Key + Z",
+      "Ctrl + Esc",
+      "Alt + S"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Windows Key + X. It opens a menu with links to Device Manager, Disk Management, etc."
+  },
+  {
+    "id": 146,
+    "question": "In MS Word, which shortcut creates a 'Hanging Indent'?",
+    "options": [
+      "Ctrl + H",
+      "Ctrl + T",
+      "Ctrl + I",
+      "Alt + T"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Ctrl + T. It indents the second line of the paragraph onwards."
+  },
+  {
+    "id": 147,
+    "question": "What does 'Alt + F8' do in MS Office applications?",
+    "options": [
+      "Opens the Macros dialog",
+      "Saves as PDF",
+      "Opens Formatting",
+      "Checks Accessibility"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Opens the Macros dialog. It allows you to run, edit, or create macros."
+  },
+  {
+    "id": 148,
+    "question": "Which Windows shortcut permanently deletes a file (bypassing the Recycle Bin)?",
+    "options": [
+      "Ctrl + Delete",
+      "Shift + Delete",
+      "Alt + Delete",
+      "Windows Key + Delete"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Shift + Delete. This action cannot be undone via the Recycle Bin."
+  },
+  {
+    "id": 149,
+    "question": "In MS Excel, which shortcut allows you to toggle between displaying cell values and Formulas?",
+    "options": [
+      "Ctrl + ` (Grave Accent)",
+      "Ctrl + F",
+      "Alt + V",
+      "Shift + F"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + ` (Grave Accent). This key is usually located near the '1' key."
+  },
+  {
+    "id": 150,
+    "question": "Which shortcut aligns text to the 'Justify' setting in MS Word?",
+    "options": [
+      "Ctrl + L",
+      "Ctrl + R",
+      "Ctrl + J",
+      "Ctrl + E"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: Ctrl + J. It spreads text evenly between the margins."
+  },
+  {
+    "id": 151,
+    "question": "In Windows 10, how do you close a Virtual Desktop?",
+    "options": [
+      "Windows Key + Ctrl + F4",
+      "Alt + F4",
+      "Ctrl + Shift + W",
+      "Windows Key + X"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Windows Key + Ctrl + F4. It closes the active virtual desktop."
+  },
+  {
+    "id": 152,
+    "question": "In MS PowerPoint, how do you change the pen tool to an arrow/cursor during a slide show?",
+    "options": [
+      "Ctrl + A",
+      "Ctrl + U",
+      "Ctrl + P",
+      "Esc"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + A. Ctrl + P changes the cursor to a Pen."
+  },
+  {
+    "id": 153,
+    "question": "Which shortcut in MS Word applies 'Subscript' formatting (e.g., H₂O)?",
+    "options": [
+      "Ctrl + Shift + +",
+      "Ctrl + = (Equal Sign)",
+      "Alt + S",
+      "Ctrl + Down Arrow"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Ctrl + =. For Superscript, it is Ctrl + Shift + +."
+  },
+  {
+    "id": 154,
+    "question": "What does 'Windows Key + Up Arrow' do to an active window?",
+    "options": [
+      "Minimizes it",
+      "Maximizes it",
+      "Closes it",
+      "Moves it to the top screen"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Maximizes it. Windows Key + Down Arrow restores or minimizes it."
+  },
+  {
+    "id": 155,
+    "question": "In MS Excel, which key repeats the last action?",
+    "options": [
+      "F4",
+      "F2",
+      "F9",
+      "F5"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: F4. In Excel, F4 repeats the last command (like formatting), whereas in Word it's often F4 or Ctrl+Y."
+  },
+  {
+    "id": 156,
+    "question": "Which shortcut opens the 'Connect' pane (for Bluetooth/Wireless devices) in Windows 10?",
+    "options": [
+      "Windows Key + K",
+      "Windows Key + C",
+      "Ctrl + K",
+      "Alt + K"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Windows Key + K. This searches for wireless display and audio devices."
+  },
+  {
+    "id": 157,
+    "question": "In MS Word, how do you quickly go to the beginning of the document?",
+    "options": [
+      "Home",
+      "Page Up",
+      "Ctrl + Home",
+      "Alt + Home"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: Ctrl + Home. Pressing just 'Home' goes to the start of the line."
+  },
+  {
+    "id": 158,
+    "question": "What does 'Ctrl + Shift + Esc' do in Windows?",
+    "options": [
+      "Locks the PC",
+      "Opens Task Manager",
+      "Opens Start Menu",
+      "Signs Out"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Opens Task Manager. It is a direct shortcut unlike Ctrl+Alt+Del."
+  },
+  {
+    "id": 159,
+    "question": "In MS Excel, which shortcut opens the 'Paste Special' dialog box?",
+    "options": [
+      "Ctrl + V",
+      "Ctrl + Alt + V",
+      "Shift + V",
+      "Alt + Shift + V"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Ctrl + Alt + V. This opens options to paste values, formats, transpose, etc."
+  },
+  {
+    "id": 160,
+    "question": "Which shortcut minimizes all windows except the active one (Shake feature shortcut)?",
+    "options": [
+      "Windows Key + Home",
+      "Windows Key + End",
+      "Windows Key + M",
+      "Windows Key + Space"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Windows Key + Home. It mimics the 'Aero Shake' mouse gesture."
+  },
+  {
+    "id": 161,
+    "question": "In MS PowerPoint, which key stops or restarts an automatic slide show?",
+    "options": [
+      "S",
+      "Esc",
+      "Spacebar",
+      "Enter"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: S. It pauses the slideshow. Pressing it again restarts it."
+  },
+  {
+    "id": 162,
+    "question": "In MS Word, what is the shortcut for 'Double Underline'?",
+    "options": [
+      "Ctrl + U",
+      "Ctrl + Shift + D",
+      "Ctrl + D",
+      "Alt + U"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Ctrl + Shift + D. Ctrl + U is for single underline."
+  },
+  {
+    "id": 163,
+    "question": "Which shortcut locks the screen orientation (Tablet Mode) or opens the Ease of Access Center in Windows?",
+    "options": [
+      "Windows Key + O",
+      "Windows Key + U",
+      "Windows Key + L",
+      "Ctrl + U"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Windows Key + U. It opens the Ease of Access settings (Display, Magnifier, etc.)."
+  },
+  {
+    "id": 164,
+    "question": "In MS Excel, how do you add a new line within the same cell (Wrap Text manually)?",
+    "options": [
+      "Enter",
+      "Shift + Enter",
+      "Alt + Enter",
+      "Ctrl + Enter"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: Alt + Enter. 'Enter' moves to the next cell down."
+  },
+  {
+    "id": 165,
+    "question": "What does 'Ctrl + Shift + T' do in most Web Browsers on Windows?",
+    "options": [
+      "Opens a new tab",
+      "Reopens the last closed tab",
+      "Opens a private window",
+      "Translates the page"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Reopens the last closed tab. It is very useful if you accidentally close a tab."
+  },
+  {
+    "id": 166,
+    "question": "In MS Word, which shortcut opens the 'Font' dialog box?",
+    "options": [
+      "Ctrl + F",
+      "Ctrl + D",
+      "Alt + F",
+      "Shift + F"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Ctrl + D. It opens the detailed font formatting window."
+  },
+  {
+    "id": 167,
+    "question": "Which shortcut opens the 'Talk to Cortana' listening mode (if enabled)?",
+    "options": [
+      "Windows Key + C",
+      "Windows Key + S",
+      "Windows Key + Q",
+      "Ctrl + C"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Windows Key + C. Note: This behavior depends on specific Windows 10 version updates."
+  },
+  {
+    "id": 168,
+    "question": "In MS Excel, which shortcut hides the selected rows?",
+    "options": [
+      "Ctrl + 9",
+      "Ctrl + 0",
+      "Ctrl + H",
+      "Alt + 9"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + 9. Ctrl + 0 (zero) hides the selected columns."
+  },
+  {
+    "id": 169,
+    "question": "Which shortcut key is used to 'Rename' a selected file or folder in File Explorer?",
+    "options": [
+      "F2",
+      "F4",
+      "Enter",
+      "Ctrl + R"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: F2. It highlights the name text for editing."
+  },
+  {
+    "id": 170,
+    "question": "In MS PowerPoint, which shortcut opens the 'Presenter View' while in slide show mode?",
+    "options": [
+      "Alt + F5",
+      "Ctrl + F5",
+      "Shift + F10",
+      "Alt + P"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Alt + F5. This starts the presentation with Presenter View on the current screen."
+  },
+  {
+    "id": 171,
+    "question": "Which Windows 10 shortcut opens the 'Clipboard History' (to see multiple copied items)?",
+    "options": [
+      "Ctrl + V",
+      "Windows Key + V",
+      "Alt + V",
+      "Shift + Insert"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Windows Key + V. It opens a history of copied text and images that you can paste."
+  },
+  {
+    "id": 172,
+    "question": "In MS Excel, which shortcut selects the entire current Row?",
+    "options": [
+      "Ctrl + Space",
+      "Shift + Space",
+      "Alt + Space",
+      "Ctrl + R"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Shift + Space. Ctrl + Space selects the Column."
+  },
+  {
+    "id": 173,
+    "question": "What does 'Windows Key + H' do in Windows 10?",
+    "options": [
+      "Opens Help",
+      "Hides all windows",
+      "Starts Dictation",
+      "Opens History"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: Starts Dictation. It opens the voice typing toolbar."
+  },
+  {
+    "id": 174,
+    "question": "In MS Word, which shortcut changes the line spacing to 'Double Spacing'?",
+    "options": [
+      "Ctrl + 2",
+      "Ctrl + D",
+      "Alt + 2",
+      "Shift + 2"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + 2. Ctrl + 1 sets single spacing, and Ctrl + 5 sets 1.5 spacing."
+  },
+  {
+    "id": 175,
+    "question": "Which shortcut allows you to switch between Virtual Desktops in Windows 10?",
+    "options": [
+      "Alt + Tab",
+      "Windows Key + Tab",
+      "Windows Key + Ctrl + Left/Right Arrow",
+      "Ctrl + Alt + Left/Right Arrow"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: Windows Key + Ctrl + Left/Right Arrow. This moves you instantly between created desktops."
+  },
+  {
+    "id": 176,
+    "question": "In MS Excel, which shortcut hides the selected Columns?",
+    "options": [
+      "Ctrl + 9",
+      "Ctrl + 0",
+      "Ctrl + C",
+      "Alt + 0"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Ctrl + 0 (Zero). Ctrl + 9 hides rows."
+  },
+  {
+    "id": 177,
+    "question": "In MS PowerPoint, what does 'Ctrl + G' do to selected objects?",
+    "options": [
+      "Groups them",
+      "Ungroups them",
+      "Generates a slide",
+      "Goes to slide"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Groups them. This combines multiple objects into one unit."
+  },
+  {
+    "id": 178,
+    "question": "Which shortcut opens an app pinned to the Taskbar based on its position number (e.g., 1st app)?",
+    "options": [
+      "Alt + 1",
+      "Ctrl + 1",
+      "Windows Key + 1",
+      "Shift + 1"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: Windows Key + 1. Pressing Win + 2 opens the second app, and so on."
+  },
+  {
+    "id": 179,
+    "question": "In MS Word, how do you show/hide non-printing characters (paragraph marks)?",
+    "options": [
+      "Ctrl + * (or Ctrl + Shift + 8)",
+      "Ctrl + P",
+      "Alt + P",
+      "Ctrl + H"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + Shift + 8. It toggles the display of formatting marks like spaces and returns."
+  },
+  {
+    "id": 180,
+    "question": "In MS Excel, which shortcut quickly adds the 'Filter' arrows to the header row?",
+    "options": [
+      "Ctrl + F",
+      "Ctrl + Shift + L",
+      "Alt + F",
+      "Ctrl + Shift + F"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Ctrl + Shift + L. It toggles AutoFilter on or off."
+  },
+  {
+    "id": 181,
+    "question": "Which Windows shortcut opens the 'Task View' (Timeline) to see all open windows and desktops?",
+    "options": [
+      "Alt + Tab",
+      "Windows Key + Tab",
+      "Ctrl + Tab",
+      "Shift + Tab"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Windows Key + Tab. It provides a bird's-eye view of current tasks and history."
+  },
+  {
+    "id": 182,
+    "question": "In MS Word, what does 'Ctrl + Shift + >' do?",
+    "options": [
+      "Indents the paragraph",
+      "Increases font size",
+      "Decreases font size",
+      "Selects next word"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Increases font size. Ctrl + Shift + < decreases it."
+  },
+  {
+    "id": 183,
+    "question": "In MS Excel, how do you jump to the last cell with data in a row or column?",
+    "options": [
+      "Ctrl + Arrow Key",
+      "Shift + Arrow Key",
+      "Alt + Arrow Key",
+      "Tab"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + Arrow Key. It navigates to the edge of the data region."
+  },
+  {
+    "id": 184,
+    "question": "Which shortcut takes a screenshot of ONLY the active window (not the whole screen)?",
+    "options": [
+      "PrtScn",
+      "Alt + PrtScn",
+      "Ctrl + PrtScn",
+      "Windows Key + PrtScn"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Alt + PrtScn. It copies the active window's image to the clipboard."
+  },
+  {
+    "id": 185,
+    "question": "In MS PowerPoint, what does the 'W' key do during a presentation?",
+    "options": [
+      "Ends the show",
+      "Turns screen White",
+      "Turns screen Black",
+      "Shows Window"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Turns screen White. 'B' turns it Black."
+  },
+  {
+    "id": 186,
+    "question": "In MS Word, which shortcut deletes the word immediately to the LEFT of the cursor?",
+    "options": [
+      "Backspace",
+      "Ctrl + Backspace",
+      "Alt + Backspace",
+      "Delete"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Ctrl + Backspace. Standard Backspace deletes just one character."
+  },
+  {
+    "id": 187,
+    "question": "What does 'Windows Key + Shift + Left/Right Arrow' do?",
+    "options": [
+      "Selects text",
+      "Moves the active window to the next monitor",
+      "Rotates the screen",
+      "Snaps window to corner"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Moves the active window to the next monitor. Essential for multi-monitor setups."
+  },
+  {
+    "id": 188,
+    "question": "In MS Excel, which shortcut fills the cell contents 'Down' from the cell above?",
+    "options": [
+      "Ctrl + D",
+      "Ctrl + F",
+      "Ctrl + Down Arrow",
+      "Alt + D"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + D. To fill to the Right, use Ctrl + R."
+  },
+  {
+    "id": 189,
+    "question": "Which shortcut opens the 'Game Bar' in Windows 10 (for recording screen/audio)?",
+    "options": [
+      "Windows Key + G",
+      "Ctrl + G",
+      "Alt + G",
+      "Shift + G"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Windows Key + G. It opens the overlay for gaming features."
+  },
+  {
+    "id": 190,
+    "question": "In MS Word, what is the shortcut for 'Format Painter' (Copy Formatting)?",
+    "options": [
+      "Ctrl + C",
+      "Ctrl + Shift + C",
+      "Alt + C",
+      "Ctrl + F"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Ctrl + Shift + C. You paste the formatting using Ctrl + Shift + V."
+  },
+  {
+    "id": 191,
+    "question": "In MS Excel, which key moves you to the previous sheet?",
+    "options": [
+      "Ctrl + Page Down",
+      "Ctrl + Page Up",
+      "Alt + Page Up",
+      "Shift + Tab"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Ctrl + Page Up. Ctrl + Page Down moves to the next sheet."
+  },
+  {
+    "id": 192,
+    "question": "Which shortcut opens the 'Search' window/bar in Windows 10?",
+    "options": [
+      "Windows Key + S",
+      "Ctrl + S",
+      "Alt + S",
+      "Shift + S"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Windows Key + S. Windows Key + Q also often performs a similar search function."
+  },
+  {
+    "id": 193,
+    "question": "In MS PowerPoint, how do you 'Ungroup' selected objects?",
+    "options": [
+      "Ctrl + U",
+      "Ctrl + Shift + G",
+      "Alt + Shift + G",
+      "Ctrl + G"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Ctrl + Shift + G. Ctrl + G is for grouping."
+  },
+  {
+    "id": 194,
+    "question": "In MS Word, which shortcut applies 'Heading 1' style?",
+    "options": [
+      "Ctrl + 1",
+      "Alt + Ctrl + 1",
+      "Shift + 1",
+      "Ctrl + H"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Alt + Ctrl + 1. Ctrl + 1 is for single spacing."
+  },
+  {
+    "id": 195,
+    "question": "What does 'Windows Key + M' do?",
+    "options": [
+      "Maximizes all windows",
+      "Minimizes all windows",
+      "Opens Mail",
+      "Mutes audio"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Minimizes all windows. Windows Key + Shift + M will restore them."
+  },
+  {
+    "id": 196,
+    "question": "In MS Excel, which shortcut applies the 'Strikethrough' format?",
+    "options": [
+      "Ctrl + 5",
+      "Ctrl + S",
+      "Ctrl + -",
+      "Alt + S"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + 5. It draws a line through the cell content."
+  },
+  {
+    "id": 197,
+    "question": "Which shortcut highlights the URL bar in most browsers and File Explorer?",
+    "options": [
+      "Ctrl + L",
+      "Ctrl + U",
+      "Alt + D",
+      "Both A and C"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is: Both A and C. Ctrl + L and Alt + D both select the address bar."
+  },
+  {
+    "id": 198,
+    "question": "In MS Office, what is the shortcut to check 'Spelling and Grammar'?",
+    "options": [
+      "F7",
+      "F1",
+      "Ctrl + S",
+      "Alt + F7"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: F7. It launches the Editor or Spell Check pane."
+  },
+  {
+    "id": 199,
+    "question": "In MS Word, how do you split the document window to view two parts of the file at once?",
+    "options": [
+      "Ctrl + Alt + S",
+      "Ctrl + W",
+      "Alt + Shift + S",
+      "Windows Key + S"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + Alt + S. It toggles the window split."
+  },
+  {
+    "id": 200,
+    "question": "What does 'Ctrl + Shift + T' do in File Explorer or Browsers?",
+    "options": [
+      "Creates a new tab",
+      "Reopens the last closed tab",
+      "Translates page",
+      "Opens Task Manager"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Reopens the last closed tab. It restores the tab you just closed."
+  },
+  {
+    "id": 201,
+    "question": "In MS Excel, which shortcut inserts a new Worksheet?",
+    "options": [
+      "Shift + F11",
+      "Ctrl + F11",
+      "Alt + F11",
+      "Ctrl + N"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Shift + F11. It adds a new sheet to the current workbook."
+  },
+  {
+    "id": 202,
+    "question": "Which shortcut opens the 'System Properties' window in Windows?",
+    "options": [
+      "Windows Key + Pause/Break",
+      "Windows Key + S",
+      "Ctrl + Esc",
+      "Alt + Enter"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Windows Key + Pause/Break. It shows RAM, Processor, and OS info."
+  },
+  {
+    "id": 203,
+    "question": "In MS PowerPoint, which shortcut changes the pointer to an 'Eraser' during a slideshow?",
+    "options": [
+      "Ctrl + E",
+      "Ctrl + A",
+      "Ctrl + P",
+      "E"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + E. 'E' by itself usually erases all ink, while Ctrl+E toggles the eraser tool."
+  },
+  {
+    "id": 204,
+    "question": "In MS Word, what does 'Ctrl + 5' do?",
+    "options": [
+      "Sets 1.5 line spacing",
+      "Strikethrough",
+      "Underline",
+      "50% Zoom"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Sets 1.5 line spacing. In Excel, Ctrl + 5 is Strikethrough, but in Word, it is spacing."
+  },
+  {
+    "id": 205,
+    "question": "Which shortcut cycles through apps on the taskbar without opening them (Peeking)?",
+    "options": [
+      "Windows Key + T",
+      "Alt + Tab",
+      "Ctrl + Tab",
+      "Windows Key + P"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Windows Key + T. It sets focus to the taskbar icons."
+  },
+  {
+    "id": 206,
+    "question": "In MS Excel, how do you calculate the active sheet manually?",
+    "options": [
+      "Shift + F9",
+      "F9",
+      "Ctrl + F9",
+      "Alt + F9"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Shift + F9. F9 calculates all open workbooks."
+  },
+  {
+    "id": 207,
+    "question": "In MS Word, which shortcut opens the Thesaurus?",
+    "options": [
+      "Shift + F7",
+      "F7",
+      "Ctrl + F7",
+      "Alt + F7"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Shift + F7. F7 checks spelling."
+  },
+  {
+    "id": 208,
+    "question": "What does 'Ctrl + Alt + Delete' primarily do in Windows 10?",
+    "options": [
+      "Deletes selected file",
+      "Opens the security screen (Lock, Sign out, Task Manager)",
+      "Restarts computer",
+      "Closes app"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Opens the security screen. It is a system interrupt command."
+  },
+  {
+    "id": 209,
+    "question": "In MS Excel, which shortcut applies the 'Percentage' format?",
+    "options": [
+      "Ctrl + Shift + %",
+      "Ctrl + P",
+      "Alt + P",
+      "Ctrl + 5"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + Shift + %. It converts the number to a percentage style."
+  },
+  {
+    "id": 210,
+    "question": "In MS PowerPoint, holding which key while drawing a shape maintains its aspect ratio (e.g., perfect circle)?",
+    "options": [
+      "Shift",
+      "Ctrl",
+      "Alt",
+      "Tab"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Shift. Holding Shift ensures circles stay circles and squares stay squares."
+  },
+[
+  {
+    "id": 211,
+    "question": "In MS Word, what does 'Shift + Enter' do?",
+    "options": [
+      "Inserts a Page Break",
+      "Inserts a Line Break (Soft Return)",
+      "Enters a new paragraph",
+      "Saves the file"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Inserts a Line Break. This starts a new line without starting a new paragraph block."
+  },
+  {
+    "id": 212,
+    "question": "In MS Excel, which shortcut applies the 'Currency' format ($) to the selected cells?",
+    "options": [
+      "Ctrl + Shift + 4 (or $)",
+      "Ctrl + C",
+      "Ctrl + Shift + C",
+      "Alt + 4"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + Shift + 4. It applies the currency format with two decimal places."
+  },
+  {
+    "id": 213,
+    "question": "Which shortcut is the equivalent of 'Right-Clicking' on the selected item (opens Context Menu)?",
+    "options": [
+      "Shift + F10",
+      "Ctrl + F10",
+      "Alt + F10",
+      "Windows Key + F10"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Shift + F10. This opens the context menu for the selected file or text."
+  },
+  {
+    "id": 214,
+    "question": "In MS PowerPoint, how do you turn the mouse pointer into a 'Laser Pointer' during a slide show?",
+    "options": [
+      "Ctrl + L",
+      "Ctrl + P",
+      "Ctrl + A",
+      "L"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + L. Ctrl + P is for Pen, and Ctrl + A is for Arrow."
+  },
+  {
+    "id": 215,
+    "question": "Which shortcut allows you to Expand or Collapse the Ribbon in MS Office apps?",
+    "options": [
+      "Ctrl + F1",
+      "Alt + F1",
+      "Shift + F1",
+      "Windows Key + F1"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + F1. It hides the toolbar commands to provide more screen space."
+  },
+  {
+    "id": 216,
+    "question": "In MS Excel, what does 'Ctrl + T' do?",
+    "options": [
+      "Inserts the Time",
+      "Creates a Table",
+      "Selects the Table",
+      "Transforms data"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Creates a Table. It converts a range of data into an official Excel Table."
+  },
+  {
+    "id": 217,
+    "question": "In MS Word, which shortcut increases the font size by exactly 1 point?",
+    "options": [
+      "Ctrl + ] (Right Bracket)",
+      "Ctrl + [ (Left Bracket)",
+      "Ctrl + >",
+      "Alt + Up Arrow"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + ]. Ctrl + [ decreases the font size by 1 point."
+  },
+  {
+    "id": 218,
+    "question": "Which shortcut in File Explorer moves you 'Up' one level in the folder hierarchy?",
+    "options": [
+      "Alt + Up Arrow",
+      "Ctrl + Up Arrow",
+      "Alt + Left Arrow",
+      "Backspace"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Alt + Up Arrow. Alt + Left Arrow goes 'Back' in history, which isn't always 'Up' a level."
+  },
+  {
+    "id": 219,
+    "question": "In MS Excel, what is the shortcut for 'Flash Fill' (automatically filling data based on a pattern)?",
+    "options": [
+      "Ctrl + F",
+      "Ctrl + E",
+      "Alt + F",
+      "Shift + E"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Ctrl + E. It is a powerful tool for separating or combining data without formulas."
+  },
+  {
+    "id": 220,
+    "question": "In MS Word, how do you Align Text to the Right?",
+    "options": [
+      "Ctrl + R",
+      "Ctrl + L",
+      "Ctrl + J",
+      "Ctrl + E"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + R. Ctrl + E is Center, Ctrl + L is Left."
+  },
+  {
+    "id": 221,
+    "question": "Which Windows shortcut cycles through open windows in the reverse direction?",
+    "options": [
+      "Alt + Shift + Tab",
+      "Ctrl + Shift + Tab",
+      "Windows Key + Shift + Tab",
+      "Alt + Tab + Left"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Alt + Shift + Tab. Adding Shift reverses the direction of the cycle."
+  },
+  {
+    "id": 222,
+    "question": "In MS PowerPoint, which shortcut hides the mouse pointer and navigation button immediately?",
+    "options": [
+      "Ctrl + H",
+      "Ctrl + M",
+      "A",
+      "S"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + H. To bring it back (Arrow), usually Ctrl + A or moving the mouse works."
+  },
+  {
+    "id": 223,
+    "question": "In MS Excel, which shortcut inserts or deletes cells/rows/columns (opens dialog)?",
+    "options": [
+      "Ctrl + + / Ctrl + -",
+      "Alt + I",
+      "Shift + Insert",
+      "Ctrl + D"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + + (Plus) to insert and Ctrl + - (Minus) to delete."
+  },
+  {
+    "id": 224,
+    "question": "In MS Word, which shortcut applies 'Superscript' formatting (e.g., X²)?",
+    "options": [
+      "Ctrl + Shift + +",
+      "Ctrl + =",
+      "Ctrl + Shift + S",
+      "Alt + Up Arrow"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + Shift + +. Ctrl + = is for Subscript."
+  },
+  {
+    "id": 225,
+    "question": "What does 'Ctrl + F6' do in MS Office applications?",
+    "options": [
+      "Switches between open documents of the same app",
+      "Closes the file",
+      "Minimizes the window",
+      "Opens the Help pane"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Switches between open documents. For example, toggling between two open Word docs."
+  },
+  {
+    "id": 226,
+    "question": "In MS Excel, which shortcut formats the cell as 'Number' with two decimal places?",
+    "options": [
+      "Ctrl + Shift + 1 (or !)",
+      "Ctrl + Shift + 2",
+      "Ctrl + N",
+      "Alt + N"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + Shift + 1. Ctrl + Shift + 2 is typically for Time."
+  },
+  {
+    "id": 227,
+    "question": "Which shortcut in Windows moves the keyboard focus to the 'Notification Area' (System Tray)?",
+    "options": [
+      "Windows Key + B",
+      "Windows Key + A",
+      "Windows Key + N",
+      "Ctrl + B"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Windows Key + B. It highlights the icons near the clock."
+  },
+  {
+    "id": 228,
+    "question": "In MS Word, how do you remove all manual formatting from the selected text?",
+    "options": [
+      "Ctrl + Spacebar",
+      "Ctrl + Shift + N",
+      "Ctrl + Delete",
+      "Alt + Clear"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + Spacebar. It resets the text to the default font and size of the style."
+  },
+  {
+    "id": 229,
+    "question": "In MS PowerPoint, how do you jump directly to a specific slide number (e.g., Slide 5)?",
+    "options": [
+      "Type 5 then Enter",
+      "Ctrl + 5",
+      "Alt + 5",
+      "Shift + 5"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Type 5 then Enter. This works only during the slideshow."
+  },
+  {
+    "id": 230,
+    "question": "Which shortcut is used to 'Go Back' in Web Browsers and File Explorer?",
+    "options": [
+      "Alt + Left Arrow",
+      "Alt + Right Arrow",
+      "Ctrl + Left Arrow",
+      "Shift + Backspace"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Alt + Left Arrow. Alt + Right Arrow goes Forward."
+  },
+  {
+    "id": 231,
+    "question": "In MS Excel, what does 'Ctrl + Shift + U' do?",
+    "options": [
+      "Underlines the text",
+      "Expands/Collapses the Formula Bar",
+      "Unhides rows",
+      "Updates links"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Expands/Collapses the Formula Bar. Useful for viewing long formulas."
+  },
+  {
+    "id": 232,
+    "question": "In MS Word, what is the shortcut to display the 'Word Count' dialog box?",
+    "options": [
+      "Ctrl + Shift + G",
+      "Ctrl + W",
+      "Alt + W",
+      "F7"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + Shift + G. It shows pages, words, characters, lines, etc."
+  },
+  {
+    "id": 233,
+    "question": "What does 'Windows Key + Down Arrow' do if a window is maximized?",
+    "options": [
+      "Minimizes it",
+      "Restores it (un-maximizes)",
+      "Closes it",
+      "Snaps it to bottom"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Restores it. Pressing it a second time will then Minimize it."
+  },
+  {
+    "id": 234,
+    "question": "In MS PowerPoint, which shortcut starts the slideshow from the 'Current Slide'?",
+    "options": [
+      "Shift + F5",
+      "F5",
+      "Alt + F5",
+      "Ctrl + F5"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Shift + F5. F5 always starts from the beginning."
+  },
+  {
+    "id": 235,
+    "question": "In MS Excel, which shortcut Unhides rows within the selection?",
+    "options": [
+      "Ctrl + Shift + 9 (or ( )",
+      "Ctrl + 9",
+      "Ctrl + Shift + 0",
+      "Alt + 9"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + Shift + 9. (Ctrl + 9 hides them)."
+  },
+  {
+    "id": 236,
+    "question": "Which shortcut opens the window menu (Restore, Move, Size, Minimize, Close) for the active window?",
+    "options": [
+      "Alt + Spacebar",
+      "Alt + Enter",
+      "Shift + Spacebar",
+      "Windows Key + Spacebar"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Alt + Spacebar. It opens the small menu in the top-left corner."
+  },
+  {
+    "id": 237,
+    "question": "In MS Word, what does 'Ctrl + [' (Left Bracket) do?",
+    "options": [
+      "Decreases font size by 1 point",
+      "Aligns Left",
+      "Indents paragraph",
+      "Moves to previous paragraph"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Decreases font size by 1 point. Ctrl + ] increases it."
+  },
+  {
+    "id": 238,
+    "question": "In MS Excel, which shortcut creates a 'Chart Sheet' (a separate sheet for the chart) instantly?",
+    "options": [
+      "F11",
+      "Alt + F1",
+      "Ctrl + F1",
+      "Shift + F1"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: F11. Alt + F1 creates an embedded chart on the *same* sheet."
+  },
+  {
+    "id": 239,
+    "question": "Which shortcut zooms out in Windows (using Magnifier)?",
+    "options": [
+      "Windows Key + Minus Sign (-)",
+      "Ctrl + Minus Sign (-)",
+      "Alt + Minus Sign (-)",
+      "Shift + Z"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Windows Key + Minus Sign (-). Windows Key + Plus (+) zooms in."
+  },
+  {
+    "id": 240,
+    "question": "In MS Word, which shortcut pastes ONLY the formatting of the copied text?",
+    "options": [
+      "Ctrl + Shift + V",
+      "Ctrl + V",
+      "Alt + V",
+      "Ctrl + P"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + Shift + V. You must first copy formatting with Ctrl + Shift + C."
+  },
+  {
+    "id": 241,
+    "question": "In MS Excel, which shortcut toggles the 'Outline Border' on selected cells?",
+    "options": [
+      "Ctrl + Shift + &",
+      "Ctrl + Shift + _",
+      "Ctrl + B",
+      "Alt + B"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + Shift + &. To remove borders, use Ctrl + Shift + _ (Underscore)."
+  },
+  {
+    "id": 242,
+    "question": "What does 'Ctrl + Shift + Delete' do in web browsers (Chrome/Edge)?",
+    "options": [
+      "Opens Clear Browsing Data menu",
+      "Closes the browser",
+      "Deletes the current bookmark",
+      "Reopens closed tab"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Opens Clear Browsing Data menu. Useful for clearing cache/history quickly."
+  },
+  {
+    "id": 243,
+    "question": "In MS Word, which shortcut applies 'Single' line spacing?",
+    "options": [
+      "Ctrl + 1",
+      "Ctrl + S",
+      "Alt + 1",
+      "Shift + 1"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + 1. Ctrl + 2 is double spacing, Ctrl + 5 is 1.5 spacing."
+  },
+  {
+    "id": 244,
+    "question": "In MS PowerPoint, which shortcut 'Promotes' a bullet point (moves it to a higher level)?",
+    "options": [
+      "Shift + Tab",
+      "Tab",
+      "Ctrl + Left Arrow",
+      "Alt + Up Arrow"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Shift + Tab. Pressing 'Tab' demotes the bullet point."
+  },
+  {
+    "id": 245,
+    "question": "Which shortcut opens the 'Date and Time' flyout from the taskbar in Windows?",
+    "options": [
+      "Windows Key + Alt + D",
+      "Windows Key + T",
+      "Ctrl + D",
+      "Alt + D"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Windows Key + Alt + D. It shows the calendar/clock pane."
+  },
+  {
+    "id": 246,
+    "question": "In MS Excel, which shortcut applies the 'General' number format (removes specific formatting)?",
+    "options": [
+      "Ctrl + Shift + ~ (Tilde)",
+      "Ctrl + Shift + !",
+      "Ctrl + G",
+      "Alt + G"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + Shift + ~ (Tilde). It reverts the cell to default formatting."
+  },
+  {
+    "id": 247,
+    "question": "In MS Word, how do you select text from the cursor to the end of the line?",
+    "options": [
+      "Shift + End",
+      "Ctrl + End",
+      "Alt + End",
+      "Shift + Right Arrow"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Shift + End. Shift + Home selects to the beginning of the line."
+  },
+  {
+    "id": 248,
+    "question": "What does 'Ctrl + Y' do in most applications?",
+    "options": [
+      "Redo (Reverse Undo)",
+      "Undo",
+      "Cut",
+      "Paste"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Redo. It repeats an action that was undone with Ctrl + Z."
+  },
+  {
+    "id": 249,
+    "question": "In MS Excel, how do you toggle 'Absolute Reference' ($) in a formula (e.g., A1 to $A$1)?",
+    "options": [
+      "F4",
+      "F2",
+      "F9",
+      "Ctrl + 4"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: F4. Pressing it repeatedly cycles through absolute row, absolute column, and relative references."
+  },
+  {
+    "id": 250,
+    "question": "Which shortcut locks the Windows PC immediately?",
+    "options": [
+      "Windows Key + L",
+      "Ctrl + L",
+      "Alt + L",
+      "Shift + L"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Windows Key + L. It takes you to the lock screen instantly."
+  },
+  {
+    "id": 251,
+    "question": "In MS Word, which shortcut opens the 'Print Preview' directly?",
+    "options": [
+      "Ctrl + F2",
+      "Ctrl + P",
+      "Alt + P",
+      "Shift + F2"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + F2. While Ctrl + P opens the Print dialog, Ctrl + F2 specifically switches to the Preview view."
+  },
+  {
+    "id": 252,
+    "question": "In MS Excel, what does 'Ctrl + A' do if the cursor is inside a data block?",
+    "options": [
+      "Selects the entire worksheet",
+      "Selects the 'Current Region' (the data block)",
+      "Selects the row",
+      "Adds a comment"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Selects the 'Current Region'. Pressing it a second time selects the entire worksheet."
+  },
+  {
+    "id": 253,
+    "question": "Which Windows shortcut opens the 'Properties' dialog for a selected file or folder?",
+    "options": [
+      "Alt + Enter",
+      "Ctrl + Enter",
+      "Shift + Enter",
+      "Windows Key + Enter"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Alt + Enter. It is a quick way to check file size, creation date, or read-only status."
+  },
+  {
+    "id": 254,
+    "question": "In MS PowerPoint, which key ends the slide show and returns to the editor?",
+    "options": [
+      "Enter",
+      "Esc",
+      "Spacebar",
+      "Backspace"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Esc. It stops the presentation immediately."
+  },
+  {
+    "id": 255,
+    "question": "In MS Excel, which shortcut inserts a 'Note' (formerly Comment) attached to a cell?",
+    "options": [
+      "Shift + F2",
+      "Ctrl + F2",
+      "Alt + N",
+      "Ctrl + Alt + C"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Shift + F2. It opens a yellow box to type notes for that cell."
+  },
+  {
+    "id": 256,
+    "question": "Which function key 'Refreshes' the active window (Browser or File Explorer) in Windows?",
+    "options": [
+      "F4",
+      "F5",
+      "F9",
+      "F11"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: F5. It reloads the web page or updates the file list in a folder."
+  },
+  {
+    "id": 257,
+    "question": "In MS Word, which shortcut opens the 'Go To' tab in the Find/Replace dialog?",
+    "options": [
+      "Ctrl + G",
+      "Ctrl + F",
+      "Ctrl + T",
+      "Alt + G"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + G. It allows you to jump to a specific page, section, or line."
+  },
+  {
+    "id": 258,
+    "question": "In MS Excel, which shortcut applies the 'Time' format (e.g., 1:30 PM)?",
+    "options": [
+      "Ctrl + Shift + 2 (or @)",
+      "Ctrl + Shift + 3",
+      "Ctrl + T",
+      "Alt + T"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + Shift + 2. It formats the number as time."
+  },
+  {
+    "id": 259,
+    "question": "Which shortcut opens the 'Downloads' page in most Web Browsers (Chrome, Edge)?",
+    "options": [
+      "Ctrl + D",
+      "Ctrl + J",
+      "Ctrl + H",
+      "Alt + D"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Ctrl + J. Ctrl + D usually adds a bookmark."
+  },
+  {
+    "id": 260,
+    "question": "In MS Word, which shortcut 'Indents' the entire paragraph to the right?",
+    "options": [
+      "Ctrl + M",
+      "Ctrl + I",
+      "Tab",
+      "Ctrl + Shift + M"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + M. To un-indent (move back left), use Ctrl + Shift + M."
+  },
+  {
+    "id": 261,
+    "question": "In MS Excel, which shortcut applies the 'Date' format (e.g., 1-Jan)?",
+    "options": [
+      "Ctrl + Shift + 3 (or #)",
+      "Ctrl + Shift + 2",
+      "Ctrl + D",
+      "Alt + D"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + Shift + 3. It applies the default date format."
+  },
+  {
+    "id": 262,
+    "question": "In MS PowerPoint, which key advances to the 'Next Slide' during a show?",
+    "options": [
+      "Spacebar",
+      "Backspace",
+      "Esc",
+      "Home"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Spacebar. 'Enter' and 'Right Arrow' also work."
+  },
+  {
+    "id": 263,
+    "question": "Which shortcut opens the 'Help' pane in almost all Windows applications?",
+    "options": [
+      "F1",
+      "F2",
+      "F3",
+      "Ctrl + H"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: F1. It usually opens Microsoft Help or a browser support page."
+  },
+  {
+    "id": 264,
+    "question": "In MS Word, which shortcut 'Un-indents' a paragraph (moves it back to the left)?",
+    "options": [
+      "Ctrl + Shift + M",
+      "Ctrl + M",
+      "Ctrl + U",
+      "Alt + Backspace"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + Shift + M. It reverses the action of Ctrl + M."
+  },
+  {
+    "id": 265,
+    "question": "In MS Excel, which shortcut jumps instantly to cell A1 (top-left corner)?",
+    "options": [
+      "Ctrl + Home",
+      "Home",
+      "Alt + Home",
+      "Shift + Home"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + Home. Pressing just 'Home' goes to the start of the current row."
+  },
+  {
+    "id": 266,
+    "question": "Which shortcut resets the browser or document Zoom level to 100%?",
+    "options": [
+      "Ctrl + 0 (Zero)",
+      "Ctrl + 1",
+      "Ctrl + Z",
+      "Alt + 0"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + 0. It removes any zoom magnification."
+  },
+  {
+    "id": 267,
+    "question": "In MS Word, which shortcut inserts the Copyright symbol (©)?",
+    "options": [
+      "Alt + Ctrl + C",
+      "Ctrl + C",
+      "Shift + C",
+      "Ctrl + Shift + C"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Alt + Ctrl + C. Ctrl + C is for Copy."
+  },
+  {
+    "id": 268,
+    "question": "In MS Excel, how do you Select All cells in the sheet?",
+    "options": [
+      "Ctrl + A (pressed twice if in data)",
+      "Ctrl + S",
+      "Alt + A",
+      "Shift + A"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + A. If you are in a data table, the first press selects the table, the second selects the whole sheet."
+  },
+  {
+    "id": 269,
+    "question": "Which key allows you to select multiple non-adjacent items (files, cells, text) in Windows?",
+    "options": [
+      "Hold Ctrl + Click",
+      "Hold Shift + Click",
+      "Hold Alt + Click",
+      "Hold Tab + Click"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Hold Ctrl + Click. Holding Shift selects a continuous block of items."
+  },
+  {
+    "id": 270,
+    "question": "In MS PowerPoint, which key goes back to the 'Previous Slide'?",
+    "options": [
+      "Backspace",
+      "Spacebar",
+      "Enter",
+      "Esc"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Backspace. 'Left Arrow' or 'Page Up' also works."
+  },
+  {
+    "id": 271,
+    "question": "In MS Word, how do you select text from the cursor position to the beginning of the document?",
+    "options": [
+      "Ctrl + Shift + Home",
+      "Ctrl + Shift + End",
+      "Ctrl + Home",
+      "Shift + Page Up"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + Shift + Home. Ctrl + Shift + End selects to the end of the document."
+  },
+  {
+    "id": 272,
+    "question": "In MS Excel, which shortcut applies the 'Scientific' number format (e.g., 1.00E+02)?",
+    "options": [
+      "Ctrl + Shift + 6 (or ^)",
+      "Ctrl + Shift + 5",
+      "Ctrl + S",
+      "Alt + S"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + Shift + 6. It is used for very large or small numbers."
+  },
+  {
+    "id": 273,
+    "question": "Which shortcut opens the 'History' tab in Web Browsers?",
+    "options": [
+      "Ctrl + H",
+      "Ctrl + Shift + H",
+      "Alt + H",
+      "F4"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + H. In MS Word, Ctrl + H is Find/Replace, but in browsers, it is History."
+  },
+  {
+    "id": 274,
+    "question": "In MS Word, which shortcut inserts the Registered Trademark symbol (®)?",
+    "options": [
+      "Alt + Ctrl + R",
+      "Ctrl + R",
+      "Alt + R",
+      "Ctrl + Shift + R"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Alt + Ctrl + R. Ctrl + R is Right Align."
+  },
+  {
+    "id": 275,
+    "question": "Which key is used to select a continuous block of items (from Point A to Point B) in Windows?",
+    "options": [
+      "Shift + Click",
+      "Ctrl + Click",
+      "Alt + Click",
+      "Tab + Click"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Shift + Click. You click the first item, hold Shift, and click the last item."
+  },
+  {
+    "id": 276,
+    "question": "In MS Excel, which shortcut opens the 'Insert Function' dialog box?",
+    "options": [
+      "Shift + F3",
+      "Ctrl + F3",
+      "Alt + F3",
+      "F3"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Shift + F3. It helps you search for formulas like SUM, AVERAGE, or VLOOKUP."
+  },
+  {
+    "id": 277,
+    "question": "In MS PowerPoint, which key erases all on-screen ink/drawings during a presentation?",
+    "options": [
+      "E",
+      "A",
+      "P",
+      "Ctrl + E"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: E. It stands for Erase. Note: This cannot be undone easily during the show."
+  },
+  {
+    "id": 278,
+    "question": "In MS Word, which shortcut maximizes or restores the document window (inside the app)?",
+    "options": [
+      "Ctrl + F10",
+      "Ctrl + F12",
+      "Alt + F10",
+      "Shift + F10"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + F10. This is legacy MDI (Multiple Document Interface) behavior still present in Office."
+  },
+  {
+    "id": 279,
+    "question": "In MS Excel, which shortcut removes Borders from the selected cells?",
+    "options": [
+      "Ctrl + Shift + _ (Underscore)",
+      "Ctrl + Shift + &",
+      "Ctrl + B",
+      "Alt + B"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + Shift + _. Ctrl + Shift + & adds an outline border."
+  },
+  {
+    "id": 280,
+    "question": "Which shortcut allows you to cycle through open 'Tabs' in Browsers or Excel?",
+    "options": [
+      "Ctrl + Tab",
+      "Alt + Tab",
+      "Windows Key + Tab",
+      "Shift + Tab"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + Tab. Alt + Tab switches between separate application windows."
+  },
+  {
+    "id": 281,
+    "question": "Which shortcut creates a 'Bookmark' for the current page in Web Browsers?",
+    "options": [
+      "Ctrl + D",
+      "Ctrl + B",
+      "Alt + B",
+      "Ctrl + Shift + B"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + D. It opens the dialog to save the favorite/bookmark."
+  },
+  {
+    "id": 282,
+    "question": "In MS Word, which shortcut inserts the Trademark symbol (™)?",
+    "options": [
+      "Alt + Ctrl + T",
+      "Ctrl + T",
+      "Ctrl + Shift + T",
+      "Alt + T"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Alt + Ctrl + T. Ctrl + T is Hanging Indent."
+  },
+  {
+    "id": 283,
+    "question": "In MS Excel, which shortcut copies the value from the cell directly Above into the current cell?",
+    "options": [
+      "Ctrl + Shift + \" (Quote)",
+      "Ctrl + D",
+      "Ctrl + ' (Apostrophe)",
+      "Alt + Down Arrow"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + Shift + \". Ctrl + D fills the cell including formatting, while this copies the value."
+  },
+  {
+    "id": 284,
+    "question": "In MS PowerPoint, how do you jump to 'Slide 1' immediately during a show?",
+    "options": [
+      "Press 1 then Enter",
+      "Press Home",
+      "Press Left Arrow twice",
+      "Both A and B"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is: Both A and B. Typing the slide number + Enter goes to that slide; Home goes to the start."
+  },
+  {
+    "id": 285,
+    "question": "Which shortcut restores a Minimized window in Windows (undoes Win + M)?",
+    "options": [
+      "Windows Key + Shift + M",
+      "Windows Key + Up Arrow",
+      "Ctrl + M",
+      "Alt + M"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Windows Key + Shift + M. It brings back windows minimized by the Show Desktop command."
+  },
+  {
+    "id": 286,
+    "question": "In MS Word, how do you close the current Document without closing the Word application?",
+    "options": [
+      "Ctrl + W",
+      "Alt + F4",
+      "Ctrl + Q",
+      "Esc"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + W. Alt + F4 closes the entire Word program."
+  },
+  {
+    "id": 287,
+    "question": "Which shortcut opens an existing file (Open dialog) in most applications?",
+    "options": [
+      "Ctrl + O",
+      "Ctrl + F12",
+      "Alt + O",
+      "Both A and B"
+    ],
+    "answer": 3,
+    "explanation": "The correct answer is: Both A and B. Ctrl + O is the standard shortcut, but Ctrl + F12 also opens the file dialog in Office."
+  },
+  {
+    "id": 288,
+    "question": "In MS PowerPoint, which key toggles the 'Ink Markup' visibility (show/hide drawings)?",
+    "options": [
+      "Ctrl + M",
+      "Ctrl + H",
+      "I",
+      "A"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + M. This allows you to hide annotations without erasing them."
+  },
+  {
+    "id": 289,
+    "question": "Which shortcut turns on 'High Contrast' mode in Windows (Accessibility feature)?",
+    "options": [
+      "Left Alt + Left Shift + Print Screen",
+      "Windows Key + H",
+      "Ctrl + Alt + H",
+      "Alt + Enter"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Left Alt + Left Shift + Print Screen. It changes the color scheme for better visibility."
+  },
+  {
+    "id": 290,
+    "question": "Which shortcut opens a New Window of the current application (e.g., a second Chrome window)?",
+    "options": [
+      "Ctrl + N",
+      "Ctrl + T",
+      "Alt + N",
+      "Shift + N"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Ctrl + N. Ctrl + T usually opens a new Tab."
+  }
+]
