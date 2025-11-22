@@ -1,0 +1,362 @@
+[
+  {
+    "id": 481,
+    "question": "What is the validity of the KLiC Diploma Certificate?",
+    "options": [
+      "1 Year",
+      "5 Years",
+      "Lifetime",
+      "Until software version changes"
+    ],
+    "answer": 2,
+    "explanation": "Like most academic diplomas, the KLiC Diploma certificate has lifetime validity as a record of qualification."
+  },
+  {
+    "id": 482,
+    "question": "Who handles the 'Grievance Redressal' for learners regarding course content?",
+    "options": [
+      "The local police",
+      "MKCL Support / ALC Coordinator",
+      "The Internet Provider",
+      "The Hardware Vendor"
+    ],
+    "answer": 1,
+    "explanation": "Academic and content grievances are handled by the ALC Coordinator and escalated to MKCL Support if necessary."
+  },
+  {
+    "id": 483,
+    "question": "What is the primary language of the 'KLiC' course content?",
+    "options": [
+      "English only",
+      "Marathi only",
+      "Bilingual (English and Marathi) usually available",
+      "French"
+    ],
+    "answer": 2,
+    "explanation": "MKCL courses are generally designed to be bilingual (English and Marathi) to cater to the local demographic."
+  },
+  {
+    "id": 484,
+    "question": "What is the 'Re-exam' policy for KLiC courses if a student fails?",
+    "options": [
+      "No re-exam allowed",
+      "Re-exam allowed with a nominal fee",
+      "Must pay full course fee again",
+      "Passed automatically after 1 year"
+    ],
+    "answer": 1,
+    "explanation": "Learners who fail can typically appear for a re-exam by paying a nominal exam fee, without repeating the entire course."
+  },
+  {
+    "id": 485,
+    "question": "Why is the 'Bio-metric Device' integrated with the SOLAR framework?",
+    "options": [
+      "To check blood pressure",
+      "To ensure genuine attendance of learners and staff",
+      "To unlock the door",
+      "To scan payment cards"
+    ],
+    "answer": 1,
+    "explanation": "Biometric integration ensures that the attendance recorded for learners and facilitators is genuine and verifiable."
+  },
+  {
+    "id": 486,
+    "question": "Can an ALC charge a 'Prospectus Fee' or 'Form Fee' over and above the course fee?",
+    "options": [
+      "Yes, unlimited",
+      "Yes, up to Rs. 500",
+      "No, all costs should be covered within the published course fee",
+      "Yes, for AC rooms"
+    ],
+    "answer": 2,
+    "explanation": "ALCs are generally not expected to charge hidden fees; the published fee structure is usually all-inclusive of tuition."
+  },
+  {
+    "id": 487,
+    "question": "What is the role of 'TeamViewer' or 'AnyDesk' in the context of MKCL support?",
+    "options": [
+      "To teach students",
+      "To allow MKCL support staff to remotely troubleshoot technical issues",
+      "To transfer money",
+      "To record videos"
+    ],
+    "answer": 1,
+    "explanation": "Remote desktop tools are often used by MKCL technical support to fix ERA or SOLAR issues at the center remotely."
+  },
+  {
+    "id": 488,
+    "question": "Which marketing activity is the responsibility of the ALC?",
+    "options": [
+      "TV Ads on National Channels",
+      "Local area marketing (Leaflets, Seminars, Banners)",
+      "Changing the syllabus",
+      "Printing certificates"
+    ],
+    "answer": 1,
+    "explanation": "While MKCL does brand building, the 'Local Lead Generation' and local marketing are the primary responsibility of the ALC."
+  },
+  {
+    "id": 489,
+    "question": "What does the 'Dashboard' on the SOLAR portal provide to the ALC?",
+    "options": [
+      "Stock market updates",
+      "Real-time status of admissions, revenue, and notifications",
+      "Video games",
+      "News about politics"
+    ],
+    "answer": 1,
+    "explanation": "The SOLAR Dashboard is the command center showing admissions, fee status, and important alerts."
+  },
+  {
+    "id": 490,
+    "question": "Is 'Fire Safety Equipment' (Fire Extinguisher) recommended for the center?",
+    "options": [
+      "No, water is enough",
+      "Yes, it is a safety compliance norm",
+      "Only for centers with kitchen",
+      "Optional"
+    ],
+    "answer": 1,
+    "explanation": "Safety norms dictate that a Computer Laboratory with high electrical load must have Fire Safety Equipment."
+  },
+  {
+    "id": 491,
+    "question": "What is the full form of 'TP' in the MKCL hierarchy?",
+    "options": [
+      "Training Partner",
+      "Technical Provider",
+      "Training Point",
+      "Testing Program"
+    ],
+    "answer": 0,
+    "explanation": "TP stands for Training Partner (often a master center or coordinator in the region)."
+  },
+  {
+    "id": 492,
+    "question": "If an AO has a dispute with the LLC regarding the visit report, whom should they approach?",
+    "options": [
+      "The Police",
+      "The RLC (Regional Lead Center)",
+      "The Bank",
+      "Other students"
+    ],
+    "answer": 1,
+    "explanation": "The RLC oversees the LLCs and is the next level for escalation or dispute resolution."
+  },
+  {
+    "id": 493,
+    "question": "What is the 'Code of Conduct' for an ALC?",
+    "options": [
+      "A list of software codes",
+      "A set of ethical rules and operational guidelines ALCs must follow",
+      "A dress code for students",
+      "A password for the server"
+    ],
+    "answer": 1,
+    "explanation": "The Code of Conduct is the binding agreement on ethical practices, fees, and quality standards."
+  },
+  {
+    "id": 494,
+    "question": "Can an ALC run batches 24/7?",
+    "options": [
+      "Yes",
+      "No, usually restricted to reasonable operational hours (e.g., 7 AM to 9 PM)",
+      "Yes, if they have a generator",
+      "No, only 10 AM to 5 PM"
+    ],
+    "answer": 1,
+    "explanation": "While flexibility exists, centers usually operate within standard decent operational hours defined by local regulations and safety."
+  },
+  {
+    "id": 495,
+    "question": "What is the 'Headphone to Client Ratio'?",
+    "options": [
+      "1:1 (One headphone per client PC)",
+      "1:2 (Sharing allowed)",
+      "1:10",
+      "None required"
+    ],
+    "answer": 0,
+    "explanation": "Since KLiC is an eLearning course with audio-visuals, a 1:1 ratio is mandatory."
+  },
+  {
+    "id": 496,
+    "question": "Which device is used to capture the 'Learner's Photo' during admission at the center?",
+    "options": [
+      "DSLR Camera only",
+      "Web Camera attached to the Client/Server",
+      "Mobile Phone Selfie only",
+      "Scanner"
+    ],
+    "answer": 1,
+    "explanation": "The Web Camera is the standard device for capturing the official learner photo directly into the system."
+  },
+  {
+    "id": 497,
+    "question": "What is the consequence of 'Dual Admissions' (Fake students)?",
+    "options": [
+      "Award from MKCL",
+      "Termination of Authorization",
+      "Warning letter only",
+      "Extra fees"
+    ],
+    "answer": 1,
+    "explanation": "Creating fake admissions or dual records is a serious malpractice leading to termination of the center."
+  },
+  {
+    "id": 498,
+    "question": "Does the ALC need to renew their authorization periodically?",
+    "options": [
+      "No, it is permanent",
+      "Yes, usually every year (Annual Renewal)",
+      "Yes, every 10 years",
+      "Yes, every month"
+    ],
+    "answer": 1,
+    "explanation": "ALC authorization is not permanent; it requires Annual Renewal based on performance and compliance."
+  },
+  {
+    "id": 499,
+    "question": "What is the main advantage of the 'ERA' (eLearning Revolution for All) model for the center owner?",
+    "options": [
+      "No need to hire expert faculty for every single topic",
+      "No need for computers",
+      "No need for electricity",
+      "No need for space"
+    ],
+    "answer": 0,
+    "explanation": "ERA provides high-quality standardized teaching content, reducing the dependency on finding expert faculty for every niche topic."
+  },
+  {
+    "id": 500,
+    "question": "How are KLiC Learner certificates delivered to the ALC?",
+    "options": [
+      "By Email only",
+      "By Courier / Post to the ALC",
+      "Students pick them up from Pune",
+      "They are not printed"
+    ],
+    "answer": 1,
+    "explanation": "Hard copy certificates are generally dispatched by MKCL to the ALC via courier/post for distribution."
+  },
+  {
+    "id": 501,
+    "question": "What is the definition of a 'banned' organization in the context of AO?",
+    "options": [
+      "An organization previously blacklisted by MKCL or Govt",
+      "An organization that doesn't have a website",
+      "An organization with less than 5 staff",
+      "An organization without AC"
+    ],
+    "answer": 0,
+    "explanation": "A banned organization is one that has been blacklisted due to malpractice and is ineligible to apply."
+  },
+  {
+    "id": 502,
+    "question": "Is a 'Rent Agreement' valid if it is not registered/notarized?",
+    "options": [
+      "Yes, verbal agreement works",
+      "No, a valid Registered/Notarized Rent Agreement is required",
+      "Yes, on plain paper",
+      "No, must be ownership only"
+    ],
+    "answer": 1,
+    "explanation": "For rented premises, a legal Registered or Notarized Rent Agreement is mandatory as address proof."
+  },
+  {
+    "id": 503,
+    "question": "What does the term 'Carpeting Area' refer to?",
+    "options": [
+      "The area covered by rugs",
+      "The actual usable floor area inside the walls",
+      "The area including the elevator and stairs",
+      "The area of the parking lot"
+    ],
+    "answer": 1,
+    "explanation": "Carpeting Area refers to the net usable internal space, which must be at least 100 sq. ft. for the setup."
+  },
+  {
+    "id": 504,
+    "question": "Why is 'Ventilation' mentioned in infrastructure norms?",
+    "options": [
+      "To let birds in",
+      "To ensure air circulation for heat dissipation of computers and learner comfort",
+      "To reduce noise",
+      "To save paint"
+    ],
+    "answer": 1,
+    "explanation": "Good ventilation is crucial for the longevity of computer hardware (heat management) and learner health."
+  },
+  {
+    "id": 505,
+    "question": "Can an ALC sell computer hardware to students?",
+    "options": [
+      "Yes, as a private business",
+      "No, it is illegal",
+      "Yes, but MKCL takes commission",
+      "Only if MKCL approves"
+    ],
+    "answer": 0,
+    "explanation": "The ALC can run other businesses (like hardware sales) provided the MKCL lab space is not compromised/misused, but it is a separate private business."
+  },
+  {
+    "id": 506,
+    "question": "What is the role of the 'Center Coordinator'?",
+    "options": [
+      "To clean the floor",
+      "To manage day-to-day operations, counseling, and ERA server",
+      "To repair the street light",
+      "To travel to Pune daily"
+    ],
+    "answer": 1,
+    "explanation": "The Coordinator is the key operational person managing counseling, admin, and the technical learning environment."
+  },
+  {
+    "id": 507,
+    "question": "If the Internet goes down for 1 hour, can the ERA Local Server still work?",
+    "options": [
+      "No, it stops immediately",
+      "Yes, ERA runs on the Local Server (LAN), but internet is needed for data sync",
+      "Yes, it runs on magic",
+      "No, clients will shut down"
+    ],
+    "answer": 1,
+    "explanation": "ERA content is served locally via LAN. Internet is primarily required for login authentication and data synchronization."
+  },
+  {
+    "id": 508,
+    "question": "What is the 'Refusal of Admission' policy?",
+    "options": [
+      "ALC can refuse anyone they dislike",
+      "ALC cannot refuse admission to any eligible candidate without valid reason",
+      "ALC can refuse based on religion",
+      "ALC can refuse if batch is 10% full"
+    ],
+    "answer": 1,
+    "explanation": "ALCs cannot discriminate or refuse admission to eligible candidates unless the batch is full or for valid disciplinary reasons."
+  },
+  {
+    "id": 509,
+    "question": "Which financial record must the ALC maintain?",
+    "options": [
+      "Receipts of fees collected from learners",
+      "Only MKCL invoices",
+      "None",
+      "Movie tickets"
+    ],
+    "answer": 0,
+    "explanation": "ALCs must issue receipts for fees collected and maintain proper financial records for audit and tax purposes."
+  },
+  {
+    "id": 510,
+    "question": "What is the 'Provisional Code'?",
+    "options": [
+      "The final ALC code",
+      "A temporary code generated before the final ALC authorization",
+      "A discount code",
+      "A Wi-Fi password"
+    ],
+    "answer": 1,
+    "explanation": "A Provisional Code is often generated during the final stages of processing before the permanent ALC Code is assigned."
+  }
+]

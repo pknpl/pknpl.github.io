@@ -1,0 +1,602 @@
+[
+  {
+    "id": 851,
+    "question": "You are creating a photo album using Mircosoft PowerPoint. You do not like the default font color that is used in the template and want to change it. What will you do?",
+    "options": [
+      "Change the font",
+      "Change the font color",
+      "Change the font size",
+      "Change the font style"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Change the font color"
+  },
+  {
+    "id": 852,
+    "question": "A ______ book is the book of directions which communicates the ingredients and procedures a chef uses to make his creations.",
+    "options": [
+      "business",
+      "recipe",
+      "certificate",
+      "volunteer"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is recipe"
+  },
+  {
+    "id": 853,
+    "question": "Identify the steps involved to change a picture.",
+    "options": [
+      "Right click > Change Picture",
+      "Double-click > Edit Picture",
+      "Delete Picture",
+      "Insert a new picture"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Right click > Change Picture"
+  },
+  {
+    "id": 854,
+    "question": "_______ option allows you to recolor a text.",
+    "options": [
+      "Font Color",
+      "Bold",
+      "Underline",
+      "Home"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Font Color"
+  },
+  {
+    "id": 855,
+    "question": "Which tab of the Menu bar has the Crop option?",
+    "options": [
+      "Home",
+      "Design",
+      "Animations",
+      "Format"
+    ],
+    "answer": 3,
+    "explanation": "The Correct Answer is Format"
+  },
+  {
+    "id": 856,
+    "question": "You send a message to your friend using a mobile phone. What process are you performing?",
+    "options": [
+      "Connectivity",
+      "Communication",
+      "Networking",
+      "Broadcasting"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Communication"
+  },
+  {
+    "id": 857,
+    "question": "While playing an online game, you use Wi-Fi to connect with your friends’ devices. Which concept allows this?",
+    "options": [
+      "Bandwidth",
+      "Connectivity",
+      "Encryption",
+      "Cloud storage"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Connectivity"
+  },
+  {
+    "id": 858,
+    "question": "A student watches a video online without downloading it. What made this possible?",
+    "options": [
+      "Fast processor",
+      "Good internet connectivity",
+      "Large screen size",
+      "Power backup"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Good internet connectivity"
+  },
+  {
+    "id": 859,
+    "question": "Your parents make a phone call without any wired connection. Which communication type is this?",
+    "options": [
+      "Optical communication",
+      "Wireless communication",
+      "Satellite imaging",
+      "Wired communication"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Wireless communication"
+  },
+  {
+    "id": 860,
+    "question": "When a farmer in a village sends a message to the agriculture office using a mobile network, which technology is being used?",
+    "options": [
+      "Mobile network communication",
+      "LAN connection",
+      "Wired telephone network",
+      "Satellite TV"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Mobile network communication"
+  },
+  {
+    "id": 861,
+    "question": "While travelling, you connect your phone to a public Wi-Fi to send an email. What is this an example of?",
+    "options": [
+      "Satellite connectivity",
+      "Wi-Fi connectivity",
+      "Cloud networking",
+      "Fiber optics"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Wi-Fi connectivity"
+  },
+  {
+    "id": 862,
+    "question": "A doctor talks to a patient through a live video app instead of meeting in person. Which concept is used here?",
+    "options": [
+      "E-learning",
+      "Telecommunication",
+      "Video broadcasting",
+      "Cloud computing"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Telecommunication"
+  },
+  {
+    "id": 863,
+    "question": "Your cousin sends you an email with photos from their vacation. What form of communication is this?",
+    "options": [
+      "Visual communication",
+      "Digital communication",
+      "Physical communication",
+      "Non-digital messaging"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Digital communication"
+  },
+  {
+    "id": 864,
+    "question": "While chatting online, your friend sends you a voice note instead of typing. Which communication type is this?",
+    "options": [
+      "Written communication",
+      "Oral communication",
+      "Visual communication",
+      "Non-verbal communication"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Oral communication"
+  },
+  {
+    "id": 865,
+    "question": "Your father attends a video conference with colleagues in different cities. Which type of technology makes this possible?",
+    "options": [
+      "Networking technology",
+      "Printing technology",
+      "Storage technology",
+      "Broadcasting technology"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Networking technology"
+  },
+  {
+    "id": 866,
+    "question": "A _____ is a detailed description of the history of a person's life.",
+    "options": [
+      "calendar",
+      "spreadsheet",
+      "recipe book",
+      "biography"
+    ],
+    "answer": 3,
+    "explanation": "The Correct Answer is biography"
+  },
+  {
+    "id": 867,
+    "question": "You can either create a PowerPoint presentation from scratch or by using a readymade _____.",
+    "options": [
+      "invoice",
+      "template",
+      "certificate",
+      "video"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is template"
+  },
+  {
+    "id": 868,
+    "question": "You have a dummy image in your presentation and want to replace it. What will you do for this?",
+    "options": [
+      "Right-click on the picture > Change Picture",
+      "Copy the image",
+      "Left-click on the picture > Change Picture",
+      "Drag the image and move it to the next slide"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Right-click on the picture > Change Picture"
+  },
+  {
+    "id": 869,
+    "question": "You have made a biography presentation and want to save it. Under which tab will you find the Save As option?",
+    "options": [
+      "Home",
+      "Transitions",
+      "File",
+      "Animations"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is File"
+  },
+  {
+    "id": 870,
+    "question": "______ is the size of an image in terms of its width and height.",
+    "options": [
+      "Fill Color",
+      "Crop",
+      "Aspect ratio",
+      "Design"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Aspect ratio"
+  },
+  {
+    "id": 871,
+    "question": "While travelling abroad, you make a video call home using mobile data. Which network capability is being used?",
+    "options": [
+      "Mobile network connectivity",
+      "Satellite TV",
+      "Wired communication",
+      "Optical media"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Mobile network connectivity"
+  },
+  {
+    "id": 872,
+    "question": "You share a large file from your computer to your classmate’s computer through a LAN cable. Which communication method is used?",
+    "options": [
+      "Wireless communication",
+      "Wired communication",
+      "Cloud communication",
+      "Satellite communication"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Wired communication"
+  },
+  {
+    "id": 873,
+    "question": "Your home router connects multiple devices to the internet without cables. Which technology does it use?",
+    "options": [
+      "Fiber optic",
+      "Bluetooth",
+      "Wireless networking",
+      "Magnetic networking"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Wireless networking"
+  },
+  {
+    "id": 874,
+    "question": "When you connect your phone to a speaker using Bluetooth, which type of wireless technology is being used?",
+    "options": [
+      "Infrared",
+      "Bluetooth",
+      "Wi-Fi",
+      "Satellite"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Bluetooth"
+  },
+  {
+    "id": 875,
+    "question": "Your school computers are connected to each other within the same building. What is this network called?",
+    "options": [
+      "LAN",
+      "WAN",
+      "MAN",
+      "PAN"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is LAN"
+  },
+  {
+    "id": 876,
+    "question": "A bank connects all its branches across different cities using a network. Which type of network is this?",
+    "options": [
+      "LAN",
+      "WAN",
+      "PAN",
+      "Bluetooth"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is WAN"
+  },
+  {
+    "id": 877,
+    "question": "A student uses their smartwatch to control music on their phone. Which personal network type is this?",
+    "options": [
+      "LAN",
+      "PAN",
+      "WAN",
+      "MAN"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is PAN"
+  },
+  {
+    "id": 878,
+    "question": "You connect your laptop to the internet through your mobile’s hotspot. Which type of networking method is used here?",
+    "options": [
+      "Wired LAN",
+      "Mobile tethering",
+      "Satellite link",
+      "Optical networking"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Mobile tethering"
+  },
+  {
+    "id": 879,
+    "question": "Your city installs a network to connect all public libraries within the city limits. Which network type is this?",
+    "options": [
+      "WAN",
+      "LAN",
+      "MAN",
+      "PAN"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is MAN"
+  },
+  {
+    "id": 880,
+    "question": "Your friend’s office uses a network to share printers, files, and internet among employees. What is this an example of?",
+    "options": [
+      "Data compression",
+      "Resource sharing",
+      "Cloud hosting",
+      "Encryption"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Resource sharing"
+  },
+  {
+    "id": 881,
+    "question": "When you insert a textbox or picture in a slide, a tab or a pane opens on the right hand side of the presentation. What is it called?",
+    "options": [
+      "The Designer tab or pane",
+      "The Navigation tab or pane",
+      "The Windows tab or pane",
+      "The Home tab or pane"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is The Designer tab or pane"
+  },
+  {
+    "id": 882,
+    "question": "Your friend is a history teacher. As it is her first teaching job, she needs your help in understanding how to teach or plan for next class. What will you suggest her?",
+    "options": [
+      "Create a poster",
+      "Create a lesson plan or planner",
+      "Create an excel sheet",
+      "Create a flyer"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Create a lesson plan or planner"
+  },
+  {
+    "id": 883,
+    "question": "You upload homework to a school server using a special file transfer protocol. Which protocol are you using?",
+    "options": [
+      "SMTP",
+      "FTP",
+      "HTTP",
+      "DNS"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is FTP"
+  },
+  {
+    "id": 884,
+    "question": "When you send an email to your teacher, which protocol is used to send it from your device to the server?",
+    "options": [
+      "POP3",
+      "SMTP",
+      "IMAP",
+      "FTP"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is SMTP"
+  },
+  {
+    "id": 885,
+    "question": "You receive an email on your phone and can read it even without downloading attachments. Which protocol enables this?",
+    "options": [
+      "IMAP",
+      "POP3",
+      "SMTP",
+      "HTTP"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is IMAP"
+  },
+  {
+    "id": 886,
+    "question": "Your old email client downloads all messages and deletes them from the server. Which protocol is this?",
+    "options": [
+      "IMAP",
+      "POP3",
+      "SMTP",
+      "FTP"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is POP3"
+  },
+  {
+    "id": 887,
+    "question": "When you type www.mkcl.org, your computer finds its IP address automatically. Which service helps in this?",
+    "options": [
+      "FTP",
+      "DNS",
+      "HTTP",
+      "VPN"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is DNS"
+  },
+  {
+    "id": 888,
+    "question": "Your city’s education department connects with schools through a restricted network that also allows selected external access. What is it called?",
+    "options": [
+      "Extranet",
+      "Intranet",
+      "Internet",
+      "MAN"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Extranet"
+  },
+  {
+    "id": 889,
+    "question": "A student connects to the school network securely from home. Which technology is used here?\n",
+    "options": [
+      "VPN",
+      "FTP",
+      "DNS",
+      "LAN"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is VPN"
+  },
+  {
+    "id": 890,
+    "question": "Your phone switches from Wi-Fi to mobile data while streaming a live class without interruption. What feature makes this possible?",
+    "options": [
+      "Hotspot mode",
+      "Network redundancy",
+      "Seamless connectivity",
+      "Static IP"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Seamless connectivity"
+  },
+  {
+    "id": 891,
+    "question": "When you visit a bank website, a lock icon appears in the address bar. What does this mean?",
+    "options": [
+      "The site is fast",
+      "The site is secure",
+      "The site has large storage",
+      "The site is on a private server"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is The site is secure"
+  },
+  {
+    "id": 892,
+    "question": "If two computers communicate directly without any switch or router, what type of network connection is this?",
+    "options": [
+      "Server-client",
+      "Peer-to-peer",
+      "Cloud-based",
+      "Hybrid network"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Peer-to-peer"
+  },
+  {
+    "id": 893,
+    "question": "Which of the following icons will you click on to embolden the text?\n",
+    "options": [
+      "I",
+      "U",
+      "B",
+      "abc"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is B"
+  },
+  {
+    "id": 894,
+    "question": "To whom do you present a business pitch?",
+    "options": [
+      "Local people",
+      "Your investors",
+      "Your parents",
+      "Your friends"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Your investors"
+  },
+  {
+    "id": 895,
+    "question": "In the offline mode, which option do you have to click for exploring more PowerPoint templates?",
+    "options": [
+      "More layouts",
+      "More documents",
+      "More details",
+      "More themes"
+    ],
+    "answer": 3,
+    "explanation": "The Correct Answer is More themes"
+  },
+  {
+    "id": 896,
+    "question": "Your school’s network has a central server controlling access to all devices. Which architecture is this?",
+    "options": [
+      "Peer-to-peer",
+      "Client-server",
+      "PAN",
+      "MAN"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Client-server"
+  },
+  {
+    "id": 897,
+    "question": "A hacker tries to intercept communication between your device and a website. Which practice prevents this?",
+    "options": [
+      "Plain HTTP",
+      "HTTPS encryption",
+      "Removing passwords",
+      "Increasing bandwidth"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is HTTPS encryption"
+  },
+  {
+    "id": 898,
+    "question": "While transferring a file online, you notice the speed is slower in the evening. What could be the reason?",
+    "options": [
+      "Fewer devices connected",
+      "Network congestion",
+      "Virus infection",
+      "High signal strength"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Network congestion"
+  },
+  {
+    "id": 899,
+    "question": "If your mobile data runs out, but Wi-Fi is available, how can you still connect to the internet?",
+    "options": [
+      "Use wired LAN",
+      "Switch to Wi-Fi",
+      "Use magnetic tapes",
+      "Enable airplane mode"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Switch to Wi-Fi"
+  },
+  {
+    "id": 900,
+    "question": "Your friend sends a large video using a cloud storage link instead of email. What is the benefit?",
+    "options": [
+      "File size limitation",
+      "Easier sharing without email limits",
+      "Lower quality video",
+      "Automatic deletion"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Easier sharing without email limits"
+  }
+]

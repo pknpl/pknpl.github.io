@@ -1,0 +1,276 @@
+[
+  {
+    "id": 951,
+    "question": "Canva’s Magic Write feature allows users to generate AI-powered text for social media captions.",
+    "options": [
+      true,
+      false
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is TRUE"
+  },
+  {
+    "id": 952,
+    "question": "Which key feature allows Canva AI to suggest design layouts based on content?",
+    "options": [
+      "AI-Generated Themes",
+      "Image Recognition",
+      "Automated Color Matching",
+      "Text Clustering"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is AI-Generated Themes"
+  },
+  {
+    "id": 953,
+    "question": "Leonardo.AI improves image generation quality by leveraging which AI technology?",
+    "options": [
+      "Neural Style Transfer",
+      "Predictive AI",
+      "Sentiment Mapping",
+      "AI-powered SEO"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Neural Style Transfer"
+  },
+  {
+    "id": 954,
+    "question": "How does Leonardo.AI adapt to different artistic styles?",
+    "options": [
+      "By training on a fixed dataset",
+      "By analyzing user preferences over time",
+      "By mimicking specific brushstroke patterns",
+      "By applying standard templates to all images"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is By analyzing user preferences over time"
+  },
+  {
+    "id": 955,
+    "question": "How does Pexels enhance search accuracy for users?",
+    "options": [
+      "By using user behavior analysis",
+      "By generating entirely new AI-powered images",
+      "By transforming text queries into animations",
+      "By detecting colors instead of image subjects"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is By using user behavior analysis"
+  },
+  {
+    "id": 956,
+    "question": "What makes Pexels a unique AI-powered search tool?",
+    "options": [
+      "It generates stock images",
+      "It categorizes images using AI-driven tagging",
+      "It allows real-time image editing",
+      "It detects copyrighted content automatically"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is It categorizes images using AI-driven tagging"
+  },
+  {
+    "id": 957,
+    "question": "In a school database, all exam marks are entered first, and report cards are generated later at once. Which processing method is being used?",
+    "options": [
+      "Real-time processing",
+      "Batch processing",
+      "Online processing",
+      "Sequential processing"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Batch processing"
+  },
+  {
+    "id": 958,
+    "question": "During an online ticket booking, your seat is reserved immediately after payment. Which processing ensures this?",
+    "options": [
+      "Real-time processing",
+      "Batch processing",
+      "Delayed processing",
+      "File processing"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Real-time processing"
+  },
+  {
+    "id": 959,
+    "question": "In data storage, why is a “key field” important for managing records?",
+    "options": [
+      "It makes files bigger",
+      "It helps in uniquely finding and organising records",
+      "It removes duplicate data automatically",
+      "It stores passwords"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is It helps in uniquely finding and organising records"
+  },
+  {
+    "id": 960,
+    "question": "While creating a database, you decide to store each student’s name, roll number, and date of birth separately. What is each individual piece of data called?",
+    "options": [
+      "Record",
+      "Field",
+      "File",
+      "Table"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Field"
+  },
+  {
+    "id": 961,
+    "question": "Your school keeps a “Students” file and a “Teachers” file. Both files have records with fields like Name and Address. What is common between them?",
+    "options": [
+      "Key fields are always identical",
+      "Fields can be common but serve different purposes",
+      "Records are identical",
+      "Both files store the same data"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Fields can be common but serve different purposes"
+  },
+  {
+    "id": 962,
+    "question": "What is the first step that you need to perform before you start using Outlook?",
+    "options": [
+      "Configuring Outlook",
+      "Sending a new email",
+      "Applying a new theme",
+      "Deleting the emails"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Configuring Outlook"
+  },
+  {
+    "id": 963,
+    "question": "If you want to use the Outlook mobile app, you will need to __________ the 'Set up Outlook Mobile on my phone, too' option.",
+    "options": [
+      "disable",
+      "validate",
+      "enable",
+      "delete"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is enable"
+  },
+  {
+    "id": 964,
+    "question": "If you are setting up your Outlook account using the Gmail account, you will first need to _________",
+    "options": [
+      "include POP for all mails",
+      "delete POP for all mails",
+      "disable POP for all mails",
+      "enable POP for all mails"
+    ],
+    "answer": 3,
+    "explanation": "The Correct Answer is enable POP for all mails"
+  },
+  {
+    "id": 965,
+    "question": "What is the full form of PIM?",
+    "options": [
+      "Personal Information Machine",
+      "Personal Information Manager",
+      "Parental Information Manager",
+      "Personal Infographics Manager"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Personal Information Manager"
+  },
+  {
+    "id": 966,
+    "question": "Which of the following steps should you follow to insert an already designed signature in your email message?",
+    "options": [
+      "Click Background Stationery > My Signature",
+      "Click Settings > My Signature",
+      "Click Themes > My Signature",
+      "Click Signature > My Signature"
+    ],
+    "answer": 3,
+    "explanation": "The Correct Answer is Click Signature > My Signature"
+  },
+  {
+    "id": 967,
+    "question": "  How will you insert a picture in your email signature while setting it up?  ",
+    "options": [
+      "Click on the Picture icon",
+      "Click on the Insert icon",
+      "Click on the Review icon",
+      "Click on the Edit icon"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Click on the Picture icon"
+  },
+  {
+    "id": 968,
+    "question": "Identify the shortcut key used to create a new contact from the People module in Outlook.",
+    "options": [
+      "Ctrl + A",
+      "Ctrl + B",
+      "Ctrl + M",
+      "Ctrl + N"
+    ],
+    "answer": 3,
+    "explanation": "The Correct Answer is Ctrl + N"
+  },
+  {
+    "id": 969,
+    "question": "What is a Contact Group?",
+    "options": [
+      "A number of contacts combined as a group",
+      "A number of emails merged together",
+      "A number of deleted emails",
+      "A number of emails to be sent"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is A number of contacts combined as a group"
+  },
+  {
+    "id": 970,
+    "question": "What happens when you send an email to a contact group?",
+    "options": [
+      "Each member receives the email",
+      "Only a few members receive the email",
+      "The contact group doesn't receive any email",
+      "Only the head of the group receives the email"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Each member receives the email"
+  },
+  {
+    "id": 971,
+    "question": "When you are creating a contact list or contact group, what is the last and the most important step you need to perform?",
+    "options": [
+      "Click on Close",
+      "Click on Save & Close",
+      "Click on New",
+      "Click on Add Members"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Click on Save & Close"
+  },
+  {
+    "id": 972,
+    "question": "Your friend wants to know how he can save an email in Outlook. According to your knowledge, what can he do?",
+    "options": [
+      "Save it as an attachment",
+      "Save it as a draft",
+      "Save it as an application",
+      "Save it as a new theme"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Save it as an attachment"
+  },
+  {
+    "id": 973,
+    "question": "Where will you be able to see a sent email in your Outlook?",
+    "options": [
+      "In the Sent Items",
+      "In the Inbox folder",
+      "In the Spam folder",
+      "In the Favorites folder"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is In the Sent Items"
+  }
+]

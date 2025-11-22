@@ -1,0 +1,362 @@
+[
+  {
+    "id": 511,
+    "question": "Can an ALC shift their premises to a new location without informing MKCL?",
+    "options": [
+      "Yes",
+      "No, prior approval and re-verification are mandatory",
+      "Yes, if in the same building",
+      "Yes, if they keep the same phone number"
+    ],
+    "answer": 1,
+    "explanation": "Shifting premises changes the registered address; it requires prior approval and a new physical verification (LLC Visit)."
+  },
+  {
+    "id": 512,
+    "question": "What is the minimum screen size recommended for Desktop Clients?",
+    "options": [
+      "10 inches",
+      "15 inches",
+      "18.5 inches or larger",
+      "50 inches"
+    ],
+    "answer": 2,
+    "explanation": "Standard lab setups typically recommend 18.5 inch or larger monitors for a proper viewing experience."
+  },
+  {
+    "id": 513,
+    "question": "Does the KLiC Internship provide a 'Experience Letter'?",
+    "options": [
+      "No",
+      "Yes, from the ALC upon successful completion",
+      "Yes, from the Government of India",
+      "Only if paid extra"
+    ],
+    "answer": 1,
+    "explanation": "Yes, after successful completion, the learner receives a Completion/Experience Letter from the ALC."
+  },
+  {
+    "id": 514,
+    "question": "In the 'Perform-to-Transform' pedagogy, what is emphasized?",
+    "options": [
+      "Reading books",
+      "Writing essays",
+      "Practical skill application and output generation",
+      "Listening to lectures only"
+    ],
+    "answer": 2,
+    "explanation": "The pedagogy emphasizes performing tasks to transform one's skill set (Practical application)."
+  },
+  {
+    "id": 515,
+    "question": "What is the primary requirement for a 'Facilitator'?",
+    "options": [
+      "Must be a PhD holder",
+      "Must be a foreigner",
+      "Must have domain knowledge and ability to guide learners",
+      "Must be an MBA"
+    ],
+    "answer": 2,
+    "explanation": "A facilitator needs relevant domain knowledge (tech skills) and the soft skills to guide learners through the ERA content."
+  },
+  {
+    "id": 516,
+    "question": "If a center stops operating for 3 months without notice, what happens?",
+    "options": [
+      "Nothing",
+      "MKCL may initiate termination proceedings for inactivity",
+      "They get a bonus",
+      "Rent is paid by MKCL"
+    ],
+    "answer": 1,
+    "explanation": "Prolonged inactivity without notice is grounds for termination of the authorization."
+  },
+  {
+    "id": 517,
+    "question": "What is the 'Network Switch' used for?",
+    "options": [
+      "To turn off lights",
+      "To connect all computers in a Local Area Network (LAN)",
+      "To switch between Windows and Linux",
+      "To connect to the printer only"
+    ],
+    "answer": 1,
+    "explanation": "The Network Switch is the central hub connecting the Server and all Clients in the LAN."
+  },
+  {
+    "id": 518,
+    "question": "Can an ALC use 'WiFi' instead of cables for the LAN?",
+    "options": [
+      "Yes, if it is stable and covers all clients",
+      "No, only cables are allowed",
+      "WiFi is banned",
+      "Only for the server"
+    ],
+    "answer": 0,
+    "explanation": "Yes, the norms mention 'Network Switch OR WiFi Access Point', implying wireless LAN is permitted if efficient."
+  },
+  {
+    "id": 519,
+    "question": "What is the 'MFO' settlement timeline?",
+    "options": [
+      "End of the year",
+      "Instantaneous (Real-time deduction from wallet)",
+      "Monthly Invoice",
+      "Credit based"
+    ],
+    "answer": 1,
+    "explanation": "The MFO (MKCL Fee Only) is typically deducted instantaneously or blocked in the SOLAR wallet when a learner is confirmed."
+  },
+  {
+    "id": 520,
+    "question": "Why is the 'Power Backup' capacity calculated based on 'PC Load'?",
+    "options": [
+      "To increase bills",
+      "To ensure the backup lasts long enough to shut down safely or continue class during outages",
+      "To run the AC",
+      "To charge phones"
+    ],
+    "answer": 1,
+    "explanation": "The backup capacity must match the load of the Server + Clients to prevent data loss or hardware damage during power cuts."
+  },
+  {
+    "id": 521,
+    "question": "What is the primary function of the 'ERA Installer' application?",
+    "options": [
+      "To install ERA on the Center's Server",
+      "To install ERA on the Student's Client machine",
+      "To track student attendance",
+      "To generate fee receipts"
+    ],
+    "answer": 0,
+    "explanation": "The ERA Installer application is specifically used to install the ERA framework on the center's Server computer."
+  },
+  {
+    "id": 522,
+    "question": "Which application must be installed on the Student's computer (Client) to access the course content?",
+    "options": [
+      "ERA Installer",
+      "ERA Explorer",
+      "SOLAR App",
+      "MKCL Updater"
+    ],
+    "answer": 1,
+    "explanation": "The ERA Explorer application is the client-side software required for students to access learning content on their computers."
+  },
+  {
+    "id": 523,
+    "question": "Which of the following AI tools is explicitly listed in the Learning Facilitator (LF) OnCeT syllabus?",
+    "options": [
+      "DeepMind AlphaGo",
+      "Cortana / Microsoft Co-Pilot",
+      "Tesla Autopilot",
+      "IBM Watson Health"
+    ],
+    "answer": 1,
+    "explanation": "The syllabus explicitly lists 'Cortana / Microsoft Co-Pilot', 'Google Assistant', 'ChatGPT', and others as AI tools for the exam."
+  },
+  {
+    "id": 524,
+    "question": "What is the mandatory Passing Percentage for the Center Coordinator (CC) OnCeT Exam?",
+    "options": [
+      "35%",
+      "40%",
+      "50%",
+      "60%"
+    ],
+    "answer": 1,
+    "explanation": "The passing criteria for the Center Coordinator OnCeT is 40% (which is 12 marks out of 30)."
+  },
+  {
+    "id": 525,
+    "question": "If an AO gets rejected, during which specific period is the refundable amount processed?",
+    "options": [
+      "January 1-15, 2026",
+      "March 15-31, 2026",
+      "June 1-10, 2026",
+      "Immediately upon rejection"
+    ],
+    "answer": 1,
+    "explanation": "The guidelines state that for rejected AOs, the applicable refund amount will be processed specifically during the period of March 15-31, 2026."
+  },
+  {
+    "id": 526,
+    "question": "Which specific document is required to verify the 'Ownership of Premises' during the center setup?",
+    "options": [
+      "Electricity Bill or Property Tax Receipt",
+      "Aadhaar Card",
+      "PAN Card",
+      "Bank Statement"
+    ],
+    "answer": 0,
+    "explanation": "Valid proof for ownership of premises includes an Electricity Bill or Property Tax Receipt in the name of the owner."
+  },
+  {
+    "id": 527,
+    "question": "What is the 'ERA Clicker' application used for?",
+    "options": [
+      "To mark biometric attendance",
+      "To participate in dynamic polling or exam sessions in the classroom",
+      "To download course content",
+      "To pay fees online"
+    ],
+    "answer": 1,
+    "explanation": "The ERA Clicker application is designed for students to participate in dynamic polling or exam sessions via their mobile devices in the classroom."
+  },
+  {
+    "id": 528,
+    "question": "Which Operating System edition is strictly required for the Server machine?",
+    "options": [
+      "Windows 10 Home",
+      "Windows 10 Pro",
+      "Windows 10 Enterprise",
+      "Windows 11 Home"
+    ],
+    "answer": 2,
+    "explanation": "The Minimum Server Configuration strictly specifies 'Windows 10 (64-bit) Enterprise Edition'."
+  },
+  {
+    "id": 529,
+    "question": "What happens to the Performance Guarantee Amount if a center fails to renew for the year 2027 after being active in 2026?",
+    "options": [
+      "It is forfeited immediately",
+      "MKCL refunds it if the center satisfied admission conditions in 2026",
+      "It is converted to a donation",
+      "It is transferred to another center"
+    ],
+    "answer": 1,
+    "explanation": "If a center satisfies 2026 admission conditions but chooses not to renew for 2027, MKCL will refund the Performance Guarantee Amount."
+  },
+  {
+    "id": 530,
+    "question": "Which syllabus topic is unique to the Center Coordinator OnCeT and NOT in the LF OnCeT?",
+    "options": [
+      "Windows 10",
+      "MS-Office 2019",
+      "Process Details",
+      "Google Tools"
+    ],
+    "answer": 2,
+    "explanation": "'Process Details' (along with Marketing & Administrative details) is a specific module for Center Coordinators. LF syllabus focuses on technical skills like Windows and Office."
+  },
+  {
+    "id": 531,
+    "question": "What is the maximum number of USB ports required on the Server machine?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 2,
+    "explanation": "The minimum server configuration specifies a requirement of 3 USB ports."
+  },
+  {
+    "id": 532,
+    "question": "Which AI tool for 'Task Automation' is mentioned in the syllabus?",
+    "options": [
+      "Zapier",
+      "IFTTT",
+      "Selenium",
+      "AutoHotkey"
+    ],
+    "answer": 1,
+    "explanation": "The syllabus specifically lists 'IFTTT' (If This Then That) under AI Tools for Task Automation."
+  },
+  {
+    "id": 533,
+    "question": "What is the recommended distance between the center's Server and the Network Switch?",
+    "options": [
+      "They must be in different rooms",
+      "They should be connected via LAN cable (Server must be connected to the Switch)",
+      "Wireless connection only",
+      "Maximum 100 meters"
+    ],
+    "answer": 1,
+    "explanation": "The guidelines state that the Server and all Laptops should be connected to the Network Switch via LAN."
+  },
+  {
+    "id": 534,
+    "question": "If an AO pays the registration fee but fails to prepare the center setup in due time, what is the refund status?",
+    "options": [
+      "Full refund",
+      "Partial refund of Rs. 9,500",
+      "Total paid amount will get forfeited",
+      "Only Performance Guarantee is refunded"
+    ],
+    "answer": 2,
+    "explanation": "If an eligible AO fails to prepare the center setup in due time, the total paid amount (Processing + Registration + Performance Guarantee) gets forfeited."
+  },
+  {
+    "id": 535,
+    "question": "Which document is required if the center premises are rented?",
+    "options": [
+      "Ownership Deed",
+      "Rent Agreement / Leave and License Agreement",
+      "Builder's Certificate",
+      "None of the above"
+    ],
+    "answer": 1,
+    "explanation": "For rented premises, a valid Rent Agreement or Leave and License Agreement is mandatory."
+  },
+  {
+    "id": 536,
+    "question": "What is the specific processor speed mentioned in the Minimum Server Configuration?",
+    "options": [
+      "1.6 GHz",
+      "2.0 GHz",
+      "2.4 GHz",
+      "3.0 GHz"
+    ],
+    "answer": 2,
+    "explanation": "The server configuration requires a Dual Core Processor with 2.4 GHz speed."
+  },
+  {
+    "id": 537,
+    "question": "Which of the following is a 'Digital India Skill' included in the syllabus?",
+    "options": [
+      "Using DigiLocker",
+      "Playing PUBG",
+      "Video Editing",
+      "3D Modelling"
+    ],
+    "answer": 0,
+    "explanation": "DigiLocker, along with other government services like BHIM and MyGov, falls under the 'Digital India Skills' section of the syllabus."
+  },
+  {
+    "id": 538,
+    "question": "What is the exact validity period of the initial MS-CIT Center Authorization?",
+    "options": [
+      "Only for the calendar year 2026",
+      "Lifetime",
+      "3 Years",
+      "5 Years"
+    ],
+    "answer": 0,
+    "explanation": "The registration is specifically for the 'year 2026', with renewal subject to performance for subsequent years."
+  },
+  {
+    "id": 539,
+    "question": "Which tool is recommended for 'Voice Typing' in the syllabus?",
+    "options": [
+      "Notepad",
+      "Google Docs",
+      "Excel",
+      "Paint"
+    ],
+    "answer": 1,
+    "explanation": "The syllabus explicitly mentions 'Google Docs – Voice Typing' under AI and productivity tools."
+  },
+  {
+    "id": 540,
+    "question": "Can the Performance Guarantee Amount be used to pay for learner admissions in 2026?",
+    "options": [
+      "Yes, up to 50% of it",
+      "Yes, fully",
+      "No, it cannot be used for admission or any other purpose",
+      "Yes, with LLC permission"
+    ],
+    "answer": 2,
+    "explanation": "The guidelines state: 'Successfully registered new ALCs... will not be able to use Performance Guarantee Amount for admission or any other purpose'."
+  }
+]
