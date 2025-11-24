@@ -1,102 +1,6 @@
 [
   {
     "id": 481,
-    "question": "What is the validity of the KLiC Diploma Certificate?",
-    "options": [
-      "1 Year",
-      "5 Years",
-      "Lifetime",
-      "Until software version changes"
-    ],
-    "answer": 2,
-    "explanation": "Like most academic diplomas, the KLiC Diploma certificate has lifetime validity as a record of qualification."
-  },
-  {
-    "id": 482,
-    "question": "Who handles the 'Grievance Redressal' for learners regarding course content?",
-    "options": [
-      "The local police",
-      "MKCL Support / ALC Coordinator",
-      "The Internet Provider",
-      "The Hardware Vendor"
-    ],
-    "answer": 1,
-    "explanation": "Academic and content grievances are handled by the ALC Coordinator and escalated to MKCL Support if necessary."
-  },
-  {
-    "id": 483,
-    "question": "What is the primary language of the 'KLiC' course content?",
-    "options": [
-      "English only",
-      "Marathi only",
-      "Bilingual (English and Marathi) usually available",
-      "French"
-    ],
-    "answer": 2,
-    "explanation": "MKCL courses are generally designed to be bilingual (English and Marathi) to cater to the local demographic."
-  },
-  {
-    "id": 484,
-    "question": "What is the 'Re-exam' policy for KLiC courses if a student fails?",
-    "options": [
-      "No re-exam allowed",
-      "Re-exam allowed with a nominal fee",
-      "Must pay full course fee again",
-      "Passed automatically after 1 year"
-    ],
-    "answer": 1,
-    "explanation": "Learners who fail can typically appear for a re-exam by paying a nominal exam fee, without repeating the entire course."
-  },
-  {
-    "id": 485,
-    "question": "Why is the 'Bio-metric Device' integrated with the SOLAR framework?",
-    "options": [
-      "To check blood pressure",
-      "To ensure genuine attendance of learners and staff",
-      "To unlock the door",
-      "To scan payment cards"
-    ],
-    "answer": 1,
-    "explanation": "Biometric integration ensures that the attendance recorded for learners and facilitators is genuine and verifiable."
-  },
-  {
-    "id": 486,
-    "question": "Can an ALC charge a 'Prospectus Fee' or 'Form Fee' over and above the course fee?",
-    "options": [
-      "Yes, unlimited",
-      "Yes, up to Rs. 500",
-      "No, all costs should be covered within the published course fee",
-      "Yes, for AC rooms"
-    ],
-    "answer": 2,
-    "explanation": "ALCs are generally not expected to charge hidden fees; the published fee structure is usually all-inclusive of tuition."
-  },
-  {
-    "id": 487,
-    "question": "What is the role of 'TeamViewer' or 'AnyDesk' in the context of MKCL support?",
-    "options": [
-      "To teach students",
-      "To allow MKCL support staff to remotely troubleshoot technical issues",
-      "To transfer money",
-      "To record videos"
-    ],
-    "answer": 1,
-    "explanation": "Remote desktop tools are often used by MKCL technical support to fix ERA or SOLAR issues at the center remotely."
-  },
-  {
-    "id": 488,
-    "question": "Which marketing activity is the responsibility of the ALC?",
-    "options": [
-      "TV Ads on National Channels",
-      "Local area marketing (Leaflets, Seminars, Banners)",
-      "Changing the syllabus",
-      "Printing certificates"
-    ],
-    "answer": 1,
-    "explanation": "While MKCL does brand building, the 'Local Lead Generation' and local marketing are the primary responsibility of the ALC."
-  },
-  {
-    "id": 489,
     "question": "What does the 'Dashboard' on the SOLAR portal provide to the ALC?",
     "options": [
       "Stock market updates",
@@ -108,7 +12,7 @@
     "explanation": "The SOLAR Dashboard is the command center showing admissions, fee status, and important alerts."
   },
   {
-    "id": 490,
+    "id": 482,
     "question": "Is 'Fire Safety Equipment' (Fire Extinguisher) recommended for the center?",
     "options": [
       "No, water is enough",
@@ -120,7 +24,7 @@
     "explanation": "Safety norms dictate that a Computer Laboratory with high electrical load must have Fire Safety Equipment."
   },
   {
-    "id": 491,
+    "id": 483,
     "question": "What is the full form of 'TP' in the MKCL hierarchy?",
     "options": [
       "Training Partner",
@@ -132,7 +36,7 @@
     "explanation": "TP stands for Training Partner (often a master center or coordinator in the region)."
   },
   {
-    "id": 492,
+    "id": 484,
     "question": "If an AO has a dispute with the LLC regarding the visit report, whom should they approach?",
     "options": [
       "The Police",
@@ -144,7 +48,7 @@
     "explanation": "The RLC oversees the LLCs and is the next level for escalation or dispute resolution."
   },
   {
-    "id": 493,
+    "id": 485,
     "question": "What is the 'Code of Conduct' for an ALC?",
     "options": [
       "A list of software codes",
@@ -156,7 +60,7 @@
     "explanation": "The Code of Conduct is the binding agreement on ethical practices, fees, and quality standards."
   },
   {
-    "id": 494,
+    "id": 486,
     "question": "Can an ALC run batches 24/7?",
     "options": [
       "Yes",
@@ -168,7 +72,7 @@
     "explanation": "While flexibility exists, centers usually operate within standard decent operational hours defined by local regulations and safety."
   },
   {
-    "id": 495,
+    "id": 487,
     "question": "What is the 'Headphone to Client Ratio'?",
     "options": [
       "1:1 (One headphone per client PC)",
@@ -180,7 +84,7 @@
     "explanation": "Since KLiC is an eLearning course with audio-visuals, a 1:1 ratio is mandatory."
   },
   {
-    "id": 496,
+    "id": 488,
     "question": "Which device is used to capture the 'Learner's Photo' during admission at the center?",
     "options": [
       "DSLR Camera only",
@@ -192,7 +96,7 @@
     "explanation": "The Web Camera is the standard device for capturing the official learner photo directly into the system."
   },
   {
-    "id": 497,
+    "id": 489,
     "question": "What is the consequence of 'Dual Admissions' (Fake students)?",
     "options": [
       "Award from MKCL",
@@ -204,7 +108,7 @@
     "explanation": "Creating fake admissions or dual records is a serious malpractice leading to termination of the center."
   },
   {
-    "id": 498,
+    "id": 490,
     "question": "Does the ALC need to renew their authorization periodically?",
     "options": [
       "No, it is permanent",
@@ -216,7 +120,7 @@
     "explanation": "ALC authorization is not permanent; it requires Annual Renewal based on performance and compliance."
   },
   {
-    "id": 499,
+    "id": 491,
     "question": "What is the main advantage of the 'ERA' (eLearning Revolution for All) model for the center owner?",
     "options": [
       "No need to hire expert faculty for every single topic",
@@ -228,7 +132,7 @@
     "explanation": "ERA provides high-quality standardized teaching content, reducing the dependency on finding expert faculty for every niche topic."
   },
   {
-    "id": 500,
+    "id": 492,
     "question": "How are KLiC Learner certificates delivered to the ALC?",
     "options": [
       "By Email only",
@@ -240,7 +144,7 @@
     "explanation": "Hard copy certificates are generally dispatched by MKCL to the ALC via courier/post for distribution."
   },
   {
-    "id": 501,
+    "id": 493,
     "question": "What is the definition of a 'banned' organization in the context of AO?",
     "options": [
       "An organization previously blacklisted by MKCL or Govt",
@@ -252,7 +156,7 @@
     "explanation": "A banned organization is one that has been blacklisted due to malpractice and is ineligible to apply."
   },
   {
-    "id": 502,
+    "id": 494,
     "question": "Is a 'Rent Agreement' valid if it is not registered/notarized?",
     "options": [
       "Yes, verbal agreement works",
@@ -264,7 +168,7 @@
     "explanation": "For rented premises, a legal Registered or Notarized Rent Agreement is mandatory as address proof."
   },
   {
-    "id": 503,
+    "id": 495,
     "question": "What does the term 'Carpeting Area' refer to?",
     "options": [
       "The area covered by rugs",
@@ -276,7 +180,7 @@
     "explanation": "Carpeting Area refers to the net usable internal space, which must be at least 100 sq. ft. for the setup."
   },
   {
-    "id": 504,
+    "id": 496,
     "question": "Why is 'Ventilation' mentioned in infrastructure norms?",
     "options": [
       "To let birds in",
@@ -288,19 +192,7 @@
     "explanation": "Good ventilation is crucial for the longevity of computer hardware (heat management) and learner health."
   },
   {
-    "id": 505,
-    "question": "Can an ALC sell computer hardware to students?",
-    "options": [
-      "Yes, as a private business",
-      "No, it is illegal",
-      "Yes, but MKCL takes commission",
-      "Only if MKCL approves"
-    ],
-    "answer": 0,
-    "explanation": "The ALC can run other businesses (like hardware sales) provided the MKCL lab space is not compromised/misused, but it is a separate private business."
-  },
-  {
-    "id": 506,
+    "id": 497,
     "question": "What is the role of the 'Center Coordinator'?",
     "options": [
       "To clean the floor",
@@ -312,7 +204,7 @@
     "explanation": "The Coordinator is the key operational person managing counseling, admin, and the technical learning environment."
   },
   {
-    "id": 507,
+    "id": 498,
     "question": "If the Internet goes down for 1 hour, can the ERA Local Server still work?",
     "options": [
       "No, it stops immediately",
@@ -324,7 +216,7 @@
     "explanation": "ERA content is served locally via LAN. Internet is primarily required for login authentication and data synchronization."
   },
   {
-    "id": 508,
+    "id": 499,
     "question": "What is the 'Refusal of Admission' policy?",
     "options": [
       "ALC can refuse anyone they dislike",
@@ -336,7 +228,7 @@
     "explanation": "ALCs cannot discriminate or refuse admission to eligible candidates unless the batch is full or for valid disciplinary reasons."
   },
   {
-    "id": 509,
+    "id": 500,
     "question": "Which financial record must the ALC maintain?",
     "options": [
       "Receipts of fees collected from learners",
@@ -348,7 +240,7 @@
     "explanation": "ALCs must issue receipts for fees collected and maintain proper financial records for audit and tax purposes."
   },
   {
-    "id": 510,
+    "id": 501,
     "question": "What is the 'Provisional Code'?",
     "options": [
       "The final ALC code",
@@ -358,5 +250,113 @@
     ],
     "answer": 1,
     "explanation": "A Provisional Code is often generated during the final stages of processing before the permanent ALC Code is assigned."
+  },
+  {
+    "id": 502,
+    "question": "Can an ALC shift their premises to a new location without informing MKCL?",
+    "options": [
+      "Yes",
+      "No, prior approval and re-verification are mandatory",
+      "Yes, if in the same building",
+      "Yes, if they keep the same phone number"
+    ],
+    "answer": 1,
+    "explanation": "Shifting premises changes the registered address; it requires prior approval and a new physical verification (LLC Visit)."
+  },
+  {
+    "id": 503,
+    "question": "What is the minimum screen size recommended for Desktop Clients?",
+    "options": [
+      "10 inches",
+      "14 inches",
+      "18.5 inches or larger",
+      "50 inches"
+    ],
+    "answer": 1,
+    "explanation": "Standard lab setups typically recommend 14 inch or larger monitors for a proper viewing experience."
+  },
+  {
+    "id": 504,
+    "question": "Does the KLiC Internship provide a 'Experience Letter'?",
+    "options": [
+      "No",
+      "Yes, from the ALC upon successful completion",
+      "Yes, from the Government of India",
+      "Only if paid extra"
+    ],
+    "answer": 1,
+    "explanation": "Yes, after successful completion, the learner receives a Completion/Experience Letter from the ALC."
+  },
+  {
+    "id": 505,
+    "question": "In the 'Perform-to-Transform' pedagogy, what is emphasized?",
+    "options": [
+      "Reading books",
+      "Writing essays",
+      "Practical skill application and output generation",
+      "Listening to lectures only"
+    ],
+    "answer": 2,
+    "explanation": "The pedagogy emphasizes performing tasks to transform one's skill set (Practical application)."
+  },
+  {
+    "id": 506,
+    "question": "What is the primary requirement for a 'Facilitator'?",
+    "options": [
+      "Must be a PhD holder",
+      "Must be a foreigner",
+      "Must have domain knowledge and ability to guide learners",
+      "Must be an MBA"
+    ],
+    "answer": 2,
+    "explanation": "A facilitator needs relevant domain knowledge (tech skills) and the soft skills to guide learners through the ERA content."
+  },
+  {
+    "id": 507,
+    "question": "If a center stops operating for 3 months without notice, what happens?",
+    "options": [
+      "Nothing",
+      "MKCL may initiate termination proceedings for inactivity",
+      "They get a bonus",
+      "Rent is paid by MKCL"
+    ],
+    "answer": 1,
+    "explanation": "Prolonged inactivity without notice is grounds for termination of the authorization."
+  },
+  {
+    "id": 508,
+    "question": "What is the 'Network Switch' used for?",
+    "options": [
+      "To turn off lights",
+      "To connect all computers in a Local Area Network (LAN)",
+      "To switch between Windows and Linux",
+      "To connect to the printer only"
+    ],
+    "answer": 1,
+    "explanation": "The Network Switch is the central hub connecting the Server and all Clients in the LAN."
+  },
+  {
+    "id": 509,
+    "question": "Can an ALC use 'WiFi' instead of cables for the LAN?",
+    "options": [
+      "Yes, if it is stable and covers all clients",
+      "No, only cables are allowed",
+      "WiFi is banned",
+      "Only for the server"
+    ],
+    "answer": 0,
+    "explanation": "Yes, the norms mention 'Network Switch OR WiFi Access Point', implying wireless LAN is permitted if efficient."
+  },
+  {
+    "id": 510,
+    "question": "What is the 'MFO' settlement timeline?",
+    "options": [
+      "End of the year",
+      "Instantaneous (Real-time deduction from wallet)",
+      "Monthly Invoice",
+      "Credit based"
+    ],
+    "answer": 1,
+    "explanation": "The MFO (MKCL Fee Only) is typically deducted instantaneously or blocked in the SOLAR wallet when a learner is confirmed."
   }
 ]

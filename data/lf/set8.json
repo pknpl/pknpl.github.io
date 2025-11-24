@@ -241,18 +241,6 @@
   },
   {
     "id": 371,
-    "question": "In PhotoScan app, what does the highlighted symbol denote?",
-    "options": [
-      "Ready to capture photo",
-      "Photo is captured and ready for scan",
-      "Ready to capture video",
-      "Video is captured and ready for scan"
-    ],
-    "answer": 1,
-    "explanation": "The Correct Answer is Photo is captured and ready for scan"
-  },
-  {
-    "id": 372,
     "question": "To turn off your camera quickly in a Google Meet meeting, which keyboard shortcut should you use?",
     "options": [
       "Ctrl + D",
@@ -264,7 +252,7 @@
     "explanation": "The Correct Answer is Ctrl + E"
   },
   {
-    "id": 373,
+    "id": 372,
     "question": "Identify the feature that provides a list of email ids for the participating members in Google Meet.",
     "options": [
       "Google Contacts",
@@ -276,7 +264,7 @@
     "explanation": "The Correct Answer is Google Contacts"
   },
   {
-    "id": 374,
+    "id": 373,
     "question": "Where can you schedule a new meeting on Google Meet?",
     "options": [
       "Instagram",
@@ -288,7 +276,7 @@
     "explanation": "The Correct Answer is Google Calendar"
   },
   {
-    "id": 375,
+    "id": 374,
     "question": "How can the Translated Captions feature be helpful in education settings?",
     "options": [
       "By providing a grid view of participants during a video call",
@@ -300,7 +288,7 @@
     "explanation": "The Correct Answer is By allowing educators to connect and interact with students, parents, with diverse backgrounds"
   },
   {
-    "id": 376,
+    "id": 375,
     "question": "What is the Translated Captions feature in Google Meet?",
     "options": [
       "A feature that allows users to blur their background during video calls",
@@ -312,7 +300,7 @@
     "explanation": "The Correct Answer is A feature that translates spoken English into captions in real-time during a video conference"
   },
   {
-    "id": 377,
+    "id": 376,
     "question": "Choose the platform that helps you to hold meetings with 500 people at a time.",
     "options": [
       "Google Drive",
@@ -324,7 +312,7 @@
     "explanation": "The Correct Answer is Google Meet"
   },
   {
-    "id": 378,
+    "id": 377,
     "question": "Which of the following is not true in case of Truecaller?",
     "options": [
       "It is an online phonebook.",
@@ -336,7 +324,7 @@
     "explanation": "The Correct Answer is It is an online address book."
   },
   {
-    "id": 379,
+    "id": 378,
     "question": "What is Truecaller?",
     "options": [
       "Online address book",
@@ -348,7 +336,7 @@
     "explanation": "The Correct Answer is Online phonebook"
   },
   {
-    "id": 380,
+    "id": 379,
     "question": "WhatsApp Meta AI helps business users mainly by providing ____.",
     "options": [
       "Automated document translation",
@@ -360,7 +348,7 @@
     "explanation": "The Correct Answer is Automatic customer interactions"
   },
   {
-    "id": 381,
+    "id": 380,
     "question": "This interaction best illustrates which WhatsApp Meta AI capability?",
     "options": [
       "Sentiment analysis",
@@ -372,7 +360,7 @@
     "explanation": "The Correct Answer is Real-time information retrieval"
   },
   {
-    "id": 382,
+    "id": 381,
     "question": "Which technology enables Notion to respond quickly to your commands?",
     "options": [
       "Predictive analytics",
@@ -384,7 +372,7 @@
     "explanation": "The Correct Answer is Natural Language Processing"
   },
   {
-    "id": 383,
+    "id": 382,
     "question": "What is the main function of Todoist?",
     "options": [
       "Organizing calendar events",
@@ -396,7 +384,7 @@
     "explanation": "The Correct Answer is Task management"
   },
   {
-    "id": 384,
+    "id": 383,
     "question": "Todoist uses GPT-3 AI primarily to __________________.",
     "options": [
       "translate documents",
@@ -408,7 +396,7 @@
     "explanation": "The Correct Answer is understand written commands"
   },
   {
-    "id": 385,
+    "id": 384,
     "question": "What can you track using Habitica?",
     "options": [
       "Financial investments",
@@ -420,7 +408,7 @@
     "explanation": "The Correct Answer is Daily habits"
   },
   {
-    "id": 386,
+    "id": 385,
     "question": "Habitica rewards users primarily by ____________.",
     "options": [
       "Real money transfers",
@@ -432,7 +420,7 @@
     "explanation": "The Correct Answer is Virtual points and achievements"
   },
   {
-    "id": 387,
+    "id": 386,
     "question": "How does Suno create music?",
     "options": [
       "By live musicians",
@@ -444,19 +432,7 @@
     "explanation": "The Correct Answer is Using Generative AI"
   },
   {
-    "id": 388,
-    "question": "What does this image most accurately depict?",
-    "options": [
-      "User learning piano",
-      "Manual songwriting",
-      "AI-based music creation",
-      "User listening to radio"
-    ],
-    "answer": 2,
-    "explanation": "The Correct Answer is AI-based music creation"
-  },
-  {
-    "id": 389,
+    "id": 387,
     "question": "Rahul typed \"https://www.mkcl.org\" in his browser and pressed Enter to open the website. What is this full line called?",
     "options": [
       "Website Name – because it shows where he wants to go",
@@ -468,7 +444,7 @@
     "explanation": "The Correct Answer is URL – because it is the full web address"
   },
   {
-    "id": 390,
+    "id": 388,
     "question": "A friend showed Anjali two things: a browser and an ISP. She got confused. What does an ISP help with?",
     "options": [
       "Making presentations",
@@ -480,7 +456,7 @@
     "explanation": "The Correct Answer is Connecting to the Internet"
   },
   {
-    "id": 391,
+    "id": 389,
     "question": "Ramesh opened a news website, but some images didn’t load. His teacher said a tool might be missing. What is the tool called?",
     "options": [
       "Firewall – for security",
@@ -492,7 +468,7 @@
     "explanation": "The Correct Answer is Plug-in – to run extra media"
   },
   {
-    "id": 392,
+    "id": 390,
     "question": "Sneha clicked on a button that said “Buy Now” on a shopping website. It opened a page asking for her name and address. What kind of page is this?",
     "options": [
       "Blog – because it has written content",
@@ -504,7 +480,7 @@
     "explanation": "The Correct Answer is E-form – because it asks for user details"
   },
   {
-    "id": 393,
+    "id": 391,
     "question": "Your school portal allows students to download worksheets. What kind of tool or service helps this process?",
     "options": [
       "Firewall – because it protects data",
@@ -516,7 +492,7 @@
     "explanation": "The Correct Answer is FTP – because it moves files"
   },
   {
-    "id": 394,
+    "id": 392,
     "question": "A student says, “Internet and Web are just two names for the same thing.” Which sentence will help him understand correctly?",
     "options": [
       "Internet and Web are always used together",
@@ -528,7 +504,7 @@
     "explanation": "The Correct Answer is Web is the service that works on the Internet"
   },
   {
-    "id": 395,
+    "id": 393,
     "question": "Your teacher showed a web page with pictures and text. He said it was written using a special language. What is this language called?",
     "options": [
       "PDF – because the file had images",
@@ -540,7 +516,7 @@
     "explanation": "The Correct Answer is HTML – because it builds websites"
   },
   {
-    "id": 396,
+    "id": 394,
     "question": "Priya clicked on the word “Gallery” on her school website, and it opened a new page with photos. What is such clickable text called?",
     "options": [
       "Bookmark – because it saves her page",
@@ -552,7 +528,7 @@
     "explanation": "The Correct Answer is Hyperlink – because it connects pages"
   },
   {
-    "id": 397,
+    "id": 395,
     "question": "Akash visited a shopping website and selected a toy. Next day, when he opened the same site, the toy was still in his cart. What helped the site remember him?",
     "options": [
       "Web Page – because it keeps the toy",
@@ -564,7 +540,7 @@
     "explanation": "The Correct Answer is Cookie – because it stores user info"
   },
   {
-    "id": 398,
+    "id": 396,
     "question": "A student saw “.com” and “.edu” at the end of website addresses. What do these endings show?",
     "options": [
       "The page design",
@@ -576,7 +552,7 @@
     "explanation": "The Correct Answer is The purpose of the site"
   },
   {
-    "id": 399,
+    "id": 397,
     "question": "In the \"Mailing\" tab, which option is used to insert merge fields into a document during the mail merge process?",
     "options": [
       "Insert Image",
@@ -588,7 +564,7 @@
     "explanation": "The Correct Answer is Insert Merge Field"
   },
   {
-    "id": 400,
+    "id": 398,
     "question": "Rahul wants to write a poem on his computer and decorate it with colorful fonts. Which type of application software should he use?",
     "options": [
       "Spreadsheet Software",
@@ -598,5 +574,29 @@
     ],
     "answer": 1,
     "explanation": "The Correct Answer is Word Processing Software"
+  },
+  {
+    "id": 399,
+    "question": "Priya needs to make a bar graph of her monthly expenses. What kind of software should she use?",
+    "options": [
+      "Word Processor",
+      "Spreadsheet Software",
+      "Drawing Software",
+      "Web Browser"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Spreadsheet Software"
+  },
+  {
+    "id": 400,
+    "question": "Sunil wants to compare two shops’ sales data and prepare a small report. Which software will help in both storing data and writing about it?",
+    "options": [
+      "MS Paint",
+      "Presentation Software only",
+      "Spreadsheet and Word Processor",
+      "Music Player"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Spreadsheet and Word Processor"
   }
 ]

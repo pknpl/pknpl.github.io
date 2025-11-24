@@ -1,30 +1,6 @@
 [
   {
     "id": 901,
-    "question": "A company has servers in two cities connected through optical fiber for faster data exchange. Which type of connection is this?",
-    "options": [
-      "Coaxial cable",
-      "Fiber optic cable",
-      "Bluetooth",
-      "Infrared"
-    ],
-    "answer": 1,
-    "explanation": "The Correct Answer is Fiber optic cable"
-  },
-  {
-    "id": 902,
-    "question": "You control your smart lights from your phone via the internet. Which network type does this represent?",
-    "options": [
-      "IoT network",
-      "LAN",
-      "MAN",
-      "PAN"
-    ],
-    "answer": 0,
-    "explanation": "The Correct Answer is IoT network"
-  },
-  {
-    "id": 903,
     "question": "Your mobile hotspot is shared with your friends, and you notice internet speed slows down. Why?",
     "options": [
       "More devices connected share bandwidth",
@@ -36,7 +12,7 @@
     "explanation": "The Correct Answer is More devices connected share bandwidth"
   },
   {
-    "id": 904,
+    "id": 902,
     "question": "Your teacher uses Google Meet to conduct classes. Which type of service is this?",
     "options": [
       "Streaming service",
@@ -48,7 +24,7 @@
     "explanation": "The Correct Answer is Video conferencing"
   },
   {
-    "id": 905,
+    "id": 903,
     "question": "A friend shares a web link starting with “ftp://”. What does it indicate?",
     "options": [
       "Email link",
@@ -60,7 +36,7 @@
     "explanation": "The Correct Answer is File transfer link"
   },
   {
-    "id": 906,
+    "id": 904,
     "question": "What steps will you perform to replace an image on a PowerPoint slide?",
     "options": [
       "Right-click on the picture > Change Picture",
@@ -72,7 +48,7 @@
     "explanation": "The Correct Answer is Right-click on the picture > Change Picture"
   },
   {
-    "id": 907,
+    "id": 905,
     "question": "From which tab will you select and apply a theme to your presentation?",
     "options": [
       "The Draw tab",
@@ -84,7 +60,7 @@
     "explanation": "The Correct Answer is The Design tab"
   },
   {
-    "id": 908,
+    "id": 906,
     "question": "You have changed the presentation view in PowerPoint to Grayscale. Which option will you click on to change it to color view again?",
     "options": [
       "Inverse Grayscale",
@@ -96,7 +72,7 @@
     "explanation": "The Correct Answer is Back to Color View"
   },
   {
-    "id": 909,
+    "id": 907,
     "question": "When you save a file on your device or computer, from where can you access it later on?",
     "options": [
       "From the same location where you saved it",
@@ -108,7 +84,7 @@
     "explanation": "The Correct Answer is From the same location where you saved it"
   },
   {
-    "id": 910,
+    "id": 908,
     "question": "When you connect to public Wi-Fi, your data is at risk. What should you use to secure it?",
     "options": [
       "VPN",
@@ -120,7 +96,7 @@
     "explanation": "The Correct Answer is VPN"
   },
   {
-    "id": 911,
+    "id": 909,
     "question": "Your school LAN is down. Which resource can you still access from your personal mobile internet?",
     "options": [
       "Local school printer",
@@ -132,7 +108,7 @@
     "explanation": "The Correct Answer is Public websites"
   },
   {
-    "id": 912,
+    "id": 910,
     "question": "You receive an email from your teacher’s official ID. How can you be sure it’s authentic?",
     "options": [
       "Ignore security checks",
@@ -144,7 +120,7 @@
     "explanation": "The Correct Answer is Check sender domain & authenticity"
   },
   {
-    "id": 913,
+    "id": 911,
     "question": "Your class network uses wired LAN for desktops and Wi-Fi for tablets. What is this combination called?",
     "options": [
       "PAN",
@@ -156,7 +132,7 @@
     "explanation": "The Correct Answer is Hybrid network"
   },
   {
-    "id": 914,
+    "id": 912,
     "question": "You scan a QR code on the school notice board to get timetable details. Which communication method is this?",
     "options": [
       "Optical scanning communication",
@@ -168,7 +144,7 @@
     "explanation": "The Correct Answer is Optical scanning communication"
   },
   {
-    "id": 915,
+    "id": 913,
     "question": "Your friend sets up a private group chat for project members only. Which benefit of networking is this?",
     "options": [
       "Broadcasting",
@@ -180,7 +156,7 @@
     "explanation": "The Correct Answer is Secure communication"
   },
   {
-    "id": 916,
+    "id": 914,
     "question": "While sending confidential documents, you encrypt them first. Why?",
     "options": [
       "To make the file larger",
@@ -192,7 +168,7 @@
     "explanation": "The Correct Answer is To protect from unauthorized access"
   },
   {
-    "id": 917,
+    "id": 915,
     "question": "Your teacher uses a projector connected to the school network to display the lesson from their laptop. Which networking feature enables this?",
     "options": [
       "Resource sharing",
@@ -204,7 +180,7 @@
     "explanation": "The Correct Answer is Resource sharing"
   },
   {
-    "id": 918,
+    "id": 916,
     "question": "Two friends in different countries play the same online game at the same time. Which technology supports this?",
     "options": [
       "Streaming",
@@ -216,7 +192,7 @@
     "explanation": "The Correct Answer is Real-time networking"
   },
   {
-    "id": 919,
+    "id": 917,
     "question": "ssIf your ISP blocks certain websites, which tool could bypass this restriction securely?",
     "options": [
       "VPN",
@@ -228,7 +204,7 @@
     "explanation": "The Correct Answer is VPN"
   },
   {
-    "id": 920,
+    "id": 918,
     "question": "How does refining a prompt affect the outcome with a chatbot?",
     "options": [
       "Decreases the quality of the response",
@@ -240,7 +216,7 @@
     "explanation": "The Correct Answer is Encourages a more detailed and in-depth exploration"
   },
   {
-    "id": 921,
+    "id": 919,
     "question": "Rohit contacts a customer service bot about a defective product. What interactive prompt might he receive first?",
     "options": [
       "Sorry, I cannot understand you.'",
@@ -252,7 +228,7 @@
     "explanation": "The Correct Answer is I'm here to help! Do you have the product ID or order number?'"
   },
   {
-    "id": 922,
+    "id": 920,
     "question": "Why is precision important in written prompts for AI?",
     "options": [
       "It increases the chance of errors",
@@ -264,7 +240,7 @@
     "explanation": "The Correct Answer is It helps the AI understand the exact output desired"
   },
   {
-    "id": 923,
+    "id": 921,
     "question": "Why do visual prompts work effectively?",
     "options": [
       "They require detailed explanations",
@@ -276,7 +252,7 @@
     "explanation": "The Correct Answer is People naturally react to visual information"
   },
   {
-    "id": 924,
+    "id": 922,
     "question": "What is the primary role of prompts in AI interactions?",
     "options": [
       "To confuse the AI",
@@ -288,7 +264,7 @@
     "explanation": "The Correct Answer is To serve as the foundation for understanding user inputs"
   },
   {
-    "id": 925,
+    "id": 923,
     "question": "The ability of a chatbot to provide relevant responses depends on its understanding of:",
     "options": [
       "The user's previous interactions and ongoing events",
@@ -300,7 +276,7 @@
     "explanation": "The Correct Answer is The user's previous interactions and ongoing events"
   },
   {
-    "id": 926,
+    "id": 924,
     "question": "What type of response might a chatbot provide to match a user's needs more accurately?",
     "options": [
       "Only lengthy, detailed text",
@@ -312,7 +288,7 @@
     "explanation": "The Correct Answer is Varying responses, including images, graphs, or links"
   },
   {
-    "id": 927,
+    "id": 925,
     "question": "Soft prompts in AI are characterized by _____________.",
     "options": [
       "Creativity and openness",
@@ -324,7 +300,7 @@
     "explanation": "The Correct Answer is Creativity and openness"
   },
   {
-    "id": 928,
+    "id": 926,
     "question": "The adoption of AI in agriculture aims to _________ .",
     "options": [
       "Discourage the use of modern farming techniques",
@@ -336,7 +312,7 @@
     "explanation": "The Correct Answer is Promote efficient resource use and enhance crop production"
   },
   {
-    "id": 929,
+    "id": 927,
     "question": "Which AI-powered feature in Pictory helps convert long-form text into summarized video content?",
     "options": [
       "AI Voice-over",
@@ -348,7 +324,7 @@
     "explanation": "The Correct Answer is Text-to-Video"
   },
   {
-    "id": 930,
+    "id": 928,
     "question": "Pictory's AI voice-over feature can be customized to _____________.",
     "options": [
       "Change accents and tones",
@@ -360,7 +336,7 @@
     "explanation": "The Correct Answer is Change accents and tones"
   },
   {
-    "id": 931,
+    "id": 929,
     "question": "SocialBee assists users in scheduling posts by utilizing which AI-driven approach?",
     "options": [
       "Content Categorization",
@@ -372,7 +348,7 @@
     "explanation": "The Correct Answer is Content Categorization"
   },
   {
-    "id": 932,
+    "id": 930,
     "question": "SocialBee only provides AI-generated captions but does not optimize engagement based on user interaction.",
     "options": [
       true,
@@ -382,7 +358,7 @@
     "explanation": "The Correct Answer is FALSE"
   },
   {
-    "id": 933,
+    "id": 931,
     "question": "VEED.IO simplifies video editing primarily by using AI for ________________.",
     "options": [
       "Generating 3D animations",
@@ -394,7 +370,7 @@
     "explanation": "The Correct Answer is Automating subtitles and translations"
   },
   {
-    "id": 934,
+    "id": 932,
     "question": "VEED.IO's AI avatars help users by ____________.",
     "options": [
       "Creating animated stories",
@@ -406,7 +382,7 @@
     "explanation": "The Correct Answer is Acting as virtual presenters"
   },
   {
-    "id": 935,
+    "id": 933,
     "question": "While explaining computer storage, your teacher says the hard disk stores data in tracks and sectors. What is this type of view called?",
     "options": [
       "Logical view",
@@ -418,7 +394,7 @@
     "explanation": "The Correct Answer is Physical view"
   },
   {
-    "id": 936,
+    "id": 934,
     "question": "You open a file and see its content as names, dates, and numbers without worrying about where it’s stored on disk. Which view are you using?",
     "options": [
       "Physical view",
@@ -430,7 +406,7 @@
     "explanation": "The Correct Answer is Logical view"
   },
   {
-    "id": 937,
+    "id": 935,
     "question": "In a library database, each book record contains title, author, and ISBN number. What is each complete set of these details called?",
     "options": [
       "Field",
@@ -442,7 +418,7 @@
     "explanation": "The Correct Answer is Record"
   },
   {
-    "id": 938,
+    "id": 936,
     "question": "If you have multiple records stored together in one unit, what is this unit called in database terminology?",
     "options": [
       "Table",
@@ -454,7 +430,7 @@
     "explanation": "The Correct Answer is File"
   },
   {
-    "id": 939,
+    "id": 937,
     "question": "If a file is damaged, sometimes many records are lost. Which factor affects this risk?",
     "options": [
       "Logical view",
@@ -466,7 +442,7 @@
     "explanation": "The Correct Answer is Physical storage method"
   },
   {
-    "id": 940,
+    "id": 938,
     "question": "Users can revisit their past dialogues with ChatGPT through the conversation history feature on the dashboard.",
     "options": [
       true,
@@ -476,7 +452,7 @@
     "explanation": "The Correct Answer is TRUE"
   },
   {
-    "id": 941,
+    "id": 939,
     "question": "What is a unique feature of ChatGPT 4 compared to ChatGPT 3.5?",
     "options": [
       "It allows users to upload pictures",
@@ -488,7 +464,7 @@
     "explanation": "The Correct Answer is It allows users to upload pictures"
   },
   {
-    "id": 942,
+    "id": 940,
     "question": "Anita, a teacher from Kolkata, wants to make her history lessons more interactive and engaging for her high school students. How can ChatGPT help her?",
     "options": [
       "By playing historical documentaries",
@@ -500,7 +476,7 @@
     "explanation": "The Correct Answer is By suggesting interactive quiz questions"
   },
   {
-    "id": 943,
+    "id": 941,
     "question": "What ethical considerations are ChatGPT built with?",
     "options": [
       "Providing biased responses",
@@ -512,7 +488,7 @@
     "explanation": "The Correct Answer is Ensuring responses are safe and respectful"
   },
   {
-    "id": 944,
+    "id": 942,
     "question": "What should be included in a ChatGPT conversation for better responses?",
     "options": [
       "Only use complex technical terms",
@@ -524,7 +500,7 @@
     "explanation": "The Correct Answer is Provide specific examples and context"
   },
   {
-    "id": 945,
+    "id": 943,
     "question": "How does ChatGPT perceive user inputs?",
     "options": [
       "As direct verbal communication",
@@ -536,7 +512,7 @@
     "explanation": "The Correct Answer is As data"
   },
   {
-    "id": 946,
+    "id": 944,
     "question": "How can businesses use sentiment analysis provided by ChatGPT?",
     "options": [
       "To ignore customer feedback",
@@ -548,7 +524,7 @@
     "explanation": "The Correct Answer is To gain insights into public opinion and customer satisfaction"
   },
   {
-    "id": 947,
+    "id": 945,
     "question": "Instead of viewing AI as a threat, how should individuals perceive it?",
     "options": [
       "As a tool that can improve productivity and efficiency",
@@ -560,7 +536,7 @@
     "explanation": "The Correct Answer is As a tool that can improve productivity and efficiency"
   },
   {
-    "id": 948,
+    "id": 946,
     "question": "How does ChatGPT's evolving landscape impact its role in creative and professional projects?",
     "options": [
       "It decreases its potential for offering helpful suggestions",
@@ -572,7 +548,7 @@
     "explanation": "The Correct Answer is It enhances its potential to offer helpful suggestions and assist in designing"
   },
   {
-    "id": 949,
+    "id": 947,
     "question": "What unique value does ChatGPT bring to party planning?",
     "options": [
       "Providing creative and practical decoration tips",
@@ -584,7 +560,7 @@
     "explanation": "The Correct Answer is Providing creative and practical decoration tips"
   },
   {
-    "id": 950,
+    "id": 948,
     "question": "Karan is planning a family trip to Kerala. How can ChatGPT assist in the planning?",
     "options": [
       "By driving him to Kerala",
@@ -594,5 +570,27 @@
     ],
     "answer": 1,
     "explanation": "The Correct Answer is Recommending travel routes and cultural insights"
+  },
+  {
+    "id": 949,
+    "question": "Canva’s Magic Write feature allows users to generate AI-powered text for social media captions.",
+    "options": [
+      true,
+      false
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is TRUE"
+  },
+  {
+    "id": 950,
+    "question": "Which key feature allows Canva AI to suggest design layouts based on content?",
+    "options": [
+      "AI-Generated Themes",
+      "Image Recognition",
+      "Automated Color Matching",
+      "Text Clustering"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is AI-Generated Themes"
   }
 ]

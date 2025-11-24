@@ -1,78 +1,6 @@
 [
   {
     "id": 271,
-    "question": "What is the duration of the daily session in the MS-CIT course?",
-    "options": [
-      "1 Hour (Theory) + 1 Hour (Lab)",
-      "4 Hours",
-      "30 Minutes",
-      "3 Hours"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: 1 Hour (Theory) + 1 Hour (Lab) generally."
-  },
-  {
-    "id": 272,
-    "question": "What is the 'Welcome Course' offered by MKCL?",
-    "options": [
-      "A paid demo",
-      "A free demo course for potential learners",
-      "A course for parents",
-      "A course for staff"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: A free demo course for potential learners."
-  },
-  {
-    "id": 273,
-    "question": "Which document is required for student admission proof?",
-    "options": [
-      "Photo ID proof",
-      "Bank statement",
-      "Recommendation letter",
-      "Health certificate"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: Photo ID proof."
-  },
-  {
-    "id": 274,
-    "question": "Are 'Seating Stools' permitted in the lab?",
-    "options": [
-      "Yes",
-      "No",
-      "Only for kids",
-      "Only for staff"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: No."
-  },
-  {
-    "id": 275,
-    "question": "What is the 'Learning Facilitator'?",
-    "options": [
-      "The student",
-      "The Faculty / Trainer",
-      "The Center Owner",
-      "The Computer"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: The Faculty / Trainer."
-  },
-  {
-    "id": 276,
-    "question": "What is the 'Center Coordinator'?",
-    "options": [
-      "The person managing the center's administration",
-      "The technical support staff",
-      "The cleaner",
-      "The student leader"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: The person managing the center's administration."
-  },
-  {
-    "id": 277,
     "question": "Can one person be both Center Coordinator and Learning Facilitator?",
     "options": [
       "Yes, if they pass both exams",
@@ -84,7 +12,7 @@
     "explanation": "The correct answer is: Yes, if they pass both exams (implied, though roles are distinct, small centers often overlap)."
   },
   {
-    "id": 278,
+    "id": 272,
     "question": "What is the minimum number of biometric devices required?",
     "options": [
       "1",
@@ -96,7 +24,7 @@
     "explanation": "The correct answer is: 1."
   },
   {
-    "id": 279,
+    "id": 273,
     "question": "What is the main purpose of the 'Server' in the center?",
     "options": [
       "To play games",
@@ -108,7 +36,7 @@
     "explanation": "The correct answer is: To manage the network and store data."
   },
   {
-    "id": 280,
+    "id": 274,
     "question": "Which edition of Windows 10 is NOT allowed?",
     "options": [
       "Windows 10 Home",
@@ -120,7 +48,7 @@
     "explanation": "The correct answer is: Windows 10 Home (Enterprise is the standard provided/required)."
   },
   {
-    "id": 281,
+    "id": 275,
     "question": "What does 'SSD' stand for in the hardware requirements?",
     "options": [
       "Super Speed Drive",
@@ -132,7 +60,7 @@
     "explanation": "The correct answer is: Solid State Drive."
   },
   {
-    "id": 282,
+    "id": 276,
     "question": "Why are Laptops preferred over Desktops for clients?",
     "options": [
       "They look better",
@@ -144,7 +72,7 @@
     "explanation": "The correct answer is: They consume less power and space."
   },
   {
-    "id": 283,
+    "id": 277,
     "question": "What is the minimum number of USB ports required on a Client?",
     "options": [
       "None",
@@ -156,7 +84,7 @@
     "explanation": "The correct answer is: At least 2 (implied for Mouse/Keyboard if not wireless, or data transfer)."
   },
   {
-    "id": 284,
+    "id": 278,
     "question": "Is 'Footwear Stand' compulsory?",
     "options": [
       "Yes",
@@ -168,7 +96,7 @@
     "explanation": "The correct answer is: No, Optional."
   },
   {
-    "id": 285,
+    "id": 279,
     "question": "What is the 'Drinking Water Facility' status?",
     "options": [
       "Compulsory",
@@ -180,7 +108,7 @@
     "explanation": "The correct answer is: Compulsory."
   },
   {
-    "id": 286,
+    "id": 280,
     "question": "Who provides the uniform for the staff?",
     "options": [
       "MKCL provides it free",
@@ -192,7 +120,7 @@
     "explanation": "The correct answer is: AO has to arrange (Optional)."
   },
   {
-    "id": 287,
+    "id": 281,
     "question": "Can the AO pay the registration fee in cash to a Network Partner?",
     "options": [
       "Yes",
@@ -204,7 +132,7 @@
     "explanation": "The correct answer is: No, only through MKCL Payment gateway/wallet."
   },
   {
-    "id": 288,
+    "id": 282,
     "question": "What is the email ID for reporting corruption/extra demands?",
     "options": [
       "ncr@mkcl.org",
@@ -216,7 +144,7 @@
     "explanation": "The correct answer is: ncr@mkcl.org."
   },
   {
-    "id": 289,
+    "id": 283,
     "question": "If an AO's mobile is on DND, is MKCL responsible for undelivered SMS?",
     "options": [
       "Yes",
@@ -228,7 +156,7 @@
     "explanation": "The correct answer is: No."
   },
   {
-    "id": 290,
+    "id": 284,
     "question": "How many times can a Learning Facilitator attempt the ONCET in one registration cycle?",
     "options": [
       "Once",
@@ -240,7 +168,7 @@
     "explanation": "The correct answer is: Once (No Re-Examination provision mentioned for the same cycle)."
   },
   {
-    "id": 291,
+    "id": 285,
     "question": "Which of the following is NOT a topic in the MS-CIT curriculum?",
     "options": [
       "Digital India Skills",
@@ -252,31 +180,7 @@
     "explanation": "The correct answer is: Advanced Java Programming."
   },
   {
-    "id": 292,
-    "question": "What is the total marks for Session 1 to 5 (Internal) in MS-CIT?",
-    "options": [
-      "1 Mark",
-      "5 Marks",
-      "10 Marks",
-      "2 Marks"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: 5 Marks."
-  },
-  {
-    "id": 293,
-    "question": "Which MS Office application is focused on in Sessions 18 to 29?",
-    "options": [
-      "MS Word",
-      "MS Excel",
-      "MS PowerPoint",
-      "MS Outlook"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: MS Excel."
-  },
-  {
-    "id": 294,
+    "id": 286,
     "question": "What is the role of 'Prompt Engineering' in the syllabus?",
     "options": [
       "Civil Engineering basics",
@@ -288,7 +192,7 @@
     "explanation": "The correct answer is: AI interaction skills."
   },
   {
-    "id": 295,
+    "id": 287,
     "question": "How many marks are allocated to 'Prompt Engineering Skills' internally?",
     "options": [
       "1",
@@ -300,7 +204,7 @@
     "explanation": "The correct answer is: 2 Marks."
   },
   {
-    "id": 296,
+    "id": 288,
     "question": "What does 'MS-CIT' stand for?",
     "options": [
       "Maharashtra State Certificate in Information Technology",
@@ -312,7 +216,7 @@
     "explanation": "The correct answer is: Maharashtra State Certificate in Information Technology."
   },
   {
-    "id": 297,
+    "id": 289,
     "question": "Which body conducts the MS-CIT Final Examination?",
     "options": [
       "MKCL",
@@ -324,7 +228,7 @@
     "explanation": "The correct answer is: MSBTE (Maharashtra State Board of Technical Education) certifies/conducts it."
   },
   {
-    "id": 298,
+    "id": 290,
     "question": "Can the CCTP exam be taken before the MS-CIT exam?",
     "options": [
       "Yes",
@@ -336,7 +240,7 @@
     "explanation": "The correct answer is: No, it is after the MS-CIT final exam."
   },
   {
-    "id": 299,
+    "id": 291,
     "question": "What is the fee for the CCTP course for an MS-CIT learner?",
     "options": [
       "Rs. 500",
@@ -348,7 +252,7 @@
     "explanation": "The correct answer is: It is an add-on (Optional). (Usually requires separate enrollment but is linked)."
   },
   {
-    "id": 300,
+    "id": 292,
     "question": "What is the speed of the Internet required for the Server?",
     "options": [
       "Min 10 Mbps",
@@ -358,5 +262,101 @@
     ],
     "answer": 2,
     "explanation": "The correct answer is: Min 100 Mbps."
+  },
+  {
+    "id": 293,
+    "question": "Is 'Parking' facility compulsory?",
+    "options": [
+      "Yes",
+      "No, Optional",
+      "Yes, for staff only",
+      "Yes, for students only"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: No, Optional."
+  },
+  {
+    "id": 294,
+    "question": "Can a single AO apply for 'Multiple AOs' from the same ward?",
+    "options": [
+      "No, only one",
+      "Yes, but selection is based on score",
+      "Yes, all will be selected",
+      "No"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: No Only one AO apply from single open area"
+  },
+  {
+    "id": 295,
+    "question": "What is the weightage of the Interview in the Total Score for selection?",
+    "options": [
+      "20 Marks",
+      "30 Marks",
+      "50 Marks",
+      "10 Marks"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: 20 Marks."
+  },
+  {
+    "id": 296,
+    "question": "What is the weightage of the LF ONCET Score in selection?",
+    "options": [
+      "30 Marks",
+      "50 Marks",
+      "20 Marks",
+      "10 Marks"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: 50 Marks."
+  },
+  {
+    "id": 297,
+    "question": "What is the weightage of the Coordinator MCQ ONCET Score in selection?",
+    "options": [
+      "30 Marks",
+      "50 Marks",
+      "20 Marks",
+      "10 Marks"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: FOR CC - MCQ IS OF 30 Marks and INTERVIEW is of 20 Marks"
+  },
+  {
+    "id": 298,
+    "question": "Which keyboard is used for Marathi typing in CCTP?",
+    "options": [
+      "Kruti Dev",
+      "Mangal",
+      "Remington (Typewriter layout)",
+      "Arial"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: Remington (Typewriter layout)."
+  },
+  {
+    "id": 299,
+    "question": "What is the 'Notice Board' used for in the Counseling Area?",
+    "options": [
+      "To hang coats",
+      "To display information/notices",
+      "To stick advertisements",
+      "Decorative purpose"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: To display information/notices."
+  },
+  {
+    "id": 300,
+    "question": "Are 'Library' facilities compulsory?",
+    "options": [
+      "Yes",
+      "No, Optional",
+      "Yes, Digital Library only",
+      "No"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: No, Optional."
   }
 ]

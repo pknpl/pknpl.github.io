@@ -1,30 +1,6 @@
 [
   {
     "id": 701,
-    "question": "A school lab has a large machine that prints digital files onto paper. Which device is this?",
-    "options": [
-      "Scanner",
-      "Printer",
-      "Projector",
-      "Webcam"
-    ],
-    "answer": 1,
-    "explanation": "The Correct Answer is Printer"
-  },
-  {
-    "id": 702,
-    "question": "In your school’s computer lab, you need to print a large number of documents quickly. Which printer will be most efficient?",
-    "options": [
-      "Laser Printer",
-      "Inkjet Printer",
-      "Dot Matrix Printer",
-      "Thermal Printer"
-    ],
-    "answer": 0,
-    "explanation": "The Correct Answer is Laser Printer"
-  },
-  {
-    "id": 703,
     "question": "Your uncle works in a shop and uses a printer that also makes duplicate carbon copies on continuous paper. Which printer is this?",
     "options": [
       "Inkjet Printer",
@@ -36,7 +12,7 @@
     "explanation": "The Correct Answer is Dot Matrix Printer"
   },
   {
-    "id": 704,
+    "id": 702,
     "question": "______ is a schedule of all the events that occur in an academic year.",
     "options": [
       "An interview score sheet",
@@ -48,7 +24,7 @@
     "explanation": "The Correct Answer is An academic calendar"
   },
   {
-    "id": 705,
+    "id": 703,
     "question": "You want to align a particular set of text in Microsoft Excel. Under which tab of the menu bar will you find the Alignment option?",
     "options": [
       "File",
@@ -60,7 +36,7 @@
     "explanation": "The Correct Answer is Home"
   },
   {
-    "id": 706,
+    "id": 704,
     "question": "You can create an academic calendar using _____.",
     "options": [
       "Truecaller",
@@ -72,7 +48,7 @@
     "explanation": "The Correct Answer is Office 2019"
   },
   {
-    "id": 707,
+    "id": 705,
     "question": "In the menu bar, go to the _____ tab and then the Fill Color option to change the color of a cell in Microsoft Excel.",
     "options": [
       "Home",
@@ -84,7 +60,7 @@
     "explanation": "The Correct Answer is Home"
   },
   {
-    "id": 708,
+    "id": 706,
     "question": "You are editing a video and need to hear precise sounds without disturbing others. Which device should you choose?",
     "options": [
       "Speakers",
@@ -96,7 +72,7 @@
     "explanation": "The Correct Answer is Headphones"
   },
   {
-    "id": 709,
+    "id": 707,
     "question": "At a bank, you see a device that lets customers interact by touching the screen. What is it called?",
     "options": [
       "Monitor",
@@ -108,7 +84,7 @@
     "explanation": "The Correct Answer is Touchscreen"
   },
   {
-    "id": 710,
+    "id": 708,
     "question": "During a drawing competition, a student uses a pen-like device on a special pad to draw. Which device is this?",
     "options": [
       "Joystick",
@@ -120,7 +96,7 @@
     "explanation": "The Correct Answer is Graphics Tablet"
   },
   {
-    "id": 711,
+    "id": 709,
     "question": "In a video game, you use a stick-like device to move characters in different directions. What is this device called?",
     "options": [
       "Touchpad",
@@ -132,7 +108,7 @@
     "explanation": "The Correct Answer is Joystick"
   },
   {
-    "id": 712,
+    "id": 710,
     "question": "A student controls a presentation by moving their finger on a flat surface below the keyboard. What device is this?",
     "options": [
       "Mouse",
@@ -144,7 +120,7 @@
     "explanation": "The Correct Answer is Touchpad"
   },
   {
-    "id": 713,
+    "id": 711,
     "question": "While doing homework, you scroll through a document using a small ball on top of a device. What is it called?",
     "options": [
       "Mouse",
@@ -156,7 +132,7 @@
     "explanation": "The Correct Answer is Trackball"
   },
   {
-    "id": 714,
+    "id": 712,
     "question": "Your friend uses a flatbed device to make a digital copy of a drawing. What is this device called?",
     "options": [
       "Printer",
@@ -168,7 +144,7 @@
     "explanation": "The Correct Answer is Scanner"
   },
   {
-    "id": 715,
+    "id": 713,
     "question": "In an online class, you see your teacher’s video on the screen. Which device captures this video?",
     "options": [
       "Projector",
@@ -180,7 +156,7 @@
     "explanation": "The Correct Answer is Webcam"
   },
   {
-    "id": 716,
+    "id": 714,
     "question": "You speak into a small device connected to your computer so it can record your voice. What is this?",
     "options": [
       "Speaker",
@@ -192,7 +168,7 @@
     "explanation": "The Correct Answer is Microphone"
   },
   {
-    "id": 717,
+    "id": 715,
     "question": "Your school uses a device to scan QR codes for attendance. Which device is this?",
     "options": [
       "Webcam",
@@ -204,7 +180,7 @@
     "explanation": "The Correct Answer is Barcode/QR Code Scanner"
   },
   {
-    "id": 718,
+    "id": 716,
     "question": "On entering which of the following search operator, the below listed search results are likely to appear?",
     "options": [
       "information technology type:ppt",
@@ -216,7 +192,7 @@
     "explanation": "The Correct Answer is information technology filetype:pdf"
   },
   {
-    "id": 719,
+    "id": 717,
     "question": "dentify the purpose of the highlighted area in the given image.",
     "options": [
       "To mark it as favourite webpage",
@@ -228,7 +204,7 @@
     "explanation": "The Correct Answer is To bookmark the webpage"
   },
   {
-    "id": 720,
+    "id": 718,
     "question": "Which operator helps you to get specific results while searching about any topic in Google?",
     "options": [
       "Keyword Operator",
@@ -240,7 +216,7 @@
     "explanation": "The Correct Answer is Search Operator"
   },
   {
-    "id": 721,
+    "id": 719,
     "question": "What type of videos you might not see in the TED Talks platform?",
     "options": [
       "Inspirational",
@@ -252,7 +228,7 @@
     "explanation": "The Correct Answer is Tutorial"
   },
   {
-    "id": 722,
+    "id": 720,
     "question": "Using DuoLingo App if you want to Learn English, by default the app language changes to..",
     "options": [
       "Marathi",
@@ -264,7 +240,7 @@
     "explanation": "The Correct Answer is Hindi"
   },
   {
-    "id": 723,
+    "id": 721,
     "question": "You have a challenging history exam coming up. Which type of Quizlet flashcard would be most effective for memorizing key dates and events?",
     "options": [
       "Text cards with just dates",
@@ -276,7 +252,7 @@
     "explanation": "The Correct Answer is Matching cards with dates on one side and events on the other"
   },
   {
-    "id": 724,
+    "id": 722,
     "question": "How can Quizlet help in memorizing lessons quickly?",
     "options": [
       "By providing articles",
@@ -288,7 +264,7 @@
     "explanation": "The Correct Answer is By creating flashcards"
   },
   {
-    "id": 725,
+    "id": 723,
     "question": "Which of the following does Grammarly primarily help users with?",
     "options": [
       "Video Editing",
@@ -300,7 +276,7 @@
     "explanation": "The Correct Answer is Writing and Editing Text"
   },
   {
-    "id": 726,
+    "id": 724,
     "question": "You want a study music app for improved focus. What is the most important feature you can find in this app?",
     "options": [
       "Variety of musical genres",
@@ -312,7 +288,7 @@
     "explanation": "The Correct Answer is Customizable playlists"
   },
   {
-    "id": 727,
+    "id": 725,
     "question": "Based on the provided image of the Grammarly interface, identify the feature highlighted in the red box:",
     "options": [
       "Spelling Check",
@@ -324,7 +300,7 @@
     "explanation": "The Correct Answer is Clarity Suggestions"
   },
   {
-    "id": 728,
+    "id": 726,
     "question": "Suppose your friend wants to enhance his study concentration by listening to music. Which app would be most suitable for this purpose?",
     "options": [
       "Social Networking App",
@@ -336,7 +312,7 @@
     "explanation": "The Correct Answer is Study Music App"
   },
   {
-    "id": 729,
+    "id": 727,
     "question": "Which aspect of studying is most likely to be addressed by a \"Study Tips\" app?",
     "options": [
       "Learning to play musical instruments",
@@ -348,7 +324,7 @@
     "explanation": "The Correct Answer is Improving time management"
   },
   {
-    "id": 730,
+    "id": 728,
     "question": "Naina, aiming to improve her study habits, downloads the \"Study Tips\" app. Which feature of the app is likely to help her the most?",
     "options": [
       "Daily inspirational quotes",
@@ -360,7 +336,7 @@
     "explanation": "The Correct Answer is Study schedule planner"
   },
   {
-    "id": 731,
+    "id": 729,
     "question": "How can you create a new event in Google Calendar?",
     "options": [
       "By sending an email invitation",
@@ -372,7 +348,7 @@
     "explanation": "The Correct Answer is Clicking on a date and entering event details"
   },
   {
-    "id": 732,
+    "id": 730,
     "question": "Which feature allows you to share your Google Calendar with others?",
     "options": [
       "Calendar Themes",
@@ -384,7 +360,7 @@
     "explanation": "The Correct Answer is Calendar Sharing"
   },
   {
-    "id": 733,
+    "id": 731,
     "question": "_________ tab will help you to apply fill colour",
     "options": [
       "Insert",
@@ -396,7 +372,7 @@
     "explanation": "The Correct Answer is Format"
   },
   {
-    "id": 734,
+    "id": 732,
     "question": "Bold option is found in __________ group",
     "options": [
       "Paragraph",
@@ -408,7 +384,7 @@
     "explanation": "The Correct Answer is Font"
   },
   {
-    "id": 735,
+    "id": 733,
     "question": "Copy and Paste option is found in __________ ribbon under Home tab.",
     "options": [
       "Slides",
@@ -420,7 +396,7 @@
     "explanation": "The Correct Answer is Clipboard"
   },
   {
-    "id": 736,
+    "id": 734,
     "question": "You can colour the shape under __________Tab & __________feature",
     "options": [
       "Format > Text Fill",
@@ -432,7 +408,7 @@
     "explanation": "The Correct Answer is Format > Shape Fill"
   },
   {
-    "id": 737,
+    "id": 735,
     "question": "Copy paste option falls under__________ group",
     "options": [
       "Clipboard",
@@ -444,7 +420,7 @@
     "explanation": "The Correct Answer is Clipboard"
   },
   {
-    "id": 738,
+    "id": 736,
     "question": "How many types of slide patterns are there ?",
     "options": [
       9,
@@ -456,7 +432,7 @@
     "explanation": "The Correct Answer is 9"
   },
   {
-    "id": 739,
+    "id": 737,
     "question": "You want to Align the text . Which tab & group you will select?",
     "options": [
       "Home > Editing",
@@ -468,7 +444,7 @@
     "explanation": "The Correct Answer is Home > Paragraph"
   },
   {
-    "id": 740,
+    "id": 738,
     "question": "You can adjust the size of shape manually by entering the values.",
     "options": [
       true,
@@ -478,7 +454,7 @@
     "explanation": "The Correct Answer is TRUE"
   },
   {
-    "id": 741,
+    "id": 739,
     "question": "You want to change the size of the slide , you have to click on __________ Tab & __________ group",
     "options": [
       "Design > Themes",
@@ -490,7 +466,7 @@
     "explanation": "The Correct Answer is Design > Customize"
   },
   {
-    "id": 742,
+    "id": 740,
     "question": "Select the different alignment options in Align options.",
     "options": [
       "Align Left",
@@ -502,7 +478,7 @@
     "explanation": "The Correct Answer is Align Horizontally"
   },
   {
-    "id": 743,
+    "id": 741,
     "question": "How you will search icons & colour the icons?",
     "options": [
       "Insert > Icons > Graphic > Graphic fill",
@@ -514,7 +490,7 @@
     "explanation": "The Correct Answer is Insert > Icons > Graphic format > Graphic fill"
   },
   {
-    "id": 744,
+    "id": 742,
     "question": "You have to insert picture in your presentation. What steps you will follow?",
     "options": [
       "Insert > Icons",
@@ -526,7 +502,7 @@
     "explanation": "The Correct Answer is Insert > Picture"
   },
   {
-    "id": 745,
+    "id": 743,
     "question": "How you will insert the shape & adjust its transaperncy in your presentation?",
     "options": [
       "Insert >Shapes> Format Background > Transperency",
@@ -538,7 +514,7 @@
     "explanation": "The Correct Answer is Insert >Shapes> Format Background > Transperency"
   },
   {
-    "id": 746,
+    "id": 744,
     "question": "From which tab will you insert an icon in your visual resume?",
     "options": [
       "Home tab",
@@ -550,7 +526,7 @@
     "explanation": "The Correct Answer is Insert tab"
   },
   {
-    "id": 747,
+    "id": 745,
     "question": "You can insert shapes from __________ ribbon under insert tab.",
     "options": [
       "Images",
@@ -562,7 +538,7 @@
     "explanation": "The Correct Answer is Illustrations"
   },
   {
-    "id": 748,
+    "id": 746,
     "question": "changing the colour icon option if found under __________ Tab __________ feature",
     "options": [
       "Formate > Graphic Fill",
@@ -574,7 +550,7 @@
     "explanation": "The Correct Answer is Formate > Graphic Fill"
   },
   {
-    "id": 749,
+    "id": 747,
     "question": "You can insert text box from __________ ribbon under insert tab.",
     "options": [
       "Add-Inns",
@@ -586,7 +562,7 @@
     "explanation": "The Correct Answer is Text"
   },
   {
-    "id": 750,
+    "id": 748,
     "question": "You have insert the table now you have to apply the styles , How you will apply?",
     "options": [
       "Select the table > Click on table Styles > Select the stlye",
@@ -596,5 +572,29 @@
     ],
     "answer": 0,
     "explanation": "The Correct Answer is Select the table > Click on table Styles > Select the stlye"
+  },
+  {
+    "id": 749,
+    "question": "To add picture in your presentation you have to click on __________ tab __________ Group",
+    "options": [
+      "Insert > Shapes",
+      "Insert > Images",
+      "Insert > Smart Art",
+      "Insert > Illustration"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Insert > Images"
+  },
+  {
+    "id": 750,
+    "question": "How can you change the cell margin of a table inserted in a shape?",
+    "options": [
+      "Using the Cell Margins option from the Format tab",
+      "Using the Cell Margins option from the View tab",
+      "Using the Cell Margins option from the Insert tab",
+      "Using the Cell Margins option from the Layout tab"
+    ],
+    "answer": 3,
+    "explanation": "The Correct Answer is Using the Cell Margins option from the Layout tab"
   }
 ]

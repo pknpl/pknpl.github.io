@@ -1,30 +1,6 @@
 [
   {
     "id": 551,
-    "question": "Ravi wants to work on graphic design, use a mouse, and save big files. What should he select?",
-    "options": [
-      "Mobile OS because it is portable",
-      "Mobile OS because it’s user-friendly",
-      "Desktop OS because it supports advanced tools",
-      "Desktop OS because it has touchscreen only"
-    ],
-    "answer": 2,
-    "explanation": "The Correct Answer is Desktop OS because it supports advanced tools"
-  },
-  {
-    "id": 552,
-    "question": "A class project requires research, typing, and creating a presentation. Which device and OS should they prefer?",
-    "options": [
-      "Mobile device with mobile OS",
-      "Laptop with desktop OS",
-      "Tablet with mobile OS",
-      "Phone with Android TV OS"
-    ],
-    "answer": 1,
-    "explanation": "The Correct Answer is Laptop with desktop OS"
-  },
-  {
-    "id": 553,
     "question": "Soham has an old PC. What is the best approach?",
     "options": [
       "Install a mobile OS",
@@ -36,7 +12,7 @@
     "explanation": "The Correct Answer is Use a lightweight desktop OS"
   },
   {
-    "id": 554,
+    "id": 552,
     "question": "Which OS would be best for a classroom with students using typing tools, presentations, printers?",
     "options": [
       "Smartwatch OS",
@@ -48,7 +24,7 @@
     "explanation": "The Correct Answer is Desktop OS"
   },
   {
-    "id": 555,
+    "id": 553,
     "question": "Rekha compares two OS types: one offers full control, the other limits apps. Which pair?",
     "options": [
       "iOS and Windows",
@@ -60,7 +36,7 @@
     "explanation": "The Correct Answer is Android and iOS"
   },
   {
-    "id": 556,
+    "id": 554,
     "question": "The school computer has Windows 10 and updates automatically. What’s the benefit?",
     "options": [
       "Games get faster",
@@ -72,7 +48,7 @@
     "explanation": "The Correct Answer is Better security"
   },
   {
-    "id": 557,
+    "id": 555,
     "question": "To apply shapes style we will click on the __________ group",
     "options": [
       "Shapes Style group",
@@ -84,7 +60,7 @@
     "explanation": "The Correct Answer is Shapes Style group"
   },
   {
-    "id": 558,
+    "id": 556,
     "question": "Identify the steps to insert picture in Excel workbook.",
     "options": [
       "Home Tab > Illustrations > Pictures > Select Picture > Click Insert",
@@ -96,7 +72,7 @@
     "explanation": "The Correct Answer is Insert Tab > Illustrations > Pictures > Select Picture > Click Insert"
   },
   {
-    "id": 559,
+    "id": 557,
     "question": "Choose the correct step to add Image / logo in your document?",
     "options": [
       "Inser > Picture",
@@ -108,7 +84,7 @@
     "explanation": "The Correct Answer is Inser > Picture"
   },
   {
-    "id": 560,
+    "id": 558,
     "question": "We can Insert Sheet Rows from the __________ Tab __________ group",
     "options": [
       "Home > Cells",
@@ -120,7 +96,7 @@
     "explanation": "The Correct Answer is Home > Cells"
   },
   {
-    "id": 561,
+    "id": 559,
     "question": "What is the extension of Excel?",
     "options": [
       "docx format",
@@ -132,7 +108,7 @@
     "explanation": "The Correct Answer is .xlsx format"
   },
   {
-    "id": 562,
+    "id": 560,
     "question": "A school wants software to track attendance and assignments. Which OS type should be avoided?",
     "options": [
       "OS with utility support",
@@ -144,7 +120,7 @@
     "explanation": "The Correct Answer is Embedded OS"
   },
   {
-    "id": 563,
+    "id": 561,
     "question": "Rutuja wants to create her own OS. Which option should she explore?",
     "options": [
       "iOS",
@@ -156,7 +132,7 @@
     "explanation": "The Correct Answer is Linux"
   },
   {
-    "id": 564,
+    "id": 562,
     "question": "You want to create a Linux-based OS for schools. Which advantage?",
     "options": [
       "Games are preinstalled",
@@ -168,7 +144,7 @@
     "explanation": "The Correct Answer is It’s free and customizable"
   },
   {
-    "id": 565,
+    "id": 563,
     "question": "Suppose project is to create secure OS for research labs. Which system study first?",
     "options": [
       "macOS",
@@ -180,7 +156,7 @@
     "explanation": "The Correct Answer is UNIX"
   },
   {
-    "id": 566,
+    "id": 564,
     "question": "Tina needs an OS for her new Apple laptop, works with iPhone too. Which should she use?",
     "options": [
       "Android",
@@ -192,7 +168,7 @@
     "explanation": "The Correct Answer is macOS"
   },
   {
-    "id": 567,
+    "id": 565,
     "question": "Dev wants to install Android apps on his laptop. Which Windows version supports it?",
     "options": [
       "Windows 7",
@@ -204,7 +180,7 @@
     "explanation": "The Correct Answer is Windows 11"
   },
   {
-    "id": 568,
+    "id": 566,
     "question": "Rahul uses macOS and wants iPad as second screen. Which version?",
     "options": [
       "macOS Mojave",
@@ -216,7 +192,7 @@
     "explanation": "The Correct Answer is macOS Catalina"
   },
   {
-    "id": 569,
+    "id": 567,
     "question": "Shreya switches to Dark Mode at night. Which version enabled this?",
     "options": [
       "macOS Catalina",
@@ -228,7 +204,7 @@
     "explanation": "The Correct Answer is macOS Mojave"
   },
   {
-    "id": 570,
+    "id": 568,
     "question": "Varun has a slow laptop with little RAM. Which OS type is best?",
     "options": [
       "macOS",
@@ -240,7 +216,7 @@
     "explanation": "The Correct Answer is Lightweight Linux"
   },
   {
-    "id": 571,
+    "id": 569,
     "question": "School IT builds system for stability and security. Which OS?",
     "options": [
       "Windows 7",
@@ -252,7 +228,7 @@
     "explanation": "The Correct Answer is UNIX"
   },
   {
-    "id": 572,
+    "id": 570,
     "question": "Choose the correct step to use sum formula?",
     "options": [
       "Type = sum (select the cell range for addition) Enter",
@@ -264,7 +240,7 @@
     "explanation": "The Correct Answer is Type = sum (select the cell range for addition) Enter"
   },
   {
-    "id": 573,
+    "id": 571,
     "question": "We can insert picture from our gallery & Online too.",
     "options": [
       true,
@@ -274,7 +250,7 @@
     "explanation": "The Correct Answer is TRUE"
   },
   {
-    "id": 574,
+    "id": 572,
     "question": "Who issues a salary slip and to whom?",
     "options": [
       "Employer to employee",
@@ -286,7 +262,7 @@
     "explanation": "The Correct Answer is Employer to employee"
   },
   {
-    "id": 575,
+    "id": 573,
     "question": "What other name is a salary slip known by?",
     "options": [
       "Salary sheet",
@@ -298,7 +274,7 @@
     "explanation": "The Correct Answer is Pay slip"
   },
   {
-    "id": 576,
+    "id": 574,
     "question": "Teacher asks for solution to test Windows and macOS without two computers. What do you recommend?",
     "options": [
       "Dual boot setup",
@@ -310,7 +286,7 @@
     "explanation": "The Correct Answer is Virtualization software"
   },
   {
-    "id": 577,
+    "id": 575,
     "question": "Arjun wants to build a tool that removes junk files. What should it be called?",
     "options": [
       "Wallpaper changer",
@@ -322,7 +298,7 @@
     "explanation": "The Correct Answer is Disk Cleanup utility"
   },
   {
-    "id": 578,
+    "id": 576,
     "question": "A student is building a tool to restore deleted files. Which utility type?",
     "options": [
       "Antivirus",
@@ -334,7 +310,7 @@
     "explanation": "The Correct Answer is Utility suite"
   },
   {
-    "id": 579,
+    "id": 577,
     "question": "Teacher asks for tool to monitor memory and close apps. What do you suggest?",
     "options": [
       "Task Manager",
@@ -346,7 +322,7 @@
     "explanation": "The Correct Answer is Task Manager"
   },
   {
-    "id": 580,
+    "id": 578,
     "question": "Your team designs a tool to delete junk files, manage storage, enhance speed. What type?",
     "options": [
       "Games",
@@ -358,7 +334,7 @@
     "explanation": "The Correct Answer is Utility software"
   },
   {
-    "id": 581,
+    "id": 579,
     "question": "Teacher shows how to run Windows and Linux on one computer. What is used?",
     "options": [
       "Dual monitor",
@@ -370,7 +346,7 @@
     "explanation": "The Correct Answer is Virtualization software"
   },
   {
-    "id": 582,
+    "id": 580,
     "question": "Reena checks apps using too much memory. Which tool?",
     "options": [
       "Windows Media Player",
@@ -382,7 +358,7 @@
     "explanation": "The Correct Answer is Task Manager"
   },
   {
-    "id": 583,
+    "id": 581,
     "question": "School wants to reduce slowdowns by removing junk. Which software?",
     "options": [
       "Utility programs",
@@ -394,7 +370,7 @@
     "explanation": "The Correct Answer is Utility programs"
   },
   {
-    "id": 584,
+    "id": 582,
     "question": "Simran’s computer is slow due to unnecessary files. What helps most?",
     "options": [
       "Changing wallpaper",
@@ -406,7 +382,7 @@
     "explanation": "The Correct Answer is Disk Cleanup"
   },
   {
-    "id": 585,
+    "id": 583,
     "question": "For cybersecurity training, student wants to test old Windows. What tool?",
     "options": [
       "Music player",
@@ -418,7 +394,7 @@
     "explanation": "The Correct Answer is VirtualBox"
   },
   {
-    "id": 586,
+    "id": 584,
     "question": "What do the fine lines around the forecast line represent?",
     "options": [
       "Existing data and predicted values",
@@ -430,7 +406,7 @@
     "explanation": "The Correct Answer is Lower and upper confidence boundaries"
   },
   {
-    "id": 587,
+    "id": 585,
     "question": "What can Goal Seek help you with?",
     "options": [
       "Creating a forecast based on historical data",
@@ -442,7 +418,7 @@
     "explanation": "The Correct Answer is Deriving input values for a desired output"
   },
   {
-    "id": 588,
+    "id": 586,
     "question": "The Forecast Sheet command in Excel can only be used to create charts.",
     "options": [
       true,
@@ -452,7 +428,7 @@
     "explanation": "The Correct Answer is FALSE"
   },
   {
-    "id": 589,
+    "id": 587,
     "question": "The Set Cell box in the goal seek window displays the selected___________.",
     "options": [
       "Shape",
@@ -464,7 +440,7 @@
     "explanation": "The Correct Answer is Cell"
   },
   {
-    "id": 590,
+    "id": 588,
     "question": "Which of the following will enable you to see the row and column headers?",
     "options": [
       "Show all headers",
@@ -476,7 +452,7 @@
     "explanation": "The Correct Answer is Show row header"
   },
   {
-    "id": 591,
+    "id": 589,
     "question": "What happens in the column for 'Differences' when the 'Projected cost' and 'Actual cost' differ?",
     "options": [
       "The value changes to red color",
@@ -488,7 +464,7 @@
     "explanation": "The Correct Answer is The value changes to red color"
   },
   {
-    "id": 592,
+    "id": 590,
     "question": "You are assigned to create a digital safety app. What feature must it include?",
     "options": [
       "Calculator",
@@ -500,7 +476,7 @@
     "explanation": "The Correct Answer is Antivirus scanner"
   },
   {
-    "id": 593,
+    "id": 591,
     "question": "Raj decides to build a tool that backs up data daily. What category will it be?",
     "options": [
       "Screen recorders",
@@ -512,7 +488,7 @@
     "explanation": "The Correct Answer is Utility tools – backup"
   },
   {
-    "id": 594,
+    "id": 592,
     "question": "What is the use of Disk Cleanup?",
     "options": [
       "Makes icons colorful",
@@ -524,7 +500,7 @@
     "explanation": "The Correct Answer is Frees up storage"
   },
   {
-    "id": 595,
+    "id": 593,
     "question": "Sahil’s laptop shows a virus warning. What utility first?",
     "options": [
       "Paint",
@@ -536,7 +512,7 @@
     "explanation": "The Correct Answer is Antivirus"
   },
   {
-    "id": 596,
+    "id": 594,
     "question": "A student deletes project folder. What can help recover it?",
     "options": [
       "File explorer",
@@ -548,7 +524,7 @@
     "explanation": "The Correct Answer is Norton Utilities"
   },
   {
-    "id": 597,
+    "id": 595,
     "question": "You can set page orientation from __________ tab.",
     "options": [
       "Insert",
@@ -560,7 +536,7 @@
     "explanation": "The Correct Answer is Page Layout"
   },
   {
-    "id": 598,
+    "id": 596,
     "question": "You can not customize margins in Excel.",
     "options": [
       true,
@@ -570,7 +546,7 @@
     "explanation": "The Correct Answer is FALSE"
   },
   {
-    "id": 599,
+    "id": 597,
     "question": "In order to change page margin, which menu would you choose to select \"Margins\"?",
     "options": [
       "Page Layout",
@@ -582,7 +558,7 @@
     "explanation": "The Correct Answer is Page Layout"
   },
   {
-    "id": 600,
+    "id": 598,
     "question": "Your school got a new computer. When you open it, you see a large box with ports at the back. What is this part called?",
     "options": [
       "Keyboard",
@@ -592,5 +568,29 @@
     ],
     "answer": 2,
     "explanation": "The Correct Answer is System Unit"
+  },
+  {
+    "id": 599,
+    "question": "If the system unit was missing, what would happen when you try to use the computer?",
+    "options": [
+      "It will still run normally",
+      "It will not process any data",
+      "It will only display images",
+      "It will run only the internet"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is It will not process any data"
+  },
+  {
+    "id": 600,
+    "question": "Ravi opened his CPU case and saw a green board with many small chips. What is this board called?",
+    "options": [
+      "RAM Board",
+      "Motherboard",
+      "Hard Disk",
+      "Graphics Card"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Motherboard"
   }
 ]

@@ -1,78 +1,6 @@
 [
   {
     "id": 211,
-    "question": "Is Air Conditioning facility compulsory for the Computer Lab?",
-    "options": [
-      "Yes, Compulsory",
-      "No, Optional",
-      "Only in summer",
-      "Only in cities"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: No, Optional. However, proper ventilation is required."
-  },
-  {
-    "id": 212,
-    "question": "What is the syllabus for the Center Coordinator ONCET Exam?",
-    "options": [
-      "Only C Programming",
-      "Administrative, Marketing Skills & MKCL Offerings",
-      "Hardware Repair",
-      "Accounting only"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Administrative, Marketing Skills & MKCL Offerings."
-  },
-  {
-    "id": 213,
-    "question": "What are the passing marks for the Center Coordinator ONCET Exam?",
-    "options": [
-      "10 marks",
-      "12 marks",
-      "15 marks",
-      "20 marks"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: 12 marks (40% of 30)."
-  },
-  {
-    "id": 214,
-    "question": "Are 'Headphones with Mic' required for Client computers?",
-    "options": [
-      "No",
-      "Yes, Compulsory",
-      "Optional",
-      "Only for 1 computer"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Yes, Compulsory. It is part of the minimum client configuration."
-  },
-  {
-    "id": 215,
-    "question": "What is the full form of ALC?",
-    "options": [
-      "Authorized Learner Center",
-      "Authorized Learning Center",
-      "Approved Learning Center",
-      "Active Learning Center"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Authorized Learning Center."
-  },
-  {
-    "id": 216,
-    "question": "Who decides the 'Open Area' list for new center registration?",
-    "options": [
-      "District Collector",
-      "MKCL",
-      "State Government",
-      "Local Municipality"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: MKCL. They decide based on business potential and existing center presence."
-  },
-  {
-    "id": 217,
     "question": "Can an existing Super Performing ALC apply for a new center in another district with preference?",
     "options": [
       "Yes",
@@ -84,7 +12,7 @@
     "explanation": "The correct answer is: No. Preference is only for the same LLC region or District."
   },
   {
-    "id": 218,
+    "id": 212,
     "question": "What is the 'Performance Guarantee Amount'?",
     "options": [
       "A fee paid by students",
@@ -96,7 +24,7 @@
     "explanation": "The correct answer is: An amount paid by AO to register, kept with MKCL."
   },
   {
-    "id": 219,
+    "id": 213,
     "question": "Who is exempt from paying the Performance Guarantee Amount?",
     "options": [
       "Private Computer Institutes",
@@ -108,7 +36,7 @@
     "explanation": "The correct answer is: Educational Institutes (Schools & Colleges)."
   },
   {
-    "id": 220,
+    "id": 214,
     "question": "What is the total duration of the MS-CIT Course?",
     "options": [
       "1 Month",
@@ -120,7 +48,7 @@
     "explanation": "The correct answer is: 3 Months (144 Hours)."
   },
   {
-    "id": 221,
+    "id": 215,
     "question": "What are the three languages in which MS-CIT course is available?",
     "options": [
       "English, Marathi, Gujarati",
@@ -132,7 +60,7 @@
     "explanation": "The correct answer is: English, Marathi, Hindi."
   },
   {
-    "id": 222,
+    "id": 216,
     "question": "What is the passing mark for the MS-CIT Final Online Examination (Students)?",
     "options": [
       "18 Marks",
@@ -144,7 +72,7 @@
     "explanation": "The correct answer is: 20 Marks out of 50."
   },
   {
-    "id": 223,
+    "id": 217,
     "question": "How many internal marks are allocated in the MS-CIT course?",
     "options": [
       "20 Marks",
@@ -156,7 +84,7 @@
     "explanation": "The correct answer is: 50 Marks. These are based on session completion and challenges."
   },
   {
-    "id": 224,
+    "id": 218,
     "question": "What is the full form of CCTP?",
     "options": [
       "Certificate of Computer Training Program",
@@ -168,7 +96,7 @@
     "explanation": "The correct answer is: Certificate of Computer Typing Proficiency."
   },
   {
-    "id": 225,
+    "id": 219,
     "question": "Who certifies the CCTP course?",
     "options": [
       "MKCL only",
@@ -180,7 +108,7 @@
     "explanation": "The correct answer is: Jointly by MKCL and MSBTE."
   },
   {
-    "id": 226,
+    "id": 220,
     "question": "What is the typing speed option available in CCTP?",
     "options": [
       "10 WPM and 20 WPM",
@@ -192,7 +120,7 @@
     "explanation": "The correct answer is: 30 WPM and 40 WPM."
   },
   {
-    "id": 227,
+    "id": 221,
     "question": "What keyboard layout is used in CCTP?",
     "options": [
       "Dvorak",
@@ -204,7 +132,7 @@
     "explanation": "The correct answer is: Remington."
   },
   {
-    "id": 228,
+    "id": 222,
     "question": "Who is eligible for CCTP?",
     "options": [
       "Any 10th pass student",
@@ -216,7 +144,7 @@
     "explanation": "The correct answer is: MS-CIT learners confirmed for the exam."
   },
   {
-    "id": 229,
+    "id": 223,
     "question": "Which item is NOT part of the mandatory Counseling Area setup?",
     "options": [
       "Notice Board",
@@ -228,7 +156,7 @@
     "explanation": "The correct answer is: Projector. This is required in the Lecture Room, not the Counseling Area."
   },
   {
-    "id": 230,
+    "id": 224,
     "question": "What is the mandatory identity document for New Center Registration finalization in 2026?",
     "options": [
       "Aadhaar Card",
@@ -240,7 +168,7 @@
     "explanation": "The correct answer is: Aadhaar Card. Both PAN and Aadhaar are mandatory."
   },
   {
-    "id": 231,
+    "id": 225,
     "question": "What is the standard student fee for MS-CIT in Single Installment (prior to June 2025 revision)?",
     "options": [
       "Rs. 4,000/-",
@@ -252,7 +180,7 @@
     "explanation": "The correct answer is: Rs. 4,500/- (Note: Fees may vary by region/date, but this is the standard base)."
   },
   {
-    "id": 232,
+    "id": 226,
     "question": "Does the student fee include the Examination and Certification fee?",
     "options": [
       "No, paid separately",
@@ -264,19 +192,19 @@
     "explanation": "The correct answer is: Yes, it is inclusive."
   },
   {
-    "id": 233,
+    "id": 227,
     "question": "What is the 'MFO' component in the fee structure?",
     "options": [
       "Master Franchisee Office",
-      "MKCL Fee Component",
+      "MKCL fee Only",
       "Monthly Fee Option",
       "Maintenance Fee Organization"
     ],
     "answer": 1,
-    "explanation": "The correct answer is: MKCL Fee Component (often referred to as MKCL's share)."
+    "explanation": "The correct answer is: MKCL fee Only (often referred to as MKCL's share)."
   },
   {
-    "id": 234,
+    "id": 228,
     "question": "What is the minimum age requirement for a student to join MS-CIT?",
     "options": [
       "10 years",
@@ -288,7 +216,7 @@
     "explanation": "The correct answer is: No specific age limit (preferably 5th Std pass)."
   },
   {
-    "id": 235,
+    "id": 229,
     "question": "Which application is used by learners to access the e-book?",
     "options": [
       "MKCL ERA",
@@ -300,7 +228,7 @@
     "explanation": "The correct answer is: MKCL Learner App."
   },
   {
-    "id": 236,
+    "id": 230,
     "question": "What is the ERA in the context of MS-CIT?",
     "options": [
       "Education Registration Agency",
@@ -312,7 +240,7 @@
     "explanation": "The correct answer is: eLearning Revolution for All (MKCL's learning framework)."
   },
   {
-    "id": 237,
+    "id": 231,
     "question": "Can a center use a 'DG Set' for power backup?",
     "options": [
       "No",
@@ -324,7 +252,7 @@
     "explanation": "The correct answer is: Yes, it is optional. UPS/Inverter is compulsory."
   },
   {
-    "id": 238,
+    "id": 232,
     "question": "What is the minimum number of USB ports required on the Server?",
     "options": [
       "2",
@@ -336,7 +264,7 @@
     "explanation": "The correct answer is: 3."
   },
   {
-    "id": 239,
+    "id": 233,
     "question": "Does the Center Coordinator need to clear the ONCET exam?",
     "options": [
       "No, only faculty needs to",
@@ -348,7 +276,7 @@
     "explanation": "The correct answer is: Yes, mandatory."
   },
   {
-    "id": 240,
+    "id": 234,
     "question": "What is the total time duration for the CCTP typing test?",
     "options": [
       "5 Minutes",
@@ -358,5 +286,77 @@
     ],
     "answer": 1,
     "explanation": "The correct answer is: 10 Minutes."
+  },
+  {
+    "id": 235,
+    "question": "Which browser is part of the MS-CIT Practical Exam syllabus?",
+    "options": [
+      "Mozilla Firefox",
+      "Google Chrome / Microsoft Edge",
+      "Safari",
+      "Opera"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Google Chrome / Microsoft Edge."
+  },
+  {
+    "id": 236,
+    "question": "What is the difficulty level distribution in the MS-CIT Final Exam?",
+    "options": [
+      "All questions are same level",
+      "Level 1 (Low), Level 2 (Medium), Level 3 (High)",
+      "Only Easy and Hard",
+      "Random"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Level 1 (Low), Level 2 (Medium), Level 3 (High)."
+  },
+  {
+    "id": 237,
+    "question": "How many Practical questions are there in the MS-CIT Final Exam?",
+    "options": [
+      "15",
+      "25",
+      "35",
+      "50"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: 35 Practical Questions."
+  },
+  {
+    "id": 238,
+    "question": "How many Objective questions are there in the MS-CIT Final Exam?",
+    "options": [
+      "15",
+      "20",
+      "35",
+      "50"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: 15 Objective Questions."
+  },
+  {
+    "id": 239,
+    "question": "Is there negative marking in the ONCET exam?",
+    "options": [
+      "Yes, 0.25 per wrong answer",
+      "Yes, 0.5 per wrong answer",
+      "No negative marking",
+      "Yes, only for Faculty"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: No negative marking."
+  },
+  {
+    "id": 240,
+    "question": "What happens if a Learning Facilitator fails the ONCET exam?",
+    "options": [
+      "They can re-appear immediately",
+      "The AO may be disqualified if no other LF passes",
+      "They pay a fine",
+      "They are demoted"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: The AO may be disqualified if no other LF passes. At least one LF must clear it."
   }
 ]

@@ -1,54 +1,6 @@
 [
   {
     "id": 91,
-    "question": "Which is mandatory for learner confirmation",
-    "options": [
-      "Attendance",
-      "Payment",
-      "Both",
-      "None"
-    ],
-    "answer": 2,
-    "explanation": "The Correct Answer is Both"
-  },
-  {
-    "id": 92,
-    "question": "What is the minimum Attendance required",
-    "options": [
-      "75%",
-      "80%",
-      "85%",
-      "None"
-    ],
-    "answer": 0,
-    "explanation": "The Correct Answer is 75%"
-  },
-  {
-    "id": 93,
-    "question": "What is the minimum passing marks",
-    "options": [
-      "20",
-      "30",
-      "40",
-      "None"
-    ],
-    "answer": 0,
-    "explanation": "The Correct Answer is 20"
-  },
-  {
-    "id": 94,
-    "question": "What is the Total Marks of MS-CIT Learners",
-    "options": [
-      "50",
-      "100",
-      "150",
-      "None"
-    ],
-    "answer": 1,
-    "explanation": "The Correct Answer is 100"
-  },
-  {
-    "id": 95,
     "question": "What is the Exam Duration for MS-CIT",
     "options": [
       "90 Minutes",
@@ -60,7 +12,7 @@
     "explanation": "The Correct Answer is 60 Minutes"
   },
   {
-    "id": 96,
+    "id": 92,
     "question": "How many Questions in MS-CIT Exam",
     "options": [
       "50",
@@ -72,7 +24,7 @@
     "explanation": "The Correct Answer is 50"
   },
   {
-    "id": 97,
+    "id": 93,
     "question": "Exam Conducted By",
     "options": [
       "MKCL",
@@ -84,7 +36,7 @@
     "explanation": "The Correct Answer is MKCL"
   },
   {
-    "id": 98,
+    "id": 94,
     "question": "Maximum modes Avilable For Installments In MFO mode",
     "options": [
       "1",
@@ -96,31 +48,7 @@
     "explanation": "The Correct Answer is 2"
   },
   {
-    "id": 99,
-    "question": "HKCL Stands for",
-    "options": [
-      "Haryana Knowledge Corporation LTD",
-      "Himachal Pradesh Knowledge Corporation Ltd",
-      "Hyderabad Knowledge Corporation Ltd",
-      "Hisser Knowledge Corporation Ltd"
-    ],
-    "answer": 0,
-    "explanation": "The Correct Answer is Haryana Knowledge Corporation LTD"
-  },
-  {
-    "id": 100,
-    "question": "RKCL Stands for",
-    "options": [
-      "Rajasthan Knowledge Corporation Ltd",
-      "Ranchi Knowledge Corporation Ltd",
-      "Raipur Knowledge Corporation Ltd",
-      "Rajkot Knowledge Corporation Ltd"
-    ],
-    "answer": 0,
-    "explanation": "The Correct Answer is Rajasthan Knowledge Corporation Ltd"
-  },
-  {
-    "id": 101,
+    "id": 95,
     "question": "MKCL's Registered Office is Located in",
     "options": [
       "Mumbai",
@@ -132,7 +60,7 @@
     "explanation": "The Correct Answer is Pune"
   },
   {
-    "id": 102,
+    "id": 96,
     "question": "Minimum Processor Required for MS-CIT Server Machine",
     "options": [
       "i5 1st Genartion",
@@ -144,7 +72,7 @@
     "explanation": "The Correct Answer is i5 6th Genration"
   },
   {
-    "id": 103,
+    "id": 97,
     "question": "Minimum Processor Required for MS-CIT Client Machine",
     "options": [
       "i5 1st Genartion",
@@ -156,7 +84,7 @@
     "explanation": "The Correct Answer is i5 6th Genration"
   },
   {
-    "id": 104,
+    "id": 98,
     "question": "Minimum RAM Required for MS-CIT Server Machine",
     "options": [
       "8 GB",
@@ -168,7 +96,7 @@
     "explanation": "The Correct Answer is 8 GB"
   },
   {
-    "id": 105,
+    "id": 99,
     "question": "Minimum RAM Required for MS-CIT Client Machine",
     "options": [
       "1 GB",
@@ -180,7 +108,7 @@
     "explanation": "The Correct Answer is 4 GB"
   },
   {
-    "id": 106,
+    "id": 100,
     "question": "MI Stands for",
     "options": [
       "Manager Incharge",
@@ -192,7 +120,7 @@
     "explanation": "The Correct Answer is Marketing Interns"
   },
   {
-    "id": 107,
+    "id": 101,
     "question": "KLiC Stands for",
     "options": [
       "Knowledge Lit Careers",
@@ -204,7 +132,7 @@
     "explanation": "The Correct Answer is Knowledge Lit Careers"
   },
   {
-    "id": 108,
+    "id": 102,
     "question": "World Environment Day is Celebrated on",
     "options": [
       "1st June",
@@ -216,7 +144,7 @@
     "explanation": "The Correct Answer is 5th June"
   },
   {
-    "id": 109,
+    "id": 103,
     "question": "Teacher's Day is Celebrated on",
     "options": [
       "5th September",
@@ -228,7 +156,7 @@
     "explanation": "The Correct Answer is 5th September"
   },
   {
-    "id": 110,
+    "id": 104,
     "question": "Computer Literacy Day is Celebrated on",
     "options": [
       "2nd December",
@@ -240,7 +168,7 @@
     "explanation": "The Correct Answer is 2nd December"
   },
   {
-    "id": 111,
+    "id": 105,
     "question": "Minimum Qualification Criteria for MS-CIT Admissions",
     "options": [
       "5th   Std.",
@@ -252,7 +180,7 @@
     "explanation": "The Correct Answer is No Criteria"
   },
   {
-    "id": 112,
+    "id": 106,
     "question": "What Is The Fees Of MS-CIT Re-Examination",
     "options": [
       "Rs. 527",
@@ -264,7 +192,7 @@
     "explanation": "The Correct Answer is Rs. 527"
   },
   {
-    "id": 113,
+    "id": 107,
     "question": "MFO for MS-CIT is",
     "options": [
       "Rs. 1765",
@@ -276,7 +204,7 @@
     "explanation": "The Correct Answer is Rs. 1765"
   },
   {
-    "id": 114,
+    "id": 108,
     "question": "MFO Stands for",
     "options": [
       "MKCL Fee Only",
@@ -288,7 +216,7 @@
     "explanation": "The Correct Answer is MKCL Fee Only"
   },
   {
-    "id": 115,
+    "id": 109,
     "question": "Which is the correct web site for New Center Registration",
     "options": [
       "www.mkcl.org/register",
@@ -300,7 +228,7 @@
     "explanation": "The Correct Answer is www.mkcl.org/register"
   },
   {
-    "id": 116,
+    "id": 110,
     "question": "What is the maximum image size allowed in NCR Process",
     "options": [
       "200 KB",
@@ -312,7 +240,7 @@
     "explanation": "The Correct Answer is 200 KB"
   },
   {
-    "id": 117,
+    "id": 111,
     "question": "To maintain educational environment, what is the minimum Area Requerment",
     "options": [
       "200 Sq.ft",
@@ -324,7 +252,7 @@
     "explanation": "The Correct Answer is 200 Sq.ft"
   },
   {
-    "id": 118,
+    "id": 112,
     "question": "What is the Minimum Qualification Required for Coordinator",
     "options": [
       "12 th",
@@ -336,7 +264,7 @@
     "explanation": "The Correct Answer is Graduate or Deploma Cmplited"
   },
   {
-    "id": 119,
+    "id": 113,
     "question": "by which site you get information about KLiC Course",
     "options": [
       "https://klic.mkcl.in",
@@ -348,7 +276,7 @@
     "explanation": "The Correct Answer is https://klic.mkcl.org/"
   },
   {
-    "id": 120,
+    "id": 114,
     "question": "All MKCL Details is available on",
     "options": [
       "https://mkcl.org/",
@@ -358,5 +286,77 @@
     ],
     "answer": 0,
     "explanation": "The Correct Answer is https://mkcl.org/"
+  },
+  {
+    "id": 115,
+    "question": "What is the non-refundable 'Processing Fee' component of the Center Registration Fee?",
+    "options": [
+      "Rs. 500/-",
+      "Rs. 2,500/-",
+      "Rs. 5,000/-",
+      "Rs. 9,500/-"
+    ],
+    "answer": 0,
+    "explanation": "According to the Registration Fee guidelines, the Center Registration Fee includes Rs. 500/- towards Processing Fee which is Non-Refundable."
+  },
+  {
+    "id": 116,
+    "question": "What is the duration of the OnCeT Examination for the Learning Facilitator (LF)?",
+    "options": [
+      "30 Minutes",
+      "45 Minutes",
+      "60 Minutes",
+      "90 Minutes"
+    ],
+    "answer": 2,
+    "explanation": "The OnCeT & Interview Guidelines specify that the Test Duration for the Learning Facilitator (Faculty) examination is 60 minutes."
+  },
+  {
+    "id": 117,
+    "question": "Which of the following topics is included in the syllabus for the Center Coordinator OnCeT Exam?",
+    "options": [
+      "MS-Office 2019",
+      "Windows 10",
+      "Marketing & Promotion",
+      "AI Tools"
+    ],
+    "answer": 2,
+    "explanation": "The Syllabus for Center Coordinator OnCeT includes 'Marketing & Promotion', 'Offering Details', 'Administrative Details', and 'Process Details'. Topics like MS-Office and Windows 10 are part of the LF syllabus."
+  },
+  {
+    "id": 118,
+    "question": "Which document is explicitly mentioned as mandatory for the finalization of the MS-CIT New Center Registration?",
+    "options": [
+      "Driving License",
+      "Voter ID",
+      "PAN Card",
+      "Passport"
+    ],
+    "answer": 2,
+    "explanation": "The FAQs and Required Documents sections state that the PAN Card is mandatory for the finalization of new centers."
+  },
+  {
+    "id": 119,
+    "question": "What is the Performance Guarantee Amount applicable for a Rural Center (Regular ALC)?",
+    "options": [
+      "Rs. 10,000/-",
+      "Rs. 25,000/-",
+      "Rs. 50,000/-",
+      "Rs. 75,000/-"
+    ],
+    "answer": 1,
+    "explanation": "As per the Registration Fee structure, the Performance Guarantee Amount for a Rural Center is Rs. 25,000/-."
+  },
+  {
+    "id": 120,
+    "question": "Which type of Applicant Organization is exempted from paying the Performance Guarantee Amount?",
+    "options": [
+      "Private Computer Institutes",
+      "Educational Institutes (Schools & Colleges)",
+      "Cyber Cafes",
+      "Coaching Classes"
+    ],
+    "answer": 1,
+    "explanation": "The guidelines state that if the Applicant Organization is an Educational Institute (only for Schools & Colleges), there is no need to pay the Performance Guarantee Amount."
   }
 ]

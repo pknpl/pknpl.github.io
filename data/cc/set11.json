@@ -1,102 +1,6 @@
 [
   {
     "id": 301,
-    "question": "Is 'Parking' facility compulsory?",
-    "options": [
-      "Yes",
-      "No, Optional",
-      "Yes, for staff only",
-      "Yes, for students only"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: No, Optional."
-  },
-  {
-    "id": 302,
-    "question": "Can a single AO apply for 'Multiple AOs' from the same ward?",
-    "options": [
-      "No, only one",
-      "Yes, but selection is based on score",
-      "Yes, all will be selected",
-      "No"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: No Only one AO apply from single open area"
-  },
-  {
-    "id": 303,
-    "question": "What is the weightage of the Interview in the Total Score for selection?",
-    "options": [
-      "20 Marks",
-      "30 Marks",
-      "50 Marks",
-      "10 Marks"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: 20 Marks."
-  },
-  {
-    "id": 304,
-    "question": "What is the weightage of the LF ONCET Score in selection?",
-    "options": [
-      "30 Marks",
-      "50 Marks",
-      "20 Marks",
-      "10 Marks"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: 50 Marks."
-  },
-  {
-    "id": 305,
-    "question": "What is the weightage of the Coordinator MCQ ONCET Score in selection?",
-    "options": [
-      "30 Marks",
-      "50 Marks",
-      "20 Marks",
-      "10 Marks"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: FOR CC - MCQ IS OF 30 Marks and INTERVIEW is of 20 Marks"
-  },
-  {
-    "id": 306,
-    "question": "Which keyboard is used for Marathi typing in CCTP?",
-    "options": [
-      "Kruti Dev",
-      "Mangal",
-      "Remington (Typewriter layout)",
-      "Arial"
-    ],
-    "answer": 2,
-    "explanation": "The correct answer is: Remington (Typewriter layout)."
-  },
-  {
-    "id": 307,
-    "question": "What is the 'Notice Board' used for in the Counseling Area?",
-    "options": [
-      "To hang coats",
-      "To display information/notices",
-      "To stick advertisements",
-      "Decorative purpose"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: To display information/notices."
-  },
-  {
-    "id": 308,
-    "question": "Are 'Library' facilities compulsory?",
-    "options": [
-      "Yes",
-      "No, Optional",
-      "Yes, Digital Library only",
-      "No"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: No, Optional."
-  },
-  {
-    "id": 309,
     "question": "What kind of chairs are required in the Lab?",
     "options": [
       "Wooden benches",
@@ -108,7 +12,7 @@
     "explanation": "The correct answer is: Ergonomically designed chairs."
   },
   {
-    "id": 310,
+    "id": 302,
     "question": "What is the standard warranty expected for IT hardware?",
     "options": [
       "1 year",
@@ -120,7 +24,7 @@
     "explanation": "The correct answer is: 3 years (recommended)."
   },
   {
-    "id": 311,
+    "id": 303,
     "question": "Can a center operate without a Server?",
     "options": [
       "Yes",
@@ -132,7 +36,7 @@
     "explanation": "The correct answer is: No."
   },
   {
-    "id": 312,
+    "id": 304,
     "question": "Is 'Google Tools' part of the syllabus?",
     "options": [
       "Yes",
@@ -144,7 +48,7 @@
     "explanation": "The correct answer is: Yes."
   },
   {
-    "id": 313,
+    "id": 305,
     "question": "What is the 'Job Readiness' skill?",
     "options": [
       "Writing a CV and interview skills",
@@ -156,7 +60,7 @@
     "explanation": "The correct answer is: Writing a CV and interview skills."
   },
   {
-    "id": 314,
+    "id": 306,
     "question": "What is the minimum distance between the monitor and the user recommended for Ergonomics?",
     "options": [
       "10 inches",
@@ -168,7 +72,7 @@
     "explanation": "The correct answer is: 20-24 inches (Arm's length)."
   },
   {
-    "id": 315,
+    "id": 307,
     "question": "Which document describes the 'Code of Ethics' for centers?",
     "options": [
       "Center agreement",
@@ -180,7 +84,7 @@
     "explanation": "The correct answer is: Center agreement."
   },
   {
-    "id": 316,
+    "id": 308,
     "question": "Can a center charge extra fees for the e-book?",
     "options": [
       "Yes",
@@ -192,7 +96,7 @@
     "explanation": "The correct answer is: No, it is included."
   },
   {
-    "id": 317,
+    "id": 309,
     "question": "What is the consequence of using 'Pirated OS'?",
     "options": [
       "Nothing",
@@ -204,7 +108,7 @@
     "explanation": "The correct answer is: Center Authorization Termination (Strict compliance required)."
   },
   {
-    "id": 318,
+    "id": 310,
     "question": "Is the 'Center Coordinator' required to be full-time?",
     "options": [
       "Yes, generally expected",
@@ -216,7 +120,7 @@
     "explanation": "The correct answer is: Yes, generally expected."
   },
   {
-    "id": 319,
+    "id": 311,
     "question": "What is the 'Succession Plan' in the context of center ownership?",
     "options": [
       "Transfer to son/daughter",
@@ -228,7 +132,7 @@
     "explanation": "The correct answer is: Not applicable (Non-transferable)."
   },
   {
-    "id": 320,
+    "id": 312,
     "question": "What is the primary goal of the MS-CIT course?",
     "options": [
       "To make people IT Literate",
@@ -240,7 +144,7 @@
     "explanation": "The correct answer is: To make people IT Literate."
   },
   {
-    "id": 321,
+    "id": 313,
     "question": "What is the full form of AO in the context of MKCL Center Registration?",
     "options": [
       "Authorized Organization",
@@ -252,7 +156,7 @@
     "explanation": "AO stands for Applicant Organization, which refers to the entity applying to become an MKCL center."
   },
   {
-    "id": 322,
+    "id": 314,
     "question": "Which portal is used by the Applicant Organization (AO) for the New Center Registration process?",
     "options": [
       "SOLAR Portal",
@@ -264,7 +168,7 @@
     "explanation": "The SOLAR Portal is the administrative platform used for Center Registration and other management activities."
   },
   {
-    "id": 323,
+    "id": 315,
     "question": "What is the total Center Registration Fee for a Non-Educational Institute?",
     "options": [
       "Rs. 2,500/-",
@@ -276,7 +180,7 @@
     "explanation": "The total registration fee for a Non-Educational Institute is Rs. 10,000/-."
   },
   {
-    "id": 324,
+    "id": 316,
     "question": "What is the non-refundable Processing Fee component of the Center Registration Fee?",
     "options": [
       "Rs. 200/-",
@@ -288,7 +192,7 @@
     "explanation": "Rs. 500/- is the non-refundable processing fee deducted from the registration fee."
   },
   {
-    "id": 325,
+    "id": 317,
     "question": "What is the Security Deposit amount for New Center Registration for both Educational and Private Institutes?",
     "options": [
       "Rs. 5,000/-",
@@ -300,7 +204,7 @@
     "explanation": "Currently, the Security Deposit is Rs. 0/- for both Educational and Private Institutes."
   },
   {
-    "id": 326,
+    "id": 318,
     "question": "What is the minimum carpet area required for setting up an MKCL Authorized Learning Center (ALC)?",
     "options": [
       "50 sq. ft.",
@@ -312,7 +216,7 @@
     "explanation": "A dedicated space of minimum 200 sq. feet is required for the educational courses and related services of ALC"
   },
   {
-    "id": 327,
+    "id": 319,
     "question": "Which of the following is NOT one of the three mandatory areas required in the center layout?",
     "options": [
       "Counseling Area",
@@ -324,7 +228,7 @@
     "explanation": "The mandatory areas are Counseling Area, Lecture Room, and Computer Laboratory. A Cafeteria is not mandatory."
   },
   {
-    "id": 328,
+    "id": 320,
     "question": "What is the minimum RAM requirement for the Server machine in an ALC?",
     "options": [
       "2 GB",
@@ -336,7 +240,7 @@
     "explanation": "The minimum Server Configuration requires 8 GB RAM."
   },
   {
-    "id": 329,
+    "id": 321,
     "question": "Which Operating System is required for the Server and Client machines?",
     "options": [
       "Windows 7 Ultimate",
@@ -348,7 +252,7 @@
     "explanation": "Windows 10 Enterprise (64-bit) is the required Operating System."
   },
   {
-    "id": 330,
+    "id": 322,
     "question": "What is the minimum Client Configuration RAM requirement?",
     "options": [
       "2 GB",
@@ -358,5 +262,101 @@
     ],
     "answer": 1,
     "explanation": "The minimum Client Configuration requires 4 GB RAM."
+  },
+  {
+    "id": 323,
+    "question": "Which document is mandatory for the finalization of the New Center?",
+    "options": [
+      "Driving License",
+      "PAN Card",
+      "Voter ID",
+      "Passport"
+    ],
+    "answer": 1,
+    "explanation": "PAN Card is a mandatory document for the finalization of New Centers."
+  },
+  {
+    "id": 324,
+    "question": "Who recommends the Applicant Organization (AO) first in the registration workflow?",
+    "options": [
+      "Training Provider (TP)",
+      "Local Lead Center (LLC)",
+      "Regional Lead Center (RLC)",
+      "MKCL Head Office"
+    ],
+    "answer": 0,
+    "explanation": "The Training Provider (TP) is the first to recommend the AO after they select the TP."
+  },
+  {
+    "id": 325,
+    "question": "Who is responsible for the physical verification of the Center Setup?",
+    "options": [
+      "Training Provider (TP)",
+      "Local Lead Center (LLC)",
+      "Learners",
+      "Bank Officials"
+    ],
+    "answer": 1,
+    "explanation": "The Local Lead Center (LLC) visits the location to verify the center setup and human resources."
+  },
+  {
+    "id": 326,
+    "question": "What does MFO stand for in the context of fee payments?",
+    "options": [
+      "MKCL's Fee Only",
+      "Monthly Fee Option",
+      "Master Fee Organization",
+      "Minimum Fee Order"
+    ],
+    "answer": 0,
+    "explanation": "MFO stands for MKCL's Fee Only, which is the share ALC pays to MKCL."
+  },
+  {
+    "id": 327,
+    "question": "What is the validity of the ALC authorization for the 2025 process?",
+    "options": [
+      "Until June 2025",
+      "Until December 2025",
+      "Until March 2026",
+      "For 5 Years"
+    ],
+    "answer": 1,
+    "explanation": "ALC authorization remains valid until December 2025, subject to renewal processes."
+  },
+  {
+    "id": 328,
+    "question": "What is the duration of a standard KLiC Certificate Course?",
+    "options": [
+      "60 Hours",
+      "120 Hours",
+      "200 Hours",
+      "300 Hours"
+    ],
+    "answer": 1,
+    "explanation": "A standard KLiC Certificate Course consists of 120 hours of learning."
+  },
+  {
+    "id": 329,
+    "question": "Who awards the Marksheet for KLiC Certificate Courses?",
+    "options": [
+      "MKCL",
+      "YCMOU",
+      "MSBTE",
+      "University of Pune"
+    ],
+    "answer": 1,
+    "explanation": "The Marksheet is awarded by Yashwantrao Chavan Maharashtra Open University (YCMOU)."
+  },
+  {
+    "id": 330,
+    "question": "How many KLiC courses must a learner complete to be eligible for the KLiC Diploma?",
+    "options": [
+      "2 Courses",
+      "3 Courses",
+      "4 Courses",
+      "5 Courses"
+    ],
+    "answer": 1,
+    "explanation": "A learner must successfully complete 3 KLiC courses to be eligible for the KLiC Diploma."
   }
 ]

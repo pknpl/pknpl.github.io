@@ -1,114 +1,6 @@
 [
   {
     "id": 541,
-    "question": "What is the recommended brand list for Printers as per the peripherals guidelines?",
-    "options": [
-      "Sony, LG, Samsung",
-      "HP, Canon, Epson",
-      "Dell, Acer, Lenovo",
-      "Brother, Ricoh, Konica"
-    ],
-    "answer": 1,
-    "explanation": "The Computing Resources page lists 'HP, Canon, Epson etc.' as recommended brands for printers."
-  },
-  {
-    "id": 542,
-    "question": "What is the minimum sensing area required for the Biometric Device?",
-    "options": [
-      "10 x 10 mm",
-      "16 x 18 mm",
-      "20 x 20 mm",
-      "25 x 30 mm"
-    ],
-    "answer": 1,
-    "explanation": "The technical specifications for the Biometric Device require a sensing area of 16 x 18 mm (minimum)."
-  },
-  {
-    "id": 543,
-    "question": "Which browser is mentioned in the 'Softwares' list for ERA?",
-    "options": [
-      "Mozilla Firefox",
-      "ERA Online Browser / ERA Live Browser",
-      "Safari",
-      "Opera"
-    ],
-    "answer": 1,
-    "explanation": "The software list includes 'ERA Online Browser' and 'ERA Live Browser' as specific browsers for the learning environment."
-  },
-  {
-    "id": 544,
-    "question": "Who is responsible for arranging the Windows and MS-Office licenses initially?",
-    "options": [
-      "The Applicant Organization (AO)",
-      "MKCL provides them after payment",
-      "The Local Lead Center",
-      "The Government of Maharashtra"
-    ],
-    "answer": 1,
-    "explanation": "The License Policy states: 'MKCL will provide after the Payment...'. Wait, let's correct: The policy says 'For Windows and MS-Office licenses, MKCL will provide after the Payment...'. However, the *initial* setup often requires AO readiness. Re-reading 2.2 snippet: 'MKCL will provide after the Payment...'. But snippet 2.1 says 'ALC has to arrange at their own'. **Correction based on latest snippet 2.2:** MKCL provides it after payment. However, snippet 2.1 (older/variant) says own arrangement. The safest answer aligns with the Fee component: MKCL provides licenses *against the fee*. But let's stick to the clear instruction: 'MKCL will provide after the Payment'."
-  },
-  {
-    "id": 545,
-    "question": "Which translation AI tool is mentioned in the syllabus?",
-    "options": [
-      "Google Translate",
-      "Babelfish",
-      "Yandex Translate",
-      "Bing Translator"
-    ],
-    "answer": 0,
-    "explanation": "The syllabus lists 'Google Translate' and 'Bhashini' as AI tools."
-  },
-  {
-    "id": 546,
-    "question": "What is the required resolution for the Biometric Device fingerprint sensor?",
-    "options": [
-      "300 DPI",
-      "400 DPI",
-      "500 DPI",
-      "600 DPI"
-    ],
-    "answer": 2,
-    "explanation": "The Biometric Device specification requires a resolution of 500 DPI / 256 gray scale level."
-  },
-  {
-    "id": 547,
-    "question": "Is the use of a DG Set (Diesel Generator) mandatory?",
-    "options": [
-      "Yes, for all centers",
-      "Yes, for rural centers only",
-      "No, it is Optional",
-      "No, it is prohibited"
-    ],
-    "answer": 2,
-    "explanation": "The Power Backup guidelines list UPS and Inverter as standard, but 'DG Set' is marked as Optional."
-  },
-  {
-    "id": 548,
-    "question": "Which document must be submitted if the center address differs from the address on the proof documents?",
-    "options": [
-      "Affidavit",
-      "Address Correction Form",
-      "Gazette Notification",
-      "No such deviation is allowed"
-    ],
-    "answer": 3,
-    "explanation": "The center must be established at the exact location applied for. Documents must match. Usually, address proof must align with the center location."
-  },
-  {
-    "id": 549,
-    "question": "What is the 'Bhashini' tool used for, as per the syllabus?",
-    "options": [
-      "Coding automation",
-      "Language translation",
-      "Image generation",
-      "Video editing"
-    ],
-    "answer": 1,
-    "explanation": "Bhashini is an AI-led language translation tool mentioned in the AI Tools section of the syllabus."
-  },
-  {
-    "id": 550,
     "question": "How many Client computers can the specified Minimum Server Configuration support?",
     "options": [
       "Up to 10",
@@ -120,7 +12,7 @@
     "explanation": "The guidelines state: 'The above-mentioned server can support upto 20 clients.'"
   },
   {
-    "id": 551,
+    "id": 542,
     "question": "Which type of graphic card is required for the Server?",
     "options": [
       "NVIDIA RTX 3060",
@@ -132,7 +24,7 @@
     "explanation": "The Minimum Server Configuration specifies 'Integrated Graphics' is sufficient."
   },
   {
-    "id": 552,
+    "id": 543,
     "question": "What is the primary role of the 'Local Lead Center' (LLC)?",
     "options": [
       "To teach students",
@@ -144,7 +36,7 @@
     "explanation": "The LLC is responsible for the physical verification of the center's infrastructure and documents before final approval."
   },
   {
-    "id": 553,
+    "id": 544,
     "question": "Which AI tool for 'Grammar Correction' is listed in the syllabus?",
     "options": [
       "Grammarly",
@@ -156,7 +48,7 @@
     "explanation": "Grammarly is explicitly listed under AI Tools for writing assistance."
   },
   {
-    "id": 554,
+    "id": 545,
     "question": "What is the minimum Internet Broadband connection speed for the Center?",
     "options": [
       "10 Mbps",
@@ -168,7 +60,7 @@
     "explanation": "The Computing Resources page states a requirement of 'Minimum 100 Mbps Internet connection'."
   },
   {
-    "id": 555,
+    "id": 546,
     "question": "When does the 'Second Installment' of the fee need to be paid (if applicable in fee mode)?",
     "options": [
       "Before the OnCeT exam",
@@ -180,7 +72,7 @@
     "explanation": "For New Center Registration (Rs. 10,000 Application Fee), it is typically a single payment process during the application. Installment options (mentioned in some search results) usually apply to Learner Fees, not Center Registration Fees. The Center Fee is paid as a lump sum Rs. 10,000."
   },
   {
-    "id": 556,
+    "id": 547,
     "question": "Which app is mentioned for 'Digital Wellbeing' in the syllabus?",
     "options": [
       "Facebook",
@@ -192,7 +84,7 @@
     "explanation": "The syllabus lists 'Digital Wellbeing - Google' as a topic."
   },
   {
-    "id": 557,
+    "id": 548,
     "question": "What is the 'Quillbot' tool used for?",
     "options": [
       "Paraphrasing and writing",
@@ -204,7 +96,7 @@
     "explanation": "Quillbot is listed in the syllabus as an AI tool, primarily known for paraphrasing."
   },
   {
-    "id": 558,
+    "id": 549,
     "question": "Can a center use 'Ncomputing' devices instead of full desktops?",
     "options": [
       "Yes, it saves cost",
@@ -216,7 +108,7 @@
     "explanation": "The guidelines strictly state: 'Ncomputing /Xtenda / Thin Client Setup is not allowed'."
   },
   {
-    "id": 559,
+    "id": 550,
     "question": "What is the 'Mantra MFS100'?",
     "options": [
       "A type of server",
@@ -228,7 +120,7 @@
     "explanation": "Mantra MFS100 is listed as a recommended make and model for the Biometric Device."
   },
   {
-    "id": 560,
+    "id": 551,
     "question": "What is the 'Center Coordinator' expected to master regarding 'Marketing'?",
     "options": [
       "Running TV ads only",
@@ -240,7 +132,7 @@
     "explanation": "The CC Syllabus emphasizes understanding MKCL offerings and approaching the local market potential."
   },
   {
-    "id": 561,
+    "id": 552,
     "question": "Which video conferencing tool feature is mentioned in the syllabus?",
     "options": [
       "Zoom Breakout Rooms",
@@ -252,19 +144,19 @@
     "explanation": "The syllabus specifically mentions 'Google Meet's Translated Captions Feature'."
   },
   {
-    "id": 562,
+    "id": 553,
     "question": "What is the minimum disk space required for a Client machine?",
     "options": [
       "80 GB",
       "1 TB",
-      "250 GB",
+      "256 GB",
       "500 GB"
     ],
-    "answer": 1,
-    "explanation": "The Minimum Client Configuration requires a 1 TB SSd"
+    "answer": 2,
+    "explanation": "The Minimum Client Configuration requires a 256 GB SSd"
   },
   {
-    "id": 563,
+    "id": 554,
     "question": "What is 'Otter.ai' used for as per the syllabus?",
     "options": [
       "Transcription and meeting notes",
@@ -276,7 +168,7 @@
     "explanation": "Otter.ai is listed under AI Tools, typically used for automated transcription."
   },
   {
-    "id": 564,
+    "id": 555,
     "question": "Which document is mandatory for 'Educational Institute' category applicants to prove their status?",
     "options": [
       "Trust Deed / Society Registration Certificate",
@@ -288,7 +180,7 @@
     "explanation": "Educational Institutes must valid proof of their registration, such as a Trust Deed or Society Registration Certificate."
   },
   {
-    "id": 565,
+    "id": 556,
     "question": "What is the 'Gemini' tool mentioned in the syllabus?",
     "options": [
       "A cryptocurrency",
@@ -300,7 +192,7 @@
     "explanation": "The syllabus lists 'Google Assistant/Gemini' under AI Tools."
   },
   {
-    "id": 566,
+    "id": 557,
     "question": "What is the recommended brands for the Network Switch?",
     "options": [
       "D-Link, Linksys",
@@ -312,7 +204,7 @@
     "explanation": "D-Link and Linksys are explicitly mentioned as recommended brands for the LAN Network Switch."
   },
   {
-    "id": 567,
+    "id": 558,
     "question": "If an AO is an Educational Institute, are they exempt from the Processing Fee?",
     "options": [
       "Yes, totally exempt",
@@ -324,7 +216,7 @@
     "explanation": "Educational Institutes are exempt from the *Performance Guarantee Amount*, but they must still pay the Registration/Processing fees."
   },
   {
-    "id": 568,
+    "id": 559,
     "question": "What is the 'MonkeyType' tool mentioned in the syllabus?",
     "options": [
       "A coding game",
@@ -336,7 +228,7 @@
     "explanation": "MonkeyType is listed in the syllabus, likely under 'Smart Typing Skills' or AI tools for typing improvement."
   },
   {
-    "id": 569,
+    "id": 560,
     "question": "How many questions are there in the Learning Facilitator OnCeT Exam?",
     "options": [
       "30",
@@ -348,7 +240,7 @@
     "explanation": "The Learning Facilitator exam consists of 50 questions."
   },
   {
-    "id": 570,
+    "id": 561,
     "question": "What is the 'Total Marks' for the Center Coordinator OnCeT Exam?",
     "options": [
       "30 Marks",

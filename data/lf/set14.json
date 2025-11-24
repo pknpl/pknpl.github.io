@@ -1,30 +1,6 @@
 [
   {
     "id": 651,
-    "question": "In the computer lab, a new keyboard is not working. Which port should you check first?",
-    "options": [
-      "Audio Port",
-      "USB/PS2 Port",
-      "HDMI Port",
-      "Network Port"
-    ],
-    "answer": 1,
-    "explanation": "The Correct Answer is USB/PS2 Port"
-  },
-  {
-    "id": 652,
-    "question": "Your friend tries to play a movie from a pen drive but the system does not detect it. What is the likely issue?",
-    "options": [
-      "VGA port is loose",
-      "USB port is faulty or disabled",
-      "Audio port is blocked",
-      "RAM is low"
-    ],
-    "answer": 1,
-    "explanation": "The Correct Answer is USB port is faulty or disabled"
-  },
-  {
-    "id": 653,
     "question": "While doing a presentation, the projector is not displaying the computer’s output. Which part should you check?",
     "options": [
       "HDMI/VGA Cable Connection",
@@ -36,7 +12,7 @@
     "explanation": "The Correct Answer is HDMI/VGA Cable Connection"
   },
   {
-    "id": 654,
+    "id": 652,
     "question": "Your school gets new high-speed internet, but your old computers cannot connect wirelessly. What should be installed?",
     "options": [
       "USB hub",
@@ -48,7 +24,7 @@
     "explanation": "The Correct Answer is Wireless Network Card"
   },
   {
-    "id": 655,
+    "id": 653,
     "question": "A student complains that the computer sound is very low even at maximum volume. What could improve it?",
     "options": [
       "Install a new graphics card",
@@ -60,7 +36,7 @@
     "explanation": "The Correct Answer is Install a sound card"
   },
   {
-    "id": 656,
+    "id": 654,
     "question": "During an assembly, you need to display the computer screen on a big LED TV. Which connection is best?",
     "options": [
       "HDMI Cable",
@@ -72,7 +48,7 @@
     "explanation": "The Correct Answer is HDMI Cable"
   },
   {
-    "id": 657,
+    "id": 655,
     "question": "_______________ provides many editable templates to its users.",
     "options": [
       "Sony",
@@ -84,7 +60,7 @@
     "explanation": "The Correct Answer is Microsoft"
   },
   {
-    "id": 658,
+    "id": 656,
     "question": "If you don't find a suitable Excel template on www.office.com under the option 'More templates', which option should you click on next?",
     "options": [
       "www.templates.com",
@@ -96,7 +72,7 @@
     "explanation": "The Correct Answer is Explore all templates"
   },
   {
-    "id": 659,
+    "id": 657,
     "question": "Which option should you click on, if you want to work offline with a template from www.office.com?",
     "options": [
       "Create",
@@ -108,7 +84,7 @@
     "explanation": "The Correct Answer is Download"
   },
   {
-    "id": 660,
+    "id": 658,
     "question": "You have a row in the Excel sheet that you would like to highlight. After selecting that row, which option should you select in order to highlight it?",
     "options": [
       "Fill Color",
@@ -120,7 +96,7 @@
     "explanation": "The Correct Answer is Fill Color"
   },
   {
-    "id": 661,
+    "id": 659,
     "question": "The art teacher wants to run heavy design software. Which upgrade will help the most?",
     "options": [
       "Install a graphics card",
@@ -132,7 +108,7 @@
     "explanation": "The Correct Answer is Install a graphics card"
   },
   {
-    "id": 662,
+    "id": 660,
     "question": "While replacing the motherboard, you forget to connect the front panel cables. What will not work?",
     "options": [
       "Hard disk",
@@ -144,7 +120,7 @@
     "explanation": "The Correct Answer is Power button and LED indicators"
   },
   {
-    "id": 663,
+    "id": 661,
     "question": "Your friend’s computer keeps shutting down randomly. Which part should you check for overheating?",
     "options": [
       "CPU",
@@ -156,7 +132,7 @@
     "explanation": "The Correct Answer is Cooling System"
   },
   {
-    "id": 664,
+    "id": 662,
     "question": "The teacher asks you to move a large file from your computer to theirs quickly. What’s the best method?",
     "options": [
       "Send by email only",
@@ -168,7 +144,7 @@
     "explanation": "The Correct Answer is Use a pen drive via USB port"
   },
   {
-    "id": 665,
+    "id": 663,
     "question": "In a competition, the computer needs faster internet speed. Which card should be upgraded?",
     "options": [
       "Audio Card",
@@ -180,7 +156,7 @@
     "explanation": "The Correct Answer is Network Card"
   },
   {
-    "id": 666,
+    "id": 664,
     "question": "The monitor is connected, but there’s no display. Which part may be faulty?",
     "options": [
       "Sound Card",
@@ -192,7 +168,7 @@
     "explanation": "The Correct Answer is Graphics Card or Display Port"
   },
   {
-    "id": 667,
+    "id": 665,
     "question": "You are assembling a new PC and want to avoid cable tangling inside. Why is this important?",
     "options": [
       "Only for decoration",
@@ -204,7 +180,7 @@
     "explanation": "The Correct Answer is To improve airflow and cooling"
   },
   {
-    "id": 668,
+    "id": 666,
     "question": "You connect the printer, but it doesn’t work. Which connection should be checked?",
     "options": [
       "HDMI Port",
@@ -216,7 +192,7 @@
     "explanation": "The Correct Answer is USB Port"
   },
   {
-    "id": 669,
+    "id": 667,
     "question": "Your science teacher asks you to upgrade storage for saving more projects. What will you add?",
     "options": [
       "More RAM",
@@ -228,7 +204,7 @@
     "explanation": "The Correct Answer is A bigger hard disk"
   },
   {
-    "id": 670,
+    "id": 668,
     "question": "A classmate wants to save work even after the PC is turned off. Which memory should they use?",
     "options": [
       "RAM",
@@ -240,7 +216,7 @@
     "explanation": "The Correct Answer is ROM or Hard Disk"
   },
   {
-    "id": 671,
+    "id": 669,
     "question": "What do the fine lines around the forecast line represent?",
     "options": [
       "Existing data and predicted values",
@@ -252,7 +228,7 @@
     "explanation": "The Correct Answer is Lower and upper confidence boundaries"
   },
   {
-    "id": 672,
+    "id": 670,
     "question": "The Set Cell box in the goal seek window displays the selected___________.",
     "options": [
       "Shape",
@@ -264,7 +240,7 @@
     "explanation": "The Correct Answer is Cell"
   },
   {
-    "id": 673,
+    "id": 671,
     "question": "The Forecast Sheet command in Excel can only be used to create charts.",
     "options": [
       true,
@@ -274,7 +250,7 @@
     "explanation": "The Correct Answer is FALSE"
   },
   {
-    "id": 674,
+    "id": 672,
     "question": "What can Goal Seek help you with?",
     "options": [
       "Creating a forecast based on historical data",
@@ -286,7 +262,7 @@
     "explanation": "The Correct Answer is Deriving input values for a desired output"
   },
   {
-    "id": 675,
+    "id": 673,
     "question": "From which Excel option can we add the Draw tab in the ribbon?",
     "options": [
       "Ease of Access",
@@ -298,7 +274,7 @@
     "explanation": "The Correct Answer is Customize Ribbon"
   },
   {
-    "id": 676,
+    "id": 674,
     "question": "While filling an online admission form, you type your name using a device with keys. Which device are you using?",
     "options": [
       "Mouse",
@@ -310,7 +286,7 @@
     "explanation": "The Correct Answer is Keyboard"
   },
   {
-    "id": 677,
+    "id": 675,
     "question": "You are chatting with a friend on your phone. Instead of a physical keyboard, you use keys displayed on the screen. What type of keyboard is this?",
     "options": [
       "Virtual Keyboard",
@@ -322,7 +298,7 @@
     "explanation": "The Correct Answer is Virtual Keyboard"
   },
   {
-    "id": 678,
+    "id": 676,
     "question": "Ravi is typing his homework on a desktop computer with a separate, large keyboard. Which type of keyboard is this?",
     "options": [
       "Laptop Keyboard",
@@ -334,7 +310,7 @@
     "explanation": "The Correct Answer is Traditional Keyboard"
   },
   {
-    "id": 679,
+    "id": 677,
     "question": "You are drawing in MS Paint by moving a device on the table. The pointer moves on the screen as you move your hand. Which device are you using?",
     "options": [
       "Keyboard",
@@ -346,7 +322,7 @@
     "explanation": "The Correct Answer is Mouse"
   },
   {
-    "id": 680,
+    "id": 678,
     "question": "On an ATM, you select options by touching the screen directly. Which input device is being used?",
     "options": [
       "Mouse",
@@ -358,7 +334,7 @@
     "explanation": "The Correct Answer is Touchscreen"
   },
   {
-    "id": 681,
+    "id": 679,
     "question": "Your game console has a small ball that you roll with your thumb to move the pointer. What is this device?",
     "options": [
       "Mouse",
@@ -370,7 +346,7 @@
     "explanation": "The Correct Answer is Trackball"
   },
   {
-    "id": 682,
+    "id": 680,
     "question": "You are playing a VR game that responds to your body movements. Which input device is being used?",
     "options": [
       "Webcam",
@@ -382,7 +358,7 @@
     "explanation": "The Correct Answer is Motion-Sensing Device"
   },
   {
-    "id": 683,
+    "id": 681,
     "question": "While playing a computer game, you use a handheld device with multiple buttons and sticks to control the game. What is this device?",
     "options": [
       "Gamepad",
@@ -394,7 +370,7 @@
     "explanation": "The Correct Answer is Gamepad"
   },
   {
-    "id": 684,
+    "id": 682,
     "question": "You move your finger on a small built-in pad on your laptop to move the pointer. Which device is this?",
     "options": [
       "Touchscreen",
@@ -406,7 +382,7 @@
     "explanation": "The Correct Answer is Touchpad"
   },
   {
-    "id": 685,
+    "id": 683,
     "question": "While making an online payment, you scan a QR code using a device connected to your computer. Which input device is this?",
     "options": [
       "Printer",
@@ -418,7 +394,7 @@
     "explanation": "The Correct Answer is Barcode Scanner"
   },
   {
-    "id": 686,
+    "id": 684,
     "question": "If a few columns or rows are invisible in the print preview, what will you do?",
     "options": [
       "Change the print settings",
@@ -430,7 +406,7 @@
     "explanation": "The Correct Answer is Change the print settings"
   },
   {
-    "id": 687,
+    "id": 685,
     "question": "MS Excel online or 365 _________ your files automatically.",
     "options": [
       "deletes",
@@ -442,7 +418,7 @@
     "explanation": "The Correct Answer is saves"
   },
   {
-    "id": 688,
+    "id": 686,
     "question": "To insert a picture into an excel sheet, you should go to the _______ tab, and click 'Pictures'.",
     "options": [
       "Review",
@@ -454,7 +430,7 @@
     "explanation": "The Correct Answer is Insert"
   },
   {
-    "id": 689,
+    "id": 687,
     "question": "What is the purpose of using a sign up sheet?",
     "options": [
       "To create a bill",
@@ -466,7 +442,7 @@
     "explanation": "The Correct Answer is To register the name of interested members"
   },
   {
-    "id": 690,
+    "id": 688,
     "question": "From where can you set the date range for your vertical timeline?",
     "options": [
       "Axis Options-Bounds",
@@ -478,7 +454,7 @@
     "explanation": "The Correct Answer is Axis Options-Bounds"
   },
   {
-    "id": 691,
+    "id": 689,
     "question": "You want to change the dates on your vertical timeline. You have double clicked on the date. Which option will open up for you now?",
     "options": [
       "Format Chart",
@@ -490,7 +466,7 @@
     "explanation": "The Correct Answer is Format Axis"
   },
   {
-    "id": 692,
+    "id": 690,
     "question": "You have a chart in your Excel template. Now you would like to change the background style of the chart. Which option should you go to?",
     "options": [
       "Chart Design",
@@ -502,7 +478,7 @@
     "explanation": "The Correct Answer is Chart Design"
   },
   {
-    "id": 693,
+    "id": 691,
     "question": "You should __________ your file before starting to edit the template, so that your work does not get lost.",
     "options": [
       "delete",
@@ -514,7 +490,7 @@
     "explanation": "The Correct Answer is save"
   },
   {
-    "id": 694,
+    "id": 692,
     "question": "In the science lab, you need to display your computer’s screen on a big white wall. Which device will you use?",
     "options": [
       "Printer",
@@ -526,7 +502,7 @@
     "explanation": "The Correct Answer is Projector"
   },
   {
-    "id": 695,
+    "id": 693,
     "question": "A designer in your school uses a special printer that draws large diagrams on big sheets. Which device is this?",
     "options": [
       "Printer",
@@ -538,7 +514,7 @@
     "explanation": "The Correct Answer is Plotter"
   },
   {
-    "id": 696,
+    "id": 694,
     "question": "Your music teacher wants to listen to the audio output from the computer. Which device should be connected?",
     "options": [
       "Microphone",
@@ -550,7 +526,7 @@
     "explanation": "The Correct Answer is Speakers"
   },
   {
-    "id": 697,
+    "id": 695,
     "question": "During an online meeting, you can hear others through small speakers placed on your ears. What are these called?",
     "options": [
       "Microphones",
@@ -562,7 +538,7 @@
     "explanation": "The Correct Answer is Headphones"
   },
   {
-    "id": 698,
+    "id": 696,
     "question": "While applying for a government ID, the officer asks you to place your finger on a device to capture your fingerprint. Which device is this?",
     "options": [
       "Touchpad",
@@ -574,7 +550,7 @@
     "explanation": "The Correct Answer is Biometric Scanner"
   },
   {
-    "id": 699,
+    "id": 697,
     "question": "You attend an online class where your teacher can see you on the screen. Which device captures your video?",
     "options": [
       "Scanner",
@@ -586,7 +562,7 @@
     "explanation": "The Correct Answer is Webcam"
   },
   {
-    "id": 700,
+    "id": 698,
     "question": "While recording a song on your computer, which device do you speak into to record your voice?",
     "options": [
       "Speaker",
@@ -596,5 +572,29 @@
     ],
     "answer": 1,
     "explanation": "The Correct Answer is Microphone"
+  },
+  {
+    "id": 699,
+    "question": "A school lab has a large machine that prints digital files onto paper. Which device is this?",
+    "options": [
+      "Scanner",
+      "Printer",
+      "Projector",
+      "Webcam"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Printer"
+  },
+  {
+    "id": 700,
+    "question": "In your school’s computer lab, you need to print a large number of documents quickly. Which printer will be most efficient?",
+    "options": [
+      "Laser Printer",
+      "Inkjet Printer",
+      "Dot Matrix Printer",
+      "Thermal Printer"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Laser Printer"
   }
 ]

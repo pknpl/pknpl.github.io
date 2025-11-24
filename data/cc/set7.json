@@ -1,78 +1,6 @@
 [
   {
     "id": 181,
-    "question": "Which processor is required for the Server in the minimum IT infrastructure (2026 guidelines)?",
-    "options": [
-      "Intel i3",
-      "Intel i5 6th Generation",
-      "Dual Core",
-      "Intel Pentium"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Intel i5 6th Generation. This is the minimum requirement for the Server."
-  },
-  {
-    "id": 182,
-    "question": "What is the minimum RAM requirement for the Server computer?",
-    "options": [
-      "4 GB",
-      "8 GB",
-      "16 GB",
-      "32 GB"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: 8 GB. The server requires at least 8 GB of RAM."
-  },
-  {
-    "id": 183,
-    "question": "What represents the 'ONCET' in the context of MKCL?",
-    "options": [
-      "Online Network Computer Exam for Teachers",
-      "Online Certification Test",
-      "Offline Network Center Test",
-      "Only New Center Exam Test"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Online Certification Test. It is mandatory for Learning Facilitators and Coordinators."
-  },
-  {
-    "id": 184,
-    "question": "What is the duration of the ONCET exam for Learning Facilitators (Faculty)?",
-    "options": [
-      "30 Minutes",
-      "45 Minutes",
-      "60 Minutes",
-      "90 Minutes"
-    ],
-    "answer": 2,
-    "explanation": "The correct answer is: 60 Minutes. The exam consists of 50 questions."
-  },
-  {
-    "id": 185,
-    "question": "What are the total marks for the Learning Facilitator (Faculty) ONCET exam?",
-    "options": [
-      "30 Marks",
-      "50 Marks",
-      "100 Marks",
-      "25 Marks"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: 50 Marks. There are 50 questions of 1 mark each."
-  },
-  {
-    "id": 186,
-    "question": "What is the passing criteria (minimum marks) for the Learning Facilitator ONCET exam?",
-    "options": [
-      "10 Marks (20%)",
-      "15 Marks (30%)",
-      "20 Marks (40%)",
-      "25 Marks (50%)"
-    ],
-    "answer": 2,
-    "explanation": "The correct answer is: 20 Marks (40%)."
-  },
-  {
-    "id": 187,
     "question": "What is the duration of the ONCET exam for Center Coordinators?",
     "options": [
       "30 Minutes",
@@ -84,7 +12,7 @@
     "explanation": "The correct answer is: 30 Minutes. The exam has 30 questions."
   },
   {
-    "id": 188,
+    "id": 182,
     "question": "What is the minimum RAM requirement for Client computers?",
     "options": [
       "2 GB",
@@ -96,7 +24,7 @@
     "explanation": "The correct answer is: 4 GB. Client machines must have at least 4 GB RAM."
   },
   {
-    "id": 189,
+    "id": 183,
     "question": "What type of Hard Disk is required for the Server computer?",
     "options": [
       "500 GB HDD",
@@ -108,7 +36,7 @@
     "explanation": "The correct answer is: 1 TB SSD. Solid State Drives are required for better performance."
   },
   {
-    "id": 190,
+    "id": 184,
     "question": "What is the minimum storage (SSD) required for Client computers?",
     "options": [
       "128 GB",
@@ -120,7 +48,7 @@
     "explanation": "The correct answer is: 256 GB. Client computers need a minimum of 256 GB SSD."
   },
   {
-    "id": 191,
+    "id": 185,
     "question": "Which Operating System edition is required for the Center's computers?",
     "options": [
       "Windows 7 Professional",
@@ -132,7 +60,7 @@
     "explanation": "The correct answer is: Windows 10 Enterprise (64-bit). MKCL provides licenses for this specific version."
   },
   {
-    "id": 192,
+    "id": 186,
     "question": "Which Office Suite version is required for the Center?",
     "options": [
       "MS Office 2010",
@@ -144,7 +72,7 @@
     "explanation": "The correct answer is: MS Office 2019 Standard (64-bit)."
   },
   {
-    "id": 193,
+    "id": 187,
     "question": "What is the minimum Internet Speed required for the Center?",
     "options": [
       "10 Mbps",
@@ -156,7 +84,7 @@
     "explanation": "The correct answer is: 100 Mbps. A broadband connection of this speed is required."
   },
   {
-    "id": 194,
+    "id": 188,
     "question": "Is a Biometric Device compulsory for the Center Setup?",
     "options": [
       "No, it is optional",
@@ -168,7 +96,7 @@
     "explanation": "The correct answer is: Yes, minimum 1. It is a compulsory peripheral."
   },
   {
-    "id": 195,
+    "id": 189,
     "question": "What is the minimum resolution required for the Printer and Scanner?",
     "options": [
       "300 dpi",
@@ -180,7 +108,7 @@
     "explanation": "The correct answer is: 600 dpi. Both printer and scanner must meet this resolution."
   },
   {
-    "id": 196,
+    "id": 190,
     "question": "Is CCTV compulsory for the Center Setup?",
     "options": [
       "Yes, Compulsory",
@@ -192,7 +120,7 @@
     "explanation": "The correct answer is: Yes, Compulsory. CCTV surveillance is a mandatory requirement."
   },
   {
-    "id": 197,
+    "id": 191,
     "question": "What is the recommended distance between Electrical and LAN wiring if they run parallel?",
     "options": [
       "6 inches",
@@ -204,7 +132,7 @@
     "explanation": "The correct answer is: 2 feet. This distance is required to avoid interference."
   },
   {
-    "id": 198,
+    "id": 192,
     "question": "Are 'Xtenda' or 'Thin Client' setups allowed for MS-CIT centers?",
     "options": [
       "Yes, fully allowed",
@@ -216,7 +144,7 @@
     "explanation": "The correct answer is: No, not allowed. Each client must be a standalone desktop or laptop."
   },
   {
-    "id": 199,
+    "id": 193,
     "question": "What is the compulsory Power Backup requirement?",
     "options": [
       "Generator only",
@@ -228,7 +156,7 @@
     "explanation": "The correct answer is: UPS or Inverter with Battery. It must support all computers."
   },
   {
-    "id": 200,
+    "id": 194,
     "question": "Which area in the center layout is optional?",
     "options": [
       "Lecture Room",
@@ -240,7 +168,7 @@
     "explanation": "The correct answer is: Staff Room. The other three areas are compulsory."
   },
   {
-    "id": 201,
+    "id": 195,
     "question": "Is a Toilet facility compulsory in the center?",
     "options": [
       "Yes, Clean Toilet is compulsory",
@@ -252,7 +180,7 @@
     "explanation": "The correct answer is: Yes, Clean Toilet is compulsory."
   },
   {
-    "id": 202,
+    "id": 196,
     "question": "Can the dedicated center space be used for other businesses like sales or storage?",
     "options": [
       "Yes, if space permits",
@@ -264,7 +192,7 @@
     "explanation": "The correct answer is: No, strictly prohibited. The space must be dedicated to educational services."
   },
   {
-    "id": 203,
+    "id": 197,
     "question": "How many Learning Facilitator nominations are allowed per center for ONCET?",
     "options": [
       "Minimum 1, Maximum 3",
@@ -276,7 +204,7 @@
     "explanation": "The correct answer is: Minimum 1, Maximum 3."
   },
   {
-    "id": 204,
+    "id": 198,
     "question": "What is the fee for the Center Coordinator ONCET Exam per person?",
     "options": [
       "Rs. 100/-",
@@ -288,7 +216,7 @@
     "explanation": "The correct answer is: Rs. 250/-. This fee is non-refundable."
   },
   {
-    "id": 205,
+    "id": 199,
     "question": "Is the Processing Fee of Rs. 500 refundable?",
     "options": [
       "Yes, fully",
@@ -300,7 +228,7 @@
     "explanation": "The correct answer is: No, Non-Refundable."
   },
   {
-    "id": 206,
+    "id": 200,
     "question": "What happens if an Applicant Organization fails to upload documents within the stipulated date?",
     "options": [
       "Application is paused",
@@ -312,7 +240,7 @@
     "explanation": "The correct answer is: Application is rejected and no refund is given."
   },
   {
-    "id": 207,
+    "id": 201,
     "question": "Which network device is required to connect the Server and Clients?",
     "options": [
       "Hub",
@@ -324,7 +252,7 @@
     "explanation": "The correct answer is: 100/1000 Mbps Network Switch."
   },
   {
-    "id": 208,
+    "id": 202,
     "question": "What is the preferred device type for Client machines?",
     "options": [
       "Desktop",
@@ -336,7 +264,7 @@
     "explanation": "The correct answer is: Laptop. It is preferred due to less power consumption and space efficiency."
   },
   {
-    "id": 209,
+    "id": 203,
     "question": "Is 'Seating Stools' allowed in the Computer Laboratory?",
     "options": [
       "Yes",
@@ -348,7 +276,7 @@
     "explanation": "The correct answer is: No, not allowed. Ergonomically designed chairs are required."
   },
   {
-    "id": 210,
+    "id": 204,
     "question": "What is the minimum area size for the Lecture Room?",
     "options": [
       "50 sq. feet",
@@ -358,5 +286,77 @@
     ],
     "answer": 1,
     "explanation": "The correct answer is: 100 sq. feet."
+  },
+  {
+    "id": 205,
+    "question": "Is Air Conditioning facility compulsory for the Computer Lab?",
+    "options": [
+      "Yes, Compulsory",
+      "No, Optional",
+      "Only in summer",
+      "Only in cities"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: No, Optional. However, proper ventilation is required."
+  },
+  {
+    "id": 206,
+    "question": "What is the syllabus for the Center Coordinator ONCET Exam?",
+    "options": [
+      "Only C Programming",
+      "Administrative, Marketing Skills & MKCL Offerings",
+      "Hardware Repair",
+      "Accounting only"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Administrative, Marketing Skills & MKCL Offerings."
+  },
+  {
+    "id": 207,
+    "question": "What are the passing marks for the Center Coordinator ONCET Exam?",
+    "options": [
+      "10 marks",
+      "12 marks",
+      "15 marks",
+      "20 marks"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: 12 marks (40% of 30)."
+  },
+  {
+    "id": 208,
+    "question": "Are 'Headphones with Mic' required for Client computers?",
+    "options": [
+      "No",
+      "Yes, Compulsory",
+      "Optional",
+      "Only for 1 computer"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Yes, Compulsory. It is part of the minimum client configuration."
+  },
+  {
+    "id": 209,
+    "question": "What is the full form of ALC?",
+    "options": [
+      "Authorized Learner Center",
+      "Authorized Learning Center",
+      "Approved Learning Center",
+      "Active Learning Center"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Authorized Learning Center."
+  },
+  {
+    "id": 210,
+    "question": "Who decides the 'Open Area' list for new center registration?",
+    "options": [
+      "District Collector",
+      "MKCL",
+      "State Government",
+      "Local Municipality"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: MKCL. They decide based on business potential and existing center presence."
   }
 ]

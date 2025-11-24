@@ -73,18 +73,6 @@
   },
   {
     "id": 67,
-    "question": "What is the Full form of BOSCO",
-    "options": [
-      "Bombay Online Shopping Center",
-      "BridgeCourse Online Shopping Corporation",
-      "BridgeCourse for Online System and Commerce",
-      "None"
-    ],
-    "answer": 2,
-    "explanation": "The Correct Answer is BridgeCourse for Online System and Commerce"
-  },
-  {
-    "id": 68,
     "question": "What is the minimum Requirement for Coordinator",
     "options": [
       "Graduate or Diploma",
@@ -96,19 +84,7 @@
     "explanation": "The Correct Answer is Graduate or Diploma"
   },
   {
-    "id": 69,
-    "question": "What is the maximum Center Deposit Amount",
-    "options": [
-      "17500",
-      "5500",
-      "8000",
-      "None"
-    ],
-    "answer": 0,
-    "explanation": "The Correct Answer is 17500"
-  },
-  {
-    "id": 70,
+    "id": 68,
     "question": "What is the Annual Renewal Fees",
     "options": [
       "5500",
@@ -120,7 +96,7 @@
     "explanation": "The Correct Answer is 5500"
   },
   {
-    "id": 71,
+    "id": 69,
     "question": "Which Portal used for Registration of MSCIT Learner",
     "options": [
       "OES",
@@ -132,7 +108,7 @@
     "explanation": "The Correct Answer is SOLAR"
   },
   {
-    "id": 72,
+    "id": 70,
     "question": "Which software used for check Installment Ledger",
     "options": [
       "OES",
@@ -144,7 +120,7 @@
     "explanation": "The Correct Answer is SOLAR"
   },
   {
-    "id": 73,
+    "id": 71,
     "question": "Which software used for Learner Management",
     "options": [
       "OES",
@@ -156,7 +132,7 @@
     "explanation": "The Correct Answer is SOLAR"
   },
   {
-    "id": 74,
+    "id": 72,
     "question": "Which is the Exam Portal",
     "options": [
       "OES",
@@ -168,7 +144,7 @@
     "explanation": "The Correct Answer is OES"
   },
   {
-    "id": 75,
+    "id": 73,
     "question": "Which is the Learning Portal",
     "options": [
       "OES",
@@ -180,7 +156,7 @@
     "explanation": "The Correct Answer is ERA"
   },
   {
-    "id": 76,
+    "id": 74,
     "question": "Which Portal is used for Payment",
     "options": [
       "OES",
@@ -192,31 +168,7 @@
     "explanation": "The Correct Answer is SOLAR"
   },
   {
-    "id": 77,
-    "question": "What is the Maximum Seat Capacity for Center",
-    "options": [
-      "24",
-      "25",
-      "30",
-      "None"
-    ],
-    "answer": 1,
-    "explanation": "The Correct Answer is 25"
-  },
-  {
-    "id": 78,
-    "question": "What is the Minimum Seat Capacity for Center",
-    "options": [
-      "8",
-      "6",
-      "10",
-      "None"
-    ],
-    "answer": 2,
-    "explanation": "The Correct Answer is 10"
-  },
-  {
-    "id": 79,
+    "id": 75,
     "question": "What is the maximum Concurrent Users Allowed in Center",
     "options": [
       "25",
@@ -228,7 +180,7 @@
     "explanation": "The Correct Answer is 25"
   },
   {
-    "id": 80,
+    "id": 76,
     "question": "What is the Minimum Room Size Required",
     "options": [
       "200 Sq Ft",
@@ -240,7 +192,7 @@
     "explanation": "The Correct Answer is 200 Sq Ft"
   },
   {
-    "id": 81,
+    "id": 77,
     "question": "What is the Username for ERA Portal",
     "options": [
       "Learner ID",
@@ -252,7 +204,7 @@
     "explanation": "The Correct Answer is Learner ID"
   },
   {
-    "id": 82,
+    "id": 78,
     "question": "What is the Username for SOLAR Portal",
     "options": [
       "Center Code",
@@ -264,7 +216,7 @@
     "explanation": "The Correct Answer is Center Code"
   },
   {
-    "id": 83,
+    "id": 79,
     "question": "What is the Helpline Number for ERA",
     "options": [
       "020-25899600",
@@ -276,7 +228,7 @@
     "explanation": "The Correct Answer is 020-25899600"
   },
   {
-    "id": 84,
+    "id": 80,
     "question": "What is the Email ID for ERA Support",
     "options": [
       "erasupport@mkcl.org",
@@ -288,7 +240,7 @@
     "explanation": "The Correct Answer is erasupport@mkcl.org"
   },
   {
-    "id": 85,
+    "id": 81,
     "question": "What is the Email ID for SOLAR Support",
     "options": [
       "solarsupport@mkcl.org",
@@ -300,7 +252,7 @@
     "explanation": "The Correct Answer is solarsupport@mkcl.org"
   },
   {
-    "id": 86,
+    "id": 82,
     "question": "What is the Email ID of mkcl",
     "options": [
       "mkcl@mkcl.org",
@@ -312,7 +264,7 @@
     "explanation": "The Correct Answer is mkcl@mkcl.org"
   },
   {
-    "id": 87,
+    "id": 83,
     "question": "Which Software is used for Batch Management",
     "options": [
       "OES",
@@ -324,7 +276,7 @@
     "explanation": "The Correct Answer is SOLAR"
   },
   {
-    "id": 88,
+    "id": 84,
     "question": "Which Software is used for EOI",
     "options": [
       "OES",
@@ -336,7 +288,7 @@
     "explanation": "The Correct Answer is SOLAR"
   },
   {
-    "id": 89,
+    "id": 85,
     "question": "Which Software is used for Exam Schedule",
     "options": [
       "OES",
@@ -348,7 +300,7 @@
     "explanation": "The Correct Answer is SOLAR"
   },
   {
-    "id": 90,
+    "id": 86,
     "question": "Which Software is used for Attendance",
     "options": [
       "OES",
@@ -358,5 +310,53 @@
     ],
     "answer": 1,
     "explanation": "The Correct Answer is BizClient"
+  },
+  {
+    "id": 87,
+    "question": "Which is mandatory for learner confirmation",
+    "options": [
+      "Attendance",
+      "Payment",
+      "Both",
+      "None"
+    ],
+    "answer": 2,
+    "explanation": "The Correct Answer is Both"
+  },
+  {
+    "id": 88,
+    "question": "What is the minimum Attendance required",
+    "options": [
+      "75%",
+      "80%",
+      "85%",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is 75%"
+  },
+  {
+    "id": 89,
+    "question": "What is the minimum passing marks",
+    "options": [
+      "20",
+      "30",
+      "40",
+      "None"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is 20"
+  },
+  {
+    "id": 90,
+    "question": "What is the Total Marks of MS-CIT Learners",
+    "options": [
+      "50",
+      "100",
+      "150",
+      "None"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is 100"
   }
 ]

@@ -1,30 +1,6 @@
 [
   {
     "id": 801,
-    "question": "You can check for spelling errors in a presentation from the __________ group in the __________ tab.",
-    "options": [
-      "Spelling; View",
-      "Spelling; Review",
-      "Language; View",
-      "Proofing; Review"
-    ],
-    "answer": 3,
-    "explanation": "The Correct Answer is Proofing; Review"
-  },
-  {
-    "id": 802,
-    "question": "The Spelling, Translate, and Language options are present in the __________ tab.",
-    "options": [
-      "Review",
-      "View",
-      "Insert",
-      "Format"
-    ],
-    "answer": 0,
-    "explanation": "The Correct Answer is Review"
-  },
-  {
-    "id": 803,
     "question": "To whom do you present a business pitch?",
     "options": [
       "Local people",
@@ -36,7 +12,7 @@
     "explanation": "The Correct Answer is Your investors"
   },
   {
-    "id": 804,
+    "id": 802,
     "question": "In the offline mode, which option do you have to click for exploring more PowerPoint templates?",
     "options": [
       "More layouts",
@@ -48,7 +24,7 @@
     "explanation": "The Correct Answer is More themes"
   },
   {
-    "id": 805,
+    "id": 803,
     "question": "You want to delete a slide from the sorter panel. You right-click on the slide. Which option do you have to select then?",
     "options": [
       "Delete Slide",
@@ -60,7 +36,7 @@
     "explanation": "The Correct Answer is Delete Slide"
   },
   {
-    "id": 806,
+    "id": 804,
     "question": "You have data in your slide that has been formatted and imported from an Excel sheet. Now you want to change the formatting. The option you have to select for doing that is ____________________.",
     "options": [
       "Edit Presentation",
@@ -72,7 +48,7 @@
     "explanation": "The Correct Answer is Edit Data"
   },
   {
-    "id": 807,
+    "id": 805,
     "question": "Cheapest way to distribute driver software CD to many customers. Which medium?",
     "options": [
       "Blu-ray Disc",
@@ -84,7 +60,7 @@
     "explanation": "The Correct Answer is Optical CD/DVD"
   },
   {
-    "id": 808,
+    "id": 806,
     "question": "School server stores all videos on high-speed storage with no moving parts. Which type?",
     "options": [
       "HDD",
@@ -96,7 +72,7 @@
     "explanation": "The Correct Answer is SSD"
   },
   {
-    "id": 809,
+    "id": 807,
     "question": "Old office computer stores data on a rotating magnetic disk. Which storage is this?",
     "options": [
       "SSD",
@@ -108,7 +84,7 @@
     "explanation": "The Correct Answer is HDD"
   },
   {
-    "id": 810,
+    "id": 808,
     "question": "Hard disk makes clicking noises and loads files slowly. Reason?",
     "options": [
       "Magnetic Tape Jam",
@@ -120,7 +96,7 @@
     "explanation": "The Correct Answer is Mechanical failure in HDD"
   },
   {
-    "id": 811,
+    "id": 809,
     "question": "Carrying study materials but avoiding scratches like CDs. Which storage is more durable?",
     "options": [
       "USB Flash Drive",
@@ -132,7 +108,7 @@
     "explanation": "The Correct Answer is USB Flash Drive"
   },
   {
-    "id": 812,
+    "id": 810,
     "question": "Lab records sensor data continuously without overheating. Which storage fits best?",
     "options": [
       "SSD",
@@ -144,7 +120,7 @@
     "explanation": "The Correct Answer is SSD"
   },
   {
-    "id": 813,
+    "id": 811,
     "question": "Film studio stores raw footage on large reels read sequentially. What method is this?",
     "options": [
       "Magnetic Tape Storage",
@@ -156,7 +132,7 @@
     "explanation": "The Correct Answer is Magnetic Tape Storage"
   },
   {
-    "id": 814,
+    "id": 812,
     "question": "School archives exam results for 20 years, cost-effective. Which medium?",
     "options": [
       "SSD",
@@ -168,7 +144,7 @@
     "explanation": "The Correct Answer is Magnetic Tape"
   },
   {
-    "id": 815,
+    "id": 813,
     "question": "Company retrieves payroll data from tapes. Why does it take longer?",
     "options": [
       "Tape reels are heavy",
@@ -180,7 +156,7 @@
     "explanation": "The Correct Answer is Sequential reading takes more time"
   },
   {
-    "id": 816,
+    "id": 814,
     "question": "Tape damaged in the middle. What happens to stored data?",
     "options": [
       "Only that small part is lost",
@@ -192,7 +168,7 @@
     "explanation": "The Correct Answer is Large sections after damage unreadable"
   },
   {
-    "id": 817,
+    "id": 815,
     "question": "The __________ option in the View tab allows you to view the presentation in shades of gray.",
     "options": [
       "Black and White",
@@ -204,7 +180,7 @@
     "explanation": "The Correct Answer is Grayscale"
   },
   {
-    "id": 818,
+    "id": 816,
     "question": "Zoom in & Zoom Out option is located on the __________ of the screen",
     "options": [
       "Bottom Right",
@@ -216,7 +192,7 @@
     "explanation": "The Correct Answer is Bottom Right"
   },
   {
-    "id": 819,
+    "id": 817,
     "question": "Which view in PowerPoint presents slides in thumbnail form for easy reordering?",
     "options": [
       "Normal view",
@@ -228,7 +204,7 @@
     "explanation": "The Correct Answer is Slide Sorter view"
   },
   {
-    "id": 820,
+    "id": 818,
     "question": "Changes made to the Slide Master in PowerPoint affect only individual slides, not the entire presentation.",
     "options": [
       true,
@@ -238,7 +214,7 @@
     "explanation": "The Correct Answer is FALSE"
   },
   {
-    "id": 821,
+    "id": 819,
     "question": "What is the purpose of the Visual Basic Editor in PowerPoint?",
     "options": [
       "To insert text boxes and command buttons",
@@ -250,7 +226,7 @@
     "explanation": "The Correct Answer is To create and edit macros"
   },
   {
-    "id": 822,
+    "id": 820,
     "question": "What can the 'Create a Presentation' tool generate presentations from?",
     "options": [
       "Spreadsheets",
@@ -262,7 +238,7 @@
     "explanation": "The Correct Answer is Simple text inputs"
   },
   {
-    "id": 823,
+    "id": 821,
     "question": "What is the primary use of the 'Create a Presentation' tool powered by Generative AI?",
     "options": [
       "Enhancing slide animations",
@@ -274,7 +250,7 @@
     "explanation": "The Correct Answer is Creating new slides from text"
   },
   {
-    "id": 824,
+    "id": 822,
     "question": "While watching movie from disc, video skips. What’s the reason?",
     "options": [
       "Laser stopped working",
@@ -286,7 +262,7 @@
     "explanation": "The Correct Answer is Disc has scratches or dirt"
   },
   {
-    "id": 825,
+    "id": 823,
     "question": "Want to overwrite files repeatedly. Which storage is NOT suitable?",
     "options": [
       "HDD",
@@ -298,7 +274,7 @@
     "explanation": "The Correct Answer is Optical Disc"
   },
   {
-    "id": 826,
+    "id": 824,
     "question": "Photographer stores raw images on SD card. What advantage over optical discs?",
     "options": [
       "It’s cheaper per GB",
@@ -310,7 +286,7 @@
     "explanation": "The Correct Answer is It’s lighter, smaller, reusable"
   },
   {
-    "id": 827,
+    "id": 825,
     "question": "Found floppy disk in lab, why difficult to read today?",
     "options": [
       "They store too much data",
@@ -322,7 +298,7 @@
     "explanation": "The Correct Answer is No modern devices have floppy drives"
   },
   {
-    "id": 828,
+    "id": 826,
     "question": "External HDD dropped, why might it stop working?",
     "options": [
       "Shock damages moving parts",
@@ -334,7 +310,7 @@
     "explanation": "The Correct Answer is Shock damages moving parts"
   },
   {
-    "id": 829,
+    "id": 827,
     "question": "Pen drive connects to smartphone via adapter. What is this feature?",
     "options": [
       "OTG Support",
@@ -346,7 +322,7 @@
     "explanation": "The Correct Answer is OTG Support"
   },
   {
-    "id": 830,
+    "id": 828,
     "question": "Why SSD preferred for gaming computer?",
     "options": [
       "Larger capacity than HDD",
@@ -358,7 +334,7 @@
     "explanation": "The Correct Answer is Faster load times & smooth performance"
   },
   {
-    "id": 831,
+    "id": 829,
     "question": "For CCTV footage storage, why HDD preferred over SSD?",
     "options": [
       "HDDs are smaller",
@@ -370,7 +346,7 @@
     "explanation": "The Correct Answer is HDDs are cheaper for large storage"
   },
   {
-    "id": 832,
+    "id": 830,
     "question": "Teacher distributes textbook PDF to 500 students. Which medium?",
     "options": [
       "SSD",
@@ -382,7 +358,7 @@
     "explanation": "The Correct Answer is DVD"
   },
   {
-    "id": 833,
+    "id": 831,
     "question": "If USB is removed while copying, what happens?",
     "options": [
       "Data may get corrupted",
@@ -394,7 +370,7 @@
     "explanation": "The Correct Answer is Data may get corrupted"
   },
   {
-    "id": 834,
+    "id": 832,
     "question": "You can adjust the size of the slide according to your requirement.",
     "options": [
       true,
@@ -404,7 +380,7 @@
     "explanation": "The Correct Answer is TRUE"
   },
   {
-    "id": 835,
+    "id": 833,
     "question": "You can see the formatting toolbar during a slide show.",
     "options": [
       true,
@@ -414,7 +390,7 @@
     "explanation": "The Correct Answer is FALSE"
   },
   {
-    "id": 836,
+    "id": 834,
     "question": "How can you start a presentation from the first slide?",
     "options": [
       "Click the From the Current Slide command",
@@ -426,7 +402,7 @@
     "explanation": "The Correct Answer is Press the F5 key"
   },
   {
-    "id": 837,
+    "id": 835,
     "question": "What does the Presenter view option allow you to do?",
     "options": [
       "Control the audiences view of the presentation",
@@ -438,7 +414,7 @@
     "explanation": "The Correct Answer is Access controls and notes while presenting on another device"
   },
   {
-    "id": 838,
+    "id": 836,
     "question": "Why use CDs for music instead of streaming?",
     "options": [
       "Streaming is illegal",
@@ -450,7 +426,7 @@
     "explanation": "The Correct Answer is Physical ownership & quality"
   },
   {
-    "id": 839,
+    "id": 837,
     "question": "SSD used for CCTV recording, what problem over time?",
     "options": [
       "SSD becomes lighter",
@@ -462,7 +438,7 @@
     "explanation": "The Correct Answer is Write endurance wears out cells"
   },
   {
-    "id": 840,
+    "id": 838,
     "question": "Storing exam answer sheets for quick retrieval: HDD or Tape?",
     "options": [
       "HDD",
@@ -474,7 +450,7 @@
     "explanation": "The Correct Answer is HDD"
   },
   {
-    "id": 841,
+    "id": 839,
     "question": "Daily backup with speed & portability. Which device?",
     "options": [
       "Magnetic Tape",
@@ -486,7 +462,7 @@
     "explanation": "The Correct Answer is USB Flash Drive"
   },
   {
-    "id": 842,
+    "id": 840,
     "question": "Playing movie directly from storage. Which medium?",
     "options": [
       "Magnetic Tape",
@@ -498,7 +474,7 @@
     "explanation": "The Correct Answer is Optical Disc"
   },
   {
-    "id": 843,
+    "id": 841,
     "question": "Risk of relying on one external HDD for backups?",
     "options": [
       "HDD might overheat",
@@ -510,7 +486,7 @@
     "explanation": "The Correct Answer is HDD can fail & all data lost"
   },
   {
-    "id": 844,
+    "id": 842,
     "question": "Why not store sensitive govt data on CDs?",
     "options": [
       "CDs get heavy",
@@ -522,7 +498,7 @@
     "explanation": "The Correct Answer is CDs easily duplicated"
   },
   {
-    "id": 845,
+    "id": 843,
     "question": "Easiest file transfer between 2 computers w/o internet?\n",
     "options": [
       "SSD inside desktop",
@@ -534,7 +510,7 @@
     "explanation": "The Correct Answer is USB Flash Drive"
   },
   {
-    "id": 846,
+    "id": 844,
     "question": "Best storage for portable music player, quick & no moving parts?",
     "options": [
       "HDD",
@@ -546,7 +522,7 @@
     "explanation": "The Correct Answer is SSD/Flash Storage"
   },
   {
-    "id": 847,
+    "id": 845,
     "question": "Why safer to carry pen drive than CD?",
     "options": [
       "Pen drives heavier",
@@ -558,7 +534,7 @@
     "explanation": "The Correct Answer is Pen drives don’t get scratched"
   },
   {
-    "id": 848,
+    "id": 846,
     "question": "_____ are very important in preserving our memories and telling our stories.",
     "options": [
       "Recipe books",
@@ -570,7 +546,7 @@
     "explanation": "The Correct Answer is Memory albums"
   },
   {
-    "id": 849,
+    "id": 847,
     "question": "Click on the ____ option to download and edit a template in the offline version of Microsoft Office.",
     "options": [
       "Download",
@@ -582,7 +558,7 @@
     "explanation": "The Correct Answer is Download"
   },
   {
-    "id": 850,
+    "id": 848,
     "question": "You want to create a photo album using Microsoft PowerPoint but do not have a clear idea about it. Which of the following will you choose to create your presentation in?",
     "options": [
       "An infographic poster",
@@ -592,5 +568,29 @@
     ],
     "answer": 1,
     "explanation": "The Correct Answer is A readymade template"
+  },
+  {
+    "id": 849,
+    "question": "You are creating a photo album using Mircosoft PowerPoint. You do not like the default font color that is used in the template and want to change it. What will you do?",
+    "options": [
+      "Change the font",
+      "Change the font color",
+      "Change the font size",
+      "Change the font style"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is Change the font color"
+  },
+  {
+    "id": 850,
+    "question": "A ______ book is the book of directions which communicates the ingredients and procedures a chef uses to make his creations.",
+    "options": [
+      "business",
+      "recipe",
+      "certificate",
+      "volunteer"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is recipe"
   }
 ]

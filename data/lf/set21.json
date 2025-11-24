@@ -1,30 +1,6 @@
 [
   {
     "id": 1001,
-    "question": "What does IMEI stands for ?",
-    "options": [
-      "Identity Mobile Equipment International",
-      "International Mobile Equipment Identity",
-      "Indian Mobile Equipment Identity",
-      "Information Mobile Equipment Identity"
-    ],
-    "answer": 1,
-    "explanation": "The Correct Answer is International Mobile Equipment Identity"
-  },
-  {
-    "id": 1002,
-    "question": "How often should you back-up your computer?",
-    "options": [
-      "Once a week",
-      "Only when you suspect there is or could be a problem",
-      "Every day",
-      "Whenever you create new files or upload pictures that you don’t want to lose"
-    ],
-    "answer": 3,
-    "explanation": "The Correct Answer is Whenever you create new files or upload pictures that you don’t want to lose"
-  },
-  {
-    "id": 1003,
     "question": "Which Section of the IT Act deals with misuse of digital signatures?",
     "options": [
       "67A",
@@ -36,7 +12,7 @@
     "explanation": "The Correct Answer is 66C"
   },
   {
-    "id": 1004,
+    "id": 1002,
     "question": "The only safe and trusted place to download games and applications on android mobile is :",
     "options": [
       "Internet",
@@ -48,7 +24,7 @@
     "explanation": "The Correct Answer is Google Play Store"
   },
   {
-    "id": 1005,
+    "id": 1003,
     "question": "Which among the following is best suitable for term \"Software Piracy\":",
     "options": [
       "Counterfeiting original products",
@@ -60,7 +36,7 @@
     "explanation": "The Correct Answer is Both of Above"
   },
   {
-    "id": 1006,
+    "id": 1004,
     "question": "The app store for Android devices is known as:",
     "options": [
       "Palm space",
@@ -72,7 +48,7 @@
     "explanation": "The Correct Answer is Google play store"
   },
   {
-    "id": 1007,
+    "id": 1005,
     "question": "When browsing online, a new window pops up stating that a new virus has been found on your computer. The window provides a button to click offering to resolve the issue. Your best course of action is to:",
     "options": [
       "Click on the button to remove the virus.",
@@ -84,7 +60,7 @@
     "explanation": "The Correct Answer is Close both the original browser window and the new 'pop-up' window. Do not return to that site."
   },
   {
-    "id": 1008,
+    "id": 1006,
     "question": "What is the penalty for publishing images of a person's private parts without consent, as per IT Act 2000?",
     "options": [
       "Life imprisonment",
@@ -96,7 +72,7 @@
     "explanation": "The Correct Answer is 3 years imprisonment or 2 lakh rupees penalty or both"
   },
   {
-    "id": 1009,
+    "id": 1007,
     "question": "Which section of IT Act 2000 deals with cyber terrorism?",
     "options": [
       "Section 66D",
@@ -108,7 +84,7 @@
     "explanation": "The Correct Answer is Section 66F"
   },
   {
-    "id": 1010,
+    "id": 1008,
     "question": "How do you know if you are on a secure website or not? How can you tell?",
     "options": [
       "There is no way to know if a website is secure.",
@@ -120,7 +96,7 @@
     "explanation": "The Correct Answer is A secure website has a lock icon in the lower left hand corner and a web address that begins https://"
   },
   {
-    "id": 1011,
+    "id": 1009,
     "question": "Sending personal information like your mom's credit card number or full name by email is okay if…",
     "options": [
       "It is to a well-known company",
@@ -132,7 +108,7 @@
     "explanation": "The Correct Answer is None of the above"
   },
   {
-    "id": 1012,
+    "id": 1010,
     "question": "If you are a part of a Whatsapp group in which one of your employees is being harassed by senior colleagues, what would you do?",
     "options": [
       "Ask the concerned employee to quit the group",
@@ -144,7 +120,7 @@
     "explanation": "The Correct Answer is Report to the management"
   },
   {
-    "id": 1013,
+    "id": 1011,
     "question": "You will go to jail if you download illegal stuff from the internet.",
     "options": [
       true,
@@ -154,7 +130,7 @@
     "explanation": "The Correct Answer is TRUE"
   },
   {
-    "id": 1014,
+    "id": 1012,
     "question": "Someone was looking over my shoulder and stole my ATM pin number. I was a victim of?",
     "options": [
       "Mail theft",
@@ -166,7 +142,7 @@
     "explanation": "The Correct Answer is Shoulder surfing"
   },
   {
-    "id": 1015,
+    "id": 1013,
     "question": "What is the important part of the information regarding your credit card ?",
     "options": [
       "Name of the card holder",
@@ -178,7 +154,7 @@
     "explanation": "The Correct Answer is All of the above"
   },
   {
-    "id": 1016,
+    "id": 1014,
     "question": "Social Network sites use which media for communication?",
     "options": [
       "Video",
@@ -190,7 +166,7 @@
     "explanation": "The Correct Answer is All of the above"
   },
   {
-    "id": 1017,
+    "id": 1015,
     "question": "The protection of information and computer systems and networks while connected to the Internet.Is called as:",
     "options": [
       "Cyber Security",
@@ -202,7 +178,7 @@
     "explanation": "The Correct Answer is Cyber Security"
   },
   {
-    "id": 1018,
+    "id": 1016,
     "question": "A pop-out message on your computer wrote \"free anti-spyware download\", and you don't have a anti'spyware, what would you do?",
     "options": [
       "Click on the link, provide all your personal information and free download it.",
@@ -214,7 +190,7 @@
     "explanation": "The Correct Answer is Close the window, and download it from other trust-able web page."
   },
   {
-    "id": 1019,
+    "id": 1017,
     "question": "If you get an e-mail with an attachment on it, you can download it when:",
     "options": [
       "You think you know the person who sent it.",
@@ -226,7 +202,7 @@
     "explanation": "The Correct Answer is You have run a virus scan on it, and it says it is clean."
   },
   {
-    "id": 1020,
+    "id": 1018,
     "question": "If your laptop has wireless networking, you should keep it enabled all the time so you can quickly connect to any available wireless networks.",
     "options": [
       true,
@@ -236,7 +212,7 @@
     "explanation": "The Correct Answer is FALSE"
   },
   {
-    "id": 1021,
+    "id": 1019,
     "question": "Your home WI-FI network configuration should include:",
     "options": [
       "WPA2, unique password (complex), and WPS disabled",
@@ -248,7 +224,7 @@
     "explanation": "The Correct Answer is WPA2, unique password (complex), and WPS disabled"
   },
   {
-    "id": 1022,
+    "id": 1020,
     "question": "Computer hacking is the practice of modifying computer software and hardware to accomplish a goal outside of the creator's original purpose.",
     "options": [
       true,
@@ -258,7 +234,7 @@
     "explanation": "The Correct Answer is TRUE"
   },
   {
-    "id": 1023,
+    "id": 1021,
     "question": "When it’s time to change your password, what’s the best way to choose a new one?",
     "options": [
       "Add a number or special character to the end of your old password",
@@ -270,7 +246,7 @@
     "explanation": "The Correct Answer is Choose something you can remember, but modify it with a complex pattern that only you know"
   },
   {
-    "id": 1024,
+    "id": 1022,
     "question": "A strong password includes an upper case letter, lower case letter, and special character.",
     "options": [
       true,
@@ -280,7 +256,7 @@
     "explanation": "The Correct Answer is TRUE"
   },
   {
-    "id": 1025,
+    "id": 1023,
     "question": "Leaving a digital footprint means:",
     "options": [
       "Your fingerprints are left on the keys you pressed",
@@ -292,7 +268,7 @@
     "explanation": "The Correct Answer is Things you post online could come back to haunt you later"
   },
   {
-    "id": 1026,
+    "id": 1024,
     "question": "When you go apply for a job, the military, or college; what might these supervisors check to learn more about the kind of person you are?",
     "options": [
       "Facebook Pages",
@@ -304,7 +280,7 @@
     "explanation": "The Correct Answer is All of the above"
   },
   {
-    "id": 1027,
+    "id": 1025,
     "question": "What is short form for malicious software (is software designed to disrupt computer operation, gather sensitive information, or gain unauthorized access to computer systems)?",
     "options": [
       "Virus",
@@ -316,7 +292,7 @@
     "explanation": "The Correct Answer is Malware"
   },
   {
-    "id": 1028,
+    "id": 1026,
     "question": "-------- are often delivered to a PC through an email attachment and are often designed to do harm.",
     "options": [
       "Virus",
@@ -328,7 +304,7 @@
     "explanation": "The Correct Answer is Virus"
   },
   {
-    "id": 1029,
+    "id": 1027,
     "question": "To protect a computer from virus, you should install -------- in your computer.",
     "options": [
       "disk defragmenter",
@@ -340,7 +316,7 @@
     "explanation": "The Correct Answer is Antivirus software"
   },
   {
-    "id": 1030,
+    "id": 1028,
     "question": "Which of the following is not an antivirus software?",
     "options": [
       "MCAfee",
@@ -352,7 +328,7 @@
     "explanation": "The Correct Answer is Code Blue"
   },
   {
-    "id": 1031,
+    "id": 1029,
     "question": "Which of the following would most likely not be a symptom of a virus?",
     "options": [
       "Existing program files and icons disappear",
@@ -364,7 +340,7 @@
     "explanation": "The Correct Answer is The CD–ROM stops functioning"
   },
   {
-    "id": 1032,
+    "id": 1030,
     "question": "The best passwords include your name, age, or birthday.",
     "options": [
       true,
@@ -374,7 +350,7 @@
     "explanation": "The Correct Answer is FALSE"
   },
   {
-    "id": 1033,
+    "id": 1031,
     "question": "Is it alright to have a site remember your password?",
     "options": [
       "Yes",
@@ -386,7 +362,7 @@
     "explanation": "The Correct Answer is Yes, if it is your private computer."
   },
   {
-    "id": 1034,
+    "id": 1032,
     "question": "How often will your bank request a confirmation of your password or account number via email?",
     "options": [
       "Once a month",
@@ -398,7 +374,7 @@
     "explanation": "The Correct Answer is Never"
   },
   {
-    "id": 1035,
+    "id": 1033,
     "question": "While working on a computer, ensure that your ______ back is supported.\n",
     "options": [
       "upper",
@@ -410,7 +386,7 @@
     "explanation": "The Correct Answer is lower"
   },
   {
-    "id": 1036,
+    "id": 1034,
     "question": "Using an adjustable keyboard tray is the correct method of using the keyboard while typing.",
     "options": [
       true,
@@ -420,7 +396,7 @@
     "explanation": "The Correct Answer is TRUE"
   },
   {
-    "id": 1037,
+    "id": 1035,
     "question": "To avoid eye problems such as blurred vision and headaches, the distance of the monitor from your eyes should be between _____ centimeters.",
     "options": [
       "20 and 56",
@@ -432,7 +408,7 @@
     "explanation": "The Correct Answer is 40 and 76"
   },
   {
-    "id": 1038,
+    "id": 1036,
     "question": "Neck exercises do not help much in easing strain in the neck.",
     "options": [
       true,
@@ -442,7 +418,7 @@
     "explanation": "The Correct Answer is FALSE"
   },
   {
-    "id": 1039,
+    "id": 1037,
     "question": "Clicking on the mouse for long periods does not make fingers, palms and wrists feel sore.",
     "options": [
       true,
@@ -452,7 +428,7 @@
     "explanation": "The Correct Answer is FALSE"
   },
   {
-    "id": 1040,
+    "id": 1038,
     "question": "Facing the palms and fingers towards the ceiling, separating the fingers from each other and stretching them for a few seconds helps to ease the soreness of fingers, palms and wrists.",
     "options": [
       true,
@@ -462,7 +438,7 @@
     "explanation": "The Correct Answer is TRUE"
   },
   {
-    "id": 1041,
+    "id": 1039,
     "question": "Your fingers can lose sensation due to excessive or incorrect use of a computer and keyboard.",
     "options": [
       true,
@@ -472,7 +448,7 @@
     "explanation": "The Correct Answer is TRUE"
   },
   {
-    "id": 1042,
+    "id": 1040,
     "question": "The rule of 20-20-20 helps to reduce the strain on _____.",
     "options": [
       "fingers",
@@ -484,7 +460,7 @@
     "explanation": "The Correct Answer is eyes"
   },
   {
-    "id": 1043,
+    "id": 1041,
     "question": "A student encrypts their project file before emailing it. What is the benefit?",
     "options": [
       "Reduced file size",
@@ -496,7 +472,7 @@
     "explanation": "The Correct Answer is Prevents unauthorized access"
   },
   {
-    "id": 1044,
+    "id": 1042,
     "question": "A music app streams songs without storing them on your device. Which type of data is this?",
     "options": [
       "Raw data",
@@ -508,7 +484,7 @@
     "explanation": "The Correct Answer is Streaming data"
   },
   {
-    "id": 1045,
+    "id": 1043,
     "question": "You create a graph from monthly sales figures. What type of data representation is this?",
     "options": [
       "Data validation",
@@ -520,7 +496,7 @@
     "explanation": "The Correct Answer is Data visualization"
   },
   {
-    "id": 1046,
+    "id": 1044,
     "question": "In a form, selecting your city from a dropdown list ensures no spelling errors. What is this an example of?",
     "options": [
       "Data validation",
@@ -532,7 +508,7 @@
     "explanation": "The Correct Answer is Data validation"
   },
   {
-    "id": 1047,
+    "id": 1045,
     "question": "You combine rainfall data from multiple weather stations to find the average. Which process is this?",
     "options": [
       "Data encryption",
@@ -544,7 +520,7 @@
     "explanation": "The Correct Answer is Data aggregation"
   },
   {
-    "id": 1048,
+    "id": 1046,
     "question": "Outlook offers _________ that enable you to easily find, sort, filter or group items.",
     "options": [
       "Chats",
@@ -556,7 +532,7 @@
     "explanation": "The Correct Answer is Color Categories"
   },
   {
-    "id": 1049,
+    "id": 1047,
     "question": "What happens when you select a color category for an email?",
     "options": [
       "The email gets sorted in that category",
@@ -568,7 +544,7 @@
     "explanation": "The Correct Answer is The email gets sorted in that category"
   },
   {
-    "id": 1050,
+    "id": 1048,
     "question": "To remove the applied categories, click __________ .",
     "options": [
       "Customize > Delete All Categories",
@@ -580,7 +556,7 @@
     "explanation": "The Correct Answer is Categorize > Clear All Categories"
   },
   {
-    "id": 1051,
+    "id": 1049,
     "question": "You can assign _____________ to your messages to remind you to follow up on an issue.",
     "options": [
       "Folders",
@@ -592,7 +568,7 @@
     "explanation": "The Correct Answer is Flags"
   },
   {
-    "id": 1052,
+    "id": 1050,
     "question": "Have a look at this picture. The event in this Outlook Calendar has an icon. What does that stand for?",
     "options": [
       "Charm",
@@ -603,8 +579,8 @@
     "answer": 0,
     "explanation": "The Correct Answer is Charm"
   },
-  {
-    "id": 1053,
+ {
+    "id": 1051,
     "question": "What purpose does a reminder serve?",
     "options": [
       "It reminds you about the event",
@@ -616,7 +592,7 @@
     "explanation": "The Correct Answer is It reminds you about the event"
   },
   {
-    "id": 1054,
+    "id": 1052,
     "question": "If you enter % Complete as 25, even though the Status has been set as Not Started, it is automatically displayed as _______.",
     "options": [
       "In Progress",
@@ -628,7 +604,7 @@
     "explanation": "The Correct Answer is In Progress"
   },
   {
-    "id": 1055,
+    "id": 1053,
     "question": "You might find your Task List cluttered with completed tasks. In this case, you can ____________ such tasks from the Task List.",
     "options": [
       "add more",
@@ -640,7 +616,7 @@
     "explanation": "The Correct Answer is remove"
   },
   {
-    "id": 1056,
+    "id": 1054,
     "question": "While saving data on a computer, you choose between .txt, .csv, and .doc formats. What are these called?",
     "options": [
       "Data structures",
@@ -652,7 +628,7 @@
     "explanation": "The Correct Answer is File formats"
   },
   {
-    "id": 1057,
+    "id": 1055,
     "question": "A photograph taken on your phone is stored as a .jpg file. What type of data format is this?",
     "options": [
       "Text format",
@@ -664,7 +640,7 @@
     "explanation": "The Correct Answer is Image format"
   },
   {
-    "id": 1058,
+    "id": 1056,
     "question": "You listen to a song in MP3 format on your computer. Which type of data is this?",
     "options": [
       "Image data",
@@ -676,7 +652,7 @@
     "explanation": "The Correct Answer is Audio data"
   },
   {
-    "id": 1059,
+    "id": 1057,
     "question": "While making a school project video, you save it as an .mp4 file. What type of file is this?",
     "options": [
       "Text file",
@@ -688,7 +664,7 @@
     "explanation": "The Correct Answer is Video file"
   },
   {
-    "id": 1060,
+    "id": 1058,
     "question": "When entering marks, the system does not allow numbers above 100. What is this process called?",
     "options": [
       "Verification",

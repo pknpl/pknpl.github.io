@@ -1,28 +1,6 @@
 [
   {
     "id": 951,
-    "question": "Canva’s Magic Write feature allows users to generate AI-powered text for social media captions.",
-    "options": [
-      true,
-      false
-    ],
-    "answer": 0,
-    "explanation": "The Correct Answer is TRUE"
-  },
-  {
-    "id": 952,
-    "question": "Which key feature allows Canva AI to suggest design layouts based on content?",
-    "options": [
-      "AI-Generated Themes",
-      "Image Recognition",
-      "Automated Color Matching",
-      "Text Clustering"
-    ],
-    "answer": 0,
-    "explanation": "The Correct Answer is AI-Generated Themes"
-  },
-  {
-    "id": 953,
     "question": "Leonardo.AI improves image generation quality by leveraging which AI technology?",
     "options": [
       "Neural Style Transfer",
@@ -34,7 +12,7 @@
     "explanation": "The Correct Answer is Neural Style Transfer"
   },
   {
-    "id": 954,
+    "id": 952,
     "question": "How does Leonardo.AI adapt to different artistic styles?",
     "options": [
       "By training on a fixed dataset",
@@ -46,7 +24,7 @@
     "explanation": "The Correct Answer is By analyzing user preferences over time"
   },
   {
-    "id": 955,
+    "id": 953,
     "question": "How does Pexels enhance search accuracy for users?",
     "options": [
       "By using user behavior analysis",
@@ -58,7 +36,7 @@
     "explanation": "The Correct Answer is By using user behavior analysis"
   },
   {
-    "id": 956,
+    "id": 954,
     "question": "What makes Pexels a unique AI-powered search tool?",
     "options": [
       "It generates stock images",
@@ -70,7 +48,7 @@
     "explanation": "The Correct Answer is It categorizes images using AI-driven tagging"
   },
   {
-    "id": 957,
+    "id": 955,
     "question": "In a school database, all exam marks are entered first, and report cards are generated later at once. Which processing method is being used?",
     "options": [
       "Real-time processing",
@@ -82,7 +60,7 @@
     "explanation": "The Correct Answer is Batch processing"
   },
   {
-    "id": 958,
+    "id": 956,
     "question": "During an online ticket booking, your seat is reserved immediately after payment. Which processing ensures this?",
     "options": [
       "Real-time processing",
@@ -94,7 +72,7 @@
     "explanation": "The Correct Answer is Real-time processing"
   },
   {
-    "id": 959,
+    "id": 957,
     "question": "In data storage, why is a “key field” important for managing records?",
     "options": [
       "It makes files bigger",
@@ -106,7 +84,7 @@
     "explanation": "The Correct Answer is It helps in uniquely finding and organising records"
   },
   {
-    "id": 960,
+    "id": 958,
     "question": "While creating a database, you decide to store each student’s name, roll number, and date of birth separately. What is each individual piece of data called?",
     "options": [
       "Record",
@@ -118,7 +96,7 @@
     "explanation": "The Correct Answer is Field"
   },
   {
-    "id": 961,
+    "id": 959,
     "question": "Your school keeps a “Students” file and a “Teachers” file. Both files have records with fields like Name and Address. What is common between them?",
     "options": [
       "Key fields are always identical",
@@ -130,7 +108,7 @@
     "explanation": "The Correct Answer is Fields can be common but serve different purposes"
   },
   {
-    "id": 962,
+    "id": 960,
     "question": "What is the first step that you need to perform before you start using Outlook?",
     "options": [
       "Configuring Outlook",
@@ -142,7 +120,7 @@
     "explanation": "The Correct Answer is Configuring Outlook"
   },
   {
-    "id": 963,
+    "id": 961,
     "question": "If you want to use the Outlook mobile app, you will need to __________ the 'Set up Outlook Mobile on my phone, too' option.",
     "options": [
       "disable",
@@ -154,7 +132,7 @@
     "explanation": "The Correct Answer is enable"
   },
   {
-    "id": 964,
+    "id": 962,
     "question": "If you are setting up your Outlook account using the Gmail account, you will first need to _________",
     "options": [
       "include POP for all mails",
@@ -166,7 +144,7 @@
     "explanation": "The Correct Answer is enable POP for all mails"
   },
   {
-    "id": 965,
+    "id": 963,
     "question": "What is the full form of PIM?",
     "options": [
       "Personal Information Machine",
@@ -178,7 +156,7 @@
     "explanation": "The Correct Answer is Personal Information Manager"
   },
   {
-    "id": 966,
+    "id": 964,
     "question": "Which of the following steps should you follow to insert an already designed signature in your email message?",
     "options": [
       "Click Background Stationery > My Signature",
@@ -190,7 +168,7 @@
     "explanation": "The Correct Answer is Click Signature > My Signature"
   },
   {
-    "id": 967,
+    "id": 965,
     "question": "  How will you insert a picture in your email signature while setting it up?  ",
     "options": [
       "Click on the Picture icon",
@@ -202,7 +180,7 @@
     "explanation": "The Correct Answer is Click on the Picture icon"
   },
   {
-    "id": 968,
+    "id": 966,
     "question": "Identify the shortcut key used to create a new contact from the People module in Outlook.",
     "options": [
       "Ctrl + A",
@@ -214,7 +192,7 @@
     "explanation": "The Correct Answer is Ctrl + N"
   },
   {
-    "id": 969,
+    "id": 967,
     "question": "What is a Contact Group?",
     "options": [
       "A number of contacts combined as a group",
@@ -226,7 +204,7 @@
     "explanation": "The Correct Answer is A number of contacts combined as a group"
   },
   {
-    "id": 970,
+    "id": 968,
     "question": "What happens when you send an email to a contact group?",
     "options": [
       "Each member receives the email",
@@ -238,7 +216,7 @@
     "explanation": "The Correct Answer is Each member receives the email"
   },
   {
-    "id": 971,
+    "id": 969,
     "question": "When you are creating a contact list or contact group, what is the last and the most important step you need to perform?",
     "options": [
       "Click on Close",
@@ -250,7 +228,7 @@
     "explanation": "The Correct Answer is Click on Save & Close"
   },
   {
-    "id": 972,
+    "id": 970,
     "question": "Your friend wants to know how he can save an email in Outlook. According to your knowledge, what can he do?",
     "options": [
       "Save it as an attachment",
@@ -262,7 +240,7 @@
     "explanation": "The Correct Answer is Save it as an attachment"
   },
   {
-    "id": 973,
+    "id": 971,
     "question": "Where will you be able to see a sent email in your Outlook?",
     "options": [
       "In the Sent Items",
@@ -274,7 +252,7 @@
     "explanation": "The Correct Answer is In the Sent Items"
   },
   {
-    "id": 974,
+    "id": 972,
     "question": "Which of the following is safe to post on a social networking site?",
     "options": [
       "Your location",
@@ -286,7 +264,7 @@
     "explanation": "The Correct Answer is An alias"
   },
   {
-    "id": 975,
+    "id": 973,
     "question": "Which of the following types of people can you find on Social Networking sites?",
     "options": [
       "Musicians",
@@ -298,7 +276,7 @@
     "explanation": "The Correct Answer is All of the above"
   },
   {
-    "id": 976,
+    "id": 974,
     "question": "Which of these mobile devices should be protected with a password?",
     "options": [
       "USB Pen Drive",
@@ -310,7 +288,7 @@
     "explanation": "The Correct Answer is All of the above"
   },
   {
-    "id": 977,
+    "id": 975,
     "question": "Which of the below is not a social network?",
     "options": [
       "Facebook",
@@ -322,7 +300,7 @@
     "explanation": "The Correct Answer is Flipkart"
   },
   {
-    "id": 978,
+    "id": 976,
     "question": "You can give out an online password only when:",
     "options": [
       "You go and change the password right after",
@@ -334,7 +312,7 @@
     "explanation": "The Correct Answer is None of the above"
   },
   {
-    "id": 979,
+    "id": 977,
     "question": "Windows Administrative account has full rights of that computer / laptop.",
     "options": [
       true,
@@ -344,7 +322,7 @@
     "explanation": "The Correct Answer is TRUE"
   },
   {
-    "id": 980,
+    "id": 978,
     "question": "Social Networking involves communication between ___________ ?",
     "options": [
       "Two computers",
@@ -356,7 +334,7 @@
     "explanation": "The Correct Answer is Two or more people"
   },
   {
-    "id": 981,
+    "id": 979,
     "question": "Which username tells too much about the person?",
     "options": [
       "JoeDavid2008",
@@ -368,7 +346,7 @@
     "explanation": "The Correct Answer is JoeDavid2008"
   },
   {
-    "id": 982,
+    "id": 980,
     "question": "GUEST user account has full Administrative rights for a Windows OS installed on a computer.",
     "options": [
       true,
@@ -378,7 +356,7 @@
     "explanation": "The Correct Answer is FALSE"
   },
   {
-    "id": 983,
+    "id": 981,
     "question": "Which of the following is the built-in user account in Windows ?",
     "options": [
       "Test",
@@ -390,7 +368,7 @@
     "explanation": "The Correct Answer is Administrator"
   },
   {
-    "id": 984,
+    "id": 982,
     "question": "Which of the following storage devices can be used for data Transfer using USB interface cable?",
     "options": [
       "Digital Camera",
@@ -402,7 +380,7 @@
     "explanation": "The Correct Answer is All of the above"
   },
   {
-    "id": 985,
+    "id": 983,
     "question": "In Windows , GUEST user account is a built - in account.",
     "options": [
       true,
@@ -412,7 +390,7 @@
     "explanation": "The Correct Answer is TRUE"
   },
   {
-    "id": 986,
+    "id": 984,
     "question": "Which Section of the IT Act deals with any information sent using computers for creating annoyance, hatred etc.?",
     "options": [
       "67A",
@@ -424,7 +402,7 @@
     "explanation": "The Correct Answer is 66A"
   },
   {
-    "id": 987,
+    "id": 985,
     "question": "Which of the following is not covered under IT Act?",
     "options": [
       "Digital Signatures",
@@ -436,7 +414,7 @@
     "explanation": "The Correct Answer is Privacy"
   },
   {
-    "id": 988,
+    "id": 986,
     "question": "Legally, we should take the consent/ permission of other person before taking their picture / recording their conversation",
     "options": [
       true,
@@ -446,7 +424,7 @@
     "explanation": "The Correct Answer is TRUE"
   },
   {
-    "id": 989,
+    "id": 987,
     "question": "Which Section of the IT Act deals with Sexual Offence using computers?",
     "options": [
       "67A",
@@ -458,7 +436,7 @@
     "explanation": "The Correct Answer is 67A"
   },
   {
-    "id": 990,
+    "id": 988,
     "question": "You go on to a social networking website, a stranger starts talking to you, you reply and start talking for a while. One day they say “hey, we’ve been talking for a while, we’re getting to know each other pretty well, I think we should meet up sometime, what you think?”",
     "options": [
       "yeah, sure I’d love to ... “",
@@ -470,7 +448,7 @@
     "explanation": "The Correct Answer is Well, you should never have started talking to them in the first place"
   },
   {
-    "id": 991,
+    "id": 989,
     "question": "If you use a public computer, before leaving you should:",
     "options": [
       "Log out of your windows login session",
@@ -482,7 +460,7 @@
     "explanation": "The Correct Answer is All of the above"
   },
   {
-    "id": 992,
+    "id": 990,
     "question": "Suppose you received random friend requests on a social internet site, you don’t know them, they have no profile picture, their age is listed as the same as yours. What should you do?",
     "options": [
       "Accept them, start talking find out who they are.",
@@ -494,7 +472,7 @@
     "explanation": "The Correct Answer is Decline them, why would you add someone you don’t know?"
   },
   {
-    "id": 993,
+    "id": 991,
     "question": "A link for a new social networking comes onto your screen; you click on it to check it out. It seems a bit dodgy, and the age restriction is a lot older than you are, so you:",
     "options": [
       "Ignore it and carry on with what your doing",
@@ -506,7 +484,7 @@
     "explanation": "The Correct Answer is Ignore it and carry on with what your doing"
   },
   {
-    "id": 994,
+    "id": 992,
     "question": "When traveling for business you should :",
     "options": [
       "Take only what you need in terms of mobile devices and files.",
@@ -518,7 +496,7 @@
     "explanation": "The Correct Answer is Take only what you need in terms of mobile devices and files."
   },
   {
-    "id": 995,
+    "id": 993,
     "question": "It is NOT necessary to lock confidential and important Apps and files on a mobile computing device.",
     "options": [
       true,
@@ -528,7 +506,7 @@
     "explanation": "The Correct Answer is FALSE"
   },
   {
-    "id": 996,
+    "id": 994,
     "question": "Online conversations that you have can be used as evidence to put you in jail, if you do something illegal.",
     "options": [
       true,
@@ -538,7 +516,7 @@
     "explanation": "The Correct Answer is TRUE"
   },
   {
-    "id": 997,
+    "id": 995,
     "question": "I'm online and I meet someone my age on a matrimony site. Is it OK to give him or her my address or phone number immediately so we can meet and further discuss the things?",
     "options": [
       "Yes",
@@ -548,7 +526,7 @@
     "explanation": "The Correct Answer is No"
   },
   {
-    "id": 998,
+    "id": 996,
     "question": "A promise made by a seller or manufacturer to replace and/or repair the product or thing or any part thereof, within the specified time, if necessary,is called as",
     "options": [
       "Guarantee",
@@ -560,7 +538,7 @@
     "explanation": "The Correct Answer is Warranty"
   },
   {
-    "id": 999,
+    "id": 997,
     "question": "If you have to leave your computer in a car, you should put it:",
     "options": [
       "In a laptop bag",
@@ -572,7 +550,7 @@
     "explanation": "The Correct Answer is In a laptop bag"
   },
   {
-    "id": 1000,
+    "id": 998,
     "question": "How can you prevent the theft of your laptop?",
     "options": [
       "When in use, secure it with a laptop lock.",
@@ -582,5 +560,29 @@
     ],
     "answer": 3,
     "explanation": "The Correct Answer is All of the above"
+  },
+  {
+    "id": 999,
+    "question": "What does IMEI stands for ?",
+    "options": [
+      "Identity Mobile Equipment International",
+      "International Mobile Equipment Identity",
+      "Indian Mobile Equipment Identity",
+      "Information Mobile Equipment Identity"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is International Mobile Equipment Identity"
+  },
+  {
+    "id": 1000,
+    "question": "How often should you back-up your computer?",
+    "options": [
+      "Once a week",
+      "Only when you suspect there is or could be a problem",
+      "Every day",
+      "Whenever you create new files or upload pictures that you don’t want to lose"
+    ],
+    "answer": 3,
+    "explanation": "The Correct Answer is Whenever you create new files or upload pictures that you don’t want to lose"
   }
 ]

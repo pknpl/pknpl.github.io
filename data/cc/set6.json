@@ -1,78 +1,6 @@
 [
   {
     "id": 151,
-    "question": "What is the Application Fee for Non-Educational Institutes (Regular ALC)?",
-    "options": [
-      "Rs. 2,500/-",
-      "Rs. 4,500/-",
-      "Rs. 9,500/-",
-      "Rs. 13,000/-"
-    ],
-    "answer": 2,
-    "explanation": "The breakdown for the Rs. 10,000/- fee includes Rs. 9,500/- towards the Application Fee."
-  },
-  {
-    "id": 152,
-    "question": "What is the 'AO Approval' process performed by the Training Provider?",
-    "options": [
-      "Checking the bank balance of the AO",
-      "Recommending the AO if they meet MKCL norms",
-      "Conducting the OnCeT exam",
-      "Installing the software"
-    ],
-    "answer": 1,
-    "explanation": "AO Approval means the TP views the AO's details and, if they agree the AO meets norms, recommends them from their login for the further process."
-  },
-  {
-    "id": 153,
-    "question": "When does the registration process generally start for the year 2026?",
-    "options": [
-      "January 1, 2026",
-      "October 14, 2025",
-      "December 31, 2025",
-      "March 15, 2026"
-    ],
-    "answer": 1,
-    "explanation": "The process for the year 2026 started on 14 October 2025."
-  },
-  {
-    "id": 154,
-    "question": "If an AO fails to submit necessary documents within the stipulated date and gets rejected, how much of the registration fee is refundable?",
-    "options": [
-      "Rs. 9,500/-",
-      "Rs. 4,500/-",
-      "Rs. 500/-",
-      "No amount will be refundable"
-    ],
-    "answer": 3,
-    "explanation": "The FAQs state: 'If my application gets rejected due to failure to submit/upload all necessary documents... No amount will be refundable.'"
-  },
-  {
-    "id": 155,
-    "question": "What is the duration of the OnCeT Examination for the Center Coordinator?",
-    "options": [
-      "30 Minutes",
-      "45 Minutes",
-      "60 Minutes",
-      "90 Minutes"
-    ],
-    "answer": 0,
-    "explanation": "The Center Coordinator OnCeT duration is 30 minutes."
-  },
-  {
-    "id": 156,
-    "question": "What is 'MKCL's Fee Only' (MFO)?",
-    "options": [
-      "The monthly rent paid to MKCL",
-      "The amount ALC pays to MKCL per admission",
-      "The fee for software installation",
-      "The penalty for late admissions"
-    ],
-    "answer": 1,
-    "explanation": "MFO is the amount the ALC needs to pay to MKCL while confirming any admission. The ALC keeps the rest of the course fee."
-  },
-  {
-    "id": 157,
     "question": "Is negative marking applicable in the OnCeT Examination?",
     "options": [
       "Yes, 0.25 marks per wrong answer",
@@ -84,7 +12,7 @@
     "explanation": "The Exam Pattern specifies 'No negative marking' for both LF and Center Coordinator exams."
   },
   {
-    "id": 158,
+    "id": 152,
     "question": "What is the minimum SSD capacity required for Client computers?",
     "options": [
       "128 GB",
@@ -96,7 +24,7 @@
     "explanation": "The Minimum Client Configuration requires a 256 GB SSD Hard disk."
   },
   {
-    "id": 159,
+    "id": 153,
     "question": "What is the role of the Local Lead Center (LLC) in the registration process?",
     "options": [
       "To pay fees on behalf of the AO",
@@ -108,7 +36,7 @@
     "explanation": "LLC (and TP) visits ensure that the information furnished by the AO is true in all respects."
   },
   {
-    "id": 160,
+    "id": 154,
     "question": "Which document is initially optional but later mandatory for finalization?",
     "options": [
       "Electricity Bill",
@@ -120,7 +48,7 @@
     "explanation": "The FAQs mention that AOs can upload other valid identity documents initially, but the PAN Card is mandatory for finalization."
   },
   {
-    "id": 161,
+    "id": 155,
     "question": "Who is responsible for checking the AO's email and SMS for schedule updates?",
     "options": [
       "The Training Provider",
@@ -132,7 +60,7 @@
     "explanation": "It is the responsibility of the AO to visit the portal, log in, and keep updated. MKCL will not make separate calls."
   },
   {
-    "id": 162,
+    "id": 156,
     "question": "What is the minimum number of Clients (computers) required in the lab setup?",
     "options": [
       "5",
@@ -144,7 +72,7 @@
     "explanation": "The minimum lab setup is 1 Server + 10 Clients."
   },
   {
-    "id": 163,
+    "id": 157,
     "question": "For how many years is the MS-CIT New Center Registration process generally valid before renewal?",
     "options": [
       "6 months",
@@ -156,7 +84,7 @@
     "explanation": "Registration is for the year 2026. If conditions are met, they are eligible for renewal for 2027."
   },
   {
-    "id": 164,
+    "id": 158,
     "question": "Which component is NOT refundable if the AO application is rejected?",
     "options": [
       "Application Fee",
@@ -168,7 +96,7 @@
     "explanation": "The Rs. 500/- Processing Fee is clearly marked as Non-Refundable."
   },
   {
-    "id": 165,
+    "id": 159,
     "question": "What is the Performance Guarantee Amount for an Urban/Semi-Urban Center?",
     "options": [
       "Rs. 25,000/-",
@@ -180,7 +108,7 @@
     "explanation": "For Urban/Semi-Urban Centers, the Performance Guarantee Amount is Rs. 50,000/-."
   },
   {
-    "id": 166,
+    "id": 160,
     "question": "Can an existing super-performing ALC apply for a new center in another district?",
     "options": [
       "Yes, and they get preference",
@@ -192,7 +120,7 @@
     "explanation": "Application from an existing super-performing ALC to open a new Center in another District will not be given any preference."
   },
   {
-    "id": 167,
+    "id": 161,
     "question": "What happens if an AO tries to contact MKCL directly via email or phone for influence?",
     "options": [
       "Their query is answered within 24 hours",
@@ -204,7 +132,7 @@
     "explanation": "The guidelines state: 'If any AO tries to contact directly or indirectly... we will reject the application... without giving any reason.'"
   },
   {
-    "id": 168,
+    "id": 162,
     "question": "Which processor generation is the minimum requirement for Server and Client?",
     "options": [
       "Intel i3 4th Gen",
@@ -216,7 +144,7 @@
     "explanation": "The minimum configuration specifies Intel i5 6th Generation."
   },
   {
-    "id": 169,
+    "id": 163,
     "question": "How many Center Coordinators can be registered per center?",
     "options": [
       "Only one",
@@ -228,7 +156,7 @@
     "explanation": "The FAQs clearly state: 'How many Center Coordinators can I register? A. Only one.'"
   },
   {
-    "id": 170,
+    "id": 164,
     "question": "What is the format of study material received by learners?",
     "options": [
       "Printed textbooks",
@@ -240,7 +168,7 @@
     "explanation": "Learners will receive study material in the format of an e-book available on the MKCL Learner App."
   },
   {
-    "id": 171,
+    "id": 165,
     "question": "What is the official website for MS-CIT New Center Registration?",
     "options": [
       "www.mkcl.org",
@@ -252,7 +180,7 @@
     "explanation": "The correct answer is: register.mkcl.org. This is the dedicated portal for the New Center Registration process."
   },
   {
-    "id": 172,
+    "id": 166,
     "question": "What is the total Center Registration Fee for a new Applicant Organization (AO)?",
     "options": [
       "Rs. 5,000/-",
@@ -264,7 +192,7 @@
     "explanation": "The correct answer is: Rs. 10,000/-. This includes the Application Fee and Processing Fee."
   },
   {
-    "id": 173,
+    "id": 167,
     "question": "Out of the total registration fee, how much is the Non-Refundable Processing Fee?",
     "options": [
       "Rs. 1,000/-",
@@ -276,7 +204,7 @@
     "explanation": "The correct answer is: Rs. 500/-. This amount is charged towards processing and is non-refundable."
   },
   {
-    "id": 174,
+    "id": 168,
     "question": "What is the Refundable Application Fee amount if the application is rejected?",
     "options": [
       "Rs. 9,000/-",
@@ -288,7 +216,7 @@
     "explanation": "The correct answer is: Rs. 9,500/-. This portion is refundable subject to rejection by MKCL."
   },
   {
-    "id": 175,
+    "id": 169,
     "question": "What is the name of the portal used for MKCL's Online Business Management Framework?",
     "options": [
       "LUNAR Portal",
@@ -300,7 +228,7 @@
     "explanation": "The correct answer is: SOLAR Portal. The Login ID used here is the AO Login ID."
   },
   {
-    "id": 176,
+    "id": 170,
     "question": "Is the MS-CIT ALC Authorization transferable to another person or organization?",
     "options": [
       "Yes, with a fee",
@@ -312,7 +240,7 @@
     "explanation": "The correct answer is: No, it is non-transferable. An ALC cannot sell or transfer authorization rights."
   },
   {
-    "id": 177,
+    "id": 171,
     "question": "What is the minimum total Carpet Area required for a new MS-CIT Center?",
     "options": [
       "150 sq. feet",
@@ -324,7 +252,7 @@
     "explanation": "The correct answer is: 200 sq. feet. This includes the Counseling Area, Lecture Room, and Computer Laboratory."
   },
   {
-    "id": 178,
+    "id": 172,
     "question": "What is the minimum carpet area required specifically for the Computer Laboratory?",
     "options": [
       "50 sq. feet",
@@ -336,7 +264,7 @@
     "explanation": "The correct answer is: min 100 sq. feet. This is the compulsory dedicated space for the computer lab."
   },
   {
-    "id": 179,
+    "id": 173,
     "question": "Which document is mandatory for the finalization of the New Center Registration Process?",
     "options": [
       "Driving License",
@@ -348,7 +276,7 @@
     "explanation": "The correct answer is: PAN Card. AOs can upload other IDs initially, but PAN is mandatory for finalization."
   },
   {
-    "id": 180,
+    "id": 174,
     "question": "What is the minimum number of Client Computers required for the lab setup?",
     "options": [
       "5 Clients",
@@ -358,5 +286,77 @@
     ],
     "answer": 1,
     "explanation": "The correct answer is: 10 Clients. The minimum setup is 1 Server + 10 Clients."
+  },
+  {
+    "id": 175,
+    "question": "Which processor is required for the Server in the minimum IT infrastructure (2026 guidelines)?",
+    "options": [
+      "Intel i3",
+      "Intel i5 6th Generation",
+      "Dual Core",
+      "Intel Pentium"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Intel i5 6th Generation. This is the minimum requirement for the Server."
+  },
+  {
+    "id": 176,
+    "question": "What is the minimum RAM requirement for the Server computer?",
+    "options": [
+      "4 GB",
+      "8 GB",
+      "16 GB",
+      "32 GB"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: 8 GB. The server requires at least 8 GB of RAM."
+  },
+  {
+    "id": 177,
+    "question": "What represents the 'ONCET' in the context of MKCL?",
+    "options": [
+      "Online Network Computer Exam for Teachers",
+      "Online Certification Test",
+      "Offline Network Center Test",
+      "Only New Center Exam Test"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: Online Certification Test. It is mandatory for Learning Facilitators and Coordinators."
+  },
+  {
+    "id": 178,
+    "question": "What is the duration of the ONCET exam for Learning Facilitators (Faculty)?",
+    "options": [
+      "30 Minutes",
+      "45 Minutes",
+      "60 Minutes",
+      "90 Minutes"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: 60 Minutes. The exam consists of 50 questions."
+  },
+  {
+    "id": 179,
+    "question": "What are the total marks for the Learning Facilitator (Faculty) ONCET exam?",
+    "options": [
+      "30 Marks",
+      "50 Marks",
+      "100 Marks",
+      "25 Marks"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: 50 Marks. There are 50 questions of 1 mark each."
+  },
+  {
+    "id": 180,
+    "question": "What is the passing criteria (minimum marks) for the Learning Facilitator ONCET exam?",
+    "options": [
+      "10 Marks (20%)",
+      "15 Marks (30%)",
+      "20 Marks (40%)",
+      "25 Marks (50%)"
+    ],
+    "answer": 2,
+    "explanation": "The correct answer is: 20 Marks (40%)."
   }
 ]

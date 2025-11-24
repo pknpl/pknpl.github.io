@@ -1,78 +1,6 @@
 [
   {
     "id": 241,
-    "question": "Which browser is part of the MS-CIT Practical Exam syllabus?",
-    "options": [
-      "Mozilla Firefox",
-      "Google Chrome / Microsoft Edge",
-      "Safari",
-      "Opera"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Google Chrome / Microsoft Edge."
-  },
-  {
-    "id": 242,
-    "question": "What is the difficulty level distribution in the MS-CIT Final Exam?",
-    "options": [
-      "All questions are same level",
-      "Level 1 (Low), Level 2 (Medium), Level 3 (High)",
-      "Only Easy and Hard",
-      "Random"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: Level 1 (Low), Level 2 (Medium), Level 3 (High)."
-  },
-  {
-    "id": 243,
-    "question": "How many Practical questions are there in the MS-CIT Final Exam?",
-    "options": [
-      "15",
-      "25",
-      "35",
-      "50"
-    ],
-    "answer": 2,
-    "explanation": "The correct answer is: 35 Practical Questions."
-  },
-  {
-    "id": 244,
-    "question": "How many Objective questions are there in the MS-CIT Final Exam?",
-    "options": [
-      "15",
-      "20",
-      "35",
-      "50"
-    ],
-    "answer": 0,
-    "explanation": "The correct answer is: 15 Objective Questions."
-  },
-  {
-    "id": 245,
-    "question": "Is there negative marking in the ONCET exam?",
-    "options": [
-      "Yes, 0.25 per wrong answer",
-      "Yes, 0.5 per wrong answer",
-      "No negative marking",
-      "Yes, only for Faculty"
-    ],
-    "answer": 2,
-    "explanation": "The correct answer is: No negative marking."
-  },
-  {
-    "id": 246,
-    "question": "What happens if a Learning Facilitator fails the ONCET exam?",
-    "options": [
-      "They can re-appear immediately",
-      "The AO may be disqualified if no other LF passes",
-      "They pay a fine",
-      "They are demoted"
-    ],
-    "answer": 1,
-    "explanation": "The correct answer is: The AO may be disqualified if no other LF passes. At least one LF must clear it."
-  },
-  {
-    "id": 247,
     "question": "Is 'Asset Insurance' compulsory for the center?",
     "options": [
       "Yes",
@@ -84,7 +12,7 @@
     "explanation": "The correct answer is: No, Optional."
   },
   {
-    "id": 248,
+    "id": 242,
     "question": "What is the required Cooling Arrangement for the Computer Lab?",
     "options": [
       "AC is mandatory",
@@ -96,7 +24,7 @@
     "explanation": "The correct answer is: Proper ventilation (Fan/Cooler). AC is optional."
   },
   {
-    "id": 249,
+    "id": 243,
     "question": "Which AI tool is NOT explicitly mentioned in the new MS-CIT syllabus list?",
     "options": [
       "ChatGPT",
@@ -108,7 +36,7 @@
     "explanation": "The correct answer is: Sora. (Based on current syllabus lists which mention ChatGPT, DALL-E, Gemini, etc. Sora is not yet standard)."
   },
   {
-    "id": 250,
+    "id": 244,
     "question": "What is the correct URL to find the 'Center Setup' details?",
     "options": [
       "mscit.mkcl.org/course-details/center-setup",
@@ -120,7 +48,7 @@
     "explanation": "The correct answer is: mscit.mkcl.org/course-details/center-setup."
   },
   {
-    "id": 251,
+    "id": 245,
     "question": "Can a center use a 'Projector' instead of an 'LCD/LED TV' in the Lecture Room?",
     "options": [
       "Yes, either is allowed",
@@ -132,7 +60,7 @@
     "explanation": "The correct answer is: Yes, either Projector & screen or LCD / LED TV is allowed."
   },
   {
-    "id": 252,
+    "id": 246,
     "question": "What is the minimum Internet connection type recommended?",
     "options": [
       "Dial-up",
@@ -144,7 +72,7 @@
     "explanation": "The correct answer is: Broadband (Wired/Wireless)."
   },
   {
-    "id": 253,
+    "id": 247,
     "question": "How many installments are allowed for student fee payment (standard mode)?",
     "options": [
       "Only 1",
@@ -156,7 +84,7 @@
     "explanation": "The correct answer is: Maximum 2 installments."
   },
   {
-    "id": 254,
+    "id": 248,
     "question": "What is the role of the 'LLC' in the registration process?",
     "options": [
       "Local Lead Center - recommends location",
@@ -168,7 +96,7 @@
     "explanation": "The correct answer is: Local Lead Center - recommends location."
   },
   {
-    "id": 255,
+    "id": 249,
     "question": "What is the role of the 'TP' in the registration process?",
     "options": [
       "Training Provider - recommends location",
@@ -180,7 +108,7 @@
     "explanation": "The correct answer is: Training Provider - recommends location."
   },
   {
-    "id": 256,
+    "id": 250,
     "question": "When does the AO receive the SOLAR Login ID?",
     "options": [
       "Before applying",
@@ -192,7 +120,7 @@
     "explanation": "The correct answer is: After clicking the activation link in email."
   },
   {
-    "id": 257,
+    "id": 251,
     "question": "Is a 'Fire Extinguisher' mandatory for the center?",
     "options": [
       "Yes",
@@ -204,7 +132,7 @@
     "explanation": "The correct answer is: No, Optional."
   },
   {
-    "id": 258,
+    "id": 252,
     "question": "Can the AO use pirated software for MS-CIT?",
     "options": [
       "Yes",
@@ -216,7 +144,7 @@
     "explanation": "The correct answer is: No, licenses are provided/required. MKCL provides OS and Office licenses."
   },
   {
-    "id": 259,
+    "id": 253,
     "question": "How many Windows 10 licenses does MKCL provide for a standard center?",
     "options": [
       "5",
@@ -228,7 +156,7 @@
     "explanation": "The correct answer is: 11 (1 Server + 10 Clients)."
   },
   {
-    "id": 260,
+    "id": 254,
     "question": "How many MS Office 2019 licenses does MKCL provide?",
     "options": [
       "1",
@@ -240,7 +168,7 @@
     "explanation": "The correct answer is: 11."
   },
   {
-    "id": 261,
+    "id": 255,
     "question": "What is the minimum resolution for the Web Camera?",
     "options": [
       "VGA",
@@ -252,7 +180,7 @@
     "explanation": "The correct answer is: Not specified, but required (integrated or external)."
   },
   {
-    "id": 262,
+    "id": 256,
     "question": "What is the purpose of the 'Enquiry Register'?",
     "options": [
       "To record student attendance",
@@ -264,7 +192,7 @@
     "explanation": "The correct answer is: To record details of visitors/enquiries."
   },
   {
-    "id": 263,
+    "id": 257,
     "question": "Is 'Suggestion Box' compulsory?",
     "options": [
       "Yes",
@@ -276,7 +204,7 @@
     "explanation": "The correct answer is: Yes, it is a compulsory Miscellaneous facility."
   },
   {
-    "id": 264,
+    "id": 258,
     "question": "What is the 'Orientation Meeting'?",
     "options": [
       "Meeting for students",
@@ -288,7 +216,7 @@
     "explanation": "The correct answer is: Meeting for new AOs to understand the process."
   },
   {
-    "id": 265,
+    "id": 259,
     "question": "Who must attend the Orientation Meeting?",
     "options": [
       "All staff",
@@ -300,7 +228,7 @@
     "explanation": "The correct answer is: Only one person from AO."
   },
   {
-    "id": 266,
+    "id": 260,
     "question": "Can the AO change the center location after approval?",
     "options": [
       "Yes, anytime",
@@ -312,7 +240,7 @@
     "explanation": "The correct answer is: No, generally not allowed (except exceptional cases after 2 years)."
   },
   {
-    "id": 267,
+    "id": 261,
     "question": "What is the minimum admission criteria for Urban/Semi-Urban centers?",
     "options": [
       "50 admissions",
@@ -324,7 +252,7 @@
     "explanation": "The correct answer is: 120 MS-CIT Admissions."
   },
   {
-    "id": 268,
+    "id": 262,
     "question": "What is the minimum admission criteria for Rural centers?",
     "options": [
       "30 admissions",
@@ -336,7 +264,7 @@
     "explanation": "The correct answer is: 60 MS-CIT Admissions."
   },
   {
-    "id": 269,
+    "id": 263,
     "question": "What constitutes 'Basic IT Awareness' in the exam pattern?",
     "options": [
       "Practical questions",
@@ -348,7 +276,7 @@
     "explanation": "The correct answer is: Objective questions."
   },
   {
-    "id": 270,
+    "id": 264,
     "question": "Which skill is NOT part of the MS-CIT Syllabus 2025 pillars?",
     "options": [
       "Office Productivity Skills",
@@ -358,5 +286,77 @@
     ],
     "answer": 2,
     "explanation": "The correct answer is: Mechanical Engineering Skills."
+  },
+  {
+    "id": 265,
+    "question": "What is the duration of the daily session in the MS-CIT course?",
+    "options": [
+      "1 Hour (Theory) + 1 Hour (Lab)",
+      "4 Hours",
+      "30 Minutes",
+      "3 Hours"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: 1 Hour (Theory) + 1 Hour (Lab) generally."
+  },
+  {
+    "id": 266,
+    "question": "What is the 'Welcome Course' offered by MKCL?",
+    "options": [
+      "A paid demo",
+      "A free demo course for potential learners",
+      "A course for parents",
+      "A course for staff"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: A free demo course for potential learners."
+  },
+  {
+    "id": 267,
+    "question": "Which document is required for student admission proof?",
+    "options": [
+      "Photo ID proof",
+      "Bank statement",
+      "Recommendation letter",
+      "Health certificate"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: Photo ID proof."
+  },
+  {
+    "id": 268,
+    "question": "Are 'Seating Stools' permitted in the lab?",
+    "options": [
+      "Yes",
+      "No",
+      "Only for kids",
+      "Only for staff"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: No."
+  },
+  {
+    "id": 269,
+    "question": "What is the 'Learning Facilitator'?",
+    "options": [
+      "The student",
+      "The Faculty / Trainer",
+      "The Center Owner",
+      "The Computer"
+    ],
+    "answer": 1,
+    "explanation": "The correct answer is: The Faculty / Trainer."
+  },
+  {
+    "id": 270,
+    "question": "What is the 'Center Coordinator'?",
+    "options": [
+      "The person managing the center's administration",
+      "The technical support staff",
+      "The cleaner",
+      "The student leader"
+    ],
+    "answer": 0,
+    "explanation": "The correct answer is: The person managing the center's administration."
   }
 ]

@@ -1,102 +1,6 @@
 [
   {
     "id": 451,
-    "question": "Which entity promotes MKCL?",
-    "options": [
-      "Department of Higher and Technical Education, Govt of Maharashtra",
-      "Department of Primary Education",
-      "Private Investors only",
-      "Central Ministry of IT"
-    ],
-    "answer": 0,
-    "explanation": "MKCL was promoted by the Department of Higher and Technical Education, Government of Maharashtra."
-  },
-  {
-    "id": 452,
-    "question": "Are 'Speakers' mandatory or optional in the lab setup?",
-    "options": [
-      "Mandatory",
-      "Optional",
-      "Prohibited",
-      "Mandatory for Server only"
-    ],
-    "answer": 1,
-    "explanation": "Speakers are listed as Optional peripherals."
-  },
-  {
-    "id": 453,
-    "question": "What is the purpose of the 'Suggestion Box'?",
-    "options": [
-      "To collect fees",
-      "To collect learner feedback/suggestions",
-      "To store stationery",
-      "To keep ID cards"
-    ],
-    "answer": 1,
-    "explanation": "The Suggestion Box is a facility for learners to provide feedback."
-  },
-  {
-    "id": 454,
-    "question": "What is the 'Footwear Stand' classified as?",
-    "options": [
-      "Mandatory Facility",
-      "Optional Facility",
-      "Not mentioned",
-      "Prohibited"
-    ],
-    "answer": 1,
-    "explanation": "Footwear Stand is listed as an Optional facility."
-  },
-  {
-    "id": 455,
-    "question": "Which software must be installed on the Server?",
-    "options": [
-      "Windows 10 Home",
-      "Windows 10 Enterprise (64-bit)",
-      "Linux Ubuntu",
-      "Windows XP"
-    ],
-    "answer": 1,
-    "explanation": "The Server requires Windows 10 Enterprise (64-bit)."
-  },
-  {
-    "id": 456,
-    "question": "What is the share of the ALC in the MKCL's Fee Only (MFO)?",
-    "options": [
-      "ALC pays MFO to MKCL and keeps the rest",
-      "ALC keeps MFO and pays the rest",
-      "50-50 split",
-      "100% to MKCL"
-    ],
-    "answer": 0,
-    "explanation": "ALC pays the MFO amount to MKCL and keeps the rest of the course fee as their share."
-  },
-  {
-    "id": 457,
-    "question": "How many USB ports are required minimum on the Server?",
-    "options": [
-      "1 port",
-      "2 ports",
-      "3 ports",
-      "6 ports"
-    ],
-    "answer": 2,
-    "explanation": "The minimum server configuration requires 3 USB ports."
-  },
-  {
-    "id": 458,
-    "question": "What is the 'License Policy' regarding Antivirus?",
-    "options": [
-      "MKCL provides it",
-      "ALC must buy their own",
-      "Not required",
-      "Only Windows Defender is allowed"
-    ],
-    "answer": 1,
-    "explanation": "While Antivirus is required in the config, MKCL only lists Windows and Office licenses as provided. ALC usually arranges others."
-  },
-  {
-    "id": 459,
     "question": "What is the fee for KLiC Certificate in Information Technology (Class 9 CBSE)?",
     "options": [
       "Rs. 2000/-",
@@ -108,7 +12,7 @@
     "explanation": "The fee for all 60-hour Creditized courses is Rs. 3000/-."
   },
   {
-    "id": 460,
+    "id": 452,
     "question": "What is the mode of learning for KLiC Creditized Courses?",
     "options": [
       "Teacher-led classroom",
@@ -120,7 +24,7 @@
     "explanation": "Students learn in a self-learning and self-paced learning mode."
   },
   {
-    "id": 461,
+    "id": 453,
     "question": "Can a learner take admission for all 3 KLiC Diploma courses at once?",
     "options": [
       "Yes",
@@ -132,7 +36,7 @@
     "explanation": "The learner can take admission for all 3 KLiC courses at once or as per convenience."
   },
   {
-    "id": 462,
+    "id": 454,
     "question": "Is placement assistance provided for KLiC Diploma learners?",
     "options": [
       "No",
@@ -144,7 +48,7 @@
     "explanation": "Placement Assistance is available for Interested & Eligible KLiC Diploma Learners only."
   },
   {
-    "id": 463,
+    "id": 455,
     "question": "What is the 'Batch Commencement' schedule?",
     "options": [
       "January and July",
@@ -156,7 +60,7 @@
     "explanation": "New batches start every month from January to December."
   },
   {
-    "id": 464,
+    "id": 456,
     "question": "What document must a learner submit for admission?",
     "options": [
       "Original Ration Card",
@@ -168,7 +72,7 @@
     "explanation": "Learners need to submit a passport size photograph and a signed photocopy of a valid ID proof."
   },
   {
-    "id": 465,
+    "id": 457,
     "question": "If a learner's name has a spelling error on the receipt, within what time must it be corrected?",
     "options": [
       "Within 24 hours of payment",
@@ -180,7 +84,7 @@
     "explanation": "It must be corrected within 24 hours of the last date of payment."
   },
   {
-    "id": 466,
+    "id": 458,
     "question": "Is the KLiC course fee refundable?",
     "options": [
       "Yes, fully",
@@ -192,7 +96,7 @@
     "explanation": "Fees once paid are non-refundable and non-transferable."
   },
   {
-    "id": 467,
+    "id": 459,
     "question": "What happens if a learner does not pay the complete fees?",
     "options": [
       "Allowed to appear for exam",
@@ -204,7 +108,7 @@
     "explanation": "If complete payment is not done, the Applicant will not be considered as a registered learner."
   },
   {
-    "id": 468,
+    "id": 460,
     "question": "Is there a trial period for KLiC courses?",
     "options": [
       "Yes, 7 days",
@@ -216,7 +120,7 @@
     "explanation": "No, there is no trial period."
   },
   {
-    "id": 469,
+    "id": 461,
     "question": "What is the 'MFO' amount for a KLiC Tally with GST course (example)?",
     "options": [
       "Rs. 3000/-",
@@ -228,7 +132,7 @@
     "explanation": "For KLiC Tally with GST, the MFO is approximately Rs. 800/- (as per the example in FAQs)."
   },
   {
-    "id": 470,
+    "id": 462,
     "question": "What is the 'Urban/Semi-urban' area definition based on?",
     "options": [
       "Population density",
@@ -240,7 +144,7 @@
     "explanation": "Urban/Semi-urban areas are defined based on ward number and specific area name."
   },
   {
-    "id": 471,
+    "id": 463,
     "question": "In the context of MKCL, does the 'Authorized Learning Center' (ALC) status allow you to franchise or sub-lease the center to a third party?",
     "options": [
       "Yes, with 50% profit sharing",
@@ -252,7 +156,7 @@
     "explanation": "The authorization granted by MKCL is non-transferable and the AO cannot sub-lease or franchise the center to others."
   },
   {
-    "id": 472,
+    "id": 464,
     "question": "Who is responsible for purchasing the Hardware (Computers, Server, UPS) for the new center?",
     "options": [
       "MKCL provides it for free",
@@ -264,7 +168,7 @@
     "explanation": "The entire infrastructure cost, including hardware, is the sole responsibility of the Applicant Organization (AO)."
   },
   {
-    "id": 473,
+    "id": 465,
     "question": "What is the consequence if the Center Setup is found to be 'Shared' with another business during the LLC visit?",
     "options": [
       "Allowed if partitioned",
@@ -276,7 +180,7 @@
     "explanation": "The space must be dedicated. If it is shared with other businesses (like a cyber cafe or shop), the application is liable for rejection."
   },
   {
-    "id": 474,
+    "id": 466,
     "question": "Which specific file must be uploaded to prove the existence of the 'Toilet' facility at the center?",
     "options": [
       "Architectural blueprint",
@@ -288,7 +192,7 @@
     "explanation": "Photos of all facilities, including the Toilet, must be uploaded during the infrastructure declaration phase."
   },
   {
-    "id": 475,
+    "id": 467,
     "question": "Can the 'Server' computer be used by a student for learning during a batch?",
     "options": [
       "Yes, if there are extra students",
@@ -300,7 +204,7 @@
     "explanation": "The Server is a dedicated machine for hosting ERA and administrative tasks; it should not be used as a client machine for learners."
   },
   {
-    "id": 476,
+    "id": 468,
     "question": "What is the 'Solar Advance' that an ALC might need to maintain?",
     "options": [
       "Advance payment for electricity",
@@ -312,7 +216,7 @@
     "explanation": "Solar Advance refers to the prepaid balance maintained in the ALC's SOLAR wallet to facilitate instant deduction of the MKCL Fee Share (MFO) upon learner confirmation."
   },
   {
-    "id": 477,
+    "id": 469,
     "question": "If a center is located on the 2nd floor, what is a highly recommended facility for accessibility?",
     "options": [
       "Escalator",
@@ -324,7 +228,7 @@
     "explanation": "While not always strictly mandatory for all older buildings, having a Lift is a critical preference for accessibility, especially for differently-abled learners."
   },
   {
-    "id": 478,
+    "id": 470,
     "question": "How should the 'Earthing' be configured for the computer lab?",
     "options": [
       "Not required",
@@ -336,7 +240,7 @@
     "explanation": "Proper independent chemical/maintenance-free earthing is required to protect the expensive hardware and ensure safety."
   },
   {
-    "id": 479,
+    "id": 471,
     "question": "Which software is strictly prohibited on ALC computers?",
     "options": [
       "Open Source Software",
@@ -348,7 +252,7 @@
     "explanation": "Use of pirated software is strictly prohibited and is a violation of the code of conduct."
   },
   {
-    "id": 480,
+    "id": 472,
     "question": "What is the 'Outer View' photo requirement for the center?",
     "options": [
       "Photo of the owner",
@@ -358,5 +262,101 @@
     ],
     "answer": 1,
     "explanation": "The Outer View photo must clearly show the entrance of the center along with the visible Name Board/Signage."
+  },
+  {
+    "id": 473,
+    "question": "What is the validity of the KLiC Diploma Certificate?",
+    "options": [
+      "1 Year",
+      "5 Years",
+      "Lifetime",
+      "Until software version changes"
+    ],
+    "answer": 2,
+    "explanation": "Like most academic diplomas, the KLiC Diploma certificate has lifetime validity as a record of qualification."
+  },
+  {
+    "id": 474,
+    "question": "Who handles the 'Grievance Redressal' for learners regarding course content?",
+    "options": [
+      "The local police",
+      "MKCL Support / ALC Coordinator",
+      "The Internet Provider",
+      "The Hardware Vendor"
+    ],
+    "answer": 1,
+    "explanation": "Academic and content grievances are handled by the ALC Coordinator and escalated to MKCL Support if necessary."
+  },
+  {
+    "id": 475,
+    "question": "What is the primary language of the 'KLiC' course content?",
+    "options": [
+      "English only",
+      "Marathi only",
+      "Bilingual (English and Marathi) usually available",
+      "French"
+    ],
+    "answer": 2,
+    "explanation": "MKCL courses are generally designed to be bilingual (English and Marathi) to cater to the local demographic."
+  },
+  {
+    "id": 476,
+    "question": "What is the 'Re-exam' policy for KLiC courses if a student fails?",
+    "options": [
+      "No re-exam allowed",
+      "Re-exam allowed with a nominal fee",
+      "Must pay full course fee again",
+      "Passed automatically after 1 year"
+    ],
+    "answer": 1,
+    "explanation": "Learners who fail can typically appear for a re-exam by paying a nominal exam fee, without repeating the entire course."
+  },
+  {
+    "id": 477,
+    "question": "Why is the 'Bio-metric Device' integrated with the SOLAR framework?",
+    "options": [
+      "To check blood pressure",
+      "To ensure genuine attendance of learners and staff",
+      "To unlock the door",
+      "To scan payment cards"
+    ],
+    "answer": 1,
+    "explanation": "Biometric integration ensures that the attendance recorded for learners and facilitators is genuine and verifiable."
+  },
+  {
+    "id": 478,
+    "question": "Can an ALC charge a 'Prospectus Fee' or 'Form Fee' over and above the course fee?",
+    "options": [
+      "Yes, unlimited",
+      "Yes, up to Rs. 500",
+      "No, all costs should be covered within the published course fee",
+      "Yes, for AC rooms"
+    ],
+    "answer": 2,
+    "explanation": "ALCs are generally not expected to charge hidden fees; the published fee structure is usually all-inclusive of tuition."
+  },
+  {
+    "id": 479,
+    "question": "What is the role of 'TeamViewer' or 'AnyDesk' in the context of MKCL support?",
+    "options": [
+      "To teach students",
+      "To allow MKCL support staff to remotely troubleshoot technical issues",
+      "To transfer money",
+      "To record videos"
+    ],
+    "answer": 1,
+    "explanation": "Remote desktop tools are often used by MKCL technical support to fix ERA or SOLAR issues at the center remotely."
+  },
+  {
+    "id": 480,
+    "question": "Which marketing activity is the responsibility of the ALC?",
+    "options": [
+      "TV Ads on National Channels",
+      "Local area marketing (Leaflets, Seminars, Banners)",
+      "Changing the syllabus",
+      "Printing certificates"
+    ],
+    "answer": 1,
+    "explanation": "While MKCL does brand building, the 'Local Lead Generation' and local marketing are the primary responsibility of the ALC."
   }
 ]

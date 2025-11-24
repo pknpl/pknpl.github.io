@@ -1,30 +1,6 @@
 [
   {
     "id": 451,
-    "question": "Ravi edits his letter in Word, wants to check spelling. Which tool?",
-    "options": [
-      "AutoCorrect – for full document editing",
-      "Spell Check – to review all spellings",
-      "Save As – to fix errors",
-      "Print – to check errors physically"
-    ],
-    "answer": 1,
-    "explanation": "The Correct Answer is Spell Check – to review all spellings"
-  },
-  {
-    "id": 452,
-    "question": "Your friend saves classwork in .doc format, but you suggest using .pdf format. Why is .pdf format recommended?",
-    "options": [
-      "pdf is easier to edit",
-      ".doc is locked",
-      ".pdf opens in most devices without change",
-      ".doc has more colors"
-    ],
-    "answer": 2,
-    "explanation": "The Correct Answer is .pdf opens in most devices without change"
-  },
-  {
-    "id": 453,
     "question": "A student has only MS Paint, asked to prepare doc with text and bullets. Is this possible?",
     "options": [
       "Yes – Paint can format text",
@@ -36,7 +12,7 @@
     "explanation": "The Correct Answer is No – Paint is for drawing only"
   },
   {
-    "id": 454,
+    "id": 452,
     "question": "Shravan makes a class timetable in Word. Teacher suggests Excel. Why?",
     "options": [
       "Excel can add colors",
@@ -48,7 +24,7 @@
     "explanation": "The Correct Answer is Excel is better for grid/table work"
   },
   {
-    "id": 455,
+    "id": 453,
     "question": "If a teacher asks to make a presentation using Excel, what could be a valid reason to avoid it?",
     "options": [
       "It’s difficult to use",
@@ -60,7 +36,7 @@
     "explanation": "The Correct Answer is It is not suitable for presenting text and images"
   },
   {
-    "id": 456,
+    "id": 454,
     "question": "The _____________ tab on the menu bar allows you to change the font style of a text.",
     "options": [
       "Home",
@@ -72,7 +48,7 @@
     "explanation": "The Correct Answer is Home"
   },
   {
-    "id": 457,
+    "id": 455,
     "question": "You have created an invitation card in the online version of Microsoft Word and want to convert it into a PDF file. Under the File menu and 'Save As' option, you will select the _____________ option.",
     "options": [
       "Download a Copy",
@@ -84,7 +60,7 @@
     "explanation": "The Correct Answer is Download as PDF"
   },
   {
-    "id": 458,
+    "id": 456,
     "question": "Which of the following options should you click on to edit a selected template in online mode?",
     "options": [
       "Unzip file",
@@ -96,7 +72,7 @@
     "explanation": "The Correct Answer is Open in browser"
   },
   {
-    "id": 459,
+    "id": 457,
     "question": "Which of the following options is one of the steps to save a document for the first time?",
     "options": [
       "Open",
@@ -108,7 +84,7 @@
     "explanation": "The Correct Answer is Save As"
   },
   {
-    "id": 460,
+    "id": 458,
     "question": "Project on “My School” with tables, pictures, headings. Which tool?",
     "options": [
       "MS Word – for text, table, and pictures",
@@ -120,7 +96,7 @@
     "explanation": "The Correct Answer is MS Word – for text, table, and pictures"
   },
   {
-    "id": 461,
+    "id": 459,
     "question": "Design a certificate for competition. Steps?",
     "options": [
       "Use MS Word or DTP software, insert text boxes, format fonts",
@@ -132,7 +108,7 @@
     "explanation": "The Correct Answer is Use MS Word or DTP software, insert text boxes, format fonts"
   },
   {
-    "id": 462,
+    "id": 460,
     "question": "Create a diary that highlights spelling errors automatically. Which feature?",
     "options": [
       "AutoSave",
@@ -144,7 +120,7 @@
     "explanation": "The Correct Answer is Spell Check"
   },
   {
-    "id": 463,
+    "id": 461,
     "question": "For science fair, you want to compare 5 plants and show growth chart. Which software?",
     "options": [
       "Word – for paragraphs",
@@ -156,7 +132,7 @@
     "explanation": "The Correct Answer is Excel – for chart and data"
   },
   {
-    "id": 464,
+    "id": 462,
     "question": "Teacher gives math assignment for totals, averages, graphs. Which tool?",
     "options": [
       "Word",
@@ -168,7 +144,7 @@
     "explanation": "The Correct Answer is Excel"
   },
   {
-    "id": 465,
+    "id": 463,
     "question": "Student creates PowerPoint but forgets to save. What habit should you learn?",
     "options": [
       "Don’t use PowerPoint",
@@ -180,7 +156,7 @@
     "explanation": "The Correct Answer is Save work regularly using Save or Save As"
   },
   {
-    "id": 466,
+    "id": 464,
     "question": "You want to create your own eBook with pictures, chapters. Which software?",
     "options": [
       "Word Processor",
@@ -192,7 +168,7 @@
     "explanation": "The Correct Answer is Word Processor"
   },
   {
-    "id": 467,
+    "id": 465,
     "question": "Create a presentation on healthy food. What should you include?",
     "options": [
       "Images, bullet points, and short videos",
@@ -204,7 +180,7 @@
     "explanation": "The Correct Answer is Images, bullet points, and short videos"
   },
   {
-    "id": 468,
+    "id": 466,
     "question": "You want to print homework. What should you check before printing?",
     "options": [
       "If internet is fast",
@@ -216,7 +192,7 @@
     "explanation": "The Correct Answer is If the file is saved properly and printer is ready"
   },
   {
-    "id": 469,
+    "id": 467,
     "question": "Teacher wants creative resume. Which tool & feature?",
     "options": [
       "MS Word with templates",
@@ -228,7 +204,7 @@
     "explanation": "The Correct Answer is MS Word with templates"
   },
   {
-    "id": 470,
+    "id": 468,
     "question": "Travel itineraries ensure that you can _____________ .",
     "options": [
       "manage your time while traveling",
@@ -240,7 +216,7 @@
     "explanation": "The Correct Answer is manage your time while traveling"
   },
   {
-    "id": 471,
+    "id": 469,
     "question": "You need to change a picture in MS Word and replace it with another one. After right-clicking on the picture, which option do you have to select?",
     "options": [
       "Delete Picture",
@@ -252,7 +228,7 @@
     "explanation": "The Correct Answer is Change Picture"
   },
   {
-    "id": 472,
+    "id": 470,
     "question": "How to quickly adjust an image size in MS Word?",
     "options": [
       "By rotating the image",
@@ -264,7 +240,7 @@
     "explanation": "The Correct Answer is By dragging on the size handles of the image"
   },
   {
-    "id": 473,
+    "id": 471,
     "question": "You have a downloaded image on your local device. You would like to replace the template picture with that image. After selecting Change Picture, which option should you click on?",
     "options": [
       "From Stock Images",
@@ -276,7 +252,7 @@
     "explanation": "The Correct Answer is From This Device"
   },
   {
-    "id": 474,
+    "id": 472,
     "question": "You need a PDF version of your travel itinerary that you have created online. Under the File menu and 'Save As' option, which option should you select?",
     "options": [
       "Download a Copy",
@@ -288,7 +264,7 @@
     "explanation": "The Correct Answer is Download as PDF"
   },
   {
-    "id": 475,
+    "id": 473,
     "question": "You want to add some icons to your greeting card. For that, you have to go to the _____________ tab first.",
     "options": [
       "Review",
@@ -300,7 +276,7 @@
     "explanation": "The Correct Answer is Insert"
   },
   {
-    "id": 476,
+    "id": 474,
     "question": "From where can you change the color of an icon in MS Word?",
     "options": [
       "Graphics Fill",
@@ -312,7 +288,7 @@
     "explanation": "The Correct Answer is Graphics Fill"
   },
   {
-    "id": 477,
+    "id": 475,
     "question": "The keyboard shortcut used for copying an element is _____________ .",
     "options": [
       "Alt+B",
@@ -324,7 +300,7 @@
     "explanation": "The Correct Answer is Control+C"
   },
   {
-    "id": 478,
+    "id": 476,
     "question": "Your friend presses the “A” key, and it appears on the screen. What actually helps this happen?",
     "options": [
       "Only keyboard",
@@ -336,7 +312,7 @@
     "explanation": "The Correct Answer is System Software"
   },
   {
-    "id": 479,
+    "id": 477,
     "question": "You buy a new computer, but it has no system software. What might it feel like?",
     "options": [
       "A machine that works faster",
@@ -348,7 +324,7 @@
     "explanation": "The Correct Answer is A machine that cannot do anything"
   },
   {
-    "id": 480,
+    "id": 478,
     "question": "Why is system software compared to a manager?",
     "options": [
       "It does only one task quickly",
@@ -360,7 +336,7 @@
     "explanation": "The Correct Answer is It helps different parts of the computer work together"
   },
   {
-    "id": 481,
+    "id": 479,
     "question": "Imagine using a library without a librarian. How is this like using a computer without an OS?",
     "options": [
       "You can still find everything easily",
@@ -372,7 +348,7 @@
     "explanation": "The Correct Answer is It becomes difficult to manage or understand"
   },
   {
-    "id": 482,
+    "id": 480,
     "question": "If you’re watching a video while typing a document, what helps both run smoothly?",
     "options": [
       "Hard disk",
@@ -384,7 +360,7 @@
     "explanation": "The Correct Answer is Operating System"
   },
   {
-    "id": 483,
+    "id": 481,
     "question": "Which feature lets us use icons instead of typing commands?",
     "options": [
       "Auto Save",
@@ -396,7 +372,7 @@
     "explanation": "The Correct Answer is Graphical User Interface"
   },
   {
-    "id": 484,
+    "id": 482,
     "question": "Rani clicks a music player while writing an email. What allows both to work together?",
     "options": [
       "Mouse settings",
@@ -408,7 +384,7 @@
     "explanation": "The Correct Answer is Operating System"
   },
   {
-    "id": 485,
+    "id": 483,
     "question": "Ali opens a folder called “School Project” to find files. What is he using?",
     "options": [
       "Internet browser",
@@ -420,7 +396,7 @@
     "explanation": "The Correct Answer is File explorer with folders"
   },
   {
-    "id": 486,
+    "id": 484,
     "question": "Soham restarts his PC after installing new software. What is this called?",
     "options": [
       "Cold boot",
@@ -432,7 +408,7 @@
     "explanation": "The Correct Answer is Warm boot"
   },
   {
-    "id": 487,
+    "id": 485,
     "question": "A smart TV opens YouTube and settings using remote. Which software enables this?",
     "options": [
       "Antivirus software",
@@ -444,7 +420,7 @@
     "explanation": "The Correct Answer is Embedded Operating System"
   },
   {
-    "id": 488,
+    "id": 486,
     "question": "The validity period of an eSign is ____ days.",
     "options": [
       15,
@@ -456,7 +432,7 @@
     "explanation": "The Correct Answer is 15"
   },
   {
-    "id": 489,
+    "id": 487,
     "question": "What happens if any required information is missing while submitting the PAN card application form?",
     "options": [
       "The missing information will be auto-filled",
@@ -468,7 +444,7 @@
     "explanation": "The Correct Answer is A pop-up will alert you about the missing information"
   },
   {
-    "id": 490,
+    "id": 488,
     "question": "What does a red star on some fields in the form indicate?",
     "options": [
       "These are mandatory fields and cannot be left blank",
@@ -480,7 +456,7 @@
     "explanation": "The Correct Answer is These are mandatory fields and cannot be left blank"
   },
   {
-    "id": 491,
+    "id": 489,
     "question": "Refer the given image and select the age at which an Indian citizen becomes eligible to apply for it.",
     "options": [
       "21 Years",
@@ -492,7 +468,7 @@
     "explanation": "The Correct Answer is 18 Years"
   },
   {
-    "id": 492,
+    "id": 490,
     "question": "The National Career Service Portal is a website powered by the government of India to help people find jobs.",
     "options": [
       true,
@@ -502,7 +478,7 @@
     "explanation": "The Correct Answer is TRUE"
   },
   {
-    "id": 493,
+    "id": 491,
     "question": "To apply for a job on the National Career Service Portal, you need to upload your CV or resume separately.",
     "options": [
       true,
@@ -512,7 +488,7 @@
     "explanation": "The Correct Answer is FALSE"
   },
   {
-    "id": 494,
+    "id": 492,
     "question": "What information can you find under each job vacancy on the National Career Service Portal?",
     "options": [
       "Under each job vacancy, you can find information such as the movie ratings, director, and cast.",
@@ -524,7 +500,7 @@
     "explanation": "The Correct Answer is Under each job vacancy, you can find information such as the hiring company, salary, required skills and job description."
   },
   {
-    "id": 495,
+    "id": 493,
     "question": "Which one of these web addresses should you enter in order to register for eSkill India Program?",
     "options": [
       "www.eskillindia.org",
@@ -536,7 +512,7 @@
     "explanation": "The Correct Answer is www.eskillindia.org"
   },
   {
-    "id": 496,
+    "id": 494,
     "question": "What is the full form of NSDC?",
     "options": [
       "National Schemes Development Corporation",
@@ -548,7 +524,7 @@
     "explanation": "The Correct Answer is National Skill Development Corporation"
   },
   {
-    "id": 497,
+    "id": 495,
     "question": "Which web address should you enter into the address bar of your browser, to share your thoughts with the Prime Minister of India?",
     "options": [
       "www.govindia.in",
@@ -560,7 +536,7 @@
     "explanation": "The Correct Answer is www.pmindia.gov.in"
   },
   {
-    "id": 498,
+    "id": 496,
     "question": "You are a college graduate. Now, you are thinking of consulting with a career counsellor for a decent job. Which portal will help you to look for one?",
     "options": [
       "State Career Party",
@@ -572,7 +548,7 @@
     "explanation": "The Correct Answer is National Career Service Portal"
   },
   {
-    "id": 499,
+    "id": 497,
     "question": "______ is the correct link to access the mKisan portal.",
     "options": [
       "youngindia.gov.in",
@@ -584,7 +560,7 @@
     "explanation": "The Correct Answer is mkisan.gov.in"
   },
   {
-    "id": 500,
+    "id": 498,
     "question": "You will be able to view the weather forecast for the next _____ days, on the Kisan Suvidha app.",
     "options": [
       3,
@@ -594,5 +570,29 @@
     ],
     "answer": 1,
     "explanation": "The Correct Answer is 5"
+  },
+  {
+    "id": 499,
+    "question": "What do the fine lines around the forecast line represent?",
+    "options": [
+      "Existing data and predicted values",
+      "The range in which 95% of future data points are expected to be",
+      "The period for which predictions are displayed",
+      "Lower and upper confidence boundaries"
+    ],
+    "answer": 3,
+    "explanation": "The Correct Answer is Lower and upper confidence boundaries"
+  },
+  {
+    "id": 500,
+    "question": "Which web address takes you to the website for the National Digital Library of India?",
+    "options": [
+      "mygov.in",
+      "ndl.iitkgp.ac.in",
+      "cowin.org",
+      "nsdc.in"
+    ],
+    "answer": 1,
+    "explanation": "The Correct Answer is ndl.iitkgp.ac.in"
   }
 ]

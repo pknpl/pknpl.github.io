@@ -1,30 +1,6 @@
 [
   {
     "id": 751,
-    "question": "To add picture in your presentation you have to click on __________ tab __________ Group",
-    "options": [
-      "Insert > Shapes",
-      "Insert > Images",
-      "Insert > Smart Art",
-      "Insert > Illustration"
-    ],
-    "answer": 1,
-    "explanation": "The Correct Answer is Insert > Images"
-  },
-  {
-    "id": 752,
-    "question": "How can you change the cell margin of a table inserted in a shape?",
-    "options": [
-      "Using the Cell Margins option from the Format tab",
-      "Using the Cell Margins option from the View tab",
-      "Using the Cell Margins option from the Insert tab",
-      "Using the Cell Margins option from the Layout tab"
-    ],
-    "answer": 3,
-    "explanation": "The Correct Answer is Using the Cell Margins option from the Layout tab"
-  },
-  {
-    "id": 753,
     "question": "You see a cashier moving a device over product barcodes to enter details quickly. What is this device called?",
     "options": [
       "Barcode Reader",
@@ -36,7 +12,7 @@
     "explanation": "The Correct Answer is Barcode Reader"
   },
   {
-    "id": 754,
+    "id": 752,
     "question": "A student is playing a racing game by rotating a wheel-like device. What device is this?",
     "options": [
       "Trackball",
@@ -48,7 +24,7 @@
     "explanation": "The Correct Answer is Steering Wheel Controller"
   },
   {
-    "id": 755,
+    "id": 753,
     "question": "In your lab, attendance is taken by scanning ID cards. Which device should be used?",
     "options": [
       "Barcode Reader",
@@ -60,7 +36,7 @@
     "explanation": "The Correct Answer is Smart Card Reader"
   },
   {
-    "id": 756,
+    "id": 754,
     "question": "During a presentation, the teacher draws directly on the projected slide using a special pen. Which device enables this?",
     "options": [
       "Stylus on Graphics Tablet",
@@ -72,7 +48,7 @@
     "explanation": "The Correct Answer is Light Pen"
   },
   {
-    "id": 757,
+    "id": 755,
     "question": "Your friend plays a football game using a handheld device that senses tilt and motion. What is it called?",
     "options": [
       "Steering Wheel Controller",
@@ -84,7 +60,7 @@
     "explanation": "The Correct Answer is Motion-Sensing Game Controller"
   },
   {
-    "id": 758,
+    "id": 756,
     "question": "You want to copy handwritten notes into your computer without retyping them. Which device will help?",
     "options": [
       "Microphone",
@@ -96,7 +72,7 @@
     "explanation": "The Correct Answer is OCR with Scanner"
   },
   {
-    "id": 759,
+    "id": 757,
     "question": "During a science experiment, you need to record sound waves into your computer. Which input device will you choose?",
     "options": [
       "Speaker",
@@ -108,7 +84,7 @@
     "explanation": "The Correct Answer is Microphone"
   },
   {
-    "id": 760,
+    "id": 758,
     "question": "While using a library computer, you authenticate with your fingerprint. Which device is used?",
     "options": [
       "Barcode Reader",
@@ -120,7 +96,7 @@
     "explanation": "The Correct Answer is Biometric Scanner"
   },
   {
-    "id": 761,
+    "id": 759,
     "question": "In a multimedia class, the teacher uses a flat device where tapping with fingers moves the pointer. Which device is this?",
     "options": [
       "Touchpad",
@@ -132,7 +108,7 @@
     "explanation": "The Correct Answer is Touchpad"
   },
   {
-    "id": 762,
+    "id": 760,
     "question": "Your class is creating a short film and needs to record both video and audio into the computer. Which device should be used?",
     "options": [
       "Microphone",
@@ -144,7 +120,7 @@
     "explanation": "The Correct Answer is Webcam"
   },
   {
-    "id": 763,
+    "id": 761,
     "question": "Select the appropriate Tab to change the background colour?",
     "options": [
       "File Tab > New",
@@ -156,7 +132,7 @@
     "explanation": "The Correct Answer is Design Tab > Format Background"
   },
   {
-    "id": 764,
+    "id": 762,
     "question": "You can change the slide theme under __________ tab",
     "options": [
       "Format",
@@ -168,7 +144,7 @@
     "explanation": "The Correct Answer is Design"
   },
   {
-    "id": 765,
+    "id": 763,
     "question": "Where can you find the option to change the size of a slide in PowerPoint?",
     "options": [
       "In the Home tab",
@@ -180,7 +156,7 @@
     "explanation": "The Correct Answer is In the Design tab"
   },
   {
-    "id": 766,
+    "id": 764,
     "question": "Which icon from the Design tab will you click on to change the color palette of SmartArt?",
     "options": [
       "Show the Shape Effects icon",
@@ -192,7 +168,7 @@
     "explanation": "The Correct Answer is Show the Change Colors icon from the Design tab for SmartArt"
   },
   {
-    "id": 767,
+    "id": 765,
     "question": "You can adjust the height and width of the table from the __________ tab.",
     "options": [
       "Design",
@@ -204,7 +180,7 @@
     "explanation": "The Correct Answer is Layout"
   },
   {
-    "id": 768,
+    "id": 766,
     "question": "__________ add effects when shifting from one slide to another in the Slide Show view.",
     "options": [
       "Animations",
@@ -216,7 +192,7 @@
     "explanation": "The Correct Answer is Transitions"
   },
   {
-    "id": 769,
+    "id": 767,
     "question": "If you have checked the On Mouse Click box, you cannot adjust the duration of a transition effect in PowerPoint.",
     "options": [
       true,
@@ -226,7 +202,7 @@
     "explanation": "The Correct Answer is FALSE"
   },
   {
-    "id": 770,
+    "id": 768,
     "question": "The transition effect applied to a slide can be seen in a slideshow.",
     "options": [
       true,
@@ -236,7 +212,7 @@
     "explanation": "The Correct Answer is TRUE"
   },
   {
-    "id": 771,
+    "id": 769,
     "question": "Which of the following options describes the correct path to apply a transition to a slide?",
     "options": [
       "Click Transitions → Click on the Effects option → Select a suitable transition",
@@ -248,7 +224,7 @@
     "explanation": "The Correct Answer is Click Transitions → Select a suitable transition"
   },
   {
-    "id": 772,
+    "id": 770,
     "question": "Your uncle carries a small USB device for extra documents. Which characteristic of secondary storage is highlighted?",
     "options": [
       "Portability",
@@ -260,7 +236,7 @@
     "explanation": "The Correct Answer is Portability"
   },
   {
-    "id": 773,
+    "id": 771,
     "question": "A company stores 10 years of accounting records in one device safe even when power is off. Which type of storage is this?",
     "options": [
       "Primary Storage",
@@ -272,7 +248,7 @@
     "explanation": "The Correct Answer is Secondary Storage"
   },
   {
-    "id": 774,
+    "id": 772,
     "question": "Ravi saves files on a device connected via USB to free space in main storage. Which device is this?",
     "options": [
       "Internal Hard Disk",
@@ -284,7 +260,7 @@
     "explanation": "The Correct Answer is Internal Hard Disk"
   },
   {
-    "id": 775,
+    "id": 773,
     "question": "A friend backs up music/photos on a device kept at home to prevent loss. Which feature of hard disks is used?",
     "options": [
       "Quick Data Access",
@@ -296,7 +272,7 @@
     "explanation": "The Correct Answer is Reliable Backup Option"
   },
   {
-    "id": 776,
+    "id": 774,
     "question": "A student compares laptops: one with 500 GB storage, another with 1 TB. Which feature is compared?",
     "options": [
       "Portability",
@@ -308,7 +284,7 @@
     "explanation": "The Correct Answer is Capacity"
   },
   {
-    "id": 777,
+    "id": 775,
     "question": "You want large files to load faster. Which hard disk specification should you check?",
     "options": [
       "Larger Size",
@@ -320,7 +296,7 @@
     "explanation": "The Correct Answer is Higher RPM"
   },
   {
-    "id": 778,
+    "id": 776,
     "question": "Defragmenting a hard disk regularly keeps it faster. What does this process resemble?",
     "options": [
       "Shuffling books randomly",
@@ -332,7 +308,7 @@
     "explanation": "The Correct Answer is Arranging notes neatly"
   },
   {
-    "id": 779,
+    "id": 777,
     "question": "Lab computer is slow; technician suggests SSD instead of HDD. Why?",
     "options": [
       "SSDs store less data",
@@ -344,7 +320,7 @@
     "explanation": "The Correct Answer is SSDs work faster (no moving parts)"
   },
   {
-    "id": 780,
+    "id": 778,
     "question": "On a trip, you carry a pocket-sized, durable storage device. Which is best?",
     "options": [
       "USB Flash Drive",
@@ -356,7 +332,7 @@
     "explanation": "The Correct Answer is USB Flash Drive"
   },
   {
-    "id": 781,
+    "id": 779,
     "question": "Your uncle carries a small USB device for extra documents. Which characteristic of secondary storage is highlighted?",
     "options": [
       "Portability",
@@ -368,7 +344,7 @@
     "explanation": "The Correct Answer is Portability"
   },
   {
-    "id": 782,
+    "id": 780,
     "question": "A company stores 10 years of accounting records in one device safe even when power is off. Which type of storage is this?",
     "options": [
       "Primary Storage",
@@ -380,7 +356,7 @@
     "explanation": "The Correct Answer is Secondary Storage"
   },
   {
-    "id": 783,
+    "id": 781,
     "question": "Ravi saves files on a device connected via USB to free space in main storage. Which device is this?",
     "options": [
       "Internal Hard Disk",
@@ -392,7 +368,7 @@
     "explanation": "The Correct Answer is External Hard Disk"
   },
   {
-    "id": 784,
+    "id": 782,
     "question": "A laptop has 1 TB of space for OS, software, and files. This is part of which device?",
     "options": [
       "External Hard Disk",
@@ -404,7 +380,7 @@
     "explanation": "The Correct Answer is Internal Hard Disk"
   },
   {
-    "id": 785,
+    "id": 783,
     "question": "A friend backs up music/photos on a device kept at home to prevent loss. Which feature of hard disks is used?",
     "options": [
       "Quick Data Access",
@@ -416,7 +392,7 @@
     "explanation": "The Correct Answer is Reliable Backup Option"
   },
   {
-    "id": 786,
+    "id": 784,
     "question": "A student compares laptops: one with 500 GB storage, another with 1 TB. Which feature is compared?",
     "options": [
       "Portability",
@@ -428,7 +404,7 @@
     "explanation": "The Correct Answer is Capacity"
   },
   {
-    "id": 787,
+    "id": 785,
     "question": "You want large files to load faster. Which hard disk specification should you check?",
     "options": [
       "Larger Size",
@@ -440,7 +416,7 @@
     "explanation": "The Correct Answer is Higher RPM"
   },
   {
-    "id": 788,
+    "id": 786,
     "question": "Defragmenting a hard disk regularly keeps it faster. What does this process resemble?",
     "options": [
       "Shuffling books randomly",
@@ -452,7 +428,7 @@
     "explanation": "The Correct Answer is Arranging notes neatly"
   },
   {
-    "id": 789,
+    "id": 787,
     "question": "Lab computer is slow; technician suggests SSD instead of HDD. Why?",
     "options": [
       "SSDs store less data",
@@ -464,7 +440,7 @@
     "explanation": "The Correct Answer is SSDs work faster (no moving parts)"
   },
   {
-    "id": 790,
+    "id": 788,
     "question": "On a trip, you carry a pocket-sized, durable storage device. Which is best?",
     "options": [
       "Internal Hard Disk",
@@ -476,7 +452,7 @@
     "explanation": "The Correct Answer is USB Flash Drive"
   },
   {
-    "id": 791,
+    "id": 789,
     "question": "Photographer prefers memory cards while travelling. Why?",
     "options": [
       "They store unlimited data",
@@ -488,7 +464,7 @@
     "explanation": "The Correct Answer is Lightweight and portable"
   },
   {
-    "id": 792,
+    "id": 790,
     "question": "Teacher distributes installer to 50 students at once using a cheap medium. Which medium?",
     "options": [
       "USB Drive",
@@ -500,7 +476,7 @@
     "explanation": "The Correct Answer is Optical Disc (CD/DVD)"
   },
   {
-    "id": 793,
+    "id": 791,
     "question": "Movie collection stored on discs larger than DVD capacity. Which disc?\n",
     "options": [
       "CD",
@@ -512,7 +488,7 @@
     "explanation": "The Correct Answer is Blu-ray Disc"
   },
   {
-    "id": 794,
+    "id": 792,
     "question": "Library keeps old records for decades at lowest cost, slow access is okay. Which medium?",
     "options": [
       "Magnetic Tape",
@@ -524,7 +500,7 @@
     "explanation": "The Correct Answer is Magnetic Tape"
   },
   {
-    "id": 795,
+    "id": 793,
     "question": "Game store sells a new game on a disc. Which advantage of optical media?",
     "options": [
       "Reusability",
@@ -536,7 +512,7 @@
     "explanation": "The Correct Answer is Mass Distribution"
   },
   {
-    "id": 796,
+    "id": 794,
     "question": "Laptop has no CD/DVD drive but wants to watch DVD. What’s a solution?",
     "options": [
       "Replace the laptop",
@@ -548,7 +524,7 @@
     "explanation": "The Correct Answer is Use an external optical drive (USB)"
   },
   {
-    "id": 797,
+    "id": 795,
     "question": "School backs up student data yearly for future reference, slow retrieval is fine. Which medium is best?",
     "options": [
       "SSD",
@@ -560,7 +536,7 @@
     "explanation": "The Correct Answer is Magnetic Tape"
   },
   {
-    "id": 798,
+    "id": 796,
     "question": "Technician restores old records from a long tape reel. Which device is this?",
     "options": [
       "Tape Drive",
@@ -572,7 +548,7 @@
     "explanation": "The Correct Answer is Tape Drive"
   },
   {
-    "id": 799,
+    "id": 797,
     "question": "You want to store a 4K movie in high quality. Which disc type stores the most data?",
     "options": [
       "DVD",
@@ -584,7 +560,7 @@
     "explanation": "The Correct Answer is Blu-ray Disc"
   },
   {
-    "id": 800,
+    "id": 798,
     "question": "Teacher tells you to copy photos from a camera without USB cable. Which storage can you use?",
     "options": [
       "External HDD",
@@ -594,5 +570,29 @@
     ],
     "answer": 1,
     "explanation": "The Correct Answer is Memory Card"
+  },
+  {
+    "id": 799,
+    "question": "You can check for spelling errors in a presentation from the __________ group in the __________ tab.",
+    "options": [
+      "Spelling; View",
+      "Spelling; Review",
+      "Language; View",
+      "Proofing; Review"
+    ],
+    "answer": 3,
+    "explanation": "The Correct Answer is Proofing; Review"
+  },
+  {
+    "id": 800,
+    "question": "The Spelling, Translate, and Language options are present in the __________ tab.",
+    "options": [
+      "Review",
+      "View",
+      "Insert",
+      "Format"
+    ],
+    "answer": 0,
+    "explanation": "The Correct Answer is Review"
   }
 ]
