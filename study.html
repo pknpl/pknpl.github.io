@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Study Mode</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+    <style>
+        .topic-card {
+            background: white; border: 1px solid #e2e8f0; border-radius: 8px;
+            padding: 15px; margin-bottom: 15px; display: flex; align-items: center; justify-content: space-between;
+            transition: transform 0.1s;
+        }
+        .topic-card:hover { border-color: var(--primary); }
+        .topic-info { flex: 1; padding-right: 10px; }
+        .topic-title { font-weight: bold; font-size: 1.05rem; color: #1e293b; margin-bottom: 4px; }
+        .topic-hint { font-size: 0.85rem; color: #64748b; font-style: italic; }
+        
+        .lens-btn {
+            background: #eff6ff; color: #2563eb; border: 1px solid #bfdbfe;
+            width: 42px; height: 42px; border-radius: 50%; display: flex;
+            align-items: center; justify-content: center; text-decoration: none; 
+            font-size: 1.2rem; flex-shrink: 0; cursor: pointer; transition: all 0.2s;
+        }
+        .lens-btn:hover { background: #2563eb; color: white; transform: scale(1.1); }
+    </style>
+</head>
+<body>
+    <header class="main-header">
+        <div class="header-left"><img src="assets/logo.jpg" class="logo"></div>
+        <div class="header-center"><h1>Study Topics</h1></div>
+        <div class="header-right">
+            <button onclick="location.href='menu.html?role=alc'" class="btn-logout">Back</button>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="card">
+            <h2 id="set-heading" style="color: var(--primary-dark); margin-bottom: 10px; text-align:center;">Set Loading...</h2>
+            <p style="text-align:center; color:#64748b; margin-bottom:25px; font-size:0.9rem;">
+                Please review these topics. Click the 🔍 icon to search and learn more about them.
+            </p>
+            
+            <div id="topics-list">
+                <p style="text-align:center; color:#ccc;">Loading topics...</p>
+            </div>
+            
+            <div style="margin-top: 30px; text-align: center; border-top: 1px solid #eee; padding-top: 20px;">
+                <button id="start-quiz-btn" class="btn btn-primary" style="max-width: 250px;">Give Test</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="assets/js/auth.js"></script>
+    <script>
+        checkSession();
+        const params = new URLSearchParams(window.location.search);
+        const setNum = params.get('set');
+
+        // Load Data
+        fetch(`data/alc/set${setNum}.json`)
+            .then(r => r.json())
+            .then(data => {
+                // Set Title
+                document.getElementById('set-heading').innerText = data.meta ? data.meta.title : `Set ${setNum} Revision`;
+                
+                const list = document.getElementById('topics-list');
+                list.innerHTML = ''; // Clear loading text
+
+                if(data.studyTopics && data.studyTopics.length > 0) {
+                    data.studyTopics.forEach(item => {
+                        const div = document.createElement('div');
+                        div.className = 'topic-card';
+                        div.innerHTML = `
+                            <div class="topic-info">
+                                <div class="topic-title">${item.topic}</div>
+                                ${item.hint ? `<div class="topic-hint">💡 Tip: ${item.hint}</div>` : ''}
+                            </div>
+                            <a href="https://www.google.com/search?q=${encodeURIComponent(item.searchQuery || item.topic)}" 
+                               target="_blank" class="lens-btn" title="Search on Google">🔍</a>
+                        `;
+                        list.appendChild(div);
+                    });
+                } else {
+                    list.innerHTML = '<p style="text-align:center;">No study topics found for this set.</p>';
+                }
+
+                // Setup Quiz Button
+                document.getElementById('start-quiz-btn').onclick = () => {
+                    window.location.href = `quiz.html?role=alc&set=${setNum}`;
+                };
+            })
+            .catch(e => {
+                console.error(e);
+                document.getElementById('set-heading').innerText = "Error loading set.";
+                document.getElementById('topics-list').innerHTML = '<p style="text-align:center; color:red;">Could not load study data. Please try again.</p>';
+            });
+    </script>
+</body>
+</html>

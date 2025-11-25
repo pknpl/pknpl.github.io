@@ -22,8 +22,21 @@ function attemptLogin() {
 
     if (user) {
         user.displayId = inputVal; 
+        // Default to NCR if type is missing for backward compatibility
+        if (!user.type) user.type = 'NCR'; 
+        
         sessionStorage.setItem('pknpl_user', JSON.stringify(user));
-        window.location.href = "dashboard.html";
+
+        // --- NEW LOGIC: Intelligent Routing ---
+        if (user.type === 'ALC') {
+            // ALC skips dashboard (selection) and goes straight to their specific menu
+            window.location.href = "menu.html?role=alc";
+        } else {
+            // NCR/AOs go to standard dashboard to select CC or LF
+            window.location.href = "dashboard.html";
+        }
+        // --------------------------------------
+
     } else {
         errorMsg.innerText = "Invalid AO Code.";
         errorMsg.style.display = 'block';
@@ -35,12 +48,10 @@ function logout() {
     window.location.href = "index.html";
 }
 
-
 function checkSession() {
-    
     injectHelpModal();
 
-    if (window.location.pathname.endsWith('index.html') || window.location.pathname === '/') return;
+    if (window.location.pathname.endsWith('index.html') || window.location.pathname === '/' || window.location.pathname.endsWith('/')) return;
 
     const userStr = sessionStorage.getItem('pknpl_user');
     if (!userStr) {
@@ -61,7 +72,6 @@ function encryptAOCode(inputCode) {
     let val = (num * 54321) + 98765;
     return val.toString(36).toUpperCase();
 }
-
 
 function injectHelpModal() {
     if(document.getElementById('help-modal')) return;
@@ -91,5 +101,10 @@ function injectHelpModal() {
 function openHelp() { document.getElementById('help-modal').classList.add('show'); }
 function closeHelp() { document.getElementById('help-modal').classList.remove('show'); }
 
-
-checkSession();
+// Initialize check on load
+if (typeof window !== 'undefined') {
+    // Prevent check on login page
+    if (!window.location.pathname.endsWith('index.html') && !window.location.pathname.endsWith('/')) {
+        checkSession();
+    }
+}

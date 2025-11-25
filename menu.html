@@ -31,16 +31,22 @@
             <p id="no-sets-msg" style="text-align:center; color: red; display: none;">No sets found.</p>
         </div>
         <div style="text-align: center; margin-top: 20px;">
-            <a href="dashboard.html" class="btn btn-outline" style="width: auto; padding: 10px 30px;">Back</a>
+            <button onclick="history.back()" class="btn btn-outline" style="width: auto; padding: 10px 30px;">Back</button>
         </div>
     </div>
 
     <script src="assets/js/auth.js"></script>
     <script>
-        checkSession();
+        const user = checkSession();
         const params = new URLSearchParams(window.location.search);
         const role = params.get('role') || 'cc';
-        document.getElementById('role-title').innerText = role === 'cc' ? "Coordinator Sets" : "Facilitator Sets";
+        
+        // Dynamic Title
+        if (role === 'alc') {
+            document.getElementById('role-title').innerText = "ALC Revision Sets";
+        } else {
+            document.getElementById('role-title').innerText = role === 'cc' ? "Coordinator Sets" : "Facilitator Sets";
+        }
         
         const grid = document.getElementById('sets-grid');
         const MAX_SETS = 50;
@@ -50,11 +56,22 @@
             const btn = document.createElement('a');
             btn.className = 'btn btn-outline';
             btn.innerText = `Set ${i}`;
-            btn.href = `quiz.html?role=${role}&set=${i}`;
+            
+            // --- INTELLIGENT ROUTING ---
+            if (role === 'alc') {
+                // ALC goes to Study Page first
+                btn.href = `study.html?set=${i}`;
+            } else {
+                // Others go straight to Quiz
+                btn.href = `quiz.html?role=${role}&set=${i}`;
+            }
+            // ---------------------------
+
             btn.style.display = 'none';
             btn.id = `btn-${i}`;
             grid.appendChild(btn);
 
+            // Check if file exists
             fetch(`data/${role}/set${i}.json`, { method: 'HEAD' })
                 .then(res => { if(res.ok) { document.getElementById(`btn-${i}`).style.display = 'inline-block'; found++; } })
                 .finally(() => {

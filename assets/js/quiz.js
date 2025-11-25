@@ -4,9 +4,25 @@ const params = new URLSearchParams(window.location.search);
 const role = params.get('role') || 'cc';
 const setNum = params.get('set') || '1';
 
-// Get User Details for Reporting
+// Get User Details
 const currentUser = JSON.parse(sessionStorage.getItem('pknpl_user') || '{}');
 const userID = currentUser.displayId || 'Unknown';
+
+// --- FIX: INTELLIGENT NAVIGATION ---
+// Determine where the "Exit" and "Dashboard" buttons should take the user.
+// ALC users go back to their menu. AO users go back to the main dashboard.
+const dashboardUrl = (currentUser.type === 'ALC') ? 'menu.html?role=alc' : 'dashboard.html';
+
+// Force update the "Dashboard" button in the Result UI (overriding the HTML hardcode)
+window.addEventListener('DOMContentLoaded', () => {
+    const dashboardBtns = document.querySelectorAll("button");
+    dashboardBtns.forEach(btn => {
+        if(btn.innerText.trim() === "Dashboard") {
+            btn.onclick = () => window.location.href = dashboardUrl;
+        }
+    });
+});
+// -----------------------------------
 
 document.getElementById('set-title').innerText = `${role.toUpperCase()} - Set ${setNum}`;
 
@@ -21,7 +37,15 @@ let isQuizActive = true;
 fetch(`data/${role}/set${setNum}.json`)
     .then(r => r.json())
     .then(data => {
-        questions = shuffleArray(data);
+        // Handle both Array (Old) and Object (New ALC) formats
+        if (Array.isArray(data)) {
+            questions = shuffleArray(data);
+        } else if (data.questions && Array.isArray(data.questions)) {
+            questions = shuffleArray(data.questions);
+        } else {
+            throw new Error("Invalid Data Structure");
+        }
+
         userAnswers = new Array(questions.length).fill(null);
         document.getElementById('total-q').innerText = questions.length;
         
@@ -32,7 +56,8 @@ fetch(`data/${role}/set${setNum}.json`)
         loadQuestion(0);
     })
     .catch(err => {
-        document.getElementById('question-text').innerText = "Error: Set file not found.";
+        console.error(err);
+        document.getElementById('question-text').innerText = "Error: Set file not found or invalid format.";
     });
 
 function shuffleArray(array) {
@@ -133,8 +158,9 @@ function finishQuiz(auto=false) {
     document.getElementById('quiz-ui').style.display = 'none';
     document.getElementById('result-ui').style.display = 'block';
     
-    // Hide header extras
-    document.querySelector('.header-center').style.display = 'none'; 
+    // Hide header title to clean up UI
+    const headerCenter = document.querySelector('.header-center');
+    if(headerCenter) headerCenter.style.display = 'none';
 
     let score = 0;
     const list = document.getElementById('review-list');
@@ -147,7 +173,7 @@ function finishQuiz(auto=false) {
         const isCorrect = (userIdx === correctIdx);
         if(isCorrect) score++;
 
-        // GENERATE REPORT LINK FOR THIS QUESTION
+        // Generate WhatsApp Report Link
         const userAnsText = userIdx !== null ? q.options[userIdx] : "Skipped";
         const correctAnsText = q.options[correctIdx];
 
@@ -195,7 +221,7 @@ function finishQuiz(auto=false) {
         passStatus = "FAIL";
     }
 
-    // --- GENERATE SHARE RESULT LINK ---
+    // --- SHARE RESULT BUTTON ---
     const resultMsg = `*Exam Result Declaration* 📄%0A` +
                       `AO ID: ${userID}%0A` +
                       `Role: ${role.toUpperCase()} | Set: ${setNum}%0A` +
@@ -204,11 +230,8 @@ function finishQuiz(auto=false) {
     
     const shareUrl = `https://wa.me/918384858685?text=${resultMsg}`;
 
-    // === UPDATE: INJECT BUTTON BELOW MARKS (SCORE CONTAINER) ===
-    // Targeting the first div inside #result-ui which contains the score
+    // Inject Button
     const scoreContainer = document.querySelector('#result-ui > div:first-child');
-    
-    // Clean up if button already exists
     const oldBtn = document.getElementById('share-wa-btn');
     if(oldBtn) oldBtn.remove();
 
@@ -218,19 +241,18 @@ function finishQuiz(auto=false) {
     shareBtn.target = '_blank';
     shareBtn.className = 'btn btn-whatsapp';
     shareBtn.innerText = 'Share Result on WhatsApp';
-    shareBtn.style.marginTop = '20px'; // Spacing from pass/fail text
+    shareBtn.style.marginTop = '20px';
     shareBtn.style.marginBottom = '0px';
     
-    // Append it to the score container so it sits right under the Pass/Fail text
     scoreContainer.appendChild(shareBtn);
 }
 
-// --- HELP & EXIT ---
+// --- HELP & EXIT (Updated for Dynamic Routing) ---
 function confirmExit() {
     if(isQuizActive) {
-        if(confirm("Quit Quiz? Your progress will be lost.")) window.location.href = "dashboard.html";
+        if(confirm("Quit Quiz? Your progress will be lost.")) window.location.href = dashboardUrl;
     } else {
-        window.location.href = "dashboard.html";
+        window.location.href = dashboardUrl;
     }
 }
 
