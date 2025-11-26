@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "title": "Session 07: MS Word Basics & User Interface",
+    "description": "Introduction to MS Word User Interface, File Tab options, and the Home Tab (Clipboard, Font, Paragraph, Styles, Editing groups)."
+  },
+  "studyTopics": [
+    {
+      "topic": "MS Word User Interface",
+      "hint": "Understand terms like Ribbon, Tabs, and Groups.",
+      "searchQuery": "parts of ms word window interface",
+      "learningOutcome": "Identify the main components of the Word window for efficient navigation."
+    },
+    {
+      "topic": "File Tab (Backstage View)",
+      "hint": "Where you go to Save, Print, or Open files.",
+      "searchQuery": "ms word file tab options explained",
+      "learningOutcome": "Perform essential file management tasks like saving and printing."
+    },
+    {
+      "topic": "Clipboard Operations",
+      "hint": "Cut removes, Copy duplicates, Paste places.",
+      "searchQuery": "cut copy paste format painter ms word",
+      "learningOutcome": "Master moving and duplicating text effectively."
+    },
+    {
+      "topic": "Formatting Text (Font & Paragraph)",
+      "hint": "Changing look (Bold/Color) and position (Alignment).",
+      "searchQuery": "ms word font and paragraph formatting guide",
+      "learningOutcome": "Apply professional formatting to text and paragraphs."
+    },
+    {
+      "topic": "Project Management with AI (Trello)",
+      "hint": "Using boards and cards to organize tasks.",
+      "searchQuery": "what is trello and how to use it",
+      "learningOutcome": "Understand how visual tools help in team collaboration and task tracking."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which tab in MS Word gives you access to the 'Backstage View' for options like Save, Print, and Open?",
+      "options": [
+        "Home",
+        "Insert",
+        "File",
+        "View"
+      ],
+      "answer": 2,
+      "difficulty": "easy",
+      "explanation": "The File tab opens the Backstage View, where you manage the file itself rather than its content."
+    },
+    {
+      "id": 2,
+      "question": "In the Home Tab, which group contains the commands for Cut, Copy, and Paste?",
+      "options": [
+        "Font",
+        "Paragraph",
+        "Clipboard",
+        "Editing"
+      ],
+      "answer": 2,
+      "difficulty": "easy",
+      "explanation": "The Clipboard group typically located on the far left of the Home tab houses Cut, Copy, Paste, and Format Painter."
+    },
+    {
+      "id": 3,
+      "question": "What is the keyboard shortcut to 'Select All' content in a document?",
+      "options": [
+        "Ctrl + S",
+        "Ctrl + A",
+        "Ctrl + C",
+        "Ctrl + P"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Ctrl + A is the universal shortcut to select all text and objects in the current document."
+    },
+    {
+      "id": 4,
+      "question": "Which AI-powered tool mentioned in the session is a 'Visual Collaboration Hub' used for project management?",
+      "options": [
+        "MS Paint",
+        "Trello",
+        "Notepad",
+        "Calculator"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Trello is a visual tool that organizes your projects into boards, lists, and cards."
+    },
+    {
+      "id": 5,
+      "question": "What happens when you use the 'Justify' alignment on a paragraph?",
+      "options": [
+        "Text aligns only to the left",
+        "Text aligns only to the right",
+        "Text is distributed evenly between the left and right margins",
+        "Text is centered"
+      ],
+      "answer": 2,
+      "difficulty": "medium",
+      "explanation": "Justify alignment adds space between words so the edges of the text are flush with both margins."
+    },
+    {
+      "id": 6,
+      "question": "Which tool in the Clipboard group allows you to copy formatting from one piece of text and apply it to another?",
+      "options": [
+        "Copy",
+        "Paste",
+        "Format Painter",
+        "Cut"
+      ],
+      "answer": 2,
+      "difficulty": "hard",
+      "explanation": "Format Painter copies the visual look (font, size, color) of text so you can 'paint' it onto other text."
+    },
+    {
+      "id": 7,
+      "question": "If you want to make your text look thicker and darker to emphasize it, which formatting option should you choose?",
+      "options": [
+        "Italic",
+        "Bold",
+        "Underline",
+        "Strikethrough"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The Bold (B) option thickens the text strokes to make them stand out."
+    },
+    {
+      "id": 8,
+      "question": "Where would you find the 'Find and Replace' commands in the Home Tab?",
+      "options": [
+        "Clipboard Group",
+        "Font Group",
+        "Editing Group",
+        "Paragraph Group"
+      ],
+      "answer": 2,
+      "difficulty": "medium",
+      "explanation": "The Editing group, usually at the far right of the Home tab, contains Find, Replace, and Select."
+    },
+    {
+      "id": 9,
+      "question": "Which feature allows you to organize a list of items using symbols like dots or checks?",
+      "options": [
+        "Numbering",
+        "Bullets",
+        "Indentation",
+        "Line Spacing"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Bullets are symbols used to mark items in an unordered list."
+    },
+    {
+      "id": 10,
+      "question": "What is the standard file extension for a modern Microsoft Word document?",
+      "options": [
+        ".txt",
+        ".xlsx",
+        ".docx",
+        ".pptx"
+      ],
+      "answer": 2,
+      "difficulty": "easy",
+      "explanation": ".docx is the default file format for Word documents created in versions 2007 and later."
+    },
+    {
+      "id": 11,
+      "question": "In the Font group, what does the command 'Change Case' do?",
+      "options": [
+        "Changes the language",
+        "Changes text from uppercase to lowercase (and vice versa)",
+        "Changes the font color",
+        "Changes the font size"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Change Case allows you to switch text between Sentence case, lowercase, UPPERCASE, Capitalize Each Word, etc."
+    },
+    {
+      "id": 12,
+      "question": "What is the difference between 'Save' and 'Save As'?",
+      "options": [
+        "No difference",
+        "Save updates the current file; Save As creates a new copy with a different name or location",
+        "Save deletes the file",
+        "Save As prints the file"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Save As is used when you want to save a copy of the document under a new name or file type, leaving the original unchanged."
+    },
+    {
+      "id": 13,
+      "question": "Which Paragraph group command moves the entire paragraph further away from the margin?",
+      "options": [
+        "Align Left",
+        "Increase Indent",
+        "Sort",
+        "Shading"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Increase Indent moves the paragraph to the right, increasing the distance from the left margin."
+    },
+    {
+      "id": 14,
+      "question": "Styles in MS Word are primarily used to:",
+      "options": [
+        "Draw pictures",
+        "Apply a consistent set of formatting (font, size, color) quickly",
+        "Calculate numbers",
+        "Play videos"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "Styles allow you to apply a pre-defined set of formatting rules instantly, ensuring consistency across the document."
+    },
+    {
+      "id": 15,
+      "question": "Trello uses which organizational system consisting of columns and cards?",
+      "options": [
+        "Spreadsheet",
+        "Kanban",
+        "Word Processor",
+        "Pie Chart"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "Trello is based on the Kanban board system, which visualizes work as cards moving through different stages (columns)."
+    },
+    {
+      "id": 16,
+      "question": "Which shortcut key is used to 'Cut' selected text?",
+      "options": [
+        "Ctrl + C",
+        "Ctrl + V",
+        "Ctrl + X",
+        "Ctrl + Z"
+      ],
+      "answer": 2,
+      "difficulty": "easy",
+      "explanation": "Ctrl + X cuts the selected item to the clipboard (think of the X as scissors)."
+    },
+    {
+      "id": 17,
+      "question": "In the Font group, 'Subscript' makes text appear:",
+      "options": [
+        "Larger and above the line",
+        "Smaller and below the line",
+        "Bold and red",
+        "With a line through it"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "Subscript (e.g., H₂O) lowers the text slightly below the baseline and makes it smaller."
+    },
+    {
+      "id": 18,
+      "question": "Which visual element at the top of the Word window contains tabs like File, Home, and Insert?",
+      "options": [
+        "Status Bar",
+        "Ribbon",
+        "Scroll Bar",
+        "Taskbar"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "The Ribbon is the strip of buttons and icons located above the work area in Office applications."
+    },
+    {
+      "id": 19,
+      "question": "Which command would you use to change the background color behind specific text or paragraphs?",
+      "options": [
+        "Font Color",
+        "Shading (Bucket Icon)",
+        "Bold",
+        "Italic"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "The Shading tool (paint bucket) fills the background behind the selected text or paragraph with color."
+    },
+    {
+      "id": 20,
+      "question": "To center your title on the page, which keyboard shortcut should you use?",
+      "options": [
+        "Ctrl + L",
+        "Ctrl + R",
+        "Ctrl + E",
+        "Ctrl + J"
+      ],
+      "answer": 2,
+      "difficulty": "medium",
+      "explanation": "Ctrl + E is the shortcut for Center Alignment."
+    }
+  ]
+}

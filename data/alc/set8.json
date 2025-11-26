@@ -1,0 +1,318 @@
+{
+  "meta": {
+    "title": "Session 08: MS Word Insert, Draw & Design Tabs",
+    "description": "Comprehensive coverage of MS Word's Insert Tab (Tables, Illustrations, Header/Footer), Draw Tab features, and Design Tab (Page Backgrounds), plus AI tools Freepik and Evernote."
+  },
+  "studyTopics": [
+    {
+      "topic": "Working with Tables (Insert & Layout)",
+      "hint": "Use the Layout tab to Merge or Split cells.",
+      "searchQuery": "ms word table merge cells and split cells guide",
+      "learningOutcome": "Create and structure data tables, including merging cells and adjusting dimensions."
+    },
+    {
+      "topic": "Illustrations & SmartArt",
+      "hint": "SmartArt creates visual diagrams like lists or cycles.",
+      "searchQuery": "how to use SmartArt and Shapes in MS Word",
+      "learningOutcome": "Enhance documents visually using shapes, icons, and SmartArt graphics."
+    },
+    {
+      "topic": "Headers and Footers",
+      "hint": "Text here repeats on every page (top or bottom).",
+      "searchQuery": "insert header and footer ms word tutorial",
+      "learningOutcome": "Add consistent content like page numbers or logos to the top/bottom of every page."
+    },
+    {
+      "topic": "Hyperlinks & Bookmarks",
+      "hint": "Ctrl + K creates a clickable link.",
+      "searchQuery": "how to insert hyperlink and bookmark in word",
+      "learningOutcome": "Create interactive documents with links to websites or other file locations."
+    },
+    {
+      "topic": "Page Backgrounds (Design Tab)",
+      "hint": "Watermarks are 'ghost' text behind the content.",
+      "searchQuery": "add watermark and page border in word",
+      "learningOutcome": "Apply professional formatting like Watermarks, Page Colors, and Borders."
+    },
+    {
+      "topic": "Text Box & WordArt",
+      "hint": "Use Text Boxes to place text anywhere on the page.",
+      "searchQuery": "using text box and drop cap in ms word",
+      "learningOutcome": "Format text creatively and position it independently of the main document flow."
+    },
+    {
+      "topic": "The Draw Tab",
+      "hint": "Use digital pens to ink; convert ink to shapes.",
+      "searchQuery": "ms word draw tab ink to shape feature",
+      "learningOutcome": "Utilize digital inking tools and convert freehand drawings into formal shapes."
+    },
+    {
+      "topic": "AI for Creativity & Notes",
+      "hint": "Freepik for images, Evernote for organizing notes.",
+      "searchQuery": "Freepik vs Evernote features",
+      "learningOutcome": "Leverage AI resources for graphic assets and digital note-taking."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which tab in MS Word allows you to insert a Table, Picture, or Header?",
+      "options": [
+        "Home",
+        "Layout",
+        "Insert",
+        "View"
+      ],
+      "answer": 2,
+      "difficulty": "easy",
+      "explanation": "The Insert Tab contains all commands for adding elements like tables, images, and headers to the document."
+    },
+    {
+      "id": 2,
+      "question": "You want to combine three cells in a table into one single cell. Which command should you use from the Table Layout tab?",
+      "options": [
+        "Split Cells",
+        "Merge Cells",
+        "Delete Cells",
+        "Distribute Rows"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Merge Cells combines two or more selected cells into a single larger cell."
+    },
+    {
+      "id": 3,
+      "question": "What is a 'Watermark' in MS Word?",
+      "options": [
+        "A wet stain on the paper",
+        "Faint text or image that appears behind the document content",
+        "A clickable link",
+        "A type of chart"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "A Watermark is used to indicate document status (e.g., 'Confidential', 'Draft') and appears faintly behind the text."
+    },
+    {
+      "id": 4,
+      "question": "Which AI-powered platform is described as a 'Creative Asset Companion' for finding vector graphics and photos?",
+      "options": [
+        "Freepik",
+        "Evernote",
+        "Notepad",
+        "Excel"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "Freepik is a popular resource for finding free vectors, stock photos, and PSD files for creative projects."
+    },
+    {
+      "id": 5,
+      "question": "Which visual tool in the Insert tab is best for creating organizational charts or process cycles?",
+      "options": [
+        "WordArt",
+        "SmartArt",
+        "Screenshot",
+        "Drop Cap"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "SmartArt allows you to quickly create professional diagrams like lists, processes, cycles, and hierarchies."
+    },
+    {
+      "id": 6,
+      "question": "What is the keyboard shortcut to insert a Hyperlink?",
+      "options": [
+        "Ctrl + H",
+        "Ctrl + K",
+        "Ctrl + L",
+        "Ctrl + M"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "Ctrl + K opens the Insert Hyperlink dialog box."
+    },
+    {
+      "id": 7,
+      "question": "In the Draw tab, what does the 'Ink to Shape' feature do?",
+      "options": [
+        "Deletes your drawing",
+        "Converts rough hand-drawn shapes into perfect geometric shapes",
+        "Colors the page",
+        "Converts text to speech"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Ink to Shape recognizes freehand drawings (like a rough circle) and snaps them into clean, perfect vector shapes."
+    },
+    {
+      "id": 8,
+      "question": "Where can you find the option to add a decorative border around the entire page?",
+      "options": [
+        "Home Tab > Borders",
+        "Design Tab > Page Borders",
+        "Insert Tab > Shapes",
+        "View Tab > Zoom"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "The Page Borders command is located in the Page Background group of the Design tab."
+    },
+    {
+      "id": 9,
+      "question": "What is the purpose of a 'Drop Cap'?",
+      "options": [
+        "To delete a capital letter",
+        "To make the first letter of a paragraph very large (spanning multiple lines)",
+        "To drop the text to the next page",
+        "To capitalize every word"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "A Drop Cap is a large capital letter at the beginning of a text block that has the depth of two or more lines of regular text."
+    },
+    {
+      "id": 10,
+      "question": "Which Insert Tab group contains the 'Equation' and 'Symbol' commands?",
+      "options": [
+        "Text",
+        "Symbols",
+        "Media",
+        "Illustrations"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The Symbols group is specifically for inserting mathematical equations and special characters not found on the keyboard."
+    },
+    {
+      "id": 11,
+      "question": "What is Evernote primarily used for?",
+      "options": [
+        "Playing video games",
+        "Taking, organizing, and syncing notes across devices",
+        "Designing 3D models",
+        "Editing videos"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Evernote is a note-taking application designed to capture and organize ideas, lists, and projects."
+    },
+    {
+      "id": 12,
+      "question": "To add a repeating logo or page number at the bottom of every page, you should use:",
+      "options": [
+        "Header",
+        "Footer",
+        "Text Box",
+        "Comment"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "A Footer is the section at the bottom of a page used for recurring content like page numbers."
+    },
+    {
+      "id": 13,
+      "question": "Which command in the Insert Tab allows you to take a picture of an open window on your desktop and insert it into Word?",
+      "options": [
+        "Online Pictures",
+        "Screenshot",
+        "Shapes",
+        "Chart"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "The Screenshot tool allows you to quickly clip parts of your screen or insert full windows of open applications."
+    },
+    {
+      "id": 14,
+      "question": "In a table, if text is touching the borders too closely, which setting in the Layout tab should you adjust?",
+      "options": [
+        "Sort",
+        "Cell Margins",
+        "Text Direction",
+        "Formula"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "Cell Margins control the amount of empty space (padding) between the cell border and the text inside."
+    },
+    {
+      "id": 15,
+      "question": "Which of the following is NOT a group in the Insert Tab?",
+      "options": [
+        "Tables",
+        "Illustrations",
+        "Clipboard",
+        "Header & Footer"
+      ],
+      "answer": 2,
+      "difficulty": "medium",
+      "explanation": "The Clipboard group (Cut, Copy, Paste) is located in the Home Tab, not the Insert Tab."
+    },
+    {
+      "id": 16,
+      "question": "What does the 'WordArt' feature do?",
+      "options": [
+        "Checks spelling",
+        "Applies decorative effects (shadows, outlines, gradients) to text",
+        "Counts words",
+        "Translates words"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "WordArt is a gallery of text styles that you can add to your documents to create decorative effects."
+    },
+    {
+      "id": 17,
+      "question": "If you want to jump to a specific section within the same document, which feature should you use in combination with a Hyperlink?",
+      "options": [
+        "Bookmark",
+        "Comment",
+        "Header",
+        "Watermark"
+      ],
+      "answer": 0,
+      "difficulty": "hard",
+      "explanation": "A Bookmark marks a specific place in your document; you can then hyperlink to that Bookmark to jump there instantly."
+    },
+    {
+      "id": 18,
+      "question": "Which tab would you use to change the 'Page Color' of your document?",
+      "options": [
+        "Insert",
+        "Design",
+        "Draw",
+        "Home"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The Design Tab focuses on the overall look of the document, including Page Color and Themes."
+    },
+    {
+      "id": 19,
+      "question": "Which feature allows you to leave a note or feedback on a document without changing the actual text?",
+      "options": [
+        "Hyperlink",
+        "Comment",
+        "Bookmark",
+        "Cross-reference"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Comments appear in the margin (balloons) and are used for feedback, questions, or notes to other authors."
+    },
+    {
+      "id": 20,
+      "question": "In the Draw tab, what tool allows you to select and move ink drawings?",
+      "options": [
+        "Eraser",
+        "Lasso Select",
+        "Highlighter",
+        "Ruler"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "The Lasso Select tool allows you to circle around ink strokes to select them for moving or resizing."
+    }
+  ]
+}

@@ -38,7 +38,8 @@
         <div class="card">
             <h2 id="set-heading" style="color: var(--primary-dark); margin-bottom: 10px; text-align:center;">Set Loading...</h2>
             <p style="text-align:center; color:#64748b; margin-bottom:25px; font-size:0.9rem;">
-                Please review these topics. Click the 🔍 icon to search and learn more about them.
+                <!-- Please review these topics. Click the 🔍 icon to search and learn more about them. -->
+                 These MCQs are designed to help you build strong context-awareness of the topics that may appear in the exam. While the exact questions may differ, understanding both the questions and the options — including their meaning and implications — will greatly enhance your preparation.
             </p>
             
             <div id="topics-list">
@@ -76,8 +77,8 @@
                                 <div class="topic-title">${item.topic}</div>
                                 ${item.hint ? `<div class="topic-hint">💡 Tip: ${item.hint}</div>` : ''}
                             </div>
-                            <a href="https://www.google.com/search?q=${encodeURIComponent(item.searchQuery || item.topic)}" 
-                               target="_blank" class="lens-btn" title="Search on Google">🔍</a>
+                            <!--<a href="https://www.google.com/search?q=${encodeURIComponent(item.searchQuery || item.topic)}" 
+                               target="_blank" class="lens-btn" title="Search on Google">🔍</a>-->
                         `;
                         list.appendChild(div);
                     });

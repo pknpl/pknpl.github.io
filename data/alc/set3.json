@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "title": "Session 03: App Management, Personalization & Typing",
+    "description": "Covers organizing smartphone apps, backup/restore, using Google Assistant, Windows personalization, MS Paint, Notepad, and bottom row typing skills."
+  },
+  "studyTopics": [
+    {
+      "topic": "Smartphone Management & Safety",
+      "hint": "Setting up ICE (In Case of Emergency) contacts.",
+      "searchQuery": "how to set up ICE number on Android",
+      "learningOutcome": "Learn to secure yourself with emergency contacts and manage apps efficiently."
+    },
+    {
+      "topic": "Windows Personalization",
+      "hint": "Changing how your desktop looks (Backgrounds, Themes).",
+      "searchQuery": "change desktop wallpaper and theme windows 10",
+      "learningOutcome": "Customize the Windows environment to suit personal preferences."
+    },
+    {
+      "topic": "Basic Windows Tools (Paint & Notepad)",
+      "hint": "Simple drawing vs. simple text editing.",
+      "searchQuery": "difference between MS Paint and Notepad",
+      "learningOutcome": "Distinguish between creating graphics and editing plain text files."
+    },
+    {
+      "topic": "AI for Indian Languages (Bhashini)",
+      "hint": "Bridging the language barrier using technology.",
+      "searchQuery": "what is Bhashini AI platform india",
+      "learningOutcome": "Understand AI tools designed for language translation and accessibility."
+    },
+    {
+      "topic": "Typing: Bottom Row & Numbers",
+      "hint": "Keys like Z, X, C and the Number row (1-0).",
+      "searchQuery": "touch typing bottom row finger placement",
+      "learningOutcome": "Master the difficult bottom row keys and number row using correct fingering."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What does 'ICE' stand for in the context of smartphone contacts?",
+      "options": [
+        "Internal Call Exchange",
+        "In Case of Emergency",
+        "Internet Connection Error",
+        "International Call Enabler"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "ICE numbers are contacts that first responders can check on your phone in case of an emergency."
+    },
+    {
+      "id": 2,
+      "question": "Which Windows application is primarily used for creating simple drawings and editing images?",
+      "options": [
+        "Notepad",
+        "MS Paint",
+        "Calculator",
+        "Calendar"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "MS Paint is a basic graphics editor included in Windows for drawing and simple image manipulation."
+    },
+    {
+      "id": 3,
+      "question": "What is 'Bhashini', the AI initiative mentioned in the session?",
+      "options": [
+        "A video game for kids",
+        "An AI platform for Indian language translation and voice interaction",
+        "A new type of keyboard",
+        "A virus protection software"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Bhashini is an AI-led language translation platform that aims to bridge the language barrier in India."
+    },
+    {
+      "id": 4,
+      "question": "To type a capital letter without keeping Caps Lock on, which key should you hold down while pressing the letter?",
+      "options": [
+        "Ctrl",
+        "Alt",
+        "Shift",
+        "Tab"
+      ],
+      "answer": 2,
+      "difficulty": "easy",
+      "explanation": "Holding the Shift key capitalizes the letter being pressed or types the upper symbol on a key."
+    },
+    {
+      "id": 5,
+      "question": "Which app from Microsoft is recommended for organizing your SMS messages efficiently?",
+      "options": [
+        "Facebook Messenger",
+        "SMS Organizer",
+        "WhatsApp",
+        "Instagram"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "SMS Organizer is a Microsoft app that automatically sorts messages into categories like Personal, Transactional, and Promotional."
+    },
+    {
+      "id": 6,
+      "question": "What is the primary file type created by the 'Notepad' application?",
+      "options": [
+        "Image file (.jpg)",
+        "Audio file (.mp3)",
+        "Plain Text file (.txt)",
+        "Video file (.mp4)"
+      ],
+      "answer": 2,
+      "difficulty": "medium",
+      "explanation": "Notepad is a plain text editor, and it saves files with the .txt extension by default."
+    },
+    {
+      "id": 7,
+      "question": "You want to customize your computer screen with a picture of your family. Which setting should you change?",
+      "options": [
+        "Screensaver",
+        "Desktop Wallpaper / Background",
+        "Mouse Sensitivity",
+        "Volume"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Changing the Desktop Background or Wallpaper allows you to set a personal image on the main screen."
+    },
+    {
+      "id": 8,
+      "question": "Which finger is typically used to press the 'Z' key in touch typing?",
+      "options": [
+        "Right Index Finger",
+        "Left Little Finger",
+        "Right Thumb",
+        "Left Middle Finger"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "The 'Z' key is located on the bottom left and is pressed by the Left Little Finger."
+    },
+    {
+      "id": 9,
+      "question": "Which key is used to indent the first line of a paragraph or move the cursor a set distance to the right?",
+      "options": [
+        "Esc",
+        "Tab",
+        "Enter",
+        "Backspace"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "The Tab key moves the cursor forward by a fixed number of spaces, often used for indentation."
+    },
+    {
+      "id": 10,
+      "question": "Why is it important to 'Back up' your smartphone data?",
+      "options": [
+        "To delete everything",
+        "To prevent data loss if the phone is lost, stolen, or broken",
+        "To make the phone heavier",
+        "To drain the battery"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Backups create a copy of your data so it can be restored if the original device is unavailable."
+    },
+    {
+      "id": 11,
+      "question": "Which of these is a voice command trigger for Google Assistant?",
+      "options": [
+        "Hey Siri",
+        "Alexa",
+        "Hey Google",
+        "Hello Computer"
+      ],
+      "answer": 2,
+      "difficulty": "easy",
+      "explanation": "'Hey Google' or 'OK Google' are the wake phrases used to activate the Google Assistant."
+    },
+    {
+      "id": 12,
+      "question": "Which row on the keyboard contains the keys Z, X, C, V, and B?",
+      "options": [
+        "Top Row",
+        "Home Row",
+        "Bottom Row",
+        "Number Row"
+      ],
+      "answer": 2,
+      "difficulty": "medium",
+      "explanation": "The Bottom Row is located below the Home Row and contains Z, X, C, V, B, N, and M."
+    },
+    {
+      "id": 13,
+      "question": "You can move the Windows Taskbar to which position on the screen?",
+      "options": [
+        "Only the bottom",
+        "Bottom, Top, Left, or Right",
+        "Only the top",
+        "It cannot be moved"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "The Taskbar is flexible and can be locked to the Bottom, Top, Left, or Right edge of the screen."
+    },
+    {
+      "id": 14,
+      "question": "What is the function of the Google Play Store?",
+      "options": [
+        "To buy groceries",
+        "To download, update, and manage apps on Android devices",
+        "To play videos only",
+        "To repair hardware"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The Google Play Store is the official app store for the Android operating system."
+    },
+    {
+      "id": 15,
+      "question": "Which type of mouse uses a light sensor to detect movement instead of a rubber ball?",
+      "options": [
+        "Mechanical Mouse",
+        "Optical Mouse",
+        "Wheel Mouse",
+        "Joystick"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "An Optical Mouse uses a light-emitting diode (LED) or laser to detect movement relative to a surface."
+    },
+    {
+      "id": 16,
+      "question": "When typing numbers 1 to 5, which hand is predominantly used?",
+      "options": [
+        "Right Hand",
+        "Left Hand",
+        "Both Hands Equally",
+        "Use Thumb only"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "On the number row, 1, 2, 3, 4, and 5 are typically reached by the fingers of the Left Hand."
+    },
+    {
+      "id": 17,
+      "question": "If you want to transfer contacts from an old phone to a new one, which method is most efficient?",
+      "options": [
+        "Writing them on paper and re-typing them",
+        "Syncing with a Google Account / Cloud backup",
+        "Taking photos of the contact list",
+        "Sending each contact via SMS one by one"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Syncing contacts to a cloud account (like Google) allows them to automatically appear on any new device you log into."
+    },
+    {
+      "id": 18,
+      "question": "Which key is paired with the 'Period' (.) symbol on the same key button?",
+      "options": [
+        "> (Greater Than)",
+        "< (Less Than)",
+        "? (Question Mark)",
+        ": (Colon)"
+      ],
+      "answer": 0,
+      "difficulty": "hard",
+      "explanation": "The period key (.) typically shares the button with the Greater Than symbol (>), accessed via Shift."
+    },
+    {
+      "id": 19,
+      "question": "What is the main benefit of using 'Themes' in Windows?",
+      "options": [
+        "It speeds up the internet",
+        "It changes the wallpaper, window colors, and sounds in one click",
+        "It installs new games",
+        "It deletes old files"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "A Theme is a package that applies a coordinated set of backgrounds, colors, sounds, and cursor styles."
+    },
+    {
+      "id": 20,
+      "question": "What function allows you to use your voice to set alarms, send messages, or ask questions on a smartphone?",
+      "options": [
+        "Screen Rotation",
+        "Virtual Assistant (e.g., Google Assistant)",
+        "Bluetooth",
+        "Flight Mode"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Virtual Assistants use AI to process voice commands and perform tasks on the device."
+    }
+  ]
+}

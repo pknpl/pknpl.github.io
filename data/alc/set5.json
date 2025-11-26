@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "title": "Session 05: Advanced Email, Data Entry & Windows Tools",
+    "description": "Focuses on professional email features (Confidential mode, Undo Send), Data Entry industry insights (OCR, Transcription), AI typing assistants, and Windows system tools like Snipping Tool and Action Center."
+  },
+  "studyTopics": [
+    {
+      "topic": "Gmail Confidential Mode & Undo Send",
+      "hint": "Sending self-destructing emails and recalling mistakes.",
+      "searchQuery": "how to use confidential mode and undo send in gmail",
+      "learningOutcome": "Send secure emails and recall accidental sends within a set time."
+    },
+    {
+      "topic": "Optical Character Recognition (OCR)",
+      "hint": "Converting a picture of text into editable text.",
+      "searchQuery": "what is OCR technology data entry",
+      "learningOutcome": "Understand how software converts scanned images into digital text."
+    },
+    {
+      "topic": "Medical Transcription",
+      "hint": "Typing out voice recordings from doctors.",
+      "searchQuery": "medical transcription job description and skills",
+      "learningOutcome": "Learn about the process of converting medical voice notes into documents."
+    },
+    {
+      "topic": "Windows Snipping Tool",
+      "hint": "Taking screenshots of specific parts of your screen.",
+      "searchQuery": "how to use snipping tool windows 10",
+      "learningOutcome": "Capture specific areas of the screen for documentation or sharing."
+    },
+    {
+      "topic": "Windows Action Center",
+      "hint": "The notification hub on the right side of the taskbar.",
+      "searchQuery": "windows 10 action center features",
+      "learningOutcome": "Manage system notifications and quick settings like Bluetooth/Wi-Fi."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which Gmail feature allows you to 'recall' an email shortly after clicking the Send button?",
+      "options": [
+        "Delete Forever",
+        "Undo Send",
+        "Recall Message",
+        "Stop Delivery"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "The 'Undo Send' feature gives you a short window (e.g., 5-30 seconds) to cancel the delivery of an email."
+    },
+    {
+      "id": 2,
+      "question": "What is the primary function of OCR (Optical Character Recognition) software in data entry?",
+      "options": [
+        "To scan viruses",
+        "To convert scanned images of text into editable text formats",
+        "To play videos",
+        "To record voice"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "OCR technology analyzes images of text (like scanned documents) and converts them into machine-encoded text that can be edited."
+    },
+    {
+      "id": 3,
+      "question": "You need to send a sensitive document via Gmail that expires after 1 day and cannot be forwarded. Which mode should you use?",
+      "options": [
+        "Standard Mode",
+        "Offline Mode",
+        "Confidential Mode",
+        "Airplane Mode"
+      ],
+      "answer": 2,
+      "difficulty": "medium",
+      "explanation": "Confidential Mode allows senders to set expiration dates and revoke access to messages, and it disables options to forward, copy, print, or download."
+    },
+    {
+      "id": 4,
+      "question": "Which Windows tool is used to capture a screenshot of a specific portion of your screen?",
+      "options": [
+        "Calculator",
+        "Snipping Tool",
+        "Notepad",
+        "Media Player"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The Snipping Tool is a utility included in Windows to take screenshots of an open window, rectangular areas, a free-form area, or the entire screen."
+    },
+    {
+      "id": 5,
+      "question": "What is 'Medical Transcription'?",
+      "options": [
+        "Prescribing medicines",
+        "Converting voice-recorded reports from physicians into text documents",
+        "Performing surgery",
+        "Managing hospital bills"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "Medical transcriptionists listen to voice recordings made by doctors and type them into written medical reports."
+    },
+    {
+      "id": 6,
+      "question": "Which area in Windows 10 displays notifications and quick settings (like Wi-Fi, Bluetooth)?",
+      "options": [
+        "Recycle Bin",
+        "Action Center",
+        "Control Panel",
+        "File Explorer"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "The Action Center creates a unified place for all system notifications and provides quick access to key settings."
+    },
+    {
+      "id": 7,
+      "question": "Microsoft SwiftKey is an example of what type of AI tool?",
+      "options": [
+        "Video Editor",
+        "AI-Powered Smart Keyboard",
+        "Antivirus",
+        "Web Browser"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "SwiftKey is a smart keyboard app that uses AI to learn your writing style, including slang, nicknames, and emojis, for better prediction."
+    },
+    {
+      "id": 8,
+      "question": "In the context of banking documents, what does 'KYC' stand for?",
+      "options": [
+        "Keep Your Cash",
+        "Know Your Customer",
+        "Know Your Credit",
+        "Keep Your Card"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "KYC (Know Your Customer) is the process of verifying the identity of clients to prevent fraud and illegal activities."
+    },
+    {
+      "id": 9,
+      "question": "What is the purpose of 'Windows Update'?",
+      "options": [
+        "To delete old files",
+        "To change the wallpaper",
+        "To keep the operating system secure and install the latest features/fixes",
+        "To slow down the computer"
+      ],
+      "answer": 2,
+      "difficulty": "easy",
+      "explanation": "Windows Update provides essential service packs, security patches, and other updates to keep the computer secure and running smoothly."
+    },
+    {
+      "id": 10,
+      "question": "Which folder on the Windows Desktop stores deleted files temporarily before they are permanently erased?",
+      "options": [
+        "My Documents",
+        "Recycle Bin",
+        "Inbox",
+        "Spam"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The Recycle Bin holds deleted files, allowing you to restore them if you deleted them by mistake."
+    },
+    {
+      "id": 11,
+      "question": "What is 'Data Validation' in the context of data entry?",
+      "options": [
+        "Checking data for accuracy and quality before using it",
+        "Deleting all data",
+        "Printing data",
+        "Copying data to a USB"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "Data validation ensures that the data entered into a system meets specific criteria (e.g., ensuring a phone number field only contains numbers)."
+    },
+    {
+      "id": 12,
+      "question": "Which Google tool allows you to type text by speaking into your microphone?",
+      "options": [
+        "Google Sheets",
+        "Google Docs Voice Typing",
+        "Google Photos",
+        "Google Drive"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Voice Typing in Google Docs uses speech recognition AI to convert spoken words into text in real-time."
+    },
+    {
+      "id": 13,
+      "question": "Why would you use an 'Email Template' in Gmail?",
+      "options": [
+        "To send viruses",
+        "To respond quickly to common emails using pre-written text",
+        "To change the background color",
+        "To block a user"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Templates save you from typing the same response repeatedly by allowing you to insert pre-saved text blocks."
+    },
+    {
+      "id": 14,
+      "question": "What is 'Cortana' in Windows 10?",
+      "options": [
+        "A type of virus",
+        "A digital voice assistant developed by Microsoft",
+        "A game",
+        "A text editor"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Cortana is Microsoft's productivity assistant that helps you save time and focus on what matters (though its role has evolved in newer Windows versions)."
+    },
+    {
+      "id": 15,
+      "question": "Which of the following is a key reason to install Anti-Virus software?",
+      "options": [
+        "To make games run faster",
+        "To protect the computer from malware and cyber threats",
+        "To increase the hard drive size",
+        "To clean the keyboard"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Anti-virus software detects, prevents, and removes malicious software (malware) to ensure cyber safety."
+    },
+    {
+      "id": 16,
+      "question": "If you want to view all open windows and switch between virtual desktops, which button on the taskbar should you click?",
+      "options": [
+        "Start Button",
+        "Task View",
+        "Volume Icon",
+        "Clock"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "The Task View button allows you to see all open apps at once and manage multiple virtual desktops."
+    },
+    {
+      "id": 17,
+      "question": "Why might a user change the 'System Language' settings in Windows?",
+      "options": [
+        "To make the computer heavier",
+        "To use the computer interface in their local language (e.g., Hindi, Marathi)",
+        "To change the time zone",
+        "To reset the password"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Language settings allow users to read menus, dialog boxes, and other interface items in their preferred language."
+    },
+    {
+      "id": 18,
+      "question": "In Gmail, what is the function of a 'Read Receipt'?",
+      "options": [
+        "To read the email aloud",
+        "To notify the sender that the recipient has opened the email",
+        "To translate the email",
+        "To delete the email"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "A Read Receipt is a notification sent to the sender confirming that the recipient has opened/read the email."
+    },
+    {
+      "id": 19,
+      "question": "Type Fu is mentioned as:",
+      "options": [
+        "A martial art",
+        "An AI Typing Tutor to learn touch typing",
+        "A cooking app",
+        "A music player"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Type Fu is an application designed to help users learn and master touch typing."
+    },
+    {
+      "id": 20,
+      "question": "What appears when you hover your mouse pointer over an icon without clicking?",
+      "options": [
+        "The icon disappears",
+        "A Tool Tip (small description)",
+        "The computer shuts down",
+        "A video plays"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "A Tool Tip is a brief informative message that appears when a user interacts with an element (like hovering over it)."
+    }
+  ]
+}

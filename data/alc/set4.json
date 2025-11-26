@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "title": "Session 04: Email, AI Tools & Office Productivity",
+    "description": "Covers Gmail advanced features (Scheduling, Signatures), AI writing tools (QuillBot, Grammarly, Gemini), basic MS Word/Excel skills, and Windows system maintenance."
+  },
+  "studyTopics": [
+    {
+      "topic": "Gmail Advanced Features",
+      "hint": "Tools like 'Schedule Send' and 'Signature' save time.",
+      "searchQuery": "how to schedule email and add signature in Gmail",
+      "learningOutcome": "Manage email communication professionally using automation and scheduling."
+    },
+    {
+      "topic": "AI Writing Assistants",
+      "hint": "Using AI to fix grammar or rewrite text.",
+      "searchQuery": "what is QuillBot and Grammarly used for",
+      "learningOutcome": " leverage AI tools to improve writing quality and efficiency."
+    },
+    {
+      "topic": "Spreadsheet Basics (Excel/Calc)",
+      "hint": "Entering data into cells, rows, and columns.",
+      "searchQuery": "excel basic terms row column cell workbook",
+      "learningOutcome": "Understand the fundamental structure of spreadsheets for data entry."
+    },
+    {
+      "topic": "Windows System Maintenance",
+      "hint": "Cleaning up junk files to speed up the PC.",
+      "searchQuery": "what does disk cleanup and defragmenter do",
+      "learningOutcome": "Perform basic maintenance to keep the computer running smoothly."
+    },
+    {
+      "topic": "Text Processing Skills",
+      "hint": "Editing, undoing mistakes, and wrapping text.",
+      "searchQuery": "ms word text wrapping and undo redo guide",
+      "learningOutcome": "Edit and format documents efficiently using Word or OpenOffice Writer."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "In Gmail, what feature would you use to write an email now but have it delivered automatically at 9:00 AM tomorrow?",
+      "options": [
+        "Snooze",
+        "Schedule Send",
+        "Drafts",
+        "Vacation Responder"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Schedule Send allows you to pick a specific date and time for your email to be sent."
+    },
+    {
+      "id": 2,
+      "question": "Which AI tool mentioned in the session is primarily known as a 'Paraphrasing Assistant' to help rewrite text?",
+      "options": [
+        "MS Excel",
+        "QuillBot",
+        "Paint",
+        "Calculator"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "QuillBot is an AI tool designed to paraphrase and restructure sentences to improve clarity or change tone."
+    },
+    {
+      "id": 3,
+      "question": "What is the function of 'Disk Cleanup' in Windows?",
+      "options": [
+        "To clean the monitor screen",
+        "To delete unnecessary temporary files and free up space",
+        "To delete all your photos",
+        "To install new viruses"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Disk Cleanup scans the drive for temporary and unnecessary files that can be safely deleted to reclaim storage space."
+    },
+    {
+      "id": 4,
+      "question": "In Microsoft Excel or OpenOffice Calc, what is the intersection of a Row and a Column called?",
+      "options": [
+        "Table",
+        "Grid",
+        "Cell",
+        "Box"
+      ],
+      "answer": 2,
+      "difficulty": "easy",
+      "explanation": "A Cell is the specific rectangular box where a row and column meet, used to hold data."
+    },
+    {
+      "id": 5,
+      "question": "Which symbol is used in Gmail to tag or address a specific recipient within the body of an email?",
+      "options": [
+        "# (Hashtag)",
+        "@ (At sign)",
+        "$ (Dollar)",
+        "& (Ampersand)"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Using the @ symbol followed by a name allows you to mention a specific person in an email."
+    },
+    {
+      "id": 6,
+      "question": "What is 'Google Gemini' described as in this session?",
+      "options": [
+        "A game",
+        "A smarter task management and AI partner",
+        "A video player",
+        "A type of hardware"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Google Gemini is an advanced AI introduced to assist with smarter task management and information processing."
+    },
+    {
+      "id": 7,
+      "question": "If you make a mistake while typing in MS Word, which command allows you to reverse the last action?",
+      "options": [
+        "Delete",
+        "Undo",
+        "Redo",
+        "Paste"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The Undo command (usually Ctrl+Z) reverses the most recent action taken in the document."
+    },
+    {
+      "id": 8,
+      "question": "What is an 'Email Signature'?",
+      "options": [
+        "Signing your name on the screen with a pen",
+        "A block of text (like name and phone number) automatically added to the end of outgoing emails",
+        "A password to open email",
+        "A special font style"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "An automatic signature saves time by appending your contact details or closing sign-off to every email you send."
+    },
+    {
+      "id": 9,
+      "question": "Which device is an input device used specifically to read product codes in a supermarket?",
+      "options": [
+        "Printer",
+        "Barcode Reader",
+        "Speaker",
+        "Plotter"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "A Barcode Reader scans the black and white lines on products to input product data into the computer."
+    },
+    {
+      "id": 10,
+      "question": "What is the main difference between Wi-Fi and a Wired Connection?",
+      "options": [
+        "Wi-Fi is slower than dial-up",
+        "Wired connections use cables (Ethernet); Wi-Fi is wireless",
+        "Wired connections do not need electricity",
+        "Wi-Fi only works on weekends"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Wired connections rely on physical cables (like LAN/Ethernet) connecting the device to the router, while Wi-Fi transmits data via radio waves."
+    },
+    {
+      "id": 11,
+      "question": "In MS Word, what does 'Text Wrapping' allow you to do?",
+      "options": [
+        "Gift wrap the computer",
+        "Control how text flows around images or objects",
+        "Delete text permanently",
+        "Change the color of the text"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "Text Wrapping determines how text fits around graphic elements, such as wrapping tightly around a picture or sitting above/below it."
+    },
+    {
+      "id": 12,
+      "question": "Which AI tool helps check your spelling, grammar, and tone as you write?",
+      "options": [
+        "Photoshop",
+        "Grammarly",
+        "CorelDRAW",
+        "Notepad"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Grammarly is an AI writing assistant that reviews spelling, grammar, punctuation, and clarity."
+    },
+    {
+      "id": 13,
+      "question": "What is the purpose of 'Disk Defragmenter'?",
+      "options": [
+        "To break the disk into pieces",
+        "To rearrange files on the hard drive so they are contiguous, improving speed",
+        "To change the date and time",
+        "To increase internet speed"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "Defragmentation reorganizes scattered data on a hard drive so the computer can read files more efficiently."
+    },
+    {
+      "id": 14,
+      "question": "Which formatting mode in Gmail allows you to use bold, colors, and bullets?",
+      "options": [
+        "Plain Text Mode",
+        "Rich Text Mode",
+        "Hidden Mode",
+        "Silent Mode"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Rich Text formatting supports styling options like bold, italics, colors, and lists, unlike Plain Text."
+    },
+    {
+      "id": 15,
+      "question": "What is a 'Shortcut' in Windows?",
+      "options": [
+        "A shorter power cable",
+        "A link/icon that points to a file, folder, or program for quick access",
+        "A type of virus",
+        "A missing file"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "A shortcut is a small file that points to the actual location of a program or document, allowing you to open it from the desktop."
+    },
+    {
+      "id": 16,
+      "question": "Which of the following software is best suited for creating a digital spreadsheet?",
+      "options": [
+        "Adobe InDesign",
+        "Microsoft Excel",
+        "CorelDRAW",
+        "Paint"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Microsoft Excel (and OpenOffice Calc) is designed specifically for creating and managing spreadsheets."
+    },
+    {
+      "id": 17,
+      "question": "When entering data in Excel, what happens if the text is too long for the cell?",
+      "options": [
+        "The computer shuts down",
+        "It may spill over or appear cut off unless you adjust the Column Width",
+        "It automatically deletes the extra text",
+        "It turns red"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "If data exceeds the cell width, you usually need to widen the column or use 'Wrap Text' to make it visible."
+    },
+    {
+      "id": 18,
+      "question": "What is the primary role of a Data Entry Operator?",
+      "options": [
+        "To repair computers",
+        "To input data from various sources into a computer system accurately",
+        "To design logos",
+        "To sell software"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Data Entry Operators are responsible for entering, updating, and maintaining data in computer systems."
+    },
+    {
+      "id": 19,
+      "question": "Which of the following is a 'Flash Memory' storage device?",
+      "options": [
+        "Monitor",
+        "USB Drive (Pen Drive)",
+        "Keyboard",
+        "Mouse"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "USB drives use flash memory to store data portably."
+    },
+    {
+      "id": 20,
+      "question": "If your computer shows the wrong date or time, where can you fix it?",
+      "options": [
+        "In the Recycle Bin",
+        "In Date and Time Settings",
+        "In Microsoft Word",
+        "In the Printer settings"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Date and Time settings in the Control Panel or Settings app allow you to manually correct the system clock."
+    }
+  ]
+}

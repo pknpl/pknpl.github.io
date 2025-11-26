@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "title": "Session 06: Digital Skills for Daily Life",
+    "description": "Comprehensive guide to WhatsApp advanced features, Digital Payments (UPI), Video Conferencing (Zoom/Meet), and essential AI tools for health, productivity, and travel."
+  },
+  "studyTopics": [
+    {
+      "topic": "WhatsApp Advanced Features",
+      "hint": "Using 2-Step Verification and sending messages without saving numbers.",
+      "searchQuery": "how to enable two step verification WhatsApp",
+      "learningOutcome": "Secure your WhatsApp account and use advanced messaging features efficiently."
+    },
+    {
+      "topic": "Digital Payments (UPI)",
+      "hint": "Using Google Pay and BHIM for cashless transactions.",
+      "searchQuery": "how to use Google Pay scan QR code",
+      "learningOutcome": "Perform safe digital transactions using UPI apps."
+    },
+    {
+      "topic": "Video Conferencing Mastery",
+      "hint": "Using background blur and sharing screens in Zoom/Meet.",
+      "searchQuery": "Google Meet vs Zoom features for students",
+      "learningOutcome": "Manage and participate in professional virtual meetings effectively."
+    },
+    {
+      "topic": "AI for Lifestyle & Health",
+      "hint": "Apps like HealthifyMe for fitness and Suno for music.",
+      "searchQuery": "HealthifyMe app features and benefits",
+      "learningOutcome": "Leverage AI tools to improve health, focus, and creativity."
+    },
+    {
+      "topic": "Smart Travel & Utilities",
+      "hint": "Booking cabs with Ola and navigating with Google Maps.",
+      "searchQuery": "how to book Ola cab step by step",
+      "learningOutcome": "Plan trips and commute easily using digital travel tools."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which security feature in WhatsApp requires a PIN when registering your phone number again, preventing unauthorized access?",
+      "options": [
+        "Screen Lock",
+        "Two-step Authentication",
+        "Chat Backup",
+        "Read Receipts"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Two-step verification adds an extra layer of security by requiring a custom PIN when verifying your phone number."
+    },
+    {
+      "id": 2,
+      "question": "You want to pay a shopkeeper using Google Pay. What is the quickest way to do this if they have a printed code on their counter?",
+      "options": [
+        "Ask for their bank account number",
+        "Scan the QR Code",
+        "Send an email",
+        "Call Google Support"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Scanning the QR (Quick Response) code allows for instant payment without typing a mobile number or UPI ID."
+    },
+    {
+      "id": 3,
+      "question": "Which AI feature in WhatsApp allows you to chat with an intelligent assistant for information or image generation?",
+      "options": [
+        "WhatsApp Status",
+        "Meta AI",
+        "Broadcast Lists",
+        "Archived Chats"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Meta AI is the artificial intelligence assistant integrated into WhatsApp by its parent company, Meta."
+    },
+    {
+      "id": 4,
+      "question": "In a Google Meet call, what function serves as a digital whiteboard for collaboration?",
+      "options": [
+        "Google Maps",
+        "Jamboard",
+        "Gmail",
+        "Calendar"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Jamboard is an interactive whiteboard tool that can be used within Google Meet for brainstorming and collaboration."
+    },
+    {
+      "id": 5,
+      "question": "What is the primary function of the 'Truecaller' app mentioned in the session?",
+      "options": [
+        "To play music",
+        "Caller identification and blocking spammers",
+        "To edit photos",
+        "To book flights"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Truecaller helps identify unknown numbers and block unwanted spam calls."
+    },
+    {
+      "id": 6,
+      "question": "You are in a Zoom meeting and your room is messy. Which feature can you use to hide your surroundings?",
+      "options": [
+        "Turn off audio",
+        "Virtual Background / Background Blur",
+        "Screen Share",
+        "Leave Meeting"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Virtual backgrounds or background blur replace or obscure your actual physical surroundings during a video call."
+    },
+    {
+      "id": 7,
+      "question": "Which AI tool mentioned is designed to transform text into music?",
+      "options": [
+        "Suno",
+        "Todoist",
+        "Google Maps",
+        "Truecaller"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "Suno is an AI tool capable of generating music and songs based on text prompts."
+    },
+    {
+      "id": 8,
+      "question": "If you want to send a large video file (e.g., 1.5 GB) to a friend, which app is generally known for supporting larger file transfers efficiently?",
+      "options": [
+        "SMS",
+        "Telegram",
+        "Classic Bluetooth",
+        "Notepad"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Telegram supports sharing files up to 2GB (or more with Premium), which is significantly higher than standard WhatsApp limits."
+    },
+    {
+      "id": 9,
+      "question": "What is 'Google Translate Conversation Mode' used for?",
+      "options": [
+        "Translating text in images",
+        "Real-time voice translation between two languages spoken by two people",
+        "Translating websites",
+        "Learning to type"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Conversation mode listens to both languages being spoken and translates them aloud in real-time, facilitating dialogue."
+    },
+    {
+      "id": 10,
+      "question": "Which feature in Telegram allows you to have a chat that is not stored on their servers and has a self-destruct timer?",
+      "options": [
+        "Public Channel",
+        "Secret Chat",
+        "Group Chat",
+        "Saved Messages"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "Secret Chats use end-to-end encryption and include self-destruct timers for maximum privacy."
+    },
+    {
+      "id": 11,
+      "question": "What is the purpose of the 'Photo Scan' app by Google Photos?",
+      "options": [
+        "To take selfies",
+        "To digitize old printed photos without glare",
+        "To print photos",
+        "To create cartoons"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Photo Scan is designed to take high-quality digital scans of physical printed photos using your phone camera."
+    },
+    {
+      "id": 12,
+      "question": "Which app is recommended for organizing trips online?",
+      "options": [
+        "MakeMyTrip",
+        "Candy Crush",
+        "Netflix",
+        "Spotify"
+      ],
+      "answer": 0,
+      "difficulty": "easy",
+      "explanation": "MakeMyTrip is a popular travel app for booking flights, hotels, and holiday packages."
+    },
+    {
+      "id": 13,
+      "question": "Which AI companion app is described as an 'AI-Powered Virtual Companion'?",
+      "options": [
+        "Replika",
+        "Excel",
+        "Zoom",
+        "Ola"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "Replika is an AI chatbot designed to act as a personal companion or friend."
+    },
+    {
+      "id": 14,
+      "question": "In WhatsApp, how can you bookmark a message to find it easily later?",
+      "options": [
+        "Delete it",
+        "Star the message",
+        "Block the sender",
+        "Report spam"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Starring a message adds it to a 'Starred Messages' list for quick access."
+    },
+    {
+      "id": 15,
+      "question": "Which app is primarily used for booking cab rides?",
+      "options": [
+        "Ola Cabs",
+        "YouTube",
+        "Kindle",
+        "Notion"
+      ],
+      "answer": 0,
+      "difficulty": "easy",
+      "explanation": "Ola Cabs is a ride-sharing platform used to book taxis and autos."
+    },
+    {
+      "id": 16,
+      "question": "What allows you to share a YouTube video starting from a specific moment (e.g., 2 minutes 30 seconds)?",
+      "options": [
+        "You must cut the video yourself",
+        "Use the 'Start at' checkbox when clicking Share",
+        "It is not possible",
+        "Send the whole video file"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "When sharing a YouTube link, you can check 'Start at [time]' to generate a link that opens directly to that timestamp."
+    },
+    {
+      "id": 17,
+      "question": "What is 'HealthifyMe' used for?",
+      "options": [
+        "Ordering medicine",
+        "Comprehensive health, diet, and fitness tracking",
+        "Booking doctor appointments only",
+        "Playing sports games"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "HealthifyMe is a health companion app for tracking calories, diet, and workouts."
+    },
+    {
+      "id": 18,
+      "question": "Which application is an 'All-in-One Workspace' for notes, tasks, and databases?",
+      "options": [
+        "Notion",
+        "Calculator",
+        "Camera",
+        "FM Radio"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "Notion is a versatile productivity tool that combines notes, docs, project management, and wikis."
+    },
+    {
+      "id": 19,
+      "question": "To read eBooks or listen to audiobooks, which Amazon service/device is recommended?",
+      "options": [
+        "Fire Stick",
+        "Kindle",
+        "Echo",
+        "Prime Video"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Kindle is Amazon's brand for e-readers and the associated app for reading eBooks."
+    },
+    {
+      "id": 20,
+      "question": "Brain.fm uses AI to generate music specifically for:",
+      "options": [
+        "Dancing at parties",
+        "Focus, relaxation, and sleep",
+        "Learning to play guitar",
+        "Video editing"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Brain.fm uses functional music designed by AI to steer your mental state toward focus or relaxation."
+    }
+  ]
+}
