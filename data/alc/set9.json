@@ -1,0 +1,306 @@
+{
+  "meta": {
+    "title": "Session 09: Page Layout & Coupon Design",
+    "description": "Mastering the MS Word Layout Tab (Page Setup, Paragraph, Arrange), designing professional coupons, and exploring AI tools for video and research."
+  },
+  "studyTopics": [
+    {
+      "topic": "Page Setup (Margins & Orientation)",
+      "hint": "Controlling the white space and paper direction.",
+      "searchQuery": "ms word page margins and orientation portrait landscape",
+      "learningOutcome": "Configure document boundaries and choose between Portrait or Landscape modes."
+    },
+    {
+      "topic": "Paragraph Spacing & Indentation",
+      "hint": "Adding space between paragraphs, not just lines.",
+      "searchQuery": "ms word paragraph spacing before after vs line spacing",
+      "learningOutcome": " precise control over the white space surrounding paragraphs."
+    },
+    {
+      "topic": "Arranging Objects",
+      "hint": "Layering images and text using Bring Forward/Send Backward.",
+      "searchQuery": "ms word arrange group wrap text and position",
+      "learningOutcome": "Manage how images and shapes interact with text (wrapping) and each other (layering)."
+    },
+    {
+      "topic": "Designing Coupons in Word",
+      "hint": "Using Shapes and Text Boxes for layout.",
+      "searchQuery": "how to design a coupon in microsoft word tutorial",
+      "learningOutcome": "Apply layout skills to create a printable marketing coupon."
+    },
+    {
+      "topic": "AI for Video Creation (HeyGen)",
+      "hint": "Creating videos with AI avatars.",
+      "searchQuery": "HeyGen AI video generator features",
+      "learningOutcome": "Understand how AI can generate professional videos from text."
+    },
+    {
+      "topic": "AI for Research (NotebookLM)",
+      "hint": "An AI notebook that understands your documents.",
+      "searchQuery": "Google NotebookLM features and use cases",
+      "learningOutcome": "Use AI to summarize, query, and organize research notes."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which tab in MS Word contains the 'Page Setup' group?",
+      "options": [
+        "Insert",
+        "Design",
+        "Layout",
+        "Home"
+      ],
+      "answer": 2,
+      "difficulty": "easy",
+      "explanation": "The Layout tab (sometimes called Page Layout) houses commands for Margins, Orientation, Size, and Columns."
+    },
+    {
+      "id": 2,
+      "question": "You want your document to be wider than it is tall (horizontal). Which Orientation should you select?",
+      "options": [
+        "Portrait",
+        "Landscape",
+        "Vertical",
+        "Narrow"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Landscape orientation prints the document horizontally, making it wider than it is tall."
+    },
+    {
+      "id": 3,
+      "question": " What does the 'Margins' option control in a Word document?",
+      "options": [
+        "The color of the page",
+        "The empty space around the edges of the page",
+        "The font size",
+        "The space between lines"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Margins define the blank borders around the content area (Top, Bottom, Left, Right)."
+    },
+    {
+      "id": 4,
+      "question": "HeyGen is an AI platform primarily used for:",
+      "options": [
+        "Creating spreadsheets",
+        "Generating videos with AI avatars",
+        "Cleaning viruses",
+        "Ordering food"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "HeyGen allows users to create professional videos using AI avatars and voice synthesis from text."
+    },
+    {
+      "id": 5,
+      "question": "In the Paragraph group of the Layout tab, what does 'Spacing After' do?",
+      "options": [
+        "Adds space inside the paragraph",
+        "Adds extra space below the selected paragraph",
+        "Deletes the paragraph",
+        "Changes the font color"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Spacing After adds a defined amount of points (pt) of empty space immediately following the selected paragraph."
+    },
+    {
+      "id": 6,
+      "question": "Which tool in the 'Arrange' group allows you to control how text flows around an image?",
+      "options": [
+        "Rotate",
+        "Align",
+        "Wrap Text",
+        "Group"
+      ],
+      "answer": 2,
+      "difficulty": "easy",
+      "explanation": " Wrap Text determines if text sits above, behind, around, or through an image or object."
+    },
+    {
+      "id": 7,
+      "question": "NotebookLM is an AI tool designed for:",
+      "options": [
+        "Research and note-taking by analyzing uploaded documents",
+        "Playing music",
+        "Editing photos",
+        "Managing emails"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "NotebookLM is an AI-powered research assistant that can summarize and answer questions based on your specific notes and documents."
+    },
+    {
+      "id": 8,
+      "question": "When designing a coupon, which standard paper size is most commonly used for the main document before cutting?",
+      "options": [
+        "A4 or Letter",
+        "Envelope size",
+        "Business Card size",
+        "Stamp size"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "While coupons are small, they are usually designed multiple per page on a standard A4 or Letter sheet and then cut."
+    },
+    {
+      "id": 9,
+      "question": "You have inserted a shape, but it is covering your text. Which command sends the shape behind the text?",
+      "options": [
+        "Bring to Front",
+        "Send Backward > Send Behind Text",
+        "Align Left",
+        "Rotate 90 degrees"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "Sending an object 'Behind Text' places it in the background layer so text appears on top of it."
+    },
+    {
+      "id": 10,
+      "question": "Which feature allows you to split text into two or more vertical blocks, often used in newsletters?",
+      "options": [
+        "Margins",
+        "Columns",
+        "Orientation",
+        "Size"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The Columns feature divides the text on a page into multiple vertical columns."
+    },
+    {
+      "id": 11,
+      "question": "What is the function of the 'Selection Pane' in the Arrange group?",
+      "options": [
+        "To select colors",
+        "To see a list of all objects (shapes, images) and manage their visibility/order",
+        "To select text only",
+        "To print selected pages"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "The Selection Pane lists all graphical objects on the page, allowing you to hide, show, or reorder them easily."
+    },
+    {
+      "id": 12,
+      "question": "If you want to move a paragraph 1 inch away from the left margin, which setting should you change?",
+      "options": [
+        "Right Indent",
+        "Left Indent",
+        "Spacing Before",
+        "Line Spacing"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Increasing the Left Indent pushes the paragraph inward from the left margin."
+    },
+    {
+      "id": 13,
+      "question": "What is a 'Coupon' primarily used for?",
+      "options": [
+        "To write a letter",
+        "To offer a discount or promotion to customers",
+        "To play a game",
+        "To clean the screen"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "A coupon is a ticket or document that can be redeemed for a financial discount or rebate when purchasing a product."
+    },
+    {
+      "id": 14,
+      "question": "Which option allows you to rotate an image or shape?",
+      "options": [
+        "Group",
+        "Rotate",
+        "Align",
+        "Wrap Text"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The Rotate command allows you to turn an object 90 degrees or flip it vertically/horizontally."
+    },
+    {
+      "id": 15,
+      "question": "To treat multiple shapes as a single object so they move together, you should use the ______ command.",
+      "options": [
+        "Group",
+        "Ungroup",
+        "Split",
+        "Merge"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "Grouping combines selected individual objects into one unit."
+    },
+    {
+      "id": 16,
+      "question": "Which of the following is NOT a standard page size option in MS Word?",
+      "options": [
+        "A4",
+        "Letter",
+        "Legal",
+        "T-Shirt"
+      ],
+      "answer": 3,
+      "difficulty": "easy",
+      "explanation": "T-Shirt is not a paper size; A4, Letter, and Legal are standard document sizes."
+    },
+    {
+      "id": 17,
+      "question": "In NotebookLM, how does the AI assist with 'Note-Taking'?",
+      "options": [
+        "It types for you",
+        "It summarizes sources and answers questions based on your uploaded notes",
+        "It buys notebooks online",
+        "It prints notes"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "NotebookLM analyzes the specific documents you upload to generate insights, summaries, and answers."
+    },
+    {
+      "id": 18,
+      "question": "When creating a coupon, why might you use a 'Dashed Line' shape?",
+      "options": [
+        "To look ugly",
+        "To indicate where the customer should cut the coupon",
+        "To underline text",
+        "To cross out text"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "A dashed line is universally recognized as a 'cut here' guide on printed coupons."
+    },
+    {
+      "id": 19,
+      "question": "The 'Align' command in the Arrange group helps you to:",
+      "options": [
+        "Change the font",
+        "Line up objects perfectly (e.g., Align Center, Align Left)",
+        "Change the color",
+        "Delete objects"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Alignment tools ensure that selected objects are perfectly positioned relative to the page or each other."
+    },
+    {
+      "id": 20,
+      "question": "What is the benefit of using 'Breaks' (Page Break) from the Layout tab?",
+      "options": [
+        "It breaks the computer",
+        "It forces text to start on the next page immediately",
+        "It changes the font size",
+        "It deletes the text"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "A Page Break pushes all subsequent text to the top of the next page."
+    }
+  ]
+}

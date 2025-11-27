@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "title": "Session 10: MS Word References & Visual Search",
+    "description": "Mastering the References Tab in MS Word (TOC, Footnotes, Citations) and exploring visual search technology with Google Lens."
+  },
+  "studyTopics": [
+    {
+      "topic": "Table of Contents (TOC)",
+      "hint": "Uses Heading styles to build a list of chapters.",
+      "searchQuery": "how to create automatic table of contents ms word",
+      "learningOutcome": "Generate and update an automatic Table of Contents based on document headings."
+    },
+    {
+      "topic": "Footnotes vs. Endnotes",
+      "hint": "Bottom of the page vs. end of the document.",
+      "searchQuery": "difference between footnote and endnote in word",
+      "learningOutcome": "Understand when and how to add supplementary notes to your text."
+    },
+    {
+      "topic": "Citations & Bibliography",
+      "hint": "Giving credit to authors and creating a source list.",
+      "searchQuery": "insert citation and bibliography in ms word tutorial",
+      "learningOutcome": "Manage sources and generate professional citations (APA, MLA) and bibliographies."
+    },
+    {
+      "topic": "Captions & Cross-references",
+      "hint": "Labels for images (Figure 1) and links within the doc.",
+      "searchQuery": "how to add captions to images in word",
+      "learningOutcome": "Label figures/tables and create internal links for better document navigation."
+    },
+    {
+      "topic": "Google Lens (Visual AI)",
+      "hint": "Searching or translating using your camera.",
+      "searchQuery": "Google Lens features and tricks",
+      "learningOutcome": "Use visual analysis to search objects, translate text, and identify landmarks."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which tab in MS Word is primarily used for adding a Table of Contents, Footnotes, and Citations?",
+      "options": [
+        "Layout",
+        "References",
+        "Review",
+        "View"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The References tab contains all the tools needed for academic and professional document structuring like TOC and citations."
+    },
+    {
+      "id": 2,
+      "question": "What is the key requirement for generating an Automatic Table of Contents in Word?",
+      "options": [
+        "You must bold all text",
+        "You must apply Heading Styles (Heading 1, 2, etc.) to your titles",
+        "You must use red font",
+        "You must insert a table first"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "The Automatic Table of Contents feature looks for text formatted with Heading styles (Heading 1, 2, 3) to build the list."
+    },
+    {
+      "id": 3,
+      "question": "Where does a 'Footnote' appear by default?",
+      "options": [
+        "At the very end of the document",
+        "At the bottom of the page where the reference is marked",
+        "In the header",
+        "In a separate file"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Footnotes appear at the bottom (foot) of the specific page where the note number is inserted."
+    },
+    {
+      "id": 4,
+      "question": "Google Lens is an AI tool that allows you to:",
+      "options": [
+        "Edit videos",
+        "Search what you see, translate text in images, and identify plants",
+        "Format Word documents",
+        "Play mp3 files"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Google Lens uses image recognition AI to analyze photos or live camera feeds for information, translation, and shopping."
+    },
+    {
+      "id": 5,
+      "question": "What is a 'Bibliography'?",
+      "options": [
+        "A biography of the author",
+        "A list of all sources (books, websites) cited in the document",
+        "A list of chapters",
+        "A type of graph"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "A Bibliography (or Works Cited) is a comprehensive list of the sources used to write the document."
+    },
+    {
+      "id": 6,
+      "question": "Which feature would you use to label an image as 'Figure 1' or a table as 'Table 1'?",
+      "options": [
+        "Mark Entry",
+        "Insert Caption",
+        "Insert Footnote",
+        "SmartArt"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "The 'Insert Caption' command is used to add numbered labels to figures, tables, and equations."
+    },
+    {
+      "id": 7,
+      "question": "If you add a new chapter to your document, how do you reflect this change in the Table of Contents?",
+      "options": [
+        "Delete the TOC and create a new one",
+        "Click 'Update Table' and choose 'Update entire table'",
+        "Type it in manually",
+        "Close and reopen the file"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "The 'Update Table' button refreshes the TOC to include any new headings or page number changes."
+    },
+    {
+      "id": 8,
+      "question": "What is the difference between a Footnote and an Endnote?",
+      "options": [
+        "Footnotes are red, Endnotes are blue",
+        "Footnotes appear at the bottom of the page; Endnotes appear at the end of the document/section",
+        "Endnotes are for legal documents only",
+        "There is no difference"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "The main difference is placement: Footnotes are page-specific, while Endnotes collect all notes at the end of the work."
+    },
+    {
+      "id": 9,
+      "question": "The 'Table of Authorities' is primarily used in which type of documents?",
+      "options": [
+        "Cookbooks",
+        "Legal documents (to cite cases, statutes)",
+        "Novels",
+        "Spreadsheets"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "A Table of Authorities is used in legal briefs to list cases, statutes, and other authorities cited in the document."
+    },
+    {
+      "id": 10,
+      "question": "To create an Index (list of keywords with page numbers) at the end of a book, what must you do first?",
+      "options": [
+        "Mark Entry",
+        "Insert Citation",
+        "Insert Caption",
+        "Highlight text"
+      ],
+      "answer": 0,
+      "difficulty": "hard",
+      "explanation": "You must first 'Mark Entry' for the specific words you want to appear in the Index."
+    },
+    {
+      "id": 11,
+      "question": "Which of the following is a common citation style available in MS Word?",
+      "options": [
+        "RGB",
+        "APA (American Psychological Association)",
+        "JPEG",
+        "HDMI"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "APA, MLA, and Chicago are standard academic citation styles supported by MS Word."
+    },
+    {
+      "id": 12,
+      "question": "In the context of Research, what does the 'Smart Lookup' feature do?",
+      "options": [
+        "Finds synonyms",
+        "Searches the web for definitions, images, and other information about selected text",
+        "Finds and replaces text",
+        "Counts words"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Smart Lookup uses Bing to find web results and definitions for the text you select within the document."
+    },
+    {
+      "id": 13,
+      "question": "How can Google Drive with AI integration help you find a specific receipt photo?",
+      "options": [
+        "By remembering the file name only",
+        "By searching for text that appears inside the image (e.g., 'coffee')",
+        "It cannot do that",
+        "By organizing files by color"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Google Drive's AI (OCR) can recognize text within images and PDFs, allowing you to search for files based on their content."
+    },
+    {
+      "id": 14,
+      "question": "What is a 'Cross-reference'?",
+      "options": [
+        "An angry reference",
+        "A link that refers the reader to another location in the same document (e.g., 'See Figure 3')",
+        "A link to a website",
+        "A footnote"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "Cross-references are internal links that direct readers to related items like headings, figures, or footnotes within the same file."
+    },
+    {
+      "id": 15,
+      "question": "The 'Insert Citation' button helps you to:",
+      "options": [
+        "Insert a picture",
+        "Credit a source of information inline with your text",
+        "Insert a page break",
+        "Insert a table"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Citations are used to acknowledge the source of a quote or idea right where it appears in the text."
+    },
+    {
+      "id": 16,
+      "question": "If you want to view all the footnotes in your document, you can use the _____ button.",
+      "options": [
+        "Next Footnote",
+        "Show Notes",
+        "View All",
+        "List Notes"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "The 'Show Notes' button jumps to the footnote or endnote area so you can read or edit them."
+    },
+    {
+      "id": 17,
+      "question": "Which of these is NOT a group in the References Tab?",
+      "options": [
+        "Table of Contents",
+        "Footnotes",
+        "Citations & Bibliography",
+        "Slideshow"
+      ],
+      "answer": 3,
+      "difficulty": "easy",
+      "explanation": "Slideshow is a tab in PowerPoint, not a group in the MS Word References tab."
+    },
+    {
+      "id": 18,
+      "question": "You can use Google Lens to translate text from a menu in a foreign language by:",
+      "options": [
+        "Typing the text manually",
+        "Pointing your camera at the menu and selecting the Translate filter",
+        "Calling a translator",
+        "It cannot translate"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Google Lens has a specific 'Translate' filter that overlays the translation on the live camera view."
+    },
+    {
+      "id": 19,
+      "question": "When you insert a Caption for a table, where is it usually placed?",
+      "options": [
+        "Above or Below the table",
+        "Inside the first cell",
+        "In the footer",
+        "On the next page"
+      ],
+      "answer": 0,
+      "difficulty": "easy",
+      "explanation": "Captions are standardly placed either immediately above or below the object they describe."
+    },
+    {
+      "id": 20,
+      "question": "Which tool allows you to manage all the sources you have cited in a document (edit, delete, copy)?",
+      "options": [
+        "Manage Sources",
+        "Source Control",
+        "Bibliography Builder",
+        "Citation Master"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "The 'Manage Sources' command opens a manager where you can add, edit, or delete sources for your current and master lists."
+    }
+  ]
+}
