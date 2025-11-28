@@ -1,0 +1,312 @@
+{
+  "meta": {
+    "title": "Session 17: Digital India Services & AI in Governance",
+    "description": "A comprehensive guide to online government services (Identity, Schemes, Agriculture, Grievance Redressal) and AI-integrated platforms like UMANG and Ask Disha."
+  },
+  "studyTopics": [
+    {
+      "topic": "Digital Identity & Documents",
+      "hint": "Updating Aadhaar, applying for PAN and Passport online.",
+      "searchQuery": "how to update aadhaar online and apply for PAN card NSDL",
+      "learningOutcome": "Manage essential identity documents (Aadhaar, PAN, Passport, Voter ID) through official portals."
+    },
+    {
+      "topic": "Financial Inclusion Schemes",
+      "hint": "Schemes for insurance, pension, and small business loans.",
+      "searchQuery": "PMJJBY vs PMSBY and Mudra Yojana eligibility",
+      "learningOutcome": "Understand and apply for key welfare schemes like PMJJBY, Atal Pension Yojana, and Mudra Loans."
+    },
+    {
+      "topic": "Digital India Super-Apps",
+      "hint": "One app for many government services (UMANG) and digital wallet for docs (DigiLocker).",
+      "searchQuery": "UMANG app services list and DigiLocker features",
+      "learningOutcome": "Utilize unified platforms like UMANG and DigiLocker to access services and store documents legally."
+    },
+    {
+      "topic": "Agriculture & Land Services",
+      "hint": "Online land records (7/12) and market prices (eNAM).",
+      "searchQuery": "how to download 7/12 utara online maharashtra eNAM benefits",
+      "learningOutcome": "Access land records digitally and understand digital markets for agricultural produce."
+    },
+    {
+      "topic": "Grievance Redressal & Rights",
+      "hint": "Filing complaints against government or businesses.",
+      "searchQuery": "CPGRAMS portal grievance registration process RTI online",
+      "learningOutcome": "Exercise citizen rights by filing RTIs, Consumer Forum complaints, and Public Grievances online."
+    },
+    {
+      "topic": "AI in Public Transport",
+      "hint": "Chatbots for train queries and toll payments.",
+      "searchQuery": "IRCTC Ask Disha 2.0 features FASTag online recharge",
+      "learningOutcome": "Use AI chatbots for travel assistance and manage FASTag for road travel."
+    },
+    {
+      "topic": "Women & Child Safety",
+      "hint": "Apps for emergency safety and girl child savings.",
+      "searchQuery": "Sukanya Samruddhi Yojana details Rakshak app features",
+      "learningOutcome": "Utilize safety apps and apply for schemes benefiting women and children."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which mobile application is a 'Unified Mobile Application for New-age Governance' allowing access to hundreds of central and state services?",
+      "options": [
+        "WhatsApp",
+        "UMANG",
+        "Instagram",
+        "Candy Crush"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "UMANG (Unified Mobile Application for New-age Governance) brings major government services (PF, Aadhaar, Gas booking, etc.) into a single app."
+    },
+    {
+      "id": 2,
+      "question": "Ask Disha 2.0 is an AI-powered chatbot associated with which organization?",
+      "options": [
+        "Income Tax Department",
+        "IRCTC (Indian Railways)",
+        "RBI",
+        "ISRO"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Ask Disha 2.0 is the AI chatbot for IRCTC that answers queries related to train bookings, PNR status, and refunds."
+    },
+    {
+      "id": 3,
+      "question": "What is the primary purpose of 'DigiLocker'?",
+      "options": [
+        "To lock your phone screen",
+        "To store and share authentic digital documents (like Driving License, Marksheets) directly from the issuer",
+        "To hide photos",
+        "To play games"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "DigiLocker provides a digital wallet to store legally valid digital documents issued by government agencies."
+    },
+    {
+      "id": 4,
+      "question": "Which government portal is used to file 'Public Grievances' regarding any central government ministry or department?",
+      "options": [
+        "Facebook",
+        "CPGRAMS",
+        "Netflix",
+        "Amazon"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "CPGRAMS (Centralized Public Grievance Redress and Monitoring System) is the portal for citizens to lodge complaints against government authorities."
+    },
+    {
+      "id": 5,
+      "question": "To apply for a PAN Card online, which of the following portals is authorized?",
+      "options": [
+        "NSDL (Protean) or UTIITSL",
+        "Flipkart",
+        "Wikipedia",
+        "Gmail"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "NSDL and UTIITSL are the two agencies authorized by the Income Tax Department to accept PAN applications."
+    },
+    {
+      "id": 6,
+      "question": "What is the '7/12 Extract' (Satbara Utara) primarily related to?",
+      "options": [
+        "School Leaving Certificate",
+        "Land ownership records in rural areas",
+        "Income Tax Return",
+        "Vehicle Registration"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "The 7/12 extract is a crucial land record document in Maharashtra that details ownership, occupancy, and crop information."
+    },
+    {
+      "id": 7,
+      "question": "Pradhan Mantri Mudra Yojana (PMMY) provides loans primarily to:",
+      "options": [
+        "Large Corporations only",
+        "Small and Micro Enterprises (Non-Corporate, Non-Farm)",
+        "International Banks",
+        "Government Employees only"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Mudra Yojana supports the development of micro-enterprise sector by providing refinance support to banks for lending to small businesses."
+    },
+    {
+      "id": 8,
+      "question": "Which tag is mandatory for vehicles to enable automatic toll deduction at toll plazas?",
+      "options": [
+        "Price Tag",
+        "HashTag",
+        "FASTag",
+        "Name Tag"
+      ],
+      "answer": 2,
+      "difficulty": "easy",
+      "explanation": "FASTag is an electronic toll collection system that employs RFID technology for making toll payments directly from a prepaid account."
+    },
+    {
+      "id": 9,
+      "question": "What is the 'Soil Health Card' used for?",
+      "options": [
+        "To check the health of the farmer",
+        "To check the nutrient status of the soil and recommend fertilizers",
+        "To buy land",
+        "To sell crops"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "The Soil Health Card gives farmers information on the nutrient status of their soil along with recommendations on appropriate dosage of fertilizers."
+    },
+    {
+      "id": 10,
+      "question": "Which portal allows you to search and apply for jobs across India and offers career counselling?",
+      "options": [
+        "National Career Service (NCS)",
+        "IRCTC",
+        "Swachh Bharat",
+        "MyGov"
+      ],
+      "answer": 0,
+      "difficulty": "easy",
+      "explanation": "The National Career Service (NCS) portal bridges the gap between job seekers and employers and provides career guidance."
+    },
+    {
+      "id": 11,
+      "question": "RTI stands for:",
+      "options": [
+        "Right to Internet",
+        "Right to Information",
+        "Right to Income",
+        "Ready to Install"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The Right to Information (RTI) Act empowers citizens to request information from public authorities."
+    },
+    {
+      "id": 12,
+      "question": "Which scheme focuses on the welfare of the 'Girl Child' (savings scheme)?",
+      "options": [
+        "Pradhan Mantri Awas Yojana",
+        "Sukanya Samruddhi Yojana",
+        "Atal Pension Yojana",
+        "Digital India"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Sukanya Samruddhi Yojana is a small deposit scheme for the girl child launched as a part of the 'Beti Bachao Beti Padhao' campaign."
+    },
+    {
+      "id": 13,
+      "question": "eNAM stands for:",
+      "options": [
+        "Electronic National Agriculture Market",
+        "Electronic New American Map",
+        "Easy National Money",
+        "Electronic News and Media"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "eNAM is an online trading platform for agricultural commodities in India."
+    },
+    {
+      "id": 14,
+      "question": "Google AI Studio is mentioned as a tool to:",
+      "options": [
+        "Book train tickets",
+        "Build, prototype, and deploy AI models",
+        "Apply for PAN card",
+        "Check weather"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "Google AI Studio is a platform for developers to build and experiment with generative AI models."
+    },
+    {
+      "id": 15,
+      "question": "Which digital platform invites citizens to share ideas and insights with the Prime Minister and participate in governance?",
+      "options": [
+        "MyGov.in",
+        "Flipkart",
+        "Netflix",
+        "Uber"
+      ],
+      "answer": 0,
+      "difficulty": "easy",
+      "explanation": "MyGov is a citizen engagement platform that allows users to participate in discussions and contribute to governance."
+    },
+    {
+      "id": 16,
+      "question": "Atal Pension Yojana (APY) is primarily a:",
+      "options": [
+        "Health Insurance Scheme",
+        "Pension Scheme for the unorganized sector",
+        "Scholarship Scheme",
+        "Housing Scheme"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "APY is a pension scheme focused on the unorganized sector to provide a steady income after retirement."
+    },
+    {
+      "id": 17,
+      "question": "What is the purpose of the 'Rakshak App'?",
+      "options": [
+        "Ordering food",
+        "Safety of Women and Senior Citizens (Emergency alerts)",
+        "Watching movies",
+        "Investing in stocks"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Rakshak is a safety app designed to send emergency alerts to contacts in case of distress."
+    },
+    {
+      "id": 18,
+      "question": "Which of these is used to 'electronically sign' documents using your Aadhaar?",
+      "options": [
+        "eSign",
+        "ePost",
+        "eMail",
+        "eBay"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "eSign is an online electronic signature service that lets Aadhaar holders digitally sign documents."
+    },
+    {
+      "id": 19,
+      "question": "To apply for a Passport online, you must visit:",
+      "options": [
+        "Passport Seva Portal",
+        "IRCTC",
+        "Amazon",
+        "Zomato"
+      ],
+      "answer": 0,
+      "difficulty": "easy",
+      "explanation": "The Passport Seva portal is the official platform for Indian citizens to apply for a passport."
+    },
+    {
+      "id": 20,
+      "question": "If you want to view work details under the rural employment guarantee scheme, which portal should you visit?",
+      "options": [
+        "MGNREGA Portal",
+        "IRCTC",
+        "NASA",
+        "Spotify"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "The MGNREGA portal provides transparency regarding work details, job cards, and payments under the rural employment act."
+    }
+  ]
+}

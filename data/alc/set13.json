@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "title": "Session 13: View Tab, Macros & Help",
+    "description": "Explores the View Tab features including Document Views, Immersive Reader, Window management, Macros for automation, and the Help Tab resources."
+  },
+  "studyTopics": [
+    {
+      "topic": "Document Views",
+      "hint": "Different ways to look at your document (Read, Print, Web).",
+      "searchQuery": "ms word read mode vs print layout vs web layout",
+      "learningOutcome": "Choose the appropriate view for reading, editing, or web publishing."
+    },
+    {
+      "topic": "Immersive Reader (Accessibility)",
+      "hint": "Tools to help with reading focus and text-to-speech.",
+      "searchQuery": "how to use immersive reader in word",
+      "learningOutcome": "Use AI-powered tools like Line Focus and Read Aloud to improve reading accessibility."
+    },
+    {
+      "topic": "Window Management",
+      "hint": "Viewing two parts of the same document or multiple files.",
+      "searchQuery": "ms word split window vs new window feature",
+      "learningOutcome": "Manage multiple windows effectively to compare or edit different sections simultaneously."
+    },
+    {
+      "topic": "Macros (Basic Automation)",
+      "hint": "Recording a sequence of actions to repeat later.",
+      "searchQuery": "how to record and run a macro in ms word",
+      "learningOutcome": "Understand the concept of automation by recording simple tasks as Macros."
+    },
+    {
+      "topic": "Getting Help in Documents",
+      "hint": "Using the F1 key or Help tab for support.",
+      "searchQuery": "ms word help tab features training feedback",
+      "learningOutcome": "Find solutions and training materials directly within the application."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which view is the default view in MS Word that shows the document exactly as it will look when printed?",
+      "options": [
+        "Read Mode",
+        "Web Layout",
+        "Print Layout",
+        "Outline"
+      ],
+      "answer": 2,
+      "difficulty": "easy",
+      "explanation": "Print Layout is the standard view that displays margins, headers, footers, and page breaks as they will appear on paper."
+    },
+    {
+      "id": 2,
+      "question": "What is the primary purpose of the 'Immersive Reader' found in the View tab?",
+      "options": [
+        "To play video games",
+        "To customize the reading experience for better focus and accessibility (e.g., Read Aloud, Line Focus)",
+        "To print the document",
+        "To translate the document into binary"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Immersive Reader uses AI to improve reading comprehension by offering tools like text-to-speech, line isolation, and spacing adjustments."
+    },
+    {
+      "id": 3,
+      "question": "Which command allows you to view two different parts of the *same* document at the same time?",
+      "options": [
+        "New Window",
+        "Split",
+        "Zoom",
+        "Macros"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "The 'Split' command divides the current window horizontally, allowing you to scroll through two different sections of the same file independently."
+    },
+    {
+      "id": 4,
+      "question": "What is a 'Macro' in MS Word?",
+      "options": [
+        "A large font size",
+        "A recorded series of commands and instructions that you group together as a single command to automate a task",
+        "A type of virus",
+        "A zoom level"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "Macros allow users to record a sequence of clicks and keystrokes to automate repetitive tasks."
+    },
+    {
+      "id": 5,
+      "question": "Which function key is the universal shortcut to open the 'Help' pane in Microsoft Office applications?",
+      "options": [
+        "F1",
+        "F5",
+        "F10",
+        "Esc"
+      ],
+      "answer": 0,
+      "difficulty": "easy",
+      "explanation": "F1 is the standard shortcut key to open the Help window in Word, Excel, and PowerPoint."
+    },
+    {
+      "id": 6,
+      "question": "In the 'Show' group, which option would you check to see the horizontal and vertical measuring tools along the edges of your document?",
+      "options": [
+        "Gridlines",
+        "Navigation Pane",
+        "Ruler",
+        "Thumbnails"
+      ],
+      "answer": 2,
+      "difficulty": "easy",
+      "explanation": "The Ruler option toggles the display of the measurement bars used for setting tabs, indents, and margins."
+    },
+    {
+      "id": 7,
+      "question": "If you want to read a document like a book, flipping pages horizontally instead of scrolling down, which Page Movement option should you choose?",
+      "options": [
+        "Vertical",
+        "Side-to-Side",
+        "Jump",
+        "Diagonal"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Side-to-Side page movement mimics a book, allowing you to slide pages horizontally."
+    },
+    {
+      "id": 8,
+      "question": "Which View mode removes almost all interface elements (ribbons/toolbars) to maximize the reading area?",
+      "options": [
+        "Draft",
+        "Outline",
+        "Read Mode",
+        "Print Layout"
+      ],
+      "answer": 2,
+      "difficulty": "easy",
+      "explanation": "Read Mode optimizes the screen for reading by hiding editing tools and adjusting the layout."
+    },
+    {
+      "id": 9,
+      "question": "What happens if you click 'Page Width' in the Zoom group?",
+      "options": [
+        "The page becomes wider",
+        "The document zoom is adjusted so the width of the page fills the screen",
+        "The text is deleted",
+        "The margins disappear"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Page Width zooms the document in or out so that the left and right edges of the paper match the width of your window."
+    },
+    {
+      "id": 10,
+      "question": "The 'Navigation Pane' helps you to:",
+      "options": [
+        "Browse the internet",
+        "Quickly move between Headings, Pages, or search results within the document",
+        "Calculate numbers",
+        "Record audio"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "The Navigation Pane provides a sidebar to jump to specific headings, pages, or search terms found in the document."
+    },
+    {
+      "id": 11,
+      "question": "Which view is most useful for seeing the structure of a document and moving whole sections (Headings) around easily?",
+      "options": [
+        "Web Layout",
+        "Outline View",
+        "Read Mode",
+        "Focus"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "Outline View displays the document as a hierarchy of headings, making it easy to collapse, expand, and reorganize sections."
+    },
+    {
+      "id": 12,
+      "question": "What is the purpose of the 'Switch Windows' command?",
+      "options": [
+        "To close all windows",
+        "To toggle between multiple open Word documents",
+        "To restart the computer",
+        "To open a new file"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Switch Windows provides a list of currently open Word files so you can quickly jump from one to another."
+    },
+    {
+      "id": 13,
+      "question": "In 'Web Layout' view, how does the document appear?",
+      "options": [
+        "Like a printed page",
+        "As one continuous page without page breaks, similar to a webpage",
+        "In black and white only",
+        "With line numbers"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Web Layout simulates how the document would look if saved as a web page, wrapping text to the window size with no page breaks."
+    },
+    {
+      "id": 14,
+      "question": "The 'Arrange All' button in the Window group allows you to:",
+      "options": [
+        "Sort paragraphs alphabetically",
+        "Stack all open Word windows on the screen so you can see them all at once",
+        "Close all windows",
+        "Merge documents"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Arrange All tiles all open Word windows horizontally or vertically so they are all visible simultaneously."
+    },
+    {
+      "id": 15,
+      "question": "Which Zoom option would you select to see the whole page (top to bottom) on your screen at once?",
+      "options": [
+        "100%",
+        "Page Width",
+        "One Page (Whole Page)",
+        "Text Width"
+      ],
+      "answer": 2,
+      "difficulty": "medium",
+      "explanation": "The 'One Page' zoom setting fits the entire height and width of a single page into the current window."
+    },
+    {
+      "id": 16,
+      "question": "If you want to view gridlines on your document to help align objects, which group in the View tab should you look in?",
+      "options": [
+        "Zoom",
+        "Show",
+        "Window",
+        "Macros"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Gridlines are toggled via a checkbox in the 'Show' group."
+    },
+    {
+      "id": 17,
+      "question": "Which of the following is NOT a feature found in the Help Tab?",
+      "options": [
+        "Show Training",
+        "Contact Support",
+        "Feedback",
+        "Insert Video"
+      ],
+      "answer": 3,
+      "difficulty": "easy",
+      "explanation": "Insert Video is located in the Insert Tab, not the Help Tab."
+    },
+    {
+      "id": 18,
+      "question": "When using 'Record Macro', where can you assign the macro for quick access?",
+      "options": [
+        "Only to the File menu",
+        "To a Button (Quick Access Toolbar) or a Keyboard Shortcut",
+        "You cannot assign it anywhere",
+        "To the printer"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "When creating a macro, Word asks if you want to assign it to a Button or a Keyboard Shortcut."
+    },
+    {
+      "id": 19,
+      "question": "Draft View is best used for:",
+      "options": [
+        "Final printing",
+        "Quick editing of text without distractions like headers, footers, or images",
+        "Web design",
+        "Reading"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Draft view simplifies the layout to focus purely on text entry and editing, hiding layout elements."
+    },
+    {
+      "id": 20,
+      "question": "The 'Synchronous Scrolling' feature (available when viewing Side by Side) ensures that:",
+      "options": [
+        "You scroll one document and the other scrolls automatically with it",
+        "Both documents save at the same time",
+        "The documents are merged",
+        "The zoom level is locked"
+      ],
+      "answer": 0,
+      "difficulty": "hard",
+      "explanation": "Synchronous Scrolling locks the scroll bars of two side-by-side documents so they move together for easy comparison."
+    }
+  ]
+}

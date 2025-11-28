@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "title": "Session 18: Introduction to MS Excel",
+    "description": "Introduction to the Microsoft Excel User Interface, File Tab, and Home Tab features including Alignment, Number formatting, and Cell management."
+  },
+  "studyTopics": [
+    {
+      "topic": "Excel User Interface",
+      "hint": "Know your Rows, Columns, and the Formula Bar.",
+      "searchQuery": "parts of ms excel window user interface",
+      "learningOutcome": "Identify key components like the Name Box, Formula Bar, Rows, and Columns."
+    },
+    {
+      "topic": "Cell Addressing",
+      "hint": "It's like a coordinate system (Column Letter + Row Number).",
+      "searchQuery": "how to read cell address in excel",
+      "learningOutcome": "Understand how to identify cells (e.g., A1, B5) and ranges."
+    },
+    {
+      "topic": "Alignment & Merge",
+      "hint": "Wrap Text fits long text; Merge combines cells.",
+      "searchQuery": "excel wrap text and merge cells tutorial",
+      "learningOutcome": "Format text layout within cells using Wrap Text and Merge & Center."
+    },
+    {
+      "topic": "Number Formatting",
+      "hint": "Changing how numbers look (Currency, %, Date).",
+      "searchQuery": "ms excel number format options explained",
+      "learningOutcome": "Apply specific formats like Currency, Percentage, or Date to numerical data."
+    },
+    {
+      "topic": "Managing Cells (Rows/Columns)",
+      "hint": "Inserting or deleting space in your sheet.",
+      "searchQuery": "insert delete rows and columns in excel",
+      "learningOutcome": "Insert, delete, and format rows, columns, and individual cells."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which software is primarily used for calculations, analyzing data, and creating spreadsheets?",
+      "options": [
+        "Microsoft Word",
+        "Microsoft Excel",
+        "Microsoft PowerPoint",
+        "Notepad"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Microsoft Excel is a spreadsheet program used for storing, organizing, and manipulating data."
+    },
+    {
+      "id": 2,
+      "question": "In Excel, what is the intersection of a Row and a Column called?",
+      "options": [
+        "Table",
+        "Grid",
+        "Cell",
+        "Box"
+      ],
+      "answer": 2,
+      "difficulty": "easy",
+      "explanation": "A Cell is the rectangular box where a row and column meet, identified by an address (e.g., A1)."
+    },
+    {
+      "id": 3,
+      "question": "Which feature in the Alignment group allows you to display long text on multiple lines within a single cell?",
+      "options": [
+        "Merge & Center",
+        "Wrap Text",
+        "Orientation",
+        "Shrink to Fit"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Wrap Text forces text to break into new lines so that all of it is visible within the cell width."
+    },
+    {
+      "id": 4,
+      "question": "What is the correct format of a cell address in Excel?",
+      "options": [
+        "1A (Row number then Column letter)",
+        "A1 (Column letter then Row number)",
+        "A-1",
+        "1-A"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Cell addresses always start with the Column Letter followed by the Row Number (e.g., C5)."
+    },
+    {
+      "id": 5,
+      "question": "Which command combines multiple selected cells into one large cell and centers the content?",
+      "options": [
+        "Wrap Text",
+        "Merge & Center",
+        "Group",
+        "Combine"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Merge & Center joins selected cells into one larger cell and centers the text inside it."
+    },
+    {
+      "id": 6,
+      "question": "In the Number group, which symbol would you click to format a number as currency (e.g., ₹ or $)?",
+      "options": [
+        "%",
+        "The Accounting Number Format (Banknote/Coin icon)",
+        ", (Comma)",
+        ".00 (Decimal)"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The Accounting Number Format button applies currency symbols and aligns decimals."
+    },
+    {
+      "id": 7,
+      "question": "Where is the 'Name Box' located in the Excel interface?",
+      "options": [
+        "To the left of the Formula Bar",
+        "At the bottom of the screen",
+        "Inside the cell",
+        "On the right side"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "The Name Box is located to the left of the Formula Bar and displays the address of the currently selected cell."
+    },
+    {
+      "id": 8,
+      "question": "What is the standard file extension for a modern Excel Workbook?",
+      "options": [
+        ".docx",
+        ".pptx",
+        ".xlsx",
+        ".txt"
+      ],
+      "answer": 2,
+      "difficulty": "easy",
+      "explanation": ".xlsx is the default file format for Excel workbooks from version 2007 onwards."
+    },
+    {
+      "id": 9,
+      "question": "Which bar displays the content or formula of the active cell and allows you to edit it?",
+      "options": [
+        "Status Bar",
+        "Title Bar",
+        "Formula Bar",
+        "Scroll Bar"
+      ],
+      "answer": 2,
+      "difficulty": "easy",
+      "explanation": "The Formula Bar shows the data or equation stored in the active cell."
+    },
+    {
+      "id": 10,
+      "question": "To add a new row between existing rows, which group in the Home Tab should you use?",
+      "options": [
+        "Font",
+        "Alignment",
+        "Cells (Insert command)",
+        "Number"
+      ],
+      "answer": 2,
+      "difficulty": "medium",
+      "explanation": "The Cells group contains the 'Insert' dropdown, which allows you to insert Sheet Rows or Columns."
+    },
+    {
+      "id": 11,
+      "question": "If you want to display a number as a Percentage (e.g., 0.5 becomes 50%), which button should you press?",
+      "options": [
+        "Bold",
+        "Percent Style (%)",
+        "Comma Style",
+        "Currency"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The Percent Style button multiplies the value by 100 and adds a percentage sign."
+    },
+    {
+      "id": 12,
+      "question": "Which feature allows you to change the background color of a cell?",
+      "options": [
+        "Font Color",
+        "Fill Color (Paint Bucket)",
+        "Borders",
+        "Styles"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The Fill Color tool (paint bucket icon) fills the cell background with a selected color."
+    },
+    {
+      "id": 13,
+      "question": "In the Styles group, 'Cell Styles' allow you to:",
+      "options": [
+        "Delete the cell",
+        "Quickly apply pre-designed formatting (color, font, size) to a cell",
+        "Change the row height",
+        "Insert a picture"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Cell Styles provide a gallery of pre-set formats (like 'Good', 'Bad', 'Neutral', 'Heading') for quick professional formatting."
+    },
+    {
+      "id": 14,
+      "question": "How are Columns identified in an Excel worksheet?",
+      "options": [
+        "By Numbers (1, 2, 3...)",
+        "By Letters (A, B, C...)",
+        "By Symbols",
+        "By Names"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Columns run vertically and are labeled with letters (A, B, C...). Rows are labeled with numbers."
+    },
+    {
+      "id": 15,
+      "question": "The 'Clear' command in the Editing group can be used to:",
+      "options": [
+        "Delete the file",
+        "Clear content, formats, or comments from the selected cells",
+        "Close the window",
+        "Save the file"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "The Clear dropdown offers options to Clear All, Clear Formats, Clear Contents, etc."
+    },
+    {
+      "id": 16,
+      "question": "Which of these is NOT a vertical alignment option in Excel?",
+      "options": [
+        "Top Align",
+        "Middle Align",
+        "Bottom Align",
+        "Diagonal Align"
+      ],
+      "answer": 3,
+      "difficulty": "medium",
+      "explanation": "Excel supports Top, Middle, and Bottom vertical alignment. Diagonal is an orientation/rotation setting, not a standard alignment."
+    },
+    {
+      "id": 17,
+      "question": "What happens if you double-click the boundary line between two column headers?",
+      "options": [
+        "It deletes the column",
+        "It hides the column",
+        "It auto-fits the column width to the content",
+        "It merges the columns"
+      ],
+      "answer": 2,
+      "difficulty": "hard",
+      "explanation": "Double-clicking the boundary acts as 'AutoFit', adjusting the width to fit the longest entry in that column."
+    },
+    {
+      "id": 18,
+      "question": "The 'Format Painter' tool is used to:",
+      "options": [
+        "Paint pictures",
+        "Copy formatting from one cell and apply it to another",
+        "Delete cell content",
+        "Change cell size"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Format Painter copies the look (font, color, border) of a cell without copying the actual data."
+    },
+    {
+      "id": 19,
+      "question": "Which group contains the buttons to increase or decrease the decimal places displayed for a number?",
+      "options": [
+        "Alignment",
+        "Number",
+        "Font",
+        "Cells"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "The Number group has specific buttons to Increase Decimal and Decrease Decimal precision."
+    },
+    {
+      "id": 20,
+      "question": "What is the basic unit of a worksheet into which you enter data?",
+      "options": [
+        "Tab",
+        "Cell",
+        "Range",
+        "Formula"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "A Cell is the fundamental unit for data entry in a spreadsheet."
+    }
+  ]
+}

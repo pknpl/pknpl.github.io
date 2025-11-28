@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "title": "Session 15: Designing Invitations & Efficient Note-Taking",
+    "description": "Learn to design creative invitation cards using MS Word layout tools and master digital note-taking strategies using templates."
+  },
+  "studyTopics": [
+    {
+      "topic": "Creative Invitation Design",
+      "hint": "Using Page Borders and Text Boxes for flexible layout.",
+      "searchQuery": "how to make invitation card in word step by step",
+      "learningOutcome": "Design printable invitation cards with custom backgrounds, borders, and typography."
+    },
+    {
+      "topic": "Working with Templates",
+      "hint": "Pre-designed files you can customize (File > New).",
+      "searchQuery": "using microsoft word templates for notes",
+      "learningOutcome": "Use and customize Word templates to save time on repetitive document creation."
+    },
+    {
+      "topic": "Efficient Note-Taking Tools",
+      "hint": "Bullets, Numbering, and Styles organize information.",
+      "searchQuery": "digital note taking techniques microsoft word",
+      "learningOutcome": "Apply formatting tools like lists and headings to create structured, readable notes."
+    },
+    {
+      "topic": "Paper Sizes & Printing",
+      "hint": "A5 is half of A4; commonly used for invites.",
+      "searchQuery": "standard paper sizes for invitation cards",
+      "learningOutcome": "Select appropriate paper sizes and print settings for different types of documents."
+    },
+    {
+      "topic": "Digital Organization (Digital Skill)",
+      "hint": "Saving to the cloud for access anywhere.",
+      "searchQuery": "benefits of digital note taking vs paper",
+      "learningOutcome": "Understand the advantages of digital notes, such as searchability and cloud syncing."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the primary function of an Invitation Card?",
+      "options": [
+        "To write a long story",
+        "To request the presence of someone at an event",
+        "To calculate expenses",
+        "To protect the computer"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Invitation cards are formal requests inviting guests to attend specific events like weddings, parties, or ceremonies."
+    },
+    {
+      "id": 2,
+      "question": "Which MS Word feature is best for placing text in specific areas of an invitation card, independent of margins?",
+      "options": [
+        "Header",
+        "Text Box",
+        "Footnote",
+        "Drop Cap"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Text Boxes act as floating containers, allowing you to drag and position text anywhere on the page layout."
+    },
+    {
+      "id": 3,
+      "question": "In the context of MS Word, what is a 'Template'?",
+      "options": [
+        "A temporary file that deletes itself",
+        "A pre-designed document format that can be used as a starting point",
+        "A virus",
+        "A type of printer"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Templates provide a pre-set structure and design (e.g., for notes or resumes) so you don't have to start from blank."
+    },
+    {
+      "id": 4,
+      "question": "When designing a formal invitation, which tab allows you to add a decorative border around the page?",
+      "options": [
+        "View",
+        "Design (Page Borders)",
+        "Review",
+        "References"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The Page Borders command, found in the Design tab, lets you apply artistic borders to the entire page."
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is a key benefit of 'Digital Note-Taking' over traditional paper notes?",
+      "options": [
+        "Digital notes can be searched instantly using keywords",
+        "Paper notes are heavier",
+        "Digital notes fade over time",
+        "There is no benefit"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "Searchability is a major advantage; you can find specific terms in digital notes instantly, unlike paper notebooks."
+    },
+    {
+      "id": 6,
+      "question": "To organize notes hierarchically (Main points vs. Sub-points), which tool should you use?",
+      "options": [
+        "Bold",
+        "Multilevel List / Bullets",
+        "Watermark",
+        "Page Color"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Multilevel lists allow you to indent items to show sub-points under main points, creating a clear hierarchy."
+    },
+    {
+      "id": 7,
+      "question": "Which paper size is commonly used for smaller invitation cards (half the size of standard A4)?",
+      "options": [
+        "A0",
+        "A1",
+        "A5",
+        "Legal"
+      ],
+      "answer": 2,
+      "difficulty": "medium",
+      "explanation": "A5 (148 x 210 mm) is half the size of A4 and is a very popular standard size for invitations and flyers."
+    },
+    {
+      "id": 8,
+      "question": "How do you access online templates in Microsoft Word?",
+      "options": [
+        "Go to File > New and search in the search bar",
+        "Go to Insert > Pictures",
+        "Restart the computer",
+        "Go to View > Zoom"
+      ],
+      "answer": 0,
+      "difficulty": "easy",
+      "explanation": "The 'New' screen in the File tab allows you to search for thousands of online templates provided by Microsoft."
+    },
+    {
+      "id": 9,
+      "question": "Which alignment is most traditional for the text on a formal invitation card?",
+      "options": [
+        "Left Align",
+        "Right Align",
+        "Center Align",
+        "Justify"
+      ],
+      "answer": 2,
+      "difficulty": "easy",
+      "explanation": "Center alignment is the standard for formal invitations as it presents the information symmetrically and elegantly."
+    },
+    {
+      "id": 10,
+      "question": "Which digital skill involves saving your notes to a service like OneDrive or Google Drive?",
+      "options": [
+        "Cloud Storage / Syncing",
+        "Printing",
+        "Scanning",
+        "Typing"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "Cloud storage allows your notes to be saved online, making them accessible from any device (phone, laptop, tablet)."
+    },
+    {
+      "id": 11,
+      "question": "If you want to print 4 small invitations on a single sheet of A4 paper, which print setting should you adjust?",
+      "options": [
+        "Pages per sheet",
+        "Font Size",
+        "Font Color",
+        "Bold"
+      ],
+      "answer": 0,
+      "difficulty": "hard",
+      "explanation": "The 'Pages per sheet' option in Print settings allows you to scale down and print multiple document pages on one physical sheet."
+    },
+    {
+      "id": 12,
+      "question": "What is the purpose of adding 'Alt Text' to images in your digital notes?",
+      "options": [
+        "To delete the image",
+        "To improve accessibility for screen readers (describing the image)",
+        "To make the image black and white",
+        "To print the image"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "Alt Text (Alternative Text) provides a text description of images for users who are visually impaired."
+    },
+    {
+      "id": 13,
+      "question": "Which tool would you use to change the background color of your invitation card?",
+      "options": [
+        "Insert > Table",
+        "Design > Page Color",
+        "View > Ruler",
+        "Home > Cut"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The Page Color option in the Design tab fills the entire background of the document with a selected color."
+    },
+    {
+      "id": 14,
+      "question": "When taking notes during a lecture, which view in Word helps you focus by removing toolbars?",
+      "options": [
+        "Draft View",
+        "Focus Mode / Read Mode",
+        "Print Layout",
+        "Outline View"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Focus Mode (often found in the View tab or status bar) hides the ribbon and other interface elements to minimize distractions."
+    },
+    {
+      "id": 15,
+      "question": "What essential information is missing from this invitation: 'Come to my party on Saturday'?",
+      "options": [
+        "The font name",
+        "The Time and Location",
+        "The paper color",
+        "The word count"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "An invitation must include the 'Who, What, When, and Where'. Missing time and location makes it useless."
+    },
+    {
+      "id": 16,
+      "question": "Which font type is often avoided in formal documents because it is considered too casual?",
+      "options": [
+        "Times New Roman",
+        "Comic Sans",
+        "Arial",
+        "Calibri"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Comic Sans is a casual, handwriting-style font that is generally considered unprofessional for formal invitations or business notes."
+    },
+    {
+      "id": 17,
+      "question": "[Digital Skill] How can AI tools assist in note-taking?",
+      "options": [
+        "By physically writing for you",
+        "By summarizing long texts and generating key points automatically",
+        "By buying notebooks",
+        "By printing notes"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "AI tools (like Copilot or generic AI assistants) can process long notes and generate concise summaries or action items."
+    },
+    {
+      "id": 18,
+      "question": "To ensure your invitation card looks good when printed, you should use high-resolution images. What does 'Resolution' refer to?",
+      "options": [
+        "The size of the paper",
+        "The quality and sharpness of the image (dots per inch)",
+        "The price of the printer",
+        "The speed of printing"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "Resolution (DPI/PPI) determines how sharp and clear an image looks; low resolution results in pixelated/blurry prints."
+    },
+    {
+      "id": 19,
+      "question": "Which shortcut creates a new blank document (or opens the New pane) in most Office apps?",
+      "options": [
+        "Ctrl + N",
+        "Ctrl + S",
+        "Ctrl + O",
+        "Ctrl + P"
+      ],
+      "answer": 0,
+      "difficulty": "easy",
+      "explanation": "Ctrl + N is the standard shortcut to create a New document."
+    },
+    {
+      "id": 20,
+      "question": "If you want to move an image freely around your invitation text, you must change its:",
+      "options": [
+        "Brightness",
+        "Wrap Text setting (e.g., to 'In Front of Text')",
+        "Color",
+        "Shadow"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "By default, images are inline with text. Changing Text Wrap to 'In Front of Text' or 'Square' unlocks free movement."
+    }
+  ]
+}

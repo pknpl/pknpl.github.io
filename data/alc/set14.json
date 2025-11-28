@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "title": "Session 14: Designing Certificates & Flyers",
+    "description": "Learn to design professional certificates and impactful marketing flyers using Microsoft Word, and manage projects with Asana."
+  },
+  "studyTopics": [
+    {
+      "topic": "Certificate Design Fundamentals",
+      "hint": "Think about orientation and paper quality.",
+      "searchQuery": "standard certificate size and design elements",
+      "learningOutcome": "Understand the layout, dimensions (usually Landscape), and key elements of a professional certificate."
+    },
+    {
+      "topic": "Creating Flyers for Impact",
+      "hint": "Catchy headlines and clear Call to Actions (CTA).",
+      "searchQuery": "how to design an event flyer in word tips",
+      "learningOutcome": "Design a single-page promotional flyer with a clear visual hierarchy and message."
+    },
+    {
+      "topic": "MS Word Design Tools",
+      "hint": "Using Text Boxes and Page Borders.",
+      "searchQuery": "using text boxes and page borders in ms word",
+      "learningOutcome": "Master the specific Word tools needed for graphic layout, such as flexible text placement and decorative borders."
+    },
+    {
+      "topic": "Project Management with AI (Asana)",
+      "hint": "Tracking tasks and deadlines.",
+      "searchQuery": "Asana features for project management",
+      "learningOutcome": "Use digital tools to organize tasks, assign responsibilities, and track project progress."
+    },
+    {
+      "topic": "Page Setup for Print",
+      "hint": "Landscape vs. Portrait and Paper Size.",
+      "searchQuery": "ms word page orientation and paper size settings",
+      "learningOutcome": "Configure the document correctly for printing on standard paper sizes like A4 or Letter."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which Page Orientation is most commonly used for designing professional certificates?",
+      "options": [
+        "Portrait (Vertical)",
+        "Landscape (Horizontal)",
+        "Square",
+        "Circular"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Certificates are traditionally designed in Landscape mode to accommodate wide signatures and decorative borders."
+    },
+    {
+      "id": 2,
+      "question": "What is a 'Flyer'?",
+      "options": [
+        "A multi-page book",
+        "A single-sheet document used for advertising an event, service, or product",
+        "A type of airplane",
+        "A digital video"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "A flyer (or flier) is a form of paper advertisement intended for wide distribution, typically posted or handed out in public places."
+    },
+    {
+      "id": 3,
+      "question": "Which tool in MS Word allows you to place text anywhere on the page, independent of the regular margins?",
+      "options": [
+        "Table",
+        "Text Box",
+        "Footer",
+        "Bullet Points"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Text Boxes act as containers for text that can be moved and resized freely around the layout."
+    },
+    {
+      "id": 4,
+      "question": "Asana is an AI-enhanced tool primarily used for:",
+      "options": [
+        "Photo editing",
+        "Project and task management",
+        "Playing music",
+        "Creating spreadsheets"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Asana is a work management platform designed to help teams organize, track, and manage their work."
+    },
+    {
+      "id": 5,
+      "question": "Where would you find the option to add a decorative art border (like apples or stars) around your certificate in Word?",
+      "options": [
+        "Insert > Shapes",
+        "Design > Page Borders > Art",
+        "Home > Borders",
+        "View > Gridlines"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": " The Page Borders dialog box (accessed via the Design tab) offers an 'Art' dropdown for decorative border styles."
+    },
+    {
+      "id": 6,
+      "question": "What is a 'Call to Action' (CTA) in a flyer?",
+      "options": [
+        "The phone number of the printer",
+        "A prompt telling the reader what to do next (e.g., 'Register Now', 'Call Us')",
+        "The title of the flyer",
+        "The background color"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "A CTA directs the audience's response, telling them exactly what action to take after reading the flyer."
+    },
+    {
+      "id": 7,
+      "question": "Why are certificates important?",
+      "options": [
+        "They are used to wrap gifts",
+        "To recognize achievement, validate skills, and motivate learners",
+        "To increase file size",
+        "To clean the printer"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Certificates serve as formal recognition of an accomplishment, adding value to a person's professional or academic profile."
+    },
+    {
+      "id": 8,
+      "question": "When printing a certificate, what type of paper is generally recommended for a professional look?",
+      "options": [
+        "Newspaper",
+        "Cardstock or high-quality parchment paper",
+        "Tissue paper",
+        "Notebook paper"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Heavier paper like cardstock or parchment feels more substantial and professional than standard printer paper."
+    },
+    {
+      "id": 9,
+      "question": "Which feature in Word allows you to combine multiple shapes (e.g., a circle and a star) so they move as one unit?",
+      "options": [
+        "Wrap Text",
+        "Group",
+        "Align",
+        "Rotate"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Grouping objects locks their relative position to each other so they can be moved or resized together."
+    },
+    {
+      "id": 10,
+      "question": "What is the standard paper size for most flyers and certificates in India/Europe?",
+      "options": [
+        "A4",
+        "A1",
+        "Business Card",
+        "Postcard"
+      ],
+      "answer": 0,
+      "difficulty": "easy",
+      "explanation": "A4 (210 x 297 mm) is the standard paper size for documents in most of the world."
+    },
+    {
+      "id": 11,
+      "question": "To center a title perfectly on a flyer, which alignment option should you use?",
+      "options": [
+        "Align Left",
+        "Align Right",
+        "Center Align (Ctrl + E)",
+        "Justify"
+      ],
+      "answer": 2,
+      "difficulty": "easy",
+      "explanation": "Center alignment balances the text in the middle of the text box or page."
+    },
+    {
+      "id": 12,
+      "question": "If your flyer includes a large image, which Text Wrap setting allows you to place text directly *on top* of the image?",
+      "options": [
+        "Square",
+        "In Line with Text",
+        "Behind Text",
+        "Top and Bottom"
+      ],
+      "answer": 2,
+      "difficulty": "hard",
+      "explanation": "Setting the image to 'Behind Text' places it in the background layer, allowing text to float over it."
+    },
+    {
+      "id": 13,
+      "question": "In Asana, a 'Board' view is best for:",
+      "options": [
+        "Writing code",
+        "Visualizing tasks in columns (e.g., To Do, In Progress, Done)",
+        "Editing videos",
+        "Drawing pictures"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "The Board view uses a Kanban style layout to track the status of tasks across different stages."
+    },
+    {
+      "id": 14,
+      "question": "Which of the following is essential content for an Event Flyer?",
+      "options": [
+        "Date, Time, and Venue",
+        "The complete history of the world",
+        "A list of all your passwords",
+        "Nothing"
+      ],
+      "answer": 0,
+      "difficulty": "easy",
+      "explanation": "Key logistical details (When and Where) are crucial for any event flyer."
+    },
+    {
+      "id": 15,
+      "question": "How can you create a straight horizontal line for a signature on a certificate in Word?",
+      "options": [
+        "Type many hyphens (-)",
+        "Insert > Shapes > Line (hold Shift key while drawing)",
+        "Use a pencil on the screen",
+        "It is not possible"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Drawing a Line shape while holding the Shift key forces the line to be perfectly straight/horizontal."
+    },
+    {
+      "id": 16,
+      "question": "What is the main difference between a Flyer and a Brochure?",
+      "options": [
+        "Flyers are usually flat (unfolded); Brochures are folded",
+        "Flyers are always black and white",
+        "Brochures are digital only",
+        "There is no difference"
+      ],
+      "answer": 0,
+      "difficulty": "hard",
+      "explanation": "Flyers are typically single flat sheets, whereas brochures are folded (bi-fold, tri-fold) to contain more information."
+    },
+    {
+      "id": 17,
+      "question": "To ensure your flyer prints all the way to the edge of the paper (no white border), you need a printer that supports:",
+      "options": [
+        "3D Printing",
+        "Borderless Printing",
+        "Dot Matrix",
+        "Black and White"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Standard printers leave a margin; borderless printing is required to ink the edge of the paper."
+    },
+    {
+      "id": 18,
+      "question": "Which font style is generally preferred for the recipient's name on a certificate to make it look elegant?",
+      "options": [
+        "Script or Calligraphy font (e.g., Edwardian Script)",
+        "Comic Sans",
+        "Wingdings",
+        "Arial Narrow"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "Script fonts mimic handwriting and calligraphy, adding a touch of elegance and formality to certificates."
+    },
+    {
+      "id": 19,
+      "question": "What is the best file format to save your flyer in if you are sending it to a professional printer?",
+      "options": [
+        ".docx",
+        ".pdf (Portable Document Format)",
+        ".txt",
+        ".mp3"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "PDFs preserve fonts, images, and layout exactly as designed, ensuring the print matches the screen."
+    },
+    {
+      "id": 20,
+      "question": "Which element adds visual interest and breaks up text on a flyer?",
+      "options": [
+        "More text",
+        "High-quality Images or Icons",
+        "Blank space",
+        "Footnotes"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Images and icons grab attention and help convey the message quickly without reading."
+    }
+  ]
+}

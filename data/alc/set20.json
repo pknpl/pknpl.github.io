@@ -1,0 +1,306 @@
+{
+  "meta": {
+    "title": "Session 20: Excel Formulas, Functions & Referencing",
+    "description": "Mastering Excel formulas, understanding Cell Referencing (Absolute vs Relative), using advanced functions like MAXIFS/MINIFS, and exploring Adobe Firefly."
+  },
+  "studyTopics": [
+    {
+      "topic": "Excel Formula Basics",
+      "hint": "Every formula starts with an '=' sign.",
+      "searchQuery": "how to write formulas in excel for beginners",
+      "learningOutcome": "Understand the syntax and structure of basic Excel calculations."
+    },
+    {
+      "topic": "Absolute vs. Relative References",
+      "hint": "Using the dollar sign ($) locks a cell (e.g., $A$1).",
+      "searchQuery": "excel absolute vs relative cell reference explained",
+      "learningOutcome": "Distinguish when to use fixed references ($) versus changing ones when copying formulas."
+    },
+    {
+      "topic": "Advanced Functions (MAXIFS/MINIFS)",
+      "hint": "Finding the highest or lowest number *only if* it meets a criteria.",
+      "searchQuery": "how to use MAXIFS and MINIFS function in excel",
+      "learningOutcome": "Perform conditional analysis to find maximum or minimum values based on specific conditions."
+    },
+    {
+      "topic": "Text Functions (CONCAT)",
+      "hint": "Joining text from two cells into one.",
+      "searchQuery": "using CONCAT function in excel examples",
+      "learningOutcome": "Combine text strings from multiple ranges or strings."
+    },
+    {
+      "topic": "Defined Names (Named Ranges)",
+      "hint": "Giving a nickname to a cell (e.g., 'TaxRate') to make formulas easier to read.",
+      "searchQuery": "how to create and use named ranges in excel",
+      "learningOutcome": "Create and manage named ranges to simplify formula creation and auditing."
+    },
+    {
+      "topic": "Generative AI for Design (Adobe Firefly)",
+      "hint": "Creating images from text prompts.",
+      "searchQuery": "Adobe Firefly features and capabilities",
+      "learningOutcome": "Explore how generative AI models can assist in creative visual design."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the very first character you must type in a cell to start any formula or function in Excel?",
+      "options": [
+        "# (Hashtag)",
+        "= (Equal Sign)",
+        "$ (Dollar Sign)",
+        ": (Colon)"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "In Excel, the equal sign (=) alerts the program that the following data is a formula."
+    },
+    {
+      "id": 2,
+      "question": "Which symbol is used to create an 'Absolute Reference' (locking a cell) in a formula?",
+      "options": [
+        "&",
+        "%",
+        "$",
+        "@"
+      ],
+      "answer": 2,
+      "difficulty": "medium",
+      "explanation": "The dollar sign ($) is used to fix the column and/or row reference (e.g., $A$1) so it doesn't change when copied."
+    },
+    {
+      "id": 3,
+      "question": "What is the primary purpose of the 'CONCAT' function?",
+      "options": [
+        "To add numbers",
+        "To combine text from multiple cells into one cell",
+        "To find the average",
+        "To delete duplicates"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "CONCAT (short for Concatenate) joins two or more text strings into one string."
+    },
+    {
+      "id": 4,
+      "question": "Adobe Firefly is best described as:",
+      "options": [
+        "A video player",
+        "A Generative AI tool for creating and editing images using text prompts",
+        "An antivirus software",
+        "A spreadsheet tool"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Adobe Firefly is a creative generative AI model focused on image generation and text effects."
+    },
+    {
+      "id": 5,
+      "question": "Which function would you use to find the highest sales figure for a specific region (e.g., 'West')?",
+      "options": [
+        "MAX",
+        "MAXIFS",
+        "SUMIF",
+        "COUNT"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "MAXIFS returns the maximum value among cells specified by a given set of conditions or criteria."
+    },
+    {
+      "id": 6,
+      "question": "In the formula '=Sheet2!A1', what does the exclamation mark (!) indicate?",
+      "options": [
+        "It's an error",
+        "It separates the Sheet Name from the Cell Reference",
+        "It means the value is important",
+        "It multiplies the value"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "The exclamation point (!) is the separator used when referencing a cell on a different worksheet."
+    },
+    {
+      "id": 7,
+      "question": "If you have a cell named 'TaxRate', what is the advantage of using this name in a formula instead of 'B2'?",
+      "options": [
+        "It calculates faster",
+        "It makes the formula easier to understand and read",
+        "It changes the color of the cell",
+        "It prevents printing"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Named ranges make formulas intuitive (e.g., =Price*TaxRate is clearer than =A1*B2)."
+    },
+    {
+      "id": 8,
+      "question": "What happens to the relative reference 'A1' when you copy the formula '=A1+1' one cell down?",
+      "options": [
+        "It stays '=A1+1'",
+        "It changes to '=A2+1'",
+        "It becomes an error",
+        "It changes to '=B1+1'"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Relative references adjust based on the new position. Moving down one row changes the row number from 1 to 2."
+    },
+    {
+      "id": 9,
+      "question": "Which group in the Formulas Tab allows you to create and manage 'Named Ranges'?",
+      "options": [
+        "Function Library",
+        "Calculation",
+        "Defined Names",
+        "Formula Auditing"
+      ],
+      "answer": 2,
+      "difficulty": "medium",
+      "explanation": "The Defined Names group contains the Name Manager and Define Name options."
+    },
+    {
+      "id": 10,
+      "question": "What does the MINIFS function do?",
+      "options": [
+        "Returns the smallest number in a range that meets one or more criteria",
+        "Returns the smallest number in the entire sheet",
+        "Subtracts numbers",
+        "Counts small numbers"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "MINIFS finds the minimum value based on specific criteria (e.g., lowest score in Class A)."
+    },
+    {
+      "id": 11,
+      "question": "Which of the following is a 'Mixed Reference'?",
+      "options": [
+        "A1",
+        "$A$1",
+        "A$1",
+        "1A"
+      ],
+      "answer": 2,
+      "difficulty": "hard",
+      "explanation": "A$1 locks the row (1) but allows the column (A) to change. This mix of relative and absolute is a Mixed Reference."
+    },
+    {
+      "id": 12,
+      "question": "To quickly view all the formulas in your sheet instead of the results, which keyboard shortcut can you often use?",
+      "options": [
+        "Ctrl + C",
+        "Ctrl + ` (Grave Accent)",
+        "Alt + F4",
+        "Shift + F1"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "Ctrl + ` (the key usually next to 1) toggles the 'Show Formulas' view."
+    },
+    {
+      "id": 13,
+      "question": "When using the Name Manager, can a Defined Name contain spaces (e.g., 'Tax Rate')?",
+      "options": [
+        "Yes, always",
+        "No, spaces are not allowed (use underscore like 'Tax_Rate' instead)",
+        "Only if you pay extra",
+        "Yes, but only in red color"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Excel Defined Names cannot contain spaces; underscores or CamelCase are commonly used alternatives."
+    },
+    {
+      "id": 14,
+      "question": "Which of these is NOT a category in the Excel Function Library?",
+      "options": [
+        "Financial",
+        "Logical",
+        "Text",
+        "Cooking"
+      ],
+      "answer": 3,
+      "difficulty": "easy",
+      "explanation": "Cooking is not a function category. Standard categories include Financial, Logical, Text, Date & Time, etc."
+    },
+    {
+      "id": 15,
+      "question": "If you want to join the text in A1 ('Hello') and B1 ('World') with a space in between, which formula works?",
+      "options": [
+        "=A1 + B1",
+        "=CONCAT(A1, \" \", B1)",
+        "=SUM(A1, B1)",
+        "=MAX(A1, B1)"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "CONCAT (or using &) combines the values. You must explicitly add the space \" \" as an argument."
+    },
+    {
+      "id": 16,
+      "question": "Where can you find the 'Insert Function' (fx) button?",
+      "options": [
+        "To the left of the Formula Bar",
+        "Inside the View Tab",
+        "On the Status Bar",
+        "In the File Menu"
+      ],
+      "answer": 0,
+      "difficulty": "easy",
+      "explanation": " The 'fx' button sits right next to the formula bar and helps you search for functions."
+    },
+    {
+      "id": 17,
+      "question": "Which AI feature allows Adobe Firefly to expand an image beyond its original borders?",
+      "options": [
+        "Generative Fill / Expand",
+        "Crop",
+        "Rotate",
+        "Blur"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "Generative Expand allows the AI to invent new pixels to extend the scene coherently beyond the original frame."
+    },
+    {
+      "id": 18,
+      "question": "In a MAXIFS formula, the first argument usually asks for:",
+      "options": [
+        "The criteria range",
+        "The max_range (the range containing the numbers to check for max)",
+        "The date",
+        "The file name"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "Syntax: MAXIFS(max_range, criteria_range1, criteria1...). It needs to know where the numbers are first."
+    },
+    {
+      "id": 19,
+      "question": "What key on the keyboard is a shortcut to cycle through reference types (A1 -> $A$1 -> A$1 -> $A1)?",
+      "options": [
+        "F1",
+        "F4",
+        "F9",
+        "Spacebar"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "Pressing F4 while the cursor is on a cell reference in the formula bar toggles between absolute, mixed, and relative references."
+    },
+    {
+      "id": 20,
+      "question": "Why would you use 'Sheet References'?",
+      "options": [
+        "To confuse people",
+        "To use data from one worksheet (e.g., 'Data') in a calculation on another worksheet (e.g., 'Report')",
+        "To delete sheets",
+        "To print in color"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Sheet references allow formulas to pull data from different tabs within the same workbook."
+    }
+  ]
+}

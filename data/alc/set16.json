@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "title": "Session 16: Travel Itineraries & Greeting Cards",
+    "description": "Learn to organize travel plans professionally using Itineraries and express sentiments creatively through custom Greeting Cards in MS Word."
+  },
+  "studyTopics": [
+    {
+      "topic": "Travel Itinerary Essentials",
+      "hint": "A detailed plan including dates, times, and locations.",
+      "searchQuery": "what to include in a travel itinerary checklist",
+      "learningOutcome": "Understand the key components (transport, accommodation, activities) of a travel plan."
+    },
+    {
+      "topic": "Using Tables for Organization",
+      "hint": "The best tool to align dates and activities neatly.",
+      "searchQuery": "how to format travel itinerary in word using tables",
+      "learningOutcome": "Use MS Word Tables to structure complex data like flight times and hotel details."
+    },
+    {
+      "topic": "Greeting Card Layouts",
+      "hint": "Folding paper affects how you design the page.",
+      "searchQuery": "how to make a folded greeting card in word",
+      "learningOutcome": "Master page setup (columns/orientation) for creating folded cards."
+    },
+    {
+      "topic": "Visual Design Tools",
+      "hint": "Adding borders and images for visual appeal.",
+      "searchQuery": "add page border and pictures MS Word tutorial",
+      "learningOutcome": "Enhance documents with decorative borders, high-quality images, and specific fonts."
+    },
+    {
+      "topic": "AI for Travel Planning",
+      "hint": "Using AI to suggest daily schedules.",
+      "searchQuery": "how to use AI for travel itinerary planning",
+      "learningOutcome": "Leverage AI tools to generate travel ideas and optimize schedules."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is a 'Travel Itinerary'?",
+      "options": [
+        "A ticket for a plane",
+        "A detailed plan or schedule of a journey, including dates, times, and places",
+        "A receipt for food",
+        "A map of the world"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "A travel itinerary is a document that records the route and schedule of a journey."
+    },
+    {
+      "id": 2,
+      "question": "Which tool in MS Word is most effective for organizing a day-by-day travel schedule so everything aligns perfectly?",
+      "options": [
+        "Shapes",
+        "Table",
+        "WordArt",
+        "Footnotes"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Tables consist of rows and columns, making them the ideal tool for aligning dates, times, and activities structurally."
+    },
+    {
+      "id": 3,
+      "question": "What is the primary purpose of a Greeting Card?",
+      "options": [
+        "To calculate taxes",
+        "To express sentiments like congratulations, thanks, or sympathy to others",
+        "To write a shopping list",
+        "To clean the screen"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Greeting cards are used to convey personal messages and emotions for special occasions."
+    },
+    {
+      "id": 4,
+      "question": "Which type of paper is best suited for printing a high-quality Greeting Card?",
+      "options": [
+        "Newspaper",
+        "Cardstock or heavy matte paper",
+        "Tracing paper",
+        "Tissue paper"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Cardstock is thicker and more durable than standard paper, giving the greeting card a professional feel."
+    },
+    {
+      "id": 5,
+      "question": "In a travel itinerary, why is it important to include 'Emergency Contact Information'?",
+      "options": [
+        "To fill up space",
+        "To ensure safety and quick communication in case of unforeseen issues",
+        "It is not important",
+        "To make the font look better"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Safety is paramount; having emergency numbers readily available is a critical part of travel planning."
+    },
+    {
+      "id": 6,
+      "question": "You are designing a folded greeting card on a single A4 sheet. Which Page Setup feature helps you divide the page into two equal halves?",
+      "options": [
+        "Watermark",
+        "Columns (Two)",
+        "Bold",
+        "Italic"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "Using the Columns feature (set to Two) splits the text area, which helps in designing the left and right sides of a folded card."
+    },
+    {
+      "id": 7,
+      "question": "How can AI tools assist in creating a Travel Itinerary?",
+      "options": [
+        "By physically driving the car",
+        "By suggesting optimal routes, places to visit, and daily schedules based on your preferences",
+        "By printing the tickets",
+        "By packing your bags"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "AI travel planners can analyze vast amounts of data to suggest personalized schedules and efficient routes."
+    },
+    {
+      "id": 8,
+      "question": "Which tab in MS Word allows you to insert a picture of a destination into your itinerary?",
+      "options": [
+        "Home",
+        "Layout",
+        "Insert",
+        "Review"
+      ],
+      "answer": 2,
+      "difficulty": "easy",
+      "explanation": "The Insert tab contains the 'Pictures' command to add images from your device or online sources."
+    },
+    {
+      "id": 9,
+      "question": "To make the front text of a greeting card stand out, you might use 'WordArt'. What does WordArt do?",
+      "options": [
+        "Translates text",
+        "Applies decorative effects like shadows, outlines, and gradients to text",
+        "Deletes text",
+        "Checks spelling"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "WordArt transforms standard text into a graphic object with special artistic effects."
+    },
+    {
+      "id": 10,
+      "question": "What is a common element found in a Travel Itinerary?",
+      "options": [
+        "Flight numbers and Hotel names",
+        "Cooking recipes",
+        "School homework",
+        "Movie scripts"
+      ],
+      "answer": 0,
+      "difficulty": "easy",
+      "explanation": "Flight details, accommodation addresses, and activity timings are essential elements of an itinerary."
+    },
+    {
+      "id": 11,
+      "question": "If you are printing a greeting card at home, which print setting allows you to print on both sides of the paper?",
+      "options": [
+        "Print Selection",
+        "Print One Sided",
+        "Print on Both Sides (Duplex Printing)",
+        "Collated"
+      ],
+      "answer": 2,
+      "difficulty": "medium",
+      "explanation": "Duplex printing (Print on Both Sides) is necessary for folded cards so content appears on the inside and outside."
+    },
+    {
+      "id": 12,
+      "question": "Which formatting feature allows you to put a line or box around the specific paragraph of your itinerary?",
+      "options": [
+        "Borders and Shading",
+        "Font Color",
+        "Line Spacing",
+        "Margins"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "The Borders and Shading tool allows you to apply visible lines around text, paragraphs, or tables."
+    },
+    {
+      "id": 13,
+      "question": "When inserting an image for a greeting card, why might you need to use 'Crop'?",
+      "options": [
+        "To make the image blurry",
+        "To remove unwanted outer areas of the image",
+        "To rotate the image",
+        "To change the color"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Cropping allows you to trim the edges of an image to focus on the main subject or fit a specific shape."
+    },
+    {
+      "id": 14,
+      "question": "What is the standard fold for a simple greeting card created from a Letter/A4 sheet?",
+      "options": [
+        "Origami Crane",
+        "Bi-fold (folded once in half)",
+        "Scrunched up",
+        "Cut into pieces"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "A Bi-fold (Half-fold) is the most common and simplest format for DIY greeting cards."
+    },
+    {
+      "id": 15,
+      "question": "How can you ensure the text inside a Text Box is perfectly in the middle?",
+      "options": [
+        "Press Spacebar many times",
+        "Use 'Align Text > Middle' and 'Center Align' options",
+        "Change font size",
+        "Use a ruler on the screen"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "Text Boxes allow both vertical alignment (Top, Middle, Bottom) and horizontal alignment (Left, Center, Right)."
+    },
+    {
+      "id": 16,
+      "question": "Which of these is NOT usually part of a travel itinerary?",
+      "options": [
+        "Date of travel",
+        "Hotel Check-in time",
+        "Your childhood nickname",
+        "Transportation details"
+      ],
+      "answer": 2,
+      "difficulty": "easy",
+      "explanation": "Personal nicknames are irrelevant to the logistics of travel planning."
+    },
+    {
+      "id": 17,
+      "question": "To add a festive touch to a holiday itinerary, you want to change the page color to light blue. Where is this option?",
+      "options": [
+        "Insert Tab",
+        "Design Tab > Page Color",
+        "View Tab",
+        "Home Tab"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Page Color is a document-wide setting found in the Design tab."
+    },
+    {
+      "id": 18,
+      "question": "[Digital Skill] When planning a trip, what is the benefit of saving your itinerary to the Cloud (OneDrive/Google Drive)?",
+      "options": [
+        "It prints automatically",
+        "You can access it from your phone even if you lose the printed copy",
+        "It becomes a video",
+        "It costs more money"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Cloud storage ensures you can access your travel documents from any device with an internet connection."
+    },
+    {
+      "id": 19,
+      "question": "If your table in the itinerary spans two pages, which feature repeats the header row (Date, Activity) on the second page?",
+      "options": [
+        "Repeat Header Rows",
+        "Split Table",
+        "Merge Cells",
+        "Page Break"
+      ],
+      "answer": 0,
+      "difficulty": "hard",
+      "explanation": "The 'Repeat Header Rows' option in Table Layout ensures the top row appears at the start of every new page for readability."
+    },
+    {
+      "id": 20,
+      "question": "For a greeting card, you want an image to be 'inside' a heart shape. What feature should you use?",
+      "options": [
+        "Crop to Shape",
+        "Delete Image",
+        "Change Color",
+        "Compress Picture"
+      ],
+      "answer": 0,
+      "difficulty": "hard",
+      "explanation": "The 'Crop to Shape' feature masks the image so it takes on the geometry of the selected shape (like a heart or star)."
+    }
+  ]
+}

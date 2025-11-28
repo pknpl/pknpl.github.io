@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "title": "Session 12: Review Tab & Bookmark Design",
+    "description": "Deep dive into MS Word's Review Tab (Proofing, Tracking Changes, Comments), Document Protection, and a creative project on designing digital bookmarks."
+  },
+  "studyTopics": [
+    {
+      "topic": "Proofing Tools (Spelling & Grammar)",
+      "hint": "Red underlines mean spelling; blue means grammar.",
+      "searchQuery": "how to use spelling and grammar check in ms word",
+      "learningOutcome": "Ensure documents are error-free using automated proofing tools."
+    },
+    {
+      "topic": "Collaboration (Track Changes & Comments)",
+      "hint": "Records every edit made so you can accept or reject it.",
+      "searchQuery": "how to use track changes and comments in word",
+      "learningOutcome": "Collaborate effectively by tracking edits and adding feedback comments."
+    },
+    {
+      "topic": "Document Protection",
+      "hint": "Stopping others from editing your file.",
+      "searchQuery": "how to restrict editing and protect word document",
+      "learningOutcome": "Secure the document content by limiting formatting and editing rights."
+    },
+    {
+      "topic": "Designing a Bookmark",
+      "hint": "Using narrow page sizes and shapes.",
+      "searchQuery": "how to design printable bookmark in ms word",
+      "learningOutcome": "Apply layout and design skills to create a standard-sized printable bookmark."
+    },
+    {
+      "topic": "AI for Research (ResearchRabbit)",
+      "hint": "Visualizing connections between research papers.",
+      "searchQuery": "ResearchRabbit features for students",
+      "learningOutcome": "Use AI to discover and organize research papers visually."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which function key is the standard shortcut to start a Spelling and Grammar check in MS Word?",
+      "options": [
+        "F1",
+        "F7",
+        "F5",
+        "F12"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Pressing F7 opens the Editor or Spelling & Grammar pane to review the document."
+    },
+    {
+      "id": 2,
+      "question": "What is the primary purpose of 'Track Changes'?",
+      "options": [
+        "To find lost files",
+        "To keep a record of all edits (insertions, deletions) made to a document",
+        "To change the language",
+        "To play music"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Track Changes visualizes every edit made, allowing the owner to accept or reject them later."
+    },
+    {
+      "id": 3,
+      "question": "Which tool in the Proofing group helps you find synonyms (words with similar meanings)?",
+      "options": [
+        "Word Count",
+        "Thesaurus",
+        "Translate",
+        "Smart Lookup"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "The Thesaurus suggests synonyms to help improve your vocabulary and avoid repetition."
+    },
+    {
+      "id": 4,
+      "question": "ResearchRabbit is an AI tool designed for:",
+      "options": [
+        "Creating cartoons",
+        "Visualizing citations and discovering research papers",
+        "Booking rabbits for parties",
+        "Editing videos"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "ResearchRabbit is a 'Spotify for Papers' that helps researchers find relevant literature and visualize connections between papers."
+    },
+    {
+      "id": 5,
+      "question": "If you want to prevent people from making any changes to your document except for filling in forms, which feature should you use?",
+      "options": [
+        "Track Changes",
+        "Restrict Editing",
+        "Mark as Final",
+        "Encrypt with Password"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "Restrict Editing allows you to limit the types of changes others can make, such as 'Read Only' or 'Filling in forms'."
+    },
+    {
+      "id": 6,
+      "question": "What does the 'Read Aloud' feature in the Speech group do?",
+      "options": [
+        "Records your voice",
+        "Converts text to speech and reads the document out loud to you",
+        "Types what you speak",
+        "Translates the text"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Read Aloud uses text-to-speech technology to narrate the document, which is useful for proofreading and accessibility."
+    },
+    {
+      "id": 7,
+      "question": "When designing a Bookmark in Word, which tool would you most likely use to create the main colorful background?",
+      "options": [
+        "Table of Contents",
+        "Shapes (Rectangle)",
+        "Footnotes",
+        "Equations"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Inserting a rectangular Shape is the standard way to create the background canvas for a bookmark."
+    },
+    {
+      "id": 8,
+      "question": "What is the function of 'Accessibility Checker'?",
+      "options": [
+        "It checks internet speed",
+        "It scans the document for issues that might make it difficult for people with disabilities to read",
+        "It checks for viruses",
+        "It unlocks the file"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "The Accessibility Checker identifies issues like missing alt text or low contrast that affect users with disabilities."
+    },
+    {
+      "id": 9,
+      "question": "In the 'Changes' group, if you agree with an edit made by a colleague, which button should you click?",
+      "options": [
+        "Reject",
+        "Accept",
+        "Delete",
+        "Ignore"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Clicking 'Accept' makes the change permanent and removes the markup."
+    },
+    {
+      "id": 10,
+      "question": "What is the main benefit of 'Modern Commenting' in MS Word?",
+      "options": [
+        "It removes all comments",
+        "It allows users to @mention others and have threaded conversations in the sidebar",
+        "It changes comments to emojis only",
+        "It makes comments invisible"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "Modern comments allow for threaded replies and @mentions, facilitating better conversation and task assignment."
+    },
+    {
+      "id": 11,
+      "question": "Which feature would you use to see two versions of the same document side-by-side to spot differences?",
+      "options": [
+        "Split Window",
+        "Compare",
+        "Zoom",
+        "Read Mode"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "The Compare feature analyzes two documents and highlights the differences between them."
+    },
+    {
+      "id": 12,
+      "question": "The 'Word Count' feature provides statistics on:",
+      "options": [
+        "Number of words only",
+        "Pages, Words, Characters, Paragraphs, and Lines",
+        "Spelling errors only",
+        "File size only"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Word Count gives a comprehensive summary of document length metrics."
+    },
+    {
+      "id": 13,
+      "question": "If a red wavy line appears under a word, what does it usually indicate?",
+      "options": [
+        "Grammar error",
+        "Spelling error",
+        "Formatting error",
+        "The word is important"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Red wavy lines typically indicate a potential spelling mistake or a word not found in the dictionary."
+    },
+    {
+      "id": 14,
+      "question": "Why are Bookmarks (physical or digital) important?",
+      "options": [
+        "They use up paper",
+        "They mark a specific place in a book or document to resume reading later",
+        "They are only for decoration",
+        "They make the book heavier"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "A bookmark is a navigational aid used to mark the reader's place."
+    },
+    {
+      "id": 15,
+      "question": "To translate a selected paragraph from English to Marathi within Word, which group should you use?",
+      "options": [
+        "Proofing",
+        "Language",
+        "Comments",
+        "Tracking"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "The Language group contains the 'Translate' feature."
+    },
+    {
+      "id": 16,
+      "question": "When Track Changes is ON, what happens if you delete a sentence?",
+      "options": [
+        "It disappears immediately",
+        "It gets crossed out (strikethrough) but remains visible until accepted",
+        "It turns bold",
+        "The computer shuts down"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Deletions are typically shown with a strikethrough, keeping the text visible so others can see what was removed."
+    },
+    {
+      "id": 17,
+      "question": "What is the typical shape of a physical bookmark?",
+      "options": [
+        "A large square",
+        "A long, narrow vertical rectangle",
+        "A perfect circle",
+        "A 3D cube"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Bookmarks are designed to fit between pages without protruding too much, so a narrow vertical rectangle is standard."
+    },
+    {
+      "id": 18,
+      "question": "If you want to hide the markup (track changes) temporarily to read the final version, which option should you choose?",
+      "options": [
+        "All Markup",
+        "No Markup / Simple Markup",
+        "Original",
+        "Delete All"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "No Markup or Simple Markup hides the messy edits and shows what the final document would look like."
+    },
+    {
+      "id": 19,
+      "question": "Which of these is NOT a function in the Review Tab?",
+      "options": [
+        "Spelling & Grammar",
+        "New Comment",
+        "Insert Table",
+        "Track Changes"
+      ],
+      "answer": 2,
+      "difficulty": "easy",
+      "explanation": "Insert Table is located in the Insert Tab, not the Review Tab."
+    },
+    {
+      "id": 20,
+      "question": "In the context of 'Comments', what does 'Resolving' a comment mean?",
+      "options": [
+        "Deleting it permanently",
+        "Marking it as done/addressed so it fades out but is kept for record",
+        "Changing the font color",
+        "Replying to it"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "Resolving a comment indicates the issue has been dealt with, collapsing the thread to declutter the view."
+    }
+  ]
+}

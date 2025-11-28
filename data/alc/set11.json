@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "title": "Session 11: MS Word Mail Merge",
+    "description": "Comprehensive guide to mass communication using Mail Merge in MS Word: creating letters, labels, and envelopes for multiple recipients."
+  },
+  "studyTopics": [
+    {
+      "topic": "Mail Merge Basics",
+      "hint": "One document + One list = Many personalized documents.",
+      "searchQuery": "what is mail merge ms word step by step",
+      "learningOutcome": "Understand the concept of merging a main document with a data source."
+    },
+    {
+      "topic": "The Data Source (Recipient List)",
+      "hint": "The file (Excel/Outlook) containing names and addresses.",
+      "searchQuery": "how to create recipient list for mail merge",
+      "learningOutcome": "Create, select, or edit the list of people who will receive the document."
+    },
+    {
+      "topic": "Inserting Merge Fields",
+      "hint": "Placeholders like <<Name>> that change for each person.",
+      "searchQuery": "insert merge fields in word document",
+      "learningOutcome": "Correctly place dynamic data fields into the main document."
+    },
+    {
+      "topic": "Envelopes and Labels",
+      "hint": "Printing addresses on stickers or envelopes automatically.",
+      "searchQuery": "print labels using mail merge word",
+      "learningOutcome": "Generate printable address labels or envelopes in bulk."
+    },
+    {
+      "topic": "AI for Email Writing",
+      "hint": "Using AI to draft professional emails quickly.",
+      "searchQuery": "best AI email writing assistants 2025",
+      "learningOutcome": "Leverage AI tools to draft the content for your mail merge campaigns."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the primary purpose of 'Mail Merge' in MS Word?",
+      "options": [
+        "To merge two different files into one folder",
+        "To send the same letter/email to multiple recipients with personalized details",
+        "To merge all open windows",
+        "To combine audio and video files"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Mail Merge is designed to create a batch of documents that are personalized for each recipient (like a form letter)."
+    },
+    {
+      "id": 2,
+      "question": "Which tab in MS Word is dedicated to the Mail Merge process?",
+      "options": [
+        "References",
+        "Mailings",
+        "Review",
+        "Insert"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": " The Mailings tab contains all the commands needed to start, write, and finish a merge."
+    },
+    {
+      "id": 3,
+      "question": "In the context of Mail Merge, what is the 'Data Source'?",
+      "options": [
+        "The power cable",
+        "The main text of the letter",
+        "The file (e.g., Excel sheet) containing recipient information like Names and Addresses",
+        "The printer ink"
+      ],
+      "answer": 2,
+      "difficulty": "medium",
+      "explanation": "The Data Source is the database or list that provides the specific information (variables) to be plugged into the document."
+    },
+    {
+      "id": 4,
+      "question": "Which button would you click to verify how your document looks with actual data before printing?",
+      "options": [
+        "Finish & Merge",
+        "Select Recipients",
+        "Preview Results",
+        "Highlight Merge Fields"
+      ],
+      "answer": 2,
+      "difficulty": "medium",
+      "explanation": "Preview Results replaces the merge fields (<<Name>>) with actual data from your recipient list so you can check for errors."
+    },
+    {
+      "id": 5,
+      "question": "What does the 'Greeting Line' command do?",
+      "options": [
+        "Says hello to the computer",
+        "Inserts a standard opening like 'Dear Mr. Smith,' with options for format",
+        "Ends the letter",
+        "Checks spelling"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The Greeting Line button provides a dialog box to set up formal or informal salutations automatically."
+    },
+    {
+      "id": 6,
+      "question": "If you want to print address stickers for 100 people, which Mail Merge option should you start with?",
+      "options": [
+        "Letters",
+        "Directory",
+        "Labels",
+        "Envelopes"
+      ],
+      "answer": 2,
+      "difficulty": "medium",
+      "explanation": "The 'Labels' option allows you to select a specific sticker manufacturer layout and fill a page with addresses."
+    },
+    {
+      "id": 7,
+      "question": "When you insert a Merge Field into your document, how does it look?",
+      "options": [
+        "{Name}",
+        "<<Name>>",
+        "[Name]",
+        "#Name#"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Standard Merge Fields in Word are enclosed in chevrons, looking like <<FieldName>>."
+    },
+    {
+      "id": 8,
+      "question": "Which option under 'Finish & Merge' creates a new Word document containing all the individual letters?",
+      "options": [
+        "Print Documents",
+        "Send Email Messages",
+        "Edit Individual Documents",
+        "Save As PDF"
+      ],
+      "answer": 2,
+      "difficulty": "hard",
+      "explanation": "'Edit Individual Documents' merges the data and opens a huge new document containing every personalized letter, which you can then edit or save."
+    },
+    {
+      "id": 9,
+      "question": "Which of the following can be used as a Recipient List for Mail Merge?",
+      "options": [
+        "An Excel Spreadsheet",
+        "Outlook Contacts",
+        "A manually typed list in Word",
+        "All of the above"
+      ],
+      "answer": 3,
+      "difficulty": "medium",
+      "explanation": "Word supports various data sources including Excel files, Outlook contact lists, and lists created directly within Word."
+    },
+    {
+      "id": 10,
+      "question": "What happens if you click 'Highlight Merge Fields'?",
+      "options": [
+        "It deletes the fields",
+        "It applies a gray background to all inserted fields so they are easy to spot",
+        "It makes the text bold",
+        "It prints the document"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "This feature visually highlights the dynamic fields to help you distinguish them from the static text."
+    },
+    {
+      "id": 11,
+      "question": "You need to send an email blast using Mail Merge. Which field is mandatory in your data source?",
+      "options": [
+        "Phone Number",
+        "Email Address",
+        "City",
+        "Zip Code"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "To use the 'Send Email Messages' function, the data source must contain a valid Email Address for every recipient."
+    },
+    {
+      "id": 12,
+      "question": "In the 'Start Mail Merge' group, what is the function of 'Select Recipients'?",
+      "options": [
+        "To select the text font",
+        "To choose or create the list of people who will receive the document",
+        "To select the printer",
+        "To select the date"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "This command connects your document to a specific database or list of people."
+    },
+    {
+      "id": 13,
+      "question": "What is the 'Address Block' used for?",
+      "options": [
+        "To block emails",
+        "To insert a pre-formatted set of address fields (Name, Street, City, etc.) at once",
+        "To draw a square",
+        "To delete an address"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Address Block is a composite field that inserts name and address details in a standard postal format."
+    },
+    {
+      "id": 14,
+      "question": "Which Digital Skill is crucial when sending bulk emails to ensure you are not marked as spam?",
+      "options": [
+        "Using all caps in the subject line",
+        "Attaching large files",
+        "Personalizing the content and having a clear unsubscribe option",
+        "Sending to random people"
+      ],
+      "answer": 2,
+      "difficulty": "medium",
+      "explanation": "Personalization (via Mail Merge) and following anti-spam rules help improve email deliverability."
+    },
+    {
+      "id": 15,
+      "question": "When creating Labels, after inserting fields into the first label, which button must you click to fill the rest of the page?",
+      "options": [
+        "Finish",
+        "Update Labels",
+        "Next Record",
+        "Propagate"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "The 'Update Labels' button replicates the layout and fields from the first label to all other labels on the sheet."
+    },
+    {
+      "id": 16,
+      "question": "In Mail Merge rules, what does 'If...Then...Else' allow you to do?",
+      "options": [
+        "Play a game",
+        "Display specific text based on a condition (e.g., if City is 'Mumbai', show 'Local Delivery')",
+        "Do nothing",
+        "Calculate sums"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "Conditional logic allows you to vary the text shown based on the data values of the recipient."
+    },
+    {
+      "id": 17,
+      "question": "Which AI tool capability would be most useful before starting a Mail Merge for a job application?",
+      "options": [
+        "Video editing",
+        "AI Writing Assistant to proofread and optimize the cover letter text",
+        "Music generation",
+        "3D modeling"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Using an AI writing assistant helps ensure the static content of your merged document is professional and error-free."
+    },
+    {
+      "id": 18,
+      "question": "Where is the 'Envelopes' button located if you just want to print a single envelope without a full merge?",
+      "options": [
+        "Home Tab",
+        "Mailings Tab > Create Group",
+        "Insert Tab",
+        "View Tab"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "The Create group contains standalone buttons for Envelopes and Labels for single-use printing."
+    },
+    {
+      "id": 19,
+      "question": "What file format is commonly used to export contacts from Gmail or other systems to use in a Mail Merge?",
+      "options": [
+        ".mp3",
+        ".csv (Comma Separated Values)",
+        ".jpg",
+        ".exe"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "CSV files are the universal standard for exchanging list data between different email and database systems."
+    },
+    {
+      "id": 20,
+      "question": "Can you filter recipients (e.g., only send to people in 'Pune') after selecting a list?",
+      "options": [
+        "No, you must send to everyone",
+        "Yes, using the 'Edit Recipient List' option",
+        "Yes, but you have to delete them from Excel first",
+        "Only if you pay extra"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "'Edit Recipient List' allows you to sort, filter, and uncheck specific individuals before finalizing the merge."
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "title": "Session 19: Excel Visuals, Charts & Tables",
+    "description": "Mastering the Insert Tab in Excel: Creating Tables, Charts, Sparklines, 3D Maps, and using AI for image generation."
+  },
+  "studyTopics": [
+    {
+      "topic": "Excel Tables",
+      "hint": "Ctrl + T turns a range into a Table.",
+      "searchQuery": "benefits of using excel tables vs ranges",
+      "learningOutcome": "Create and manage official Excel Tables for better sorting, filtering, and formatting."
+    },
+    {
+      "topic": "Charts & Graphs",
+      "hint": "Visualizing data (Pie for parts of whole, Column for comparison).",
+      "searchQuery": "how to create and format charts in excel",
+      "learningOutcome": "Select and create the appropriate chart type to represent data patterns effectively."
+    },
+    {
+      "topic": "Sparklines",
+      "hint": "Tiny charts that fit inside a single cell.",
+      "searchQuery": "how to insert sparklines in excel",
+      "learningOutcome": "Use Sparklines to show data trends (like ups and downs) directly alongside data."
+    },
+    {
+      "topic": "3D Maps (Tours)",
+      "hint": "Visualizing geographic data on a globe.",
+      "searchQuery": "create 3D map tour in excel",
+      "learningOutcome": "Visualize geographical data (cities, countries) on an interactive 3D map."
+    },
+    {
+      "topic": "AI Image Generation (Ideogram)",
+      "hint": "Typing text to get a high-quality image.",
+      "searchQuery": "Ideogram AI text to image features",
+      "learningOutcome": "Understand how generative AI tools create visual art/images from text descriptions."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is a 'Sparkline' in Excel?",
+      "options": [
+        "A type of lightning bolt shape",
+        "A mini chart placed inside a single cell to show a trend",
+        "A line that connects two tables",
+        "A function to delete data"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Sparklines are tiny charts (Line, Column, or Win/Loss) that fit within a cell to provide a quick visual representation of data."
+    },
+    {
+      "id": 2,
+      "question": "Which chart type is best suited for showing the percentage contribution of different parts to a whole (e.g., market share)?",
+      "options": [
+        "Column Chart",
+        "Line Chart",
+        "Pie Chart",
+        "Scatter Plot"
+      ],
+      "answer": 2,
+      "difficulty": "easy",
+      "explanation": "Pie charts are designed to display proportional data where the total equals 100%."
+    },
+    {
+      "id": 3,
+      "question": "Ideogram is an AI tool primarily used for:",
+      "options": [
+        "Calculating taxes",
+        "Generating high-quality images from text descriptions",
+        "Creating Excel formulas",
+        "Sending emails"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Ideogram is a generative AI platform known for its ability to create images, especially those containing text, from prompts."
+    },
+    {
+      "id": 4,
+      "question": "In the Insert Tab, which feature allows you to visualize geographic data on a 3D globe?",
+      "options": [
+        "SmartArt",
+        "3D Map (Tours)",
+        "PivotChart",
+        "Screenshot"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "The '3D Map' (often found in the Tours group) allows users to plot data on a three-dimensional interactive globe."
+    },
+    {
+      "id": 5,
+      "question": "What is the keyboard shortcut to create a 'Table' from a selected range of data?",
+      "options": [
+        "Ctrl + C",
+        "Ctrl + T",
+        "Ctrl + P",
+        "Ctrl + S"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Ctrl + T is the standard shortcut to convert a range of cells into an official Excel Table."
+    },
+    {
+      "id": 6,
+      "question": "The 'Quick Analysis' tool (which appears at the bottom-right of a selection) allows you to quickly insert:",
+      "options": [
+        "Formatting, Charts, Totals, and Sparklines",
+        "New worksheets only",
+        "External links",
+        "Printer settings"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "Quick Analysis offers one-click access to data analysis features like formatting, charts, running totals, and sparklines."
+    },
+    {
+      "id": 7,
+      "question": "Which illustration tool is best for creating visual representations of processes, hierarchies, or cycles?",
+      "options": [
+        "Pictures",
+        "SmartArt",
+        "Icons",
+        "3D Models"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "SmartArt graphics range from graphical lists to process diagrams and organizational charts."
+    },
+    {
+      "id": 8,
+      "question": "What file format is an 'SVG' (mentioned in Enhanced Visuals)?",
+      "options": [
+        "Simple Video Graphic",
+        "Scalable Vector Graphic",
+        "Standard Visual Graph",
+        "System Volume Guide"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "SVG stands for Scalable Vector Graphic, an image format that can be resized without losing quality."
+    },
+    {
+      "id": 9,
+      "question": "Which of the following is NOT a type of Sparkline available in Excel?",
+      "options": [
+        "Line",
+        "Column",
+        "Pie",
+        "Win/Loss"
+      ],
+      "answer": 2,
+      "difficulty": "medium",
+      "explanation": "Excel provides Line, Column, and Win/Loss sparklines. There is no 'Pie' sparkline."
+    },
+    {
+      "id": 10,
+      "question": "To insert a mathematical formula or equation that is hard to type (like fractions or integrals), which Insert tab group should you use?",
+      "options": [
+        "Text",
+        "Symbols",
+        "Charts",
+        "Filters"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The Symbols group contains the 'Equation' tool for inserting complex mathematical symbols and structures."
+    },
+    {
+      "id": 11,
+      "question": "What is a 'Slicer' used for in Excel (often found in the Filters group)?",
+      "options": [
+        "To cut the monitor",
+        "To visually filter data in Tables and PivotTables",
+        "To slice images",
+        "To split cells"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "Slicers are visual buttons that allow you to filter data in tables or pivot tables with a single click."
+    },
+    {
+      "id": 12,
+      "question": "Which command allows you to insert a snapshot of any window currently open on your desktop?",
+      "options": [
+        "Online Pictures",
+        "Screenshot",
+        "Shapes",
+        "Icons"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The Screenshot tool (in Illustrations) shows available open windows to quickly capture and insert into Excel."
+    },
+    {
+      "id": 13,
+      "question": "If you want to add a title that looks decorative and artistic, you should use:",
+      "options": [
+        "Header & Footer",
+        "WordArt",
+        "Signature Line",
+        "Object"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "WordArt is used to create text with special effects like shadows, reflections, and 3D rotation."
+    },
+    {
+      "id": 14,
+      "question": "When creating a chart, the 'Legend' typically helps you to:",
+      "options": [
+        "Change the color of the sheet",
+        "Identify what each color or pattern in the chart represents (e.g., Blue = Sales)",
+        "Delete the data",
+        "Change the font size"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "A Legend acts as a key to the chart, explaining the data series represented by different colors."
+    },
+    {
+      "id": 15,
+      "question": "Can you insert 3D Models into Excel?",
+      "options": [
+        "No, Excel only supports 2D images",
+        "Yes, from the Illustrations group, you can insert and rotate 3D models",
+        "Only if you have a 3D printer",
+        "Only in Microsoft Word"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Modern versions of Excel allow inserting 3D models (from a file or online library) which can be rotated 360 degrees."
+    },
+    {
+      "id": 16,
+      "question": "What is a major benefit of using an official 'Excel Table' instead of a normal range?",
+      "options": [
+        "It looks ugly",
+        "It automatically adds filter dropdowns and expands when you add new data",
+        "It deletes your formulas",
+        "It makes the file read-only"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Excel Tables offer dynamic ranges, automatic formatting, and integrated filter buttons."
+    },
+    {
+      "id": 17,
+      "question": "Which group in the Insert Tab deals with 'Hyperlinks'?",
+      "options": [
+        "Links",
+        "Text",
+        "Tours",
+        "Sparklines"
+      ],
+      "answer": 0,
+      "difficulty": "easy",
+      "explanation": "The Links group contains the option to insert Hyperlinks to websites or other files."
+    },
+    {
+      "id": 18,
+      "question": "A 'Column Chart' is best used for:",
+      "options": [
+        "Comparing values across categories (e.g., Sales in Jan vs Feb vs Mar)",
+        "Showing parts of a whole",
+        "Visualizing geography",
+        "Writing text"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "Column charts use vertical bars to compare data categories side-by-side."
+    },
+    {
+      "id": 19,
+      "question": "Where can you find the option to add 'Header & Footer' to a spreadsheet?",
+      "options": [
+        "Review Tab",
+        "Insert Tab > Text Group",
+        "Data Tab",
+        "Formulas Tab"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "While prominently in Page Layout view, the command to insert Header & Footer is located in the Text group of the Insert tab."
+    },
+    {
+      "id": 20,
+      "question": "Which Sparkline type would be most useful to show a simple 'Win' or 'Loss' record for a sports team?",
+      "options": [
+        "Line Sparkline",
+        "Column Sparkline",
+        "Win/Loss Sparkline",
+        "Pie Sparkline"
+      ],
+      "answer": 2,
+      "difficulty": "easy",
+      "explanation": "The Win/Loss Sparkline is specifically designed to show positive (win) and negative (loss) values effectively."
+    }
+  ]
+}
