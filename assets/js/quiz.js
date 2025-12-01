@@ -179,7 +179,7 @@ function finishQuiz(auto=false) {
 
         const reportMsg = `Report / Help Request 🛠️%0A` +
                           `---------------------------%0A` +
-                          `AO ID: ${userID}%0A` +
+                          `ALC ID: ${userID}%0A` +
                           `Role: ${role.toUpperCase()}%0A` +
                           `Set: ${setNum}%0A` +
                           `QID: ${q.id}%0A` +
@@ -223,7 +223,7 @@ function finishQuiz(auto=false) {
 
     // --- SHARE RESULT BUTTON ---
     const resultMsg = `*Exam Result Declaration* 📄%0A` +
-                      `AO ID: ${userID}%0A` +
+                      `ALC ID: ${userID}%0A` +
                       `Role: ${role.toUpperCase()} | Set: ${setNum}%0A` +
                       `Score: ${score} / ${questions.length}%0A` +
                       `Result: ${passStatus}`;
