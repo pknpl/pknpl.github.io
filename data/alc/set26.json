@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "title": "Session 26: Attendance Reports in Excel",
+    "description": "Learn to design, automate, and format an Attendance Report using Excel functions like COUNTIF and Conditional Formatting."
+  },
+  "studyTopics": [
+    {
+      "topic": "Attendance Sheet Layout",
+      "hint": "Rows for Names, Columns for Dates.",
+      "searchQuery": "how to create monthly attendance sheet in excel",
+      "learningOutcome": "Design a functional grid layout to track daily attendance for students or employees."
+    },
+    {
+      "topic": "Calculating Attendance (COUNTIF)",
+      "hint": "Formula to count how many 'P's are in a row.",
+      "searchQuery": "using COUNTIF function in excel for attendance",
+      "learningOutcome": "Use the COUNTIF function to automatically calculate total present days."
+    },
+    {
+      "topic": "Visualizing Data (Conditional Formatting)",
+      "hint": "Automatically turning 'A' (Absent) cells red.",
+      "searchQuery": "highlight cell rules conditional formatting excel text contains",
+      "learningOutcome": "Apply Conditional Formatting to visually distinguish between Present, Absent, and Leave."
+    },
+    {
+      "topic": "Data Validation (Dropdowns)",
+      "hint": "Restricting input to P, A, or L only.",
+      "searchQuery": "create dropdown list excel data validation tutorial",
+      "learningOutcome": "Create dropdown menus to ensure consistent data entry and prevent errors."
+    },
+    {
+      "topic": "Digital Attendance Systems",
+      "hint": "Using biometrics or AI instead of paper.",
+      "searchQuery": "benefits of biometric attendance system vs manual",
+      "learningOutcome": "Understand modern digital methods like biometrics and AI facial recognition for attendance."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the primary purpose of an Attendance Report?",
+      "options": [
+        "To calculate taxes",
+        "To track the presence, absence, and leaves of individuals over a period",
+        "To list grocery items",
+        "To draw pictures"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "An attendance report is a record used to monitor regularity and punctuality of students or employees."
+    },
+    {
+      "id": 2,
+      "question": "Which Excel function is best suited to count the number of days a student was 'Present' (marked as 'P')?",
+      "options": [
+        "=SUM()",
+        "=COUNTIF()",
+        "=AVERAGE()",
+        "=MAX()"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "COUNTIF counts the number of cells within a range that meet a specific condition (e.g., cell content is 'P')."
+    },
+    {
+      "id": 3,
+      "question": "You want all cells containing 'A' (Absent) to automatically turn red. Which feature should you use?",
+      "options": [
+        "Data Validation",
+        "Conditional Formatting",
+        "Format Painter",
+        "Wrap Text"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Conditional Formatting allows you to set rules (like 'Text that contains A') to apply specific formatting (Red fill) automatically."
+    },
+    {
+      "id": 4,
+      "question": "In an attendance sheet, if you want to ensure users can ONLY type 'P', 'A', or 'L', what feature should you use?",
+      "options": [
+        "Spell Check",
+        "Data Validation (List)",
+        "AutoCorrect",
+        "Find and Replace"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Data Validation with the 'List' option restricts user input to a predefined set of choices."
+    },
+    {
+      "id": 5,
+      "question": "Which feature helps keep the student names visible on the left while you scroll to view dates on the far right?",
+      "options": [
+        "Hide Columns",
+        "Freeze Panes (Freeze First Column)",
+        "Zoom Out",
+        "Filter"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": " Freezing the first column ensures that names remain locked in view while scrolling horizontally."
+    },
+    {
+      "id": 6,
+      "question": "What is a 'Biometric Attendance System'?",
+      "options": [
+        "A paper notebook",
+        "A digital system that uses fingerprints, iris scans, or face recognition to mark attendance",
+        "A calculator",
+        "An Excel sheet"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Biometric systems use unique biological traits to verify identity and mark attendance, preventing 'buddy punching'."
+    },
+    {
+      "id": 7,
+      "question": "To calculate the 'Attendance Percentage', which formula logic is correct?",
+      "options": [
+        "(Total Present / Total Days) * 100",
+        "(Total Days / Total Present) * 100",
+        "Total Present + Total Days",
+        "Total Present - Total Absent"
+      ],
+      "answer": 0,
+      "difficulty": "hard",
+      "explanation": "Percentage is calculated by dividing the part (Days Present) by the whole (Total Working Days) and multiplying by 100."
+    },
+    {
+      "id": 8,
+      "question": "If you drag the 'Fill Handle' across a row starting with 'Mon', what will Excel do?",
+      "options": [
+        "Copy 'Mon' repeatedly",
+        "Fill the series with 'Tue', 'Wed', 'Thu', etc.",
+        "Delete the cell",
+        "Turn the cell blue"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Excel's AutoFill feature recognizes days of the week and continues the sequence automatically."
+    },
+    {
+      "id": 9,
+      "question": "Which page orientation is usually best for printing a wide Monthly Attendance Sheet?",
+      "options": [
+        "Portrait",
+        "Landscape",
+        "Vertical",
+        "Square"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Since attendance sheets have many columns (30/31 days), Landscape orientation provides more horizontal space."
+    },
+    {
+      "id": 10,
+      "question": "What is a potential disadvantage of a manual paper-based attendance register?",
+      "options": [
+        "It uses no electricity",
+        "It is prone to errors, damage, and makes calculation time-consuming",
+        "It is easy to carry",
+        "It is cheap"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Manual registers can be lost, damaged, or manipulated, and calculating totals at the end of the month is slow."
+    },
+    {
+      "id": 11,
+      "question": "In Excel, to enter the current date quickly into a cell, which shortcut can be used?",
+      "options": [
+        "Ctrl + ; (Semicolon)",
+        "Ctrl + D",
+        "Alt + F4",
+        "Ctrl + P"
+      ],
+      "answer": 0,
+      "difficulty": "hard",
+      "explanation": "Ctrl + ; inserts the current static date into the active cell."
+    },
+    {
+      "id": 12,
+      "question": "If a student is marked 'L' (Leave), how does it typically affect the 'Absent' count?",
+      "options": [
+        "It is counted as Absent",
+        "It is usually tracked separately from unjustified Absences",
+        "It counts as Present",
+        "It deletes the name"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Leaves are authorized absences and are usually tallied separately from unauthorized 'Absent' days."
+    },
+    {
+      "id": 13,
+      "question": "AI-powered Facial Recognition attendance systems provide which benefit?",
+      "options": [
+        "Slower processing",
+        "Contactless and hygienic verification (useful post-COVID)",
+        "Requires ink",
+        "Requires paper"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Facial recognition is touch-free, reducing the spread of germs compared to fingerprint scanners or signing papers."
+    },
+    {
+      "id": 14,
+      "question": "To quickly see how many students are absent on a specific day, you can select the column and look at the:",
+      "options": [
+        "Page Layout",
+        "Status Bar (Count/Sum)",
+        "Review Tab",
+        "File Menu"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "The Status Bar at the bottom of Excel shows quick stats like Count or Sum for selected cells."
+    },
+    {
+      "id": 15,
+      "question": "Which border style is commonly used to separate the header row (Dates) from the data (Attendance marks)?",
+      "options": [
+        "No Border",
+        "Thick Bottom Border",
+        "Dashed Border",
+        "Invisible Border"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "A thick bottom border under headers helps visually separate labels from the data."
+    },
+    {
+      "id": 16,
+      "question": "What happens if you use the 'Merge & Center' button on the title 'Attendance Report' across columns A to AE?",
+      "options": [
+        "It deletes the text",
+        "It centers the title across all the selected columns in one large cell",
+        "It splits the text",
+        "It changes the font color"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Merge & Center is standard for centering titles across the width of a table."
+    },
+    {
+      "id": 17,
+      "question": "If you want to protect your attendance sheet so others can look but not change marks, what feature do you use?",
+      "options": [
+        "Hide Sheet",
+        "Protect Sheet (with password)",
+        "Delete Sheet",
+        "Rename Sheet"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Protect Sheet restricts editing capabilities, ensuring data integrity."
+    },
+    {
+      "id": 18,
+      "question": "Why might an organization link Attendance Reports to Payroll?",
+      "options": [
+        "To decide lunch menu",
+        "To calculate salary deductions for unpaid leaves",
+        "To choose holiday destinations",
+        "To pick colors"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Attendance data directly impacts salary calculations based on days worked vs. days absent."
+    },
+    {
+      "id": 19,
+      "question": "Which function allows you to join a First Name and Last Name column into one 'Full Name' column for the report?",
+      "options": [
+        "SUM",
+        "CONCAT or TextJoin",
+        "COUNT",
+        "AVERAGE"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "CONCAT (Concatenate) is used to combine text strings from different cells."
+    },
+    {
+      "id": 20,
+      "question": "When designing the sheet, 'AutoFit Column Width' is useful for:",
+      "options": [
+        "Making all columns the same size",
+        "Shrinking columns to fit the content (like 'P' or 'A') tightly to save space",
+        "Deleting columns",
+        "Hiding columns"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "AutoFit adjusts the width to match the content, which is crucial when fitting 31 days onto one screen/page."
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "title": "Session 28: Sports Sign-Up Sheets & Vertical Timelines",
+    "description": "Learn to create functional data collection forms like Sign-Up Sheets and visualize history or project milestones using Vertical Timelines in Excel."
+  },
+  "studyTopics": [
+    {
+      "topic": "Designing Sign-Up Sheets",
+      "hint": "Use borders and gridlines to make writing easy.",
+      "searchQuery": "how to create printable sign up sheet in excel",
+      "learningOutcome": "Design a clean, printable form for collecting participant data."
+    },
+    {
+      "topic": "Vertical Timelines with SmartArt",
+      "hint": "Use the 'Process' or 'List' category in SmartArt.",
+      "searchQuery": "create vertical timeline excel smartart tutorial",
+      "learningOutcome": "Visualize chronological events vertically using Excel's graphic tools."
+    },
+    {
+      "topic": "Printing Forms",
+      "hint": "Turn on 'Print Gridlines' so people can write in straight lines.",
+      "searchQuery": "excel print gridlines for handwriting",
+      "learningOutcome": "Configure print settings to ensure empty forms are easy to fill out manually."
+    },
+    {
+      "topic": "Data Elements for Sports",
+      "hint": "Don't forget Emergency Contacts and Jersey Sizes.",
+      "searchQuery": "essential fields for sports registration form",
+      "learningOutcome": "Identify critical data points needed for organizing sports events."
+    },
+    {
+      "topic": "AI for Event Planning",
+      "hint": "AI tools can draft schedules and waivers.",
+      "searchQuery": "using AI for event planning and scheduling",
+      "learningOutcome": "Understand how AI can assist in organizing logistics and timelines."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the primary purpose of a 'Sports Sign-Up Sheet'?",
+      "options": [
+        "To keep score during the game",
+        "To collect participant details and register them for the event",
+        "To design the team logo",
+        "To calculate ticket prices"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "A sign-up sheet is a data collection document used to register interested participants and gather their contact info."
+    },
+    {
+      "id": 2,
+      "question": "Which Excel feature is best suited for creating a professional 'Vertical Timeline' quickly without drawing individual shapes?",
+      "options": [
+        "Pivot Table",
+        "SmartArt",
+        "Formulas",
+        "Data Validation"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": " SmartArt provides pre-designed layouts (like Lists and Processes) that are perfect for creating timelines."
+    },
+    {
+      "id": 3,
+      "question": "When printing a blank sign-up sheet for people to write on, which Page Layout setting is most helpful to enable?",
+      "options": [
+        "Remove Margins",
+        "Print Gridlines",
+        "Hide Headings",
+        "Background Color"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Printing Gridlines provides visual guides (boxes) that help people write their details neatly and in straight lines."
+    },
+    {
+      "id": 4,
+      "question": "A 'Vertical Timeline' is ideal for displaying:",
+      "options": [
+        "A pie chart",
+        "Events in chronological order (History, Project Milestones)",
+        "A grocery list",
+        "Mathematical equations"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Timelines are graphical representations of the passage of time, showing events in the order they occurred."
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is a critical field to include in a youth sports sign-up sheet for safety?",
+      "options": [
+        "Favorite Color",
+        "Emergency Contact Number",
+        "Pet's Name",
+        "High Score"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Emergency Contact information is essential for safety in case a participant gets injured."
+    },
+    {
+      "id": 6,
+      "question": "In Excel, if you want to add a new event to your SmartArt timeline, you should use the _____ pane.",
+      "options": [
+        "Animation Pane",
+        "Text Pane",
+        "Selection Pane",
+        "Review Pane"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "The Text Pane allows you to type your bullet points, which SmartArt automatically converts into shapes in the diagram."
+    },
+    {
+      "id": 7,
+      "question": "Why might you choose a 'Vertical' timeline over a 'Horizontal' one for a mobile-friendly report?",
+      "options": [
+        "Vertical scrolling is more natural on phones",
+        "Vertical timelines use more color",
+        "Horizontal timelines are impossible to make",
+        "Vertical timelines calculate dates automatically"
+      ],
+      "answer": 0,
+      "difficulty": "hard",
+      "explanation": "Vertical layouts fit better on narrow screens (like smartphones) where scrolling down is standard behavior."
+    },
+    {
+      "id": 8,
+      "question": "To ensure that the column for 'Email Address' is wide enough to fit long emails, you should:",
+      "options": [
+        "Decrease font size to 2",
+        "Use 'AutoFit Column Width' (Double click column boundary)",
+        "Hide the column",
+        "Delete the column"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "AutoFit expands the column width to accommodate the longest entry in that column."
+    },
+    {
+      "id": 9,
+      "question": "Which formatting feature helps separate different sections of a sign-up sheet (e.g., Player Info vs. Parent Info)?",
+      "options": [
+        "Borders (Thick Box Border)",
+        "Spell Check",
+        "Formula Bar",
+        "Sort"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "Using thick borders visually groups related fields together, making the form easier to read."
+    },
+    {
+      "id": 10,
+      "question": "What is a 'Waiver' often included at the bottom of a sports sign-up sheet?",
+      "options": [
+        "A place to wave hello",
+        "A legal statement releasing the organizers from liability for injuries",
+        "A coupon code",
+        "A list of rules"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "A waiver is a legal agreement where participants acknowledge risks and agree not to sue the organizers."
+    },
+    {
+      "id": 11,
+      "question": "In the context of SmartArt, what does 'Demote' do to a shape/bullet point?",
+      "options": [
+        "Deletes it",
+        "Moves it to a lower level (sub-point), often making it smaller or indented",
+        "Makes it the main title",
+        "Changes its color to red"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Demoting an item moves it down the hierarchy, turning a main event into a sub-detail."
+    },
+    {
+      "id": 12,
+      "question": "Which tab would you use to change the color scheme of your SmartArt timeline to match your team colors?",
+      "options": [
+        "Formulas",
+        "SmartArt Design / Format",
+        "Data",
+        "View"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The SmartArt Design tab appears when SmartArt is selected, offering 'Change Colors' and style options."
+    },
+    {
+      "id": 13,
+      "question": "If you are printing sign-up sheets for a clipboard, which Margin setting might you adjust to leave room for the clip?",
+      "options": [
+        "Top Margin",
+        "Bottom Margin",
+        "Right Margin",
+        "Footer"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "Increasing the Top Margin ensures that the clip of the clipboard doesn't cover the title or first row."
+    },
+    {
+      "id": 14,
+      "question": "Can you add pictures (like team logos) into a SmartArt timeline?",
+      "options": [
+        "No, never",
+        "Yes, many SmartArt layouts support inserting images",
+        "Only if you pay",
+        "Only in Word, not Excel"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Many SmartArt layouts (especially in the Picture category) have placeholders specifically for images."
+    },
+    {
+      "id": 15,
+      "question": "AI-powered tools can help in the sports sign-up process by:",
+      "options": [
+        "Playing the game for you",
+        "Automating the collection of data and sending confirmation emails",
+        "Washing the jerseys",
+        "Printing the paper"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "AI automation tools (like Zapier or built-in form AI) can handle registration confirmations and database entry."
+    },
+    {
+      "id": 16,
+      "question": "To title your sign-up sheet effectively, you should use:",
+      "options": [
+        "Tiny font size",
+        "Merge & Center with a large, bold font",
+        "Invisible ink",
+        "A formula"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "A large, centered title clearly identifies the purpose of the sheet."
+    },
+    {
+      "id": 17,
+      "question": "Which Shape is most commonly used to represent a specific 'Milestone' or point in time on a timeline?",
+      "options": [
+        "Circle or Diamond",
+        "Squiggly line",
+        "Cloud",
+        "Lightning bolt"
+      ],
+      "answer": 0,
+      "difficulty": "easy",
+      "explanation": "Circles (dots) or Diamonds are standard symbols for marking specific dates on a timeline line."
+    },
+    {
+      "id": 18,
+      "question": "What is a benefit of using Excel for a sign-up sheet instead of a blank Word doc?",
+      "options": [
+        "It looks worse",
+        "The grid structure makes it easier to create organized rows and columns for data entry",
+        "It has no spell check",
+        "It cannot print"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Excel's natural grid layout is perfect for creating forms with rows and columns without needing to draw tables manually."
+    },
+    {
+      "id": 19,
+      "question": "If your timeline is too long to fit on one page, you can use 'Repeat Header Rows' to:",
+      "options": [
+        "Stop printing",
+        "Show the timeline title on every page",
+        "Delete the timeline",
+        "Shrink the text"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "Repeating header rows ensures the context (Title/Years) is visible on subsequent pages of a long document."
+    },
+    {
+      "id": 20,
+      "question": "What does 'Jersey Size' data help organizers with?",
+      "options": [
+        "Logistics and procurement of uniforms",
+        "Choosing team names",
+        "Scheduling games",
+        "Booking referees"
+      ],
+      "answer": 0,
+      "difficulty": "easy",
+      "explanation": "Collecting sizes in advance allows organizers to order the correct number and size of uniforms."
+    }
+  ]
+}

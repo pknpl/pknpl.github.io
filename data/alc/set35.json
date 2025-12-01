@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "title": "Session 35: PowerPoint View Tab & AI Tools",
+    "description": "Mastering PowerPoint Views (Normal, Sorter, Master Views), optimizing for print with Grayscale, and leveraging AI tools like Copilot and Lumen5."
+  },
+  "studyTopics": [
+    {
+      "topic": "Presentation Views",
+      "hint": "Normal for editing, Slide Sorter for reordering.",
+      "searchQuery": "powerpoint views explained normal slide sorter reading",
+      "learningOutcome": "Identify and use the correct view (Normal, Outline, Slide Sorter, Reading) for the task at hand."
+    },
+    {
+      "topic": "Master Views (Slide Master)",
+      "hint": "Edit once here to update every slide instantly.",
+      "searchQuery": "how to use slide master in powerpoint tutorial",
+      "learningOutcome": "Customize the master slide to ensure consistent fonts, logos, and layouts across the entire presentation."
+    },
+    {
+      "topic": "Visual Alignment Tools",
+      "hint": "Rulers, Gridlines, and Guides help align objects.",
+      "searchQuery": "powerpoint align objects using gridlines and guides",
+      "learningOutcome": "Use visual aids to position text and images precisely on the slide."
+    },
+    {
+      "topic": "Color & Grayscale Options",
+      "hint": "Checking how slides look when printed in black and white.",
+      "searchQuery": "powerpoint grayscale view for printing",
+      "learningOutcome": "Optimize presentations for non-color printing to ensure readability."
+    },
+    {
+      "topic": "AI for Presentations (Copilot & Lumen5)",
+      "hint": "Copilot writes slides; Lumen5 makes videos.",
+      "searchQuery": "Lumen5 video creation features",
+      "learningOutcome": "Understand how AI can automate slide creation and convert text content into engaging videos."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which view is the default view in PowerPoint where you write and design your slides?",
+      "options": [
+        "Slide Sorter",
+        "Normal",
+        "Reading View",
+        "Notes Page"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Normal View is the main editing view, which includes the slide pane, thumbnail pane, and notes pane."
+    },
+    {
+      "id": 2,
+      "question": "If you want to place a company logo on the top-right corner of *every* slide automatically, where should you insert it?",
+      "options": [
+        "On the first slide only",
+        "In the Slide Master",
+        "In the Transitions tab",
+        "In the Notes section"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": " Changes made to the Slide Master (top slide in the hierarchy) are automatically applied to all associated slides in the presentation."
+    },
+    {
+      "id": 3,
+      "question": "Which view displays all slides as small thumbnails, making it easy to drag and drop them to change their order?",
+      "options": [
+        "Normal",
+        "Slide Sorter",
+        "Reading View",
+        "Slide Master"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Slide Sorter view gives a high-level overview of the entire presentation sequence."
+    },
+    {
+      "id": 4,
+      "question": "Lumen5 is an AI tool primarily used to:",
+      "options": [
+        "Convert text/blog posts into engaging video content",
+        "Create spreadsheets",
+        "Protect passwords",
+        "Compress files"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "Lumen5 uses AI to analyze text content and automatically match it with relevant stock footage to create videos."
+    },
+    {
+      "id": 5,
+      "question": "What is the purpose of the 'Grayscale' option in the View tab?",
+      "options": [
+        "To make the presentation look old",
+        "To see how the slides will look when printed on a black and white printer",
+        "To delete colors permanently",
+        "To save ink"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Grayscale view helps you verify that text and graphs are still legible without color before printing."
+    },
+    {
+      "id": 6,
+      "question": "Which checkbox in the 'Show' group would you enable to see a horizontal and vertical ruler for measuring formatting?",
+      "options": [
+        "Gridlines",
+        "Guides",
+        "Ruler",
+        "Notes"
+      ],
+      "answer": 2,
+      "difficulty": "easy",
+      "explanation": "The Ruler option toggles the measurement rulers on the top and left of the slide pane."
+    },
+    {
+      "id": 7,
+      "question": "Microsoft PowerPoint Copilot uses AI to:",
+      "options": [
+        "Clean the keyboard",
+        "Create entire presentations, summarize slides, and organize ideas from a prompt",
+        "Print paper",
+        "Install Windows"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Copilot integrates LLMs (Large Language Models) into PowerPoint to assist in creating and refining presentations."
+    },
+    {
+      "id": 8,
+      "question": "What does 'Fit to Window' do in the Zoom group?",
+      "options": [
+        "Closes the window",
+        "Resizes the slide so it fills the current available space in the window",
+        "Makes the slide 100% size",
+        "Minimizes the app"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Fit to Window adjusts the zoom level instantly so the whole slide is visible."
+    },
+    {
+      "id": 9,
+      "question": "Which Master View allows you to customize how the printed handouts (3 slides per page, etc.) will look?",
+      "options": [
+        "Slide Master",
+        "Notes Master",
+        "Handout Master",
+        "View Master"
+      ],
+      "answer": 2,
+      "difficulty": "medium",
+      "explanation": "Handout Master controls the layout, headers, and footers for printed audience handouts."
+    },
+    {
+      "id": 10,
+      "question": "The 'Switch Windows' command is useful when:",
+      "options": [
+        "You want to close PowerPoint",
+        "You have multiple presentations open and want to change which one is active",
+        "You want to change the view to Slide Sorter",
+        "You want to play a video"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Switch Windows lists all open PowerPoint files so you can quickly jump between them."
+    },
+    {
+      "id": 11,
+      "question": "Which visual aid helps you verify if three objects are perfectly aligned with each other?",
+      "options": [
+        "Macros",
+        "Guides / Gridlines",
+        "Notes Page",
+        "Outline View"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Guides (movable lines) and Gridlines (fixed grid) are specifically designed for precise alignment."
+    },
+    {
+      "id": 12,
+      "question": "To see the structure of your presentation as a text-only list of titles and bullets, which view should you use?",
+      "options": [
+        "Slide Sorter",
+        "Outline View",
+        "Reading View",
+        "Notes Page"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "Outline View focuses on the text content (outline) of the slides rather than the graphics."
+    },
+    {
+      "id": 13,
+      "question": "What happens if you click 'New Window' in the View tab?",
+      "options": [
+        "A new blank presentation opens",
+        "A new window opens displaying the *same* presentation",
+        "The computer restarts",
+        "The file is saved"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "New Window allows you to view the same presentation in two separate windows (e.g., to edit slide 1 while looking at slide 50)."
+    },
+    {
+      "id": 14,
+      "question": "The 'Notes Page' view is primarily used to:",
+      "options": [
+        "View the slide along with the speaker notes below it in a printable format",
+        "Play the slideshow",
+        "Edit the master slide",
+        "Sort slides"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "Notes Page view shows how the slide and its associated speaker notes will look if printed."
+    },
+    {
+      "id": 15,
+      "question": "Which AI feature analyzes your slide content and automatically suggests professional design layouts in a sidebar?",
+      "options": [
+        "PowerPoint Designer",
+        "Macro Recorder",
+        "Slide Master",
+        "Handout Master"
+      ],
+      "answer": 0,
+      "difficulty": "easy",
+      "explanation": "PowerPoint Designer (Design Ideas) offers automatic layout and image suggestions."
+    },
+    {
+      "id": 16,
+      "question": "Which of these is NOT a group in the View Tab?",
+      "options": [
+        "Presentation Views",
+        "Master Views",
+        "Zoom",
+        "Animations"
+      ],
+      "answer": 3,
+      "difficulty": "easy",
+      "explanation": "Animations is a separate top-level Tab, not a group within the View Tab."
+    },
+    {
+      "id": 17,
+      "question": "In the View tab, 'Macros' allow you to:",
+      "options": [
+        "View large slides",
+        "Automate repetitive tasks by running recorded scripts",
+        "Make text bold",
+        "Insert pictures"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Macros are used for automation, similar to Excel and Word."
+    },
+    {
+      "id": 18,
+      "question": "What does the 'Cascade' option in the Windows group do?",
+      "options": [
+        "Closes all windows",
+        "Stacks all open PowerPoint windows so you can see the title bars of each",
+        "Maximizes all windows",
+        "Minimizes all windows"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Cascade arranges all open windows in an overlapping stack."
+    },
+    {
+      "id": 19,
+      "question": "Which view allows you to present the slideshow in a window (not full screen) while still seeing other apps?",
+      "options": [
+        "Normal",
+        "Reading View",
+        "Slide Sorter",
+        "Slide Master"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Reading View plays the animations and transitions like a slideshow but keeps the window controls visible."
+    },
+    {
+      "id": 20,
+      "question": "If you want to edit the formatting of the 'Speaker Notes' area for printing, which Master View do you use?",
+      "options": [
+        "Slide Master",
+        "Handout Master",
+        "Notes Master",
+        "Title Master"
+      ],
+      "answer": 2,
+      "difficulty": "hard",
+      "explanation": "The Notes Master allows you to customize the layout and font of the Notes Pages."
+    }
+  ]
+}

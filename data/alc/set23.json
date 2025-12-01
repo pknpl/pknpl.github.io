@@ -1,0 +1,312 @@
+{
+  "meta": {
+    "title": "Session 23: Excel View Tab & Family Tree Project",
+    "description": "Mastering Excel View options (Freeze Panes, Macros, Workbook Views), creating a Family Tree using SmartArt, and exploring AI tools for automation and transcription."
+  },
+  "studyTopics": [
+    {
+      "topic": "Workbook Views",
+      "hint": "Normal for editing, Page Layout for headers, Page Break Preview for printing.",
+      "searchQuery": "excel normal vs page break preview vs page layout view",
+      "learningOutcome": "Switch between different views to optimize editing, printing, and final layout adjustments."
+    },
+    {
+      "topic": "Freeze Panes",
+      "hint": "Keeps the top row or first column visible while scrolling.",
+      "searchQuery": "how to freeze top row and first column in excel",
+      "learningOutcome": "Lock specific rows or columns so headers remain visible when scrolling through large datasets."
+    },
+    {
+      "topic": "Macros (Automation)",
+      "hint": "Recording repetitive clicks to replay them later.",
+      "searchQuery": "how to record and run macros in excel for beginners",
+      "learningOutcome": "Automate repetitive tasks by recording a sequence of actions as a Macro."
+    },
+    {
+      "topic": "Family Tree Generator",
+      "hint": "Using SmartArt Hierarchy graphics to map relationships.",
+      "searchQuery": "create family tree in excel using smartart hierarchy",
+      "learningOutcome": "Design a visual representation of family lineage using Excel's graphic tools."
+    },
+    {
+      "topic": "Window Management",
+      "hint": "Splitting screens or viewing two files side-by-side.",
+      "searchQuery": "excel split window and arrange all features",
+      "learningOutcome": "Manage multiple open workbooks or view different parts of the same sheet simultaneously."
+    },
+    {
+      "topic": "AI for Meetings & Automation",
+      "hint": "Otter.ai for notes, IFTTT for connecting apps.",
+      "searchQuery": "Otter.ai features and IFTTT automation examples",
+      "learningOutcome": "Leverage AI tools to transcribe meetings and automate cross-platform tasks."
+    },
+    {
+      "topic": "Excel Analyze Data",
+      "hint": "Ask questions about your data in plain English.",
+      "searchQuery": "how to use analyze data feature in excel",
+      "learningOutcome": "Use AI within Excel to spot patterns and generate charts automatically."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which feature allows you to keep the top row of your table visible while you scroll down to the bottom of a long list?",
+      "options": [
+        "Split Window",
+        "Freeze Panes (Freeze Top Row)",
+        "Hide Row",
+        "Zoom In"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Freeze Panes locks specific rows or columns (like headers) in place so they don't disappear when scrolling."
+    },
+    {
+      "id": 2,
+      "question": "In the View tab, which view is best used to adjust exactly where a new page begins for printing?",
+      "options": [
+        "Normal View",
+        "Page Break Preview",
+        "Custom View",
+        "Full Screen"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Page Break Preview displays watermark page numbers and allows you to drag blue lines to adjust print breaks."
+    },
+    {
+      "id": 3,
+      "question": "Otter.ai is an AI tool primarily used for:",
+      "options": [
+        "Generating images",
+        "Recording and transcribing meetings/audio into text",
+        "Cleaning viruses",
+        "Creating family trees"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Otter.ai provides automated meeting notes and transcription using artificial intelligence."
+    },
+    {
+      "id": 4,
+      "question": "What is a 'Macro' in Excel?",
+      "options": [
+        "A large formula",
+        "A recorded set of actions that can be run to automate repetitive tasks",
+        "A type of chart",
+        "A zoom setting"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Macros are scripts that record your mouse clicks and keystrokes to replay them later, saving time on repetitive work."
+    },
+    {
+      "id": 5,
+      "question": "Which SmartArt layout is most suitable for creating a 'Family Tree'?",
+      "options": [
+        "Process",
+        "Hierarchy",
+        "Cycle",
+        "Pyramid"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "A Hierarchy chart is designed to show structural relationships, such as a family tree or an organization chart."
+    },
+    {
+      "id": 6,
+      "question": "The 'Split' command in the Window group does what?",
+      "options": [
+        "Breaks the monitor",
+        "Divides the current window into two or four scrollable panes",
+        "Deletes the sheet",
+        "Merges cells"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": " Split divides the window so you can view distant parts of the same worksheet at the same time."
+    },
+    {
+      "id": 7,
+      "question": "If you want to view two open Excel workbooks side-by-side on your monitor, which button should you click?",
+      "options": [
+        "New Window",
+        "Arrange All",
+        "Hide",
+        "Freeze Panes"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Arrange All tiles all open Excel windows (Tiled, Horizontal, Vertical) so they fit on the screen together."
+    },
+    {
+      "id": 8,
+      "question": "Which checkbox in the 'Show' group allows you to hide the gridlines (the faint gray lines separating cells) on the screen?",
+      "options": [
+        "Formula Bar",
+        "Headings",
+        "Gridlines",
+        "Ruler"
+      ],
+      "answer": 2,
+      "difficulty": "easy",
+      "explanation": "Unchecking the 'Gridlines' box in the View tab creates a clean, white background without cell borders."
+    },
+    {
+      "id": 9,
+      "question": "What is the purpose of IFTTT (If This Then That)?",
+      "options": [
+        "To play music",
+        "To automate tasks by connecting different apps and services",
+        "To write formulas",
+        "To design logos"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "IFTTT is an automation tool that lets you create chains of simple conditional statements (applets) between apps."
+    },
+    {
+      "id": 10,
+      "question": "The 'Zoom to Selection' feature:",
+      "options": [
+        "Zooms to 100%",
+        "Magnifies the sheet so the currently selected cells fill the entire window",
+        "Zooms out to see the whole page",
+        "Closes the file"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "This allows you to focus closely on a specific range of data by filling the screen with just that selection."
+    },
+    {
+      "id": 11,
+      "question": "Which feature in Excel uses AI to automatically identify patterns and create charts or summaries from your table?",
+      "options": [
+        "Spell Check",
+        "Analyze Data",
+        "Macro",
+        "Freeze Panes"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "The Analyze Data button (formerly Ideas) uses AI to answer natural language questions about your data."
+    },
+    {
+      "id": 12,
+      "question": "What does the 'New Window' command allow you to do?",
+      "options": [
+        "Open a new blank file",
+        "Open a second window displaying the *same* workbook so you can work on two sheets simultaneously",
+        "Open Google Chrome",
+        "Close Excel"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "New Window creates another view of the current document, allowing you to edit Sheet 1 in one window and Sheet 2 in another."
+    },
+    {
+      "id": 13,
+      "question": "If the Formula Bar is missing from your screen, where can you turn it back on?",
+      "options": [
+        "Home Tab > Font",
+        "View Tab > Show Group",
+        "Data Tab > Sort",
+        "Insert Tab > Tables"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The visibility of the Formula Bar is toggled via a checkbox in the Show group of the View tab."
+    },
+    {
+      "id": 14,
+      "question": "Page Layout View is primarily useful for:",
+      "options": [
+        "Writing code",
+        "Visualizing headers, footers, and margins exactly as they will print",
+        "Filtering data",
+        "Calculating sums"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Page Layout view shows the document page-by-page, including rulers and header/footer areas."
+    },
+    {
+      "id": 15,
+      "question": "Why create a Family Tree?",
+      "options": [
+        "To predict the future",
+        "To visualize ancestry, understand relationships, and track family medical history",
+        "To calculate taxes",
+        "To format cells"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Family trees preserve heritage and help understand generational relationships and history."
+    },
+    {
+      "id": 16,
+      "question": "Which option allows you to save a specific display setting (like hidden rows and print settings) to quickly return to it later?",
+      "options": [
+        "Save As",
+        "Custom Views",
+        "Freeze Panes",
+        "Macro"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "Custom Views allow you to save the current view settings (hidden rows/columns, filter settings) and switch back to them instantly."
+    },
+    {
+      "id": 17,
+      "question": "The 'Switch Windows' button is useful when:",
+      "options": [
+        "You want to close Excel",
+        "You have multiple Excel files open and want to jump quickly between them",
+        "You want to switch to Word",
+        "You want to turn off the computer"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Switch Windows lists all currently open Excel workbooks for fast navigation."
+    },
+    {
+      "id": 18,
+      "question": "The 'Zoom Slider' is usually located:",
+      "options": [
+        "In the View Tab ribbon only",
+        "At the bottom-right corner of the Excel status bar",
+        "In the File menu",
+        "On the keyboard"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "While Zoom options are in the View tab, the Slider for quick adjustment is always on the bottom-right status bar."
+    },
+    {
+      "id": 19,
+      "question": "Which of these file extensions supports Macros?",
+      "options": [
+        ".xlsx",
+        ".xlsm",
+        ".docx",
+        ".pdf"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "Standard .xlsx files cannot save macros for security reasons; you must save as .xlsm (Excel Macro-Enabled Workbook)."
+    },
+    {
+      "id": 20,
+      "question": "When creating a Family Tree in Excel using shapes, which feature helps align them perfectly?",
+      "options": [
+        "Snap to Grid / Align Objects",
+        "Spell Check",
+        "WordArt",
+        "PivotTable"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "Align tools (Align Center, Distribute Vertically) and Snap to Grid help keep the flowchart shapes organized."
+    }
+  ]
+}

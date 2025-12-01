@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "title": "Session 33: Advanced Animations & Interactive Quizzes",
+    "description": "Mastering PowerPoint's Animation Tab (Entrance, Emphasis, Exit, Motion Paths), creating interactive Quiz Show Games using Triggers, and exploring AI animation tools."
+  },
+  "studyTopics": [
+    {
+      "topic": "Animation Basics (Types)",
+      "hint": "Entrance (Green), Emphasis (Yellow), Exit (Red), Motion Paths.",
+      "searchQuery": "types of animations in powerpoint entrance emphasis exit",
+      "learningOutcome": "Distinguish between different animation categories to control how objects appear, move, or disappear."
+    },
+    {
+      "topic": "The Animation Pane",
+      "hint": "The control center for ordering and timing animations.",
+      "searchQuery": "how to use animation pane in powerpoint",
+      "learningOutcome": "Manage multiple animations, adjust their sequence, and control timing using the Animation Pane."
+    },
+    {
+      "topic": "Triggers for Interactivity",
+      "hint": "Clicking Object A makes Object B move (essential for Quizzes).",
+      "searchQuery": "how to use triggers in powerpoint for interactive quiz",
+      "learningOutcome": "Create interactive elements where an action is only triggered by clicking a specific button."
+    },
+    {
+      "topic": "Designing a Quiz Show",
+      "hint": "Using Hyperlinks and Actions to navigate between questions.",
+      "searchQuery": "create interactive quiz game in powerpoint tutorial",
+      "learningOutcome": "Apply layout and linking skills to build a functional, non-linear game."
+    },
+    {
+      "topic": "AI Animation Tools",
+      "hint": "Animaker for videos, Napkin AI for visuals.",
+      "searchQuery": "Animaker vs DomoAI features",
+      "learningOutcome": "Leverage AI platforms to generate animated videos and visuals automatically."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which tab in PowerPoint is used to apply visual effects to individual objects (text, images, shapes) to make them move?",
+      "options": [
+        "Transitions",
+        "Animations",
+        "Design",
+        "View"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The Animations tab controls how specific objects appear, move, or disappear on a slide."
+    },
+    {
+      "id": 2,
+      "question": "In the context of an interactive Quiz Game, what is a 'Trigger'?",
+      "options": [
+        "A virus",
+        "A setting that starts an animation only when you click a specific object (like an answer button)",
+        "The delete button",
+        "A type of transition"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "Triggers allow you to create interactivity; for example, clicking a button labeled 'Correct' triggers a applause sound/animation."
+    },
+    {
+      "id": 3,
+      "question": "What is the function of the 'Animation Pane'?",
+      "options": [
+        "To draw pictures",
+        "To view, reorder, and modify the timing of all animations on the current slide",
+        "To change the slide background",
+        "To check spelling"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "The Animation Pane is a sidebar that lists all effects on the slide, allowing detailed control over their sequence and duration."
+    },
+    {
+      "id": 4,
+      "question": "Animaker is an AI-powered tool primarily used for:",
+      "options": [
+        "Spreadsheet calculation",
+        "Creating animated videos and cartoons easily",
+        "Writing code",
+        "Editing photos"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Animaker is a DIY video making tool that allows users to create animated videos using pre-built characters and templates."
+    },
+    {
+      "id": 5,
+      "question": "Which type of animation effect makes an object disappear from the slide?",
+      "options": [
+        "Entrance (Green)",
+        "Emphasis (Yellow)",
+        "Exit (Red)",
+        "Motion Path"
+      ],
+      "answer": 2,
+      "difficulty": "easy",
+      "explanation": "Exit effects (colored red) control how an object leaves the screen."
+    },
+    {
+      "id": 6,
+      "question": "If you want an object to spin or change color without leaving the slide, which effect category should you choose?",
+      "options": [
+        "Entrance",
+        "Emphasis",
+        "Exit",
+        "Slide Transition"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Emphasis effects draw attention to an object that is already visible on the slide."
+    },
+    {
+      "id": 7,
+      "question": "Napkin AI is described as a tool that:",
+      "options": [
+        "Cleans your screen",
+        "Transforms text into visuals/diagrams with simplicity",
+        "Plays music",
+        "Translates languages"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Napkin AI focuses on turning written concepts into simple, hand-drawn style visuals or diagrams."
+    },
+    {
+      "id": 8,
+      "question": "To apply multiple animations to the same object (e.g., Fly In AND then Spin), you must use:",
+      "options": [
+        "Select a new animation from the main gallery (replacing the old one)",
+        "The 'Add Animation' button",
+        "The 'Transition' button",
+        "Format Painter"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "Clicking a new effect in the main gallery replaces the current one. 'Add Animation' allows you to stack multiple effects on one object."
+    },
+    {
+      "id": 9,
+      "question": "What is a 'Motion Path'?",
+      "options": [
+        "A video of a road",
+        "A predefined route (line, arc, loop) that an object follows across the slide",
+        "A transition effect",
+        "A type of font"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Motion Paths move objects along a specific line or curve you define."
+    },
+    {
+      "id": 10,
+      "question": "In a Quiz Game, 'Hyperlinks' or 'Action Buttons' are typically used to:",
+      "options": [
+        "Delete the question",
+        "Navigate to a specific slide (e.g., jump to 'Correct Answer' slide) when clicked",
+        "Play a video",
+        "Close the file"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Hyperlinks allow non-linear navigation, jumping the user to the appropriate feedback slide based on their answer."
+    },
+    {
+      "id": 11,
+      "question": "The 'Start' setting 'With Previous' means:",
+      "options": [
+        "The animation starts only when you click",
+        "The animation starts at the same time as the animation before it",
+        "The animation starts after the previous one finishes",
+        "The animation never starts"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "'With Previous' executes the animation simultaneously with the preceding event, allowing for layered effects."
+    },
+    {
+      "id": 12,
+      "question": "DomoAI is mentioned as a platform for:",
+      "options": [
+        "AI-Powered Animation & Image Generation",
+        "Booking taxis",
+        "Creating spreadsheets",
+        "Writing essays"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "DomoAI is an AI tool capable of generating and stylizing animations and images."
+    },
+    {
+      "id": 13,
+      "question": "If you want to slow down an animation, which setting should you increase?",
+      "options": [
+        "Delay",
+        "Duration",
+        "Trigger",
+        "Order"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Duration controls the total time the animation takes to complete. Increasing it slows the animation down."
+    },
+    {
+      "id": 14,
+      "question": "What is the difference between 'Delay' and 'Duration'?",
+      "options": [
+        "They are the same",
+        "Duration is how long the effect lasts; Delay is the wait time before it starts",
+        "Delay makes it faster; Duration makes it slower",
+        "Duration is for sound; Delay is for video"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Delay pauses the start of the effect, while Duration dictates the speed of the effect itself."
+    },
+    {
+      "id": 15,
+      "question": "Which of these is NOT a category of Animation in PowerPoint?",
+      "options": [
+        "Entrance",
+        "Exit",
+        "Emphasis",
+        "Explosion"
+      ],
+      "answer": 3,
+      "difficulty": "easy",
+      "explanation": "Explosion is not a standard category name, though some specific effects might look like one."
+    },
+    {
+      "id": 16,
+      "question": "To create a button that plays a sound when clicked during a quiz, you can insert a Shape and use:",
+      "options": [
+        "Insert > Action",
+        "Design > Themes",
+        "View > Notes",
+        "Transitions > Morph"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "The 'Action' settings allow you to define what happens on mouse click, including playing sounds."
+    },
+    {
+      "id": 17,
+      "question": "The 'Effect Options' button allows you to:",
+      "options": [
+        "Change the direction of the animation (e.g., Fly In from Left vs Top)",
+        "Delete the animation",
+        "Change the slide size",
+        "Change the font"
+      ],
+      "answer": 0,
+      "difficulty": "easy",
+      "explanation": "Effect Options provide specific variations for the selected animation type."
+    },
+    {
+      "id": 18,
+      "question": "In the Animation Pane, a small mouse icon next to an effect indicates:",
+      "options": [
+        "The effect runs automatically",
+        "The effect triggers 'On Click'",
+        "The effect is broken",
+        "The effect uses a mouse pointer"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "The mouse icon represents the 'On Click' start trigger."
+    },
+    {
+      "id": 19,
+      "question": "What is the main purpose of creating a Quiz Show Game in PowerPoint?",
+      "options": [
+        "To write a book",
+        "To engage the audience interactively and test knowledge in a fun way",
+        "To calculate finances",
+        "To print photos"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Interactive games boost engagement and learning retention through participation."
+    },
+    {
+      "id": 20,
+      "question": "If you reorder items in the Animation Pane, what changes?",
+      "options": [
+        "The position of objects on the slide",
+        "The sequence in which the animations occur",
+        "The color of the objects",
+        "The text content"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The list order in the Animation Pane determines the chronological playback sequence."
+    }
+  ]
+}

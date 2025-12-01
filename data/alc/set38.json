@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "title": "Session 38: Creating a Biography Presentation",
+    "description": "Learn to structure, design, and print a professional Biography Presentation using Microsoft PowerPoint."
+  },
+  "studyTopics": [
+    {
+      "topic": "Biography Fundamentals",
+      "hint": "A detailed description of a person's life.",
+      "searchQuery": "definition of biography and key elements",
+      "learningOutcome": "Understand what constitutes a biography and the difference between biography and autobiography."
+    },
+    {
+      "topic": "Key Elements of a Biography",
+      "hint": "Early life, education, career, and legacy.",
+      "searchQuery": "what to include in a biography presentation",
+      "learningOutcome": "Identify the essential sections needed to tell a complete life story."
+    },
+    {
+      "topic": "Visualizing Timelines",
+      "hint": "Using SmartArt to show events in order.",
+      "searchQuery": "how to create a timeline in powerpoint smartart",
+      "learningOutcome": "Use graphical tools to represent chronological life events visually."
+    },
+    {
+      "topic": "Printing Presentations",
+      "hint": "Printing handouts vs. full slides.",
+      "searchQuery": "powerpoint print handouts settings 3 slides per page",
+      "learningOutcome": "Configure print settings to create handouts or speaker notes."
+    },
+    {
+      "topic": "AI for Historical Research",
+      "hint": "Using AI to find facts and restore old photos.",
+      "searchQuery": "AI tools for photo restoration and historical research",
+      "learningOutcome": "Leverage digital tools to gather information and enhance historical visual assets."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is a 'Biography'?",
+      "options": [
+        "A story written by a person about their own life",
+        "A detailed description of a person's life written by someone else",
+        "A book about biology",
+        "A collection of maps"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "A biography is an account of someone's life written by another person. (An autobiography is written by the subject themselves)."
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is an essential element to include in a Biography Presentation?",
+      "options": [
+        "The presenter's favorite color",
+        "Key life events, achievements, and legacy of the subject",
+        "A list of random numbers",
+        "The computer's specs"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "To tell a complete story, you must include major milestones like birth, education, career achievements, and impact."
+    },
+    {
+      "id": 3,
+      "question": "Which PowerPoint tool is best for visually displaying the chronological order of a person's life events?",
+      "options": [
+        "Pie Chart",
+        "SmartArt (Timeline / Process)",
+        "Spell Check",
+        "WordArt"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "SmartArt Timeline layouts are specifically designed to show a sequence of events over time."
+    },
+    {
+      "id": 4,
+      "question": "If you want to print your presentation so the audience can take notes, which Print Layout is best?",
+      "options": [
+        "Full Page Slides",
+        "Handouts (e.g., 3 slides per page with lines)",
+        "Outline View",
+        "Frame Slides"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Handouts (especially the 3-slide layout) provide space next to slide thumbnails for writing notes."
+    },
+    {
+      "id": 5,
+      "question": "[Digital Skill] Which type of AI tool would be most useful for a biography presentation about a historical figure with damaged photos?",
+      "options": [
+        "Voice Changer",
+        "AI Photo Restoration / Colorization tool",
+        "Code Generator",
+        "Spam Filter"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "AI photo restoration tools can repair scratches and colorize black-and-white photos to make the presentation more engaging."
+    },
+    {
+      "id": 6,
+      "question": "Which slide layout is ideal for showing a photo of the person alongside a bulleted list of their achievements?",
+      "options": [
+        "Title Only",
+        "Two Content",
+        "Section Header",
+        "Blank"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The 'Two Content' layout provides two placeholders side-by-side, perfect for text on one side and an image on the other."
+    },
+    {
+      "id": 7,
+      "question": "What is the 'Legacy' section of a biography typically about?",
+      "options": [
+        "Their childhood pets",
+        "The lasting impact or influence they left on the world",
+        "Their phone number",
+        "Their favorite food"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Legacy refers to what the person is remembered for and how they affected future generations."
+    },
+    {
+      "id": 8,
+      "question": "To organize a long biography presentation into chapters (e.g., 'Early Life', 'Career'), you should use:",
+      "options": [
+        "Sections",
+        "Animations",
+        "Transitions",
+        "Audio"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "Sections allow you to group slides logically, making it easier to manage and navigate a long presentation."
+    },
+    {
+      "id": 9,
+      "question": "When printing, 'Grayscale' mode is useful when:",
+      "options": [
+        "You want the most colorful print",
+        "You are printing on a black and white printer and want to ensure readability",
+        "You want to save the file as a video",
+        "You want to hide the text"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Grayscale optimizes the colors for black-and-white printing, ensuring that lighter colors don't disappear."
+    },
+    {
+      "id": 10,
+      "question": "Which feature helps you cite the sources of your information (e.g., Wikipedia, Books) at the bottom of a slide?",
+      "options": [
+        "Header & Footer",
+        "WordArt",
+        "Transitions",
+        "Slide Sorter"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "Footers are commonly used to place citations, dates, or page numbers consistently on slides."
+    },
+    {
+      "id": 11,
+      "question": "Why is it important to check 'Copyright' when using images for a public biography presentation?",
+      "options": [
+        "It is not important",
+        "To ensure you have legal permission to use the photos",
+        "To make the file smaller",
+        "To change the color"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Using copyrighted images without permission is illegal; one should look for Creative Commons or Public Domain images."
+    },
+    {
+      "id": 12,
+      "question": "To ensure your biography text is readable from the back of the room, you should:",
+      "options": [
+        "Use a font size of 10pt",
+        "Use a large font size (e.g., 24pt+) and high contrast",
+        "Use yellow text on a white background",
+        "Write in all capital letters"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Legibility is key; small fonts or low contrast make the presentation useless for an audience."
+    },
+    {
+      "id": 13,
+      "question": "Which view allows you to see your speaker notes while the audience sees the full slide?",
+      "options": [
+        "Slide Sorter",
+        "Presenter View",
+        "Reading View",
+        "Outline View"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Presenter View puts the speaker in control, showing notes and upcoming slides privately."
+    },
+    {
+      "id": 14,
+      "question": "What is an 'Autobiography'?",
+      "options": [
+        "A biography written by a car",
+        "A biography written by the person themselves",
+        "A biography about a fictional character",
+        "A list of books"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Auto- means self; an autobiography is a self-written life story."
+    },
+    {
+      "id": 15,
+      "question": "If you want to save your presentation as a document to share via email without animation, which format is best?",
+      "options": [
+        "MP4 Video",
+        "PDF (Portable Document Format)",
+        "GIF",
+        "MP3"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "PDFs capture the slides as static pages, making them easy to share and read on any device."
+    },
+    {
+      "id": 16,
+      "question": "Which ribbon tab would you use to change the slide dimensions to A4 size for a printed biography book?",
+      "options": [
+        "Home",
+        "Design (Slide Size)",
+        "Animations",
+        "Review"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "The Design tab's 'Slide Size' > 'Custom Slide Size' menu allows you to set dimensions like A4 or Letter."
+    },
+    {
+      "id": 17,
+      "question": "To add a quote from the person you are presenting about, which shape is often used?",
+      "options": [
+        "Callout / Speech Bubble",
+        "Arrow",
+        "Triangle",
+        "Line"
+      ],
+      "answer": 0,
+      "difficulty": "easy",
+      "explanation": "Callouts or Speech Bubbles are visual conventions for displaying spoken words or quotes."
+    },
+    {
+      "id": 18,
+      "question": "[Digital Skill] How can online encyclopedias like Wikipedia help in creating a biography?",
+      "options": [
+        "They provide verified facts, dates, and references",
+        "They edit the PowerPoint for you",
+        "They provide printing paper",
+        "They verify your identity"
+      ],
+      "answer": 0,
+      "difficulty": "easy",
+      "explanation": "Online encyclopedias are excellent starting points for gathering factual data and timelines."
+    },
+    {
+      "id": 19,
+      "question": "Which transition effect is generally considered professional and safe for a serious biography?",
+      "options": [
+        "Fade",
+        "Origami",
+        "Vortex",
+        "Glitter"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "Simple transitions like Fade or Wipe focus attention on the content rather than distracting the audience with flashy effects."
+    },
+    {
+      "id": 20,
+      "question": "If you have a video clip of the person speaking, which tab allows you to insert it?",
+      "options": [
+        "Design",
+        "Insert > Video",
+        "Review",
+        "View"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The Insert tab handles all external media, including Videos and Audio."
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "title": "Session 37: Creating Albums & Recipe Books",
+    "description": "Learn to use PowerPoint's automated Photo Album feature to preserve memories and design creative digital Recipe Books, plus audio enhancement with Adobe Podcast."
+  },
+  "studyTopics": [
+    {
+      "topic": "PowerPoint Photo Album Tool",
+      "hint": "A dedicated feature to import many photos at once.",
+      "searchQuery": "how to use insert photo album feature in powerpoint",
+      "learningOutcome": "Batch import photos to create a structured album automatically with captions and layouts."
+    },
+    {
+      "topic": "Designing a Recipe Book",
+      "hint": "Combining text (ingredients) and visuals (food photos).",
+      "searchQuery": "recipe book layout ideas powerpoint",
+      "learningOutcome": "Apply layout principles to organize instructions, ingredients, and images visually."
+    },
+    {
+      "topic": "Slide Size & Orientation",
+      "hint": "Changing to Portrait for a book feel or Square for Instagram.",
+      "searchQuery": "change slide size to portrait powerpoint",
+      "learningOutcome": "Customize slide dimensions to match standard book or album sizes (e.g., 8x10, A4)."
+    },
+    {
+      "topic": "Exporting Digital Books",
+      "hint": "Saving as PDF for printing or Video for sharing.",
+      "searchQuery": "save powerpoint as PDF or video tutorial",
+      "learningOutcome": "Convert the presentation into a shareable format like a digital flipbook (PDF) or movie."
+    },
+    {
+      "topic": "AI Audio Enhancement",
+      "hint": "Making bad microphones sound professional.",
+      "searchQuery": "Adobe Podcast Enhance Speech features",
+      "learningOutcome": "Use AI tools to clean up and enhance voice recordings for multimedia projects."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which tab in PowerPoint contains the specific 'Photo Album' command to import multiple pictures at once?",
+      "options": [
+        "Home",
+        "Design",
+        "Insert",
+        "View"
+      ],
+      "answer": 2,
+      "difficulty": "easy",
+      "explanation": "The 'Photo Album' button is located in the Images group of the Insert tab."
+    },
+    {
+      "id": 2,
+      "question": "What is the primary function of Adobe Podcast mentioned in the session?",
+      "options": [
+        "To edit photos",
+        "AI-Powered Audio Editing and Enhancement (making voice sound professional)",
+        "To generate text",
+        "To create videos"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Adobe Podcast (specifically the Enhance Speech tool) removes noise and sharpens voice recordings using AI."
+    },
+    {
+      "id": 3,
+      "question": "When creating a Photo Album in PowerPoint, what can you do if a picture is rotated sideways?",
+      "options": [
+        "You must delete it",
+        "Use the rotate buttons inside the Photo Album dialog box before creating",
+        "Turn your monitor sideways",
+        "Use a formula"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "The Photo Album dialog provides tools to rotate, contrast, and brighten images before they are placed on slides."
+    },
+    {
+      "id": 4,
+      "question": "What is a 'Recipe Book'?",
+      "options": [
+        "A book of magic spells",
+        "A collection of instructions for preparing various culinary dishes",
+        "A list of computer codes",
+        "A photo album of cars"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "A recipe book compiles ingredients and step-by-step instructions for cooking foods."
+    },
+    {
+      "id": 5,
+      "question": "Which slide layout is most useful for a Recipe Book page containing a photo of the dish and the ingredients list?",
+      "options": [
+        "Title Only",
+        "Two Content (or Comparison)",
+        "Blank",
+        "Title Slide"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Two Content layout provides placeholders for text (ingredients) on one side and an image (dish) on the other."
+    },
+    {
+      "id": 6,
+      "question": "Can you add 'Captions' below pictures automatically when using the Photo Album feature?",
+      "options": [
+        "No, never",
+        "Yes, by checking 'Captions below ALL pictures'",
+        "Only if you type them manually later",
+        "Only for black and white photos"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "The Photo Album tool has a checkbox to insert the file name as a caption below each image automatically."
+    },
+    {
+      "id": 7,
+      "question": "If you want to print your Recipe Book like a real book, which Slide Orientation should you likely choose?",
+      "options": [
+        "Landscape (Horizontal)",
+        "Portrait (Vertical)",
+        "Diagonal",
+        "Circular"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Most printed books and binders use a Portrait (vertical) orientation."
+    },
+    {
+      "id": 8,
+      "question": "To save your Memories Album as a video file to share on WhatsApp, which export format should you choose?",
+      "options": [
+        ".pptx",
+        ".mp4 or .wmv",
+        ".txt",
+        ".xls"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "MP4 is a universal video format supported by PowerPoint for exporting presentations."
+    },
+    {
+      "id": 9,
+      "question": "In the Photo Album dialog box, the 'Picture Layout' option allows you to:",
+      "options": [
+        "Change the color of the picture",
+        "Decide how many pictures appear on each slide (e.g., 1, 2, or 4 pictures)",
+        "Delete the pictures",
+        "Add sound"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "You can choose to fit 1, 2, or 4 pictures per slide, with or without titles."
+    },
+    {
+      "id": 10,
+      "question": "What is a 'Memories Album'?",
+      "options": [
+        "A book used to forget things",
+        "A collection of photographs and captions preserving past events and moments",
+        "A calendar",
+        "A calculator"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "A memories album is designed to store and display cherished photographs."
+    },
+    {
+      "id": 11,
+      "question": "Which feature helps ensure that the text in your Recipe Book is easy to read against a busy background image?",
+      "options": [
+        "Make text transparent",
+        "Use a Text Box Fill (e.g., semi-transparent white box behind text)",
+        "Use yellow text only",
+        "Make the font size 1"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Adding a solid or semi-transparent fill to the text box ensures contrast and readability over photos."
+    },
+    {
+      "id": 12,
+      "question": "Adobe Podcast's 'Mic Check' feature helps you:",
+      "options": [
+        "Buy a new microphone",
+        "Understand if your microphone setup and distance are good for recording",
+        "Edit video",
+        "Generate images"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "Mic Check analyzes your microphone input and advises on distance and gain for optimal quality."
+    },
+    {
+      "id": 13,
+      "question": "Can you change the background of all slides in the Photo Album at once?",
+      "options": [
+        "No, you must do it one by one",
+        "Yes, by editing the Theme or Format Background and applying to all",
+        "Only if you delete the photos",
+        "Only in Word"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "You can apply a Theme or Background Style to the entire album instantly."
+    },
+    {
+      "id": 14,
+      "question": "To add a new recipe page that looks exactly like the previous one, you should:",
+      "options": [
+        "Create a new blank slide and start over",
+        "Duplicate the Slide (Ctrl + D) and edit the text/image",
+        "Close the file",
+        "Use a calculator"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Duplicating the slide preserves the layout and formatting, saving time."
+    },
+    {
+      "id": 15,
+      "question": "What standard paper size is often used for photo books?",
+      "options": [
+        "Business Card",
+        "8x10 inches or A4",
+        "Stamp size",
+        "Billboard size"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Standard sizes for albums and books include 8x8, 8x10, or A4."
+    },
+    {
+      "id": 16,
+      "question": "Which tool in PowerPoint allows you to apply an artistic frame (like a soft edge or black border) to a photo?",
+      "options": [
+        "Picture Styles / Picture Borders",
+        "Font Styles",
+        "Transition",
+        "Animation"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "The Picture Format tab offers 'Picture Styles' like frames, shadows, and soft edges."
+    },
+    {
+      "id": 17,
+      "question": "If your photo album is too large to email, what can you do?",
+      "options": [
+        "Print it and mail it",
+        "Compress Pictures (File > Options or Picture Format tab)",
+        "Delete half the slides",
+        "Change the font"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Compressing pictures reduces the file resolution and size, making it easier to share digitally."
+    },
+    {
+      "id": 18,
+      "question": "When creating a recipe book, why is it important to use 'Lists' (Bullets/Numbering)?",
+      "options": [
+        "It looks messy",
+        "It makes instructions and ingredients easy to read and follow",
+        "It uses more ink",
+        "It is required by law"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Lists provide a clear, step-by-step structure essential for cooking instructions."
+    },
+    {
+      "id": 19,
+      "question": "Which view is best for rearranging the order of your photo slides?",
+      "options": [
+        "Slide Sorter",
+        "Notes Page",
+        "Reading View",
+        "Slide Show"
+      ],
+      "answer": 0,
+      "difficulty": "easy",
+      "explanation": "Slide Sorter shows thumbnails of all slides, allowing easy drag-and-drop reordering."
+    },
+    {
+      "id": 20,
+      "question": "What is the benefit of using the 'Frame Shape' option in the Photo Album dialog?",
+      "options": [
+        "It deletes the photos",
+        "It automatically rounds the corners or adds frames to every imported photo",
+        "It changes the photo to black and white",
+        "It adds text"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "You can set a default frame shape (e.g., Rounded Rectangle, Simple Frame) for all photos during import."
+    }
+  ]
+}

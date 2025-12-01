@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "title": "Session 36: PowerPoint Slide Show & Presenter Coach",
+    "description": "Mastering the delivery of presentations using the Slide Show tab, configuring setup options, and using the AI-powered Presenter Coach to improve speaking skills."
+  },
+  "studyTopics": [
+    {
+      "topic": "Starting the Slide Show",
+      "hint": "F5 starts from the beginning; Shift+F5 from current slide.",
+      "searchQuery": "powerpoint shortcuts start slide show beginning vs current",
+      "learningOutcome": "Launch the presentation correctly depending on the context."
+    },
+    {
+      "topic": "Set Up Slide Show Options",
+      "hint": "Configuring looping, kiosk mode, or pen colors.",
+      "searchQuery": "how to loop powerpoint presentation continuously",
+      "learningOutcome": "Customize playback settings, such as looping continuously or presenting without narration."
+    },
+    {
+      "topic": "Presenter View",
+      "hint": "Seeing notes on your screen while the audience sees only the slide.",
+      "searchQuery": "how to use presenter view in powerpoint",
+      "learningOutcome": "Use dual monitors to view speaker notes and upcoming slides while presenting."
+    },
+    {
+      "topic": "Custom Slide Shows",
+      "hint": "Creating a mini-presentation from a larger deck.",
+      "searchQuery": "create custom slide show powerpoint tutorial",
+      "learningOutcome": "Create different versions of a presentation for different audiences without deleting slides."
+    },
+    {
+      "topic": "AI Presenter Coach",
+      "hint": "Get feedback on your pacing and filler words.",
+      "searchQuery": "powerpoint rehearse with coach features",
+      "learningOutcome": "Use AI analysis to improve public speaking skills by detecting filler words and reading speed."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which function key is the standard shortcut to start a Slide Show from the very first slide?",
+      "options": [
+        "F1",
+        "F5",
+        "F12",
+        "Esc"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Pressing F5 launches the presentation from the beginning (Slide 1)."
+    },
+    {
+      "id": 2,
+      "question": "If you are on Slide 10 and want to start the presentation immediately from that specific slide, which shortcut should you use?",
+      "options": [
+        "F5",
+        "Shift + F5",
+        "Ctrl + F5",
+        "Alt + F5"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Shift + F5 starts the Slide Show from the currently active slide."
+    },
+    {
+      "id": 3,
+      "question": "What is the purpose of 'Rehearse with Coach' (Presenter Coach)?",
+      "options": [
+        "To play a game",
+        "To use AI to analyze your speech and give feedback on pacing, pitch, and filler words",
+        "To record a video",
+        "To translate text"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Presenter Coach uses AI to listen to your rehearsal and provides a report on your speaking skills."
+    },
+    {
+      "id": 4,
+      "question": "Which feature allows you to see your speaker notes and the next slide on your laptop while the audience only sees the current slide on the projector?",
+      "options": [
+        "Slide Sorter",
+        "Presenter View",
+        "Normal View",
+        "Reading View"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Presenter View optimizes the experience for dual monitors, giving the presenter private tools."
+    },
+    {
+      "id": 5,
+      "question": "In the 'Set Up Show' dialog box, which option would you check to make the presentation repeat automatically until you press Esc?",
+      "options": [
+        "Show without narration",
+        "Loop continuously until 'Esc'",
+        "Show without animation",
+        "Present online"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The 'Loop continuously' option is commonly used for kiosks or unattended displays."
+    },
+    {
+      "id": 6,
+      "question": "What is a 'Custom Slide Show'?",
+      "options": [
+        "A show with custom fonts",
+        "A subset of slides from the original presentation tailored for a specific audience",
+        "A show with only pictures",
+        "A deleted show"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "Custom Shows allow you to group specific slides together to present them without modifying the original file."
+    },
+    {
+      "id": 7,
+      "question": "If you want to skip a specific slide during the presentation without deleting it, what should you do?",
+      "options": [
+        "Delete the slide",
+        "Right-click and select 'Hide Slide'",
+        "Change the background color",
+        "Move it to the end"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Hiding a slide keeps it in the file for editing but skips it during the actual Slide Show."
+    },
+    {
+      "id": 8,
+      "question": "Which tool in the Slide Show tab helps you practice by tracking exactly how much time you spend on each slide?",
+      "options": [
+        "Record Slide Show",
+        "Rehearse Timings",
+        "Custom Slide Show",
+        "Monitor"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Rehearse Timings runs the show and records the time spent on each slide, which can be saved for automatic playback."
+    },
+    {
+      "id": 9,
+      "question": "What happens if you check 'Show without narration' in the Set Up Slide Show options?",
+      "options": [
+        "The text disappears",
+        "Any recorded voice-over or audio narration will be muted during the show",
+        "The slides will not move",
+        "The video quality drops"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "This setting suppresses recorded narrations for live presentations where the speaker wants to talk live."
+    },
+    {
+      "id": 10,
+      "question": "To write on the slide during a presentation (like a digital whiteboard), which feature can you use?",
+      "options": [
+        "Spell Check",
+        "Pen / Highlighter tools (Ctrl + P)",
+        "Macro",
+        "Transitions"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Presenter tools include a Pen and Laser Pointer to annotate slides live."
+    },
+    {
+      "id": 11,
+      "question": "When 'Browsed at a kiosk (full screen)' is selected in Set Up Show, how do users advance slides?",
+      "options": [
+        "By clicking the mouse anywhere",
+        "Usually via automatic timing or hyperlinks/action buttons (mouse click advancement is often disabled)",
+        "By voice",
+        "By jumping"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "Kiosk mode restricts control, preventing users from changing slides manually unless action buttons are provided."
+    },
+    {
+      "id": 12,
+      "question": "Which key typically ends a running Slide Show?",
+      "options": [
+        "Enter",
+        "Spacebar",
+        "Esc (Escape)",
+        "Tab"
+      ],
+      "answer": 2,
+      "difficulty": "easy",
+      "explanation": "The Esc key exits the Slide Show view and returns to the editor."
+    },
+    {
+      "id": 13,
+      "question": "The 'Record Slide Show' feature allows you to:",
+      "options": [
+        "Take a screenshot",
+        "Record voice narration, slide timings, and laser pointer gestures for the entire presentation",
+        "Record a song from the internet",
+        "Record macro scripts"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Record Slide Show captures audio and timing elements to create a self-running video or show."
+    },
+    {
+      "id": 14,
+      "question": "If you have multiple monitors connected, which setting ensures the presentation appears on the projector?",
+      "options": [
+        "Monitor setting in the Slide Show tab",
+        "Font size",
+        "Slide layout",
+        "Print settings"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "The 'Monitors' group allows you to choose which screen displays the slide show and which shows Presenter View."
+    },
+    {
+      "id": 15,
+      "question": "During a presentation, pressing 'B' on the keyboard will:",
+      "options": [
+        "Make the screen go Black",
+        "Make the text Bold",
+        "Go Back",
+        "Break the computer"
+      ],
+      "answer": 0,
+      "difficulty": "hard",
+      "explanation": "Pressing 'B' (Black) or 'W' (White) pauses the show by blanking the screen to focus attention on the speaker."
+    },
+    {
+      "id": 16,
+      "question": "[AI Tool] Presenter Coach might warn you if you use too many 'fillers'. What are fillers?",
+      "options": [
+        "Images",
+        "Words like 'um', 'ah', 'like', 'you know'",
+        "Background colors",
+        "Extra slides"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Fillers are hesitation words that can make a speaker sound less confident."
+    },
+    {
+      "id": 17,
+      "question": "Which option allows you to broadcast your presentation over the internet to remote viewers?",
+      "options": [
+        "Present Online",
+        "Print",
+        "Save As",
+        "Close"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "Present Online (Office Presentation Service) creates a link for others to watch the slideshow in their browser."
+    },
+    {
+      "id": 18,
+      "question": "In the 'Start Slide Show' group, 'From Beginning' always starts at:",
+      "options": [
+        "Slide 5",
+        "The current slide",
+        "Slide 1",
+        "The last slide"
+      ],
+      "answer": 2,
+      "difficulty": "easy",
+      "explanation": "It launches the show from the title slide (Slide 1)."
+    },
+    {
+      "id": 19,
+      "question": "What is the benefit of 'Use Timings' being checked?",
+      "options": [
+        "It shows a clock",
+        "The slides will advance automatically based on the rehearsed timings",
+        "It sets an alarm",
+        "It speeds up the computer"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "If unchecked, the show ignores recorded timings and waits for mouse clicks."
+    },
+    {
+      "id": 20,
+      "question": "Can Presenter Coach detect if you are just reading the text off the slide?",
+      "options": [
+        "No, it only detects speed",
+        "Yes, it warns you against reading verbatim to keep the audience engaged",
+        "No, AI is not that smart",
+        "Yes, but only in French"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "Advanced AI in Presenter Coach compares your speech to the slide text and flags if you are reading word-for-word."
+    }
+  ]
+}

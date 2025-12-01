@@ -1,0 +1,306 @@
+{
+  "meta": {
+    "title": "Session 22: Excel Page Layout & Review",
+    "description": "Mastering Excel's printing controls via Page Layout (Scale to Fit, Print Area) and utilizing Review tools for proofing, commenting, and protecting data."
+  },
+  "studyTopics": [
+    {
+      "topic": "Printing Large Sheets (Page Setup)",
+      "hint": "Set Margins, Orientation, and Print Area before printing.",
+      "searchQuery": "excel set print area and page orientation guide",
+      "learningOutcome": "Configure page settings to ensure data prints correctly without cutting off columns."
+    },
+    {
+      "topic": "Scale to Fit",
+      "hint": "Shrinking data to fit on one page width.",
+      "searchQuery": "how to use scale to fit in excel for printing",
+      "learningOutcome": "Adjust the scale of the worksheet to fit specific paper dimensions (e.g., 1 page wide)."
+    },
+    {
+      "topic": "Sheet Options (Gridlines & Headings)",
+      "hint": "Decide if gridlines and ABC/123 headings appear on print.",
+      "searchQuery": "excel print gridlines and row column headings",
+      "learningOutcome": "Control the visibility of gridlines and headings on both the screen and printed paper."
+    },
+    {
+      "topic": "Protecting Excel Data",
+      "hint": "Locking the sheet so others can't edit cells.",
+      "searchQuery": "how to protect sheet and workbook in excel with password",
+      "learningOutcome": "Secure data by restricting editing permissions using Protect Sheet and Protect Workbook."
+    },
+    {
+      "topic": "Proofing & Comments",
+      "hint": "Check spelling and leave notes for teammates.",
+      "searchQuery": "excel spell check and insert comments tutorial",
+      "learningOutcome": "Ensure data accuracy with spell check and collaborate using comments."
+    },
+    {
+      "topic": "Themes",
+      "hint": "Changing the overall look (colors/fonts) instantly.",
+      "searchQuery": "using themes in excel to change colors and fonts",
+      "learningOutcome": "Apply professional design themes to coordinate fonts and color schemes across the workbook."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "You have a spreadsheet that is just slightly too wide to fit on one printed page. Which 'Scale to Fit' setting would best solve this?",
+      "options": [
+        "Set Width to '1 page'",
+        "Increase margins",
+        "Change font color",
+        "Delete the last column"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "Setting the Width to '1 page' in the Scale to Fit group forces Excel to shrink the content just enough to fit horizontally on a single page."
+    },
+    {
+      "id": 2,
+      "question": "Which feature allows you to define a specific range of cells that you want to print, ignoring the rest of the worksheet?",
+      "options": [
+        "Print Preview",
+        "Print Area",
+        "Page Break",
+        "Background"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The 'Print Area' command tells Excel to print only the selected range of cells."
+    },
+    {
+      "id": 3,
+      "question": "In the Sheet Options group, if you check the box for 'Print' under Gridlines, what happens?",
+      "options": [
+        "The gridlines will appear on the printed paper",
+        "The gridlines will be deleted",
+        "The gridlines turn red",
+        "Nothing happens"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "By default, gridlines appear on screen but not on paper. Checking 'Print' makes them visible on the hard copy."
+    },
+    {
+      "id": 4,
+      "question": "What is the function of 'Protect Sheet' in the Review tab?",
+      "options": [
+        "It protects the file from viruses",
+        "It prevents unwanted changes from others by locking cells",
+        "It hides the sheet",
+        "It saves the file automatically"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Protect Sheet locks the cells so that other users cannot modify the data or formatting without a password (if set)."
+    },
+    {
+      "id": 5,
+      "question": "Which tool would you use to find a synonym (a word with a similar meaning) for a selected word?",
+      "options": [
+        "Spelling",
+        "Translate",
+        "Thesaurus",
+        "Smart Lookup"
+      ],
+      "answer": 2,
+      "difficulty": "easy",
+      "explanation": "The Thesaurus provides lists of synonyms and antonyms for the selected word."
+    },
+    {
+      "id": 6,
+      "question": "If you want to repeat the top row (header) of your table on every printed page, which Page Setup option should you use?",
+      "options": [
+        "Print Titles",
+        "Orientation",
+        "Size",
+        "Breaks"
+      ],
+      "answer": 0,
+      "difficulty": "hard",
+      "explanation": " Print Titles allows you to specify rows to repeat at the top of every printed page."
+    },
+    {
+      "id": 7,
+      "question": "What is the effect of applying a 'Theme' to your workbook?",
+      "options": [
+        "It changes the file name",
+        "It changes the set of colors, fonts, and effects used throughout the workbook",
+        "It adds a password",
+        "It deletes empty rows"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Themes provide a unified look by applying consistent colors, fonts, and graphic effects."
+    },
+    {
+      "id": 8,
+      "question": "The 'Smart Lookup' feature in the Insights group uses the internet to:",
+      "options": [
+        "Play videos",
+        "Find definitions, images, and other information about the selected text",
+        "Update Excel",
+        "Check grammar"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Smart Lookup (powered by Bing) searches the web for contextually relevant information about your selected data."
+    },
+    {
+      "id": 9,
+      "question": "Which Page Orientation prints the page horizontally (wider)?",
+      "options": [
+        "Portrait",
+        "Landscape",
+        "Vertical",
+        "Square"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Landscape orientation aligns the page horizontally, which is useful for wide spreadsheets."
+    },
+    {
+      "id": 10,
+      "question": "What does the 'Accessibility Checker' do?",
+      "options": [
+        "Checks internet speed",
+        "Identifies issues that might make the file difficult for people with disabilities to read",
+        "Checks for spelling errors",
+        "Checks printer ink"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "It scans the workbook for accessibility issues, such as missing alt text on images or hard-to-read color contrast."
+    },
+    {
+      "id": 11,
+      "question": "Which shortcut key is commonly used to run a Spell Check?",
+      "options": [
+        "F1",
+        "F7",
+        "Ctrl + S",
+        "Alt + F4"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "F7 is the standard keyboard shortcut to launch the Spelling dialog box."
+    },
+    {
+      "id": 12,
+      "question": "Where can you add a background image that appears on the screen (but usually doesn't print)?",
+      "options": [
+        "Insert > Picture",
+        "Page Layout > Background",
+        "View > Zoom",
+        "Home > Fill Color"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "The Background button in Page Layout adds a tiled image behind the cells for on-screen viewing."
+    },
+    {
+      "id": 13,
+      "question": "If you want to manually force a new page to start at a specific row when printing, what should you insert?",
+      "options": [
+        "Page Break",
+        "Section Break",
+        "Paragraph Break",
+        "Line Break"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "Insert Page Break forces the printer to end the current page and start a new one at the selected location."
+    },
+    {
+      "id": 14,
+      "question": "The 'Translate' feature allows you to:",
+      "options": [
+        "Move text to another cell",
+        "Convert selected text from one language to another",
+        "Change the font style",
+        "Read text aloud"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Translate connects to online services to translate words or paragraphs into a different language."
+    },
+    {
+      "id": 15,
+      "question": "If you Protect a Workbook (Structure), what are users prevented from doing?",
+      "options": [
+        "Typing in cells",
+        "Adding, deleting, hiding, or renaming sheets",
+        "Printing",
+        "Opening the file"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "Protecting the Workbook Structure specifically locks the arrangement of sheets (e.g., preventing users from adding or deleting tabs)."
+    },
+    {
+      "id": 16,
+      "question": "To leave a note for a colleague about a specific cell value without changing the cell content, you should use:",
+      "options": [
+        "New Comment / Note",
+        "Header",
+        "Footer",
+        "Watermark"
+      ],
+      "answer": 0,
+      "difficulty": "easy",
+      "explanation": "Comments and Notes allow you to attach feedback or explanations to a specific cell."
+    },
+    {
+      "id": 17,
+      "question": "In the Arrange group, 'Bring Forward' is used to:",
+      "options": [
+        "Move data to the next sheet",
+        "Bring a selected object (like a shape) one step closer to the front of the stack",
+        "Scroll down",
+        "Zoom in"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Bring Forward changes the layering order of overlapping objects."
+    },
+    {
+      "id": 18,
+      "question": "Which of these is NOT an option in the 'Sheet Options' group?",
+      "options": [
+        "View Gridlines",
+        "Print Headings",
+        "Spell Check",
+        "View Headings"
+      ],
+      "answer": 2,
+      "difficulty": "medium",
+      "explanation": "Spell Check is located in the Review tab, not in the Sheet Options group of Page Layout."
+    },
+    {
+      "id": 19,
+      "question": "Standard paper sizes available in the 'Size' dropdown include:",
+      "options": [
+        "A4, Letter, Legal",
+        "Small, Medium, Large",
+        "Short, Tall, Wide",
+        "Circle, Square"
+      ],
+      "answer": 0,
+      "difficulty": "easy",
+      "explanation": "A4, Letter, and Legal are standard industry paper sizes."
+    },
+    {
+      "id": 20,
+      "question": "What is the purpose of 'Breaks' > 'Remove Page Break'?",
+      "options": [
+        "To break the page",
+        "To delete a manually inserted page break",
+        "To delete data",
+        "To undo the last typing"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "This command removes manual page breaks that were previously inserted."
+    }
+  ]
+}

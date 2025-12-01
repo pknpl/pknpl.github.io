@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "title": "Session 31: PowerPoint Basics & Insert Tab",
+    "description": "Introduction to MS PowerPoint Interface, Home Tab features (Slides, Font, Drawing), Insert Tab (Images, Illustrations), and AI tools for 3D creation."
+  },
+  "studyTopics": [
+    {
+      "topic": "PowerPoint Interface",
+      "hint": "Understanding the Ribbon, Slide Pane, and Status Bar.",
+      "searchQuery": "ms powerpoint user interface overview ribbon slides pane",
+      "learningOutcome": "Identify key components of the PowerPoint window to navigate efficiently."
+    },
+    {
+      "topic": "Export Options (4K & GIF)",
+      "hint": "Turning slides into high-res videos or looping animations.",
+      "searchQuery": "how to export powerpoint to 4k video and animated GIF",
+      "learningOutcome": "Save presentations as high-quality videos or animated GIFs for social media."
+    },
+    {
+      "topic": "Slide Layouts (Home Tab)",
+      "hint": "Different structures like Title Slide vs. Comparison.",
+      "searchQuery": "powerpoint slide layouts explained title comparison",
+      "learningOutcome": "Choose and change slide layouts to organize content effectively."
+    },
+    {
+      "topic": "Working with Visuals (Insert Tab)",
+      "hint": "Adding Photos, Shapes, and SmartArt.",
+      "searchQuery": "insert pictures smartart and shapes in powerpoint tutorial",
+      "learningOutcome": "Enhance slides by inserting tables, images, and illustrations."
+    },
+    {
+      "topic": "AI 3D Generation",
+      "hint": "Creating 3D models from text using AI.",
+      "searchQuery": "Meshy AI text to 3D model features",
+      "learningOutcome": "Explore AI tools like Meshy AI and Insta3D to generate 3D assets for presentations."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which software in the Microsoft Office suite is primarily used for creating presentations?",
+      "options": [
+        "Microsoft Excel",
+        "Microsoft Word",
+        "Microsoft PowerPoint",
+        "Microsoft Access"
+      ],
+      "answer": 2,
+      "difficulty": "easy",
+      "explanation": "PowerPoint is the dedicated presentation graphics program used to create slide shows."
+    },
+    {
+      "id": 2,
+      "question": "Which tab contains the 'New Slide' button to add the next slide to your presentation?",
+      "options": [
+        "Insert",
+        "Home",
+        "Design",
+        "Transitions"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The Home tab contains the 'Slides' group where you can insert a New Slide and change its Layout."
+    },
+    {
+      "id": 3,
+      "question": "PowerPoint allows you to export your presentation as a video in which high-quality resolution?",
+      "options": [
+        "240p",
+        "4K (Ultra HD)",
+        "MP3",
+        "GIF only"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Modern versions of PowerPoint support exporting presentations as 4K Ultra HD videos for high-quality playback."
+    },
+    {
+      "id": 4,
+      "question": "What is 'Meshy AI' used for in the context of digital skills?",
+      "options": [
+        "Cleaning viruses",
+        "Generating 3D models from text prompts",
+        "Creating spreadsheets",
+        "Sending emails"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Meshy AI is a generative AI tool that can create 3D models and textures based on text descriptions."
+    },
+    {
+      "id": 5,
+      "question": "In the Home tab, which group allows you to insert Shapes like rectangles, arrows, and circles?",
+      "options": [
+        "Font",
+        "Drawing",
+        "Paragraph",
+        "Editing"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The Drawing group on the Home tab provides quick access to the Shapes gallery."
+    },
+    {
+      "id": 6,
+      "question": "To remove the unwanted background from an inserted picture, which tool appears when you select the image?",
+      "options": [
+        "Crop",
+        "Remove Background (Picture Format tab)",
+        "Rotate",
+        "Compress"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": " The 'Remove Background' tool automatically detects and removes the background of an image."
+    },
+    {
+      "id": 7,
+      "question": "Which feature allows you to save a short, looping animation of your slides to share on social media?",
+      "options": [
+        "Save as PDF",
+        "Export to Animated GIF",
+        "Print Handouts",
+        "Compress Media"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "PowerPoint allows you to create an Animated GIF from your slides, specifying frame rate and quality."
+    },
+    {
+      "id": 8,
+      "question": "If you want to change the arrangement of placeholders on an existing slide (e.g., from 'Title Only' to 'Comparison'), which button should you use?",
+      "options": [
+        "New Slide",
+        "Layout",
+        "Reset",
+        "Section"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "The 'Layout' button applies a new slide structure to the currently selected slide without deleting its content."
+    },
+    {
+      "id": 9,
+      "question": "In the Insert Tab, which feature helps you communicate information visually using graphics like Lists, Processes, or Cycles?",
+      "options": [
+        "Table",
+        "SmartArt",
+        "WordArt",
+        "Comment"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "SmartArt allows you to create professional diagrams (like org charts or process flows) quickly."
+    },
+    {
+      "id": 10,
+      "question": "Insta3D is mentioned as a tool for:",
+      "options": [
+        "Cooking recipes",
+        "AI-Driven Image Generation & Enhancement",
+        "Booking flights",
+        "Writing code"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Insta3D utilizes AI to generate and enhance images, often adding depth or 3D-like qualities."
+    },
+    {
+      "id": 11,
+      "question": "What is a 'Placeholder' in PowerPoint?",
+      "options": [
+        "A person holding a place",
+        "A box with a dotted border that holds content (text, images, charts) on a slide layout",
+        "A type of virus",
+        "The save button"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Placeholders are the containers on slide layouts where you click to add text or objects."
+    },
+    {
+      "id": 12,
+      "question": "Which group in the Home tab contains the buttons for Bold, Italic, Underline, and Font Color?",
+      "options": [
+        "Slides",
+        "Font",
+        "Drawing",
+        "Clipboard"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The Font group contains all text formatting commands."
+    },
+    {
+      "id": 13,
+      "question": "To organize slides into logical categories (like chapters), you can use the ______ feature.",
+      "options": [
+        "Group",
+        "Section",
+        "Folder",
+        "Merge"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "Sections allow you to divide your presentation into labeled groups of slides for better management."
+    },
+    {
+      "id": 14,
+      "question": "Which shortcut key is used to duplicate a selected slide or object?",
+      "options": [
+        "Ctrl + D",
+        "Ctrl + N",
+        "Ctrl + S",
+        "Ctrl + P"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "Ctrl + D (Duplicate) creates an exact copy of the selected slide or shape immediately."
+    },
+    {
+      "id": 15,
+      "question": "The 'Add-Ins' group in the Insert tab allows you to:",
+      "options": [
+        "Add more memory to the computer",
+        "Install extra tools and features from the Office Store",
+        "Add a new user",
+        "Add numbers"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Add-ins extend PowerPoint's functionality by integrating third-party tools or extra features."
+    },
+    {
+      "id": 16,
+      "question": "Can you insert a Table into a PowerPoint slide?",
+      "options": [
+        "No, tables are only for Excel",
+        "Yes, using Insert > Table",
+        "Only if you paste as a picture",
+        "Only in the Title slide"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "PowerPoint supports fully editable tables via the Insert tab, similar to Word."
+    },
+    {
+      "id": 17,
+      "question": "Which tool in the Drawing group helps you arrange the order of overlapping shapes (e.g., Send to Back)?",
+      "options": [
+        "Quick Styles",
+        "Arrange",
+        "Shape Fill",
+        "Find"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "The Arrange menu contains commands like Bring to Front, Send to Back, Group, and Align."
+    },
+    {
+      "id": 18,
+      "question": "The 'Format Painter' in the Clipboard group is used to:",
+      "options": [
+        "Paint pictures",
+        "Copy the formatting (color, font, size) from one object to another",
+        "Change the slide background",
+        "Delete slides"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Format Painter copies style attributes from a source object to a target object."
+    },
+    {
+      "id": 19,
+      "question": "When you export a presentation to video, does it include recorded timings and narrations?",
+      "options": [
+        "No, never",
+        "Yes, if you choose to include them during export",
+        "Only in 240p",
+        "It deletes them"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "When creating a video, PowerPoint preserves recorded timings, narrations, and laser pointer movements."
+    },
+    {
+      "id": 20,
+      "question": "Which view allows you to see all your slides as small thumbnails to easily reorder them?",
+      "options": [
+        "Normal",
+        "Slide Sorter",
+        "Reading View",
+        "Notes Page"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Slide Sorter view displays all slides in a grid, making it easy to drag and drop them into a new order."
+    }
+  ]
+}

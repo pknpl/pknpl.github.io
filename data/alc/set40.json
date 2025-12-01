@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "title": "Session 40: Designing Workshop Posters",
+    "description": "Learn to design professional posters for events like Gardening or Yoga workshops using PowerPoint, covering layout, printing standards, and visual hierarchy."
+  },
+  "studyTopics": [
+    {
+      "topic": "Poster Design in PowerPoint",
+      "hint": "PowerPoint isn't just for slides; change the 'Slide Size' to create posters.",
+      "searchQuery": "how to change slide size in powerpoint for poster",
+      "learningOutcome": "Configure PowerPoint slide dimensions to custom sizes (like A3 or A2) for poster creation."
+    },
+    {
+      "topic": "Principles of Visual Hierarchy",
+      "hint": "Make the most important info (Headline) the biggest.",
+      "searchQuery": "visual hierarchy in graphic design examples",
+      "learningOutcome": "Arrange text and images so the viewer reads the most important information first."
+    },
+    {
+      "topic": "Printing Standards (DPI & Formats)",
+      "hint": "300 DPI is for print; 72 DPI is for screens.",
+      "searchQuery": "best image resolution and file format for printing posters",
+      "learningOutcome": "Understand technical requirements like resolution (300 DPI) and file formats (PDF) for high-quality printing."
+    },
+    {
+      "topic": "Call to Action (CTA)",
+      "hint": "Telling the viewer what to do next (e.g., 'Register Now').",
+      "searchQuery": "what is a call to action in marketing",
+      "learningOutcome": "Craft effective prompts that encourage the audience to attend the workshop."
+    },
+    {
+      "topic": "AI for Graphic Design",
+      "hint": "Using AI to remove backgrounds or generate layout ideas.",
+      "searchQuery": "how to use AI design tools for posters",
+      "learningOutcome": "Leverage digital tools and AI to enhance visual assets and layout efficiency."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the primary purpose of a 'Poster' for a business or workshop?",
+      "options": [
+        "To keep secrets",
+        "To convey information visually and promote an event or product to a specific audience",
+        "To write a long essay",
+        "To test printer ink"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Posters are visual marketing tools designed to attract attention and convey key information quickly."
+    },
+    {
+      "id": 2,
+      "question": "In PowerPoint, where do you go to change the dimensions of your slide to make it a vertical poster (e.g., A3 size)?",
+      "options": [
+        "Home > Layout",
+        "Design > Slide Size > Custom Slide Size",
+        "View > Zoom",
+        "Insert > Shapes"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "The 'Slide Size' option in the Design tab allows you to input custom measurements (inches/cm) for any print size."
+    },
+    {
+      "id": 3,
+      "question": "Which file format is generally preferred for sending a finished poster to a professional printer?",
+      "options": [
+        ".ppt (PowerPoint file)",
+        ".pdf (Portable Document Format)",
+        ".gif (Animated Image)",
+        ".txt (Text file)"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "PDFs lock in fonts, images, and layout, ensuring the print matches exactly what you see on screen."
+    },
+    {
+      "id": 4,
+      "question": "What does 'DPI' stand for in the context of printing high-quality posters?",
+      "options": [
+        "Dots Per Inch",
+        "Data Per Internet",
+        "Drawings Per Image",
+        "Darkness Per Ink"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "DPI measures image resolution. Higher DPI (e.g., 300) results in sharper, clearer prints."
+    },
+    {
+      "id": 5,
+      "question": "[Digital Skill] If you have a low-quality image, which type of tool can help increase its resolution using Artificial Intelligence?",
+      "options": [
+        "AI Image Upscaler",
+        "Calculator",
+        "Spell Check",
+        "Compressor"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "AI Upscalers (like those in Canva or standalone apps) can enhance and sharpen low-resolution images for print."
+    },
+    {
+      "id": 6,
+      "question": "What is 'Visual Hierarchy' in poster design?",
+      "options": [
+        "Making everything the same size",
+        "Arranging elements so the most important information stands out first (via size, color, or position)",
+        "Using only black and white",
+        "Hiding the text"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Hierarchy guides the viewer's eye, ensuring they see the Headline first, then the details, then the CTA."
+    },
+    {
+      "id": 7,
+      "question": "Which alignment is typically best for reading long text on a poster?",
+      "options": [
+        "Right Align",
+        "Left Align",
+        "Center Align (for headlines only)",
+        "Vertical Align"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Left-aligned text is easiest for the eye to track. Center alignment is okay for headlines but harder to read for paragraphs."
+    },
+    {
+      "id": 8,
+      "question": "What is a 'Call to Action' (CTA)?",
+      "options": [
+        "The phone number of the designer",
+        "A statement telling the viewer what to do next (e.g., 'Scan QR Code to Register')",
+        "The title of the poster",
+        "The background image"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "A CTA prompts the immediate response you want from the audience, such as visiting a website or calling a number."
+    },
+    {
+      "id": 9,
+      "question": "Why should you avoid using too many different fonts on a single poster?",
+      "options": [
+        "It looks messy and unprofessional, making it hard to read",
+        "Fonts are expensive",
+        "The printer will break",
+        "It uses more electricity"
+      ],
+      "answer": 0,
+      "difficulty": "easy",
+      "explanation": "Designers typically recommend using only 2-3 complementary fonts to maintain clarity and visual appeal."
+    },
+    {
+      "id": 10,
+      "question": "To ensure your text is readable against a busy background photo, you should:",
+      "options": [
+        "Make the text transparent",
+        "Add a solid or semi-transparent shape behind the text (text box fill) or use a shadow",
+        "Make the font smaller",
+        "Use a handwriting font"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Contrast is vital. Putting a dark box behind white text (or vice versa) ensures legibility over complex images."
+    },
+    {
+      "id": 11,
+      "question": "What is 'Bleed' in printing terms?",
+      "options": [
+        "Leaking ink",
+        "Extending the design slightly beyond the edge of the paper so there are no white borders after cutting",
+        "A type of font",
+        "A paper cut"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "Bleed ensures that color runs all the way to the edge of the finished flyer/poster after it is trimmed."
+    },
+    {
+      "id": 12,
+      "question": "Which PowerPoint tool allows you to precisely line up your text boxes and images with each other?",
+      "options": [
+        "Align Tools (Align Center, Align Top)",
+        "Transitions",
+        "Animations",
+        "WordArt"
+      ],
+      "answer": 0,
+      "difficulty": "easy",
+      "explanation": "The Align tools (in Arrange group) act as a digital T-square to ensure elements are perfectly straight."
+    },
+    {
+      "id": 13,
+      "question": "If you are designing a poster for a 'Yoga Workshop', which color palette would be most appropriate?",
+      "options": [
+        "Neon red and black (Aggressive)",
+        "Soft greens, blues, and earth tones (Calming)",
+        "Bright flashing colors",
+        "Invisible colors"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Color psychology matters; calming earth tones fit the theme of Yoga and wellness better than aggressive colors."
+    },
+    {
+      "id": 14,
+      "question": "Which of these is a standard international paper size often used for small posters?",
+      "options": [
+        "A3 or A2",
+        "Business Card",
+        "Stamp",
+        "Post-it Note"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "A3 is twice the size of A4, making it a common standard for small indoor posters."
+    },
+    {
+      "id": 15,
+      "question": "When saving a PowerPoint slide as an image for social media, which format is best?",
+      "options": [
+        ".docx",
+        ".jpg or .png",
+        ".mp3",
+        ".exe"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "JPG and PNG are the standard image formats for sharing visuals on the web and social media."
+    },
+    {
+      "id": 16,
+      "question": "What is the 'Rule of Thirds'?",
+      "options": [
+        "Only use 3 colors",
+        "A composition guideline where images are divided into nine equal parts to place focal points",
+        "Print 3 copies",
+        "Work for 3 hours"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "The Rule of Thirds suggests placing key elements along the grid lines or intersections for a more balanced design."
+    },
+    {
+      "id": 17,
+      "question": "Why is 'Whitespace' (or negative space) important in a poster?",
+      "options": [
+        "It wastes paper",
+        "It gives the eye a rest and helps define the important elements, preventing clutter",
+        "It is illegal",
+        "It makes the file larger"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Cluttered posters are hard to read. Whitespace makes the design look clean and professional."
+    },
+    {
+      "id": 18,
+      "question": "If you need a high-quality photo of a garden for your poster but don't have a camera, you should:",
+      "options": [
+        "Steal one from Google Images",
+        "Use a Stock Photo site (like Unsplash or Pexels) or generate one with AI",
+        "Draw it with a mouse",
+        "Leave it blank"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Using royalty-free stock photos or AI generation avoids copyright issues and ensures high quality."
+    },
+    {
+      "id": 19,
+      "question": "Which font type is generally considered easier to read for Headlines from a distance?",
+      "options": [
+        "Sans Serif (clean, simple lines like Arial)",
+        "Cursive / Script",
+        "Wingdings (Symbols)",
+        "Tiny text"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "Sans Serif fonts are bold and clear, making them ideal for impactful headlines."
+    },
+    {
+      "id": 20,
+      "question": "What information is crucial for a 'Workshop' poster?",
+      "options": [
+        "Date, Time, Location, and Cost",
+        "The history of the alphabet",
+        "A list of all countries",
+        "The designer's birthday"
+      ],
+      "answer": 0,
+      "difficulty": "easy",
+      "explanation": "Logistical details (When, Where, How much) are essential for a workshop advertisement."
+    }
+  ]
+}

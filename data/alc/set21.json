@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "title": "Session 21: Excel Data Management & Budgeting",
+    "description": "Mastering the Data Tab (Data Tools, Forecast, Outline), using the Draw Tab, and creating a practical Household Monthly Expense Sheet."
+  },
+  "studyTopics": [
+    {
+      "topic": "Data Cleaning Tools",
+      "hint": "Tools to fix data like 'Remove Duplicates' and 'Text to Columns'.",
+      "searchQuery": "how to use remove duplicates and text to columns in excel",
+      "learningOutcome": "Clean and organize raw data by splitting text and removing repetitive entries."
+    },
+    {
+      "topic": "Data Validation",
+      "hint": "Restricting what users can type (e.g., creating a Dropdown List).",
+      "searchQuery": "create drop down list excel data validation",
+      "learningOutcome": "Control user input to ensure data accuracy."
+    },
+    {
+      "topic": "Forecasting & Trends",
+      "hint": "Predicting future values based on past history.",
+      "searchQuery": "how to create a forecast sheet in excel",
+      "learningOutcome": "Use the Forecast Sheet tool to visualize future trends based on historical data."
+    },
+    {
+      "topic": "Grouping and Outlining",
+      "hint": "Collapsing rows to hide details and show only totals.",
+      "searchQuery": "excel group and ungroup rows tutorial",
+      "learningOutcome": "Summarize complex datasets by grouping rows and columns."
+    },
+    {
+      "topic": "Household Budgeting Project",
+      "hint": "Tracking Income vs. Expenses.",
+      "searchQuery": "how to make monthly expense sheet in excel formulas",
+      "learningOutcome": "Apply Excel skills to create a personal finance tracker."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which feature in the Data Tools group allows you to split content from one cell (like 'Firstname Lastname') into two separate columns?",
+      "options": [
+        "Remove Duplicates",
+        "Text to Columns",
+        "Data Validation",
+        "Consolidate"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Text to Columns separates text in a single cell into multiple columns based on a delimiter like a space or comma."
+    },
+    {
+      "id": 2,
+      "question": "You want to create a dropdown list in a cell so users can only select 'Yes' or 'No'. Which tool should you use?",
+      "options": [
+        "Filter",
+        "Data Validation",
+        "Sort",
+        "Group"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Data Validation allows you to restrict cell input to a specific list of items, creating a dropdown menu."
+    },
+    {
+      "id": 3,
+      "question": "What is the primary purpose of the 'Remove Duplicates' tool?",
+      "options": [
+        "To delete the whole sheet",
+        "To find and remove repeated rows of data to ensure uniqueness",
+        "To duplicate the data",
+        "To format cells"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Remove Duplicates scans the selected range and deletes any rows that are identical to previous ones."
+    },
+    {
+      "id": 4,
+      "question": "Which tool in the Forecast group helps you predict future sales based on historical data?",
+      "options": [
+        "What-If Analysis",
+        "Forecast Sheet",
+        "Solver",
+        "Consolidate"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "The Forecast Sheet creates a new worksheet with a table and chart predicting future values based on existing time-series data."
+    },
+    {
+      "id": 5,
+      "question": "In the Outline group, what does 'Grouping' rows allow you to do?",
+      "options": [
+        "Delete them permanently",
+        "Collapse and expand sections of data to show or hide details",
+        "Color them red",
+        "Sort them alphabetically"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Grouping adds plus (+) and minus (-) buttons to the margin, allowing you to show or hide details quickly."
+    },
+    {
+      "id": 6,
+      "question": "Which tab contains the pens, highlighters, and 'Ink to Shape' features?",
+      "options": [
+        "Design",
+        "Draw",
+        "Insert",
+        "Layout"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": " The Draw tab provides tools for digital inking and annotation."
+    },
+    {
+      "id": 7,
+      "question": "Flash Fill is a smart data tool that:",
+      "options": [
+        "Fills the cell with color",
+        "Automatically fills data when it detects a pattern (e.g., extracting initials)",
+        "Deletes data",
+        "Sorts data"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Flash Fill (Ctrl+E) senses the pattern you are typing and automatically fills the rest of the column."
+    },
+    {
+      "id": 8,
+      "question": "When creating a Household Expense Sheet, the formula to calculate 'Savings' is typically:",
+      "options": [
+        "Total Income + Total Expense",
+        "Total Income - Total Expense",
+        "Total Expense - Total Income",
+        "Total Income * Total Expense"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Savings are what remains after you subtract your total expenses from your total income."
+    },
+    {
+      "id": 9,
+      "question": "Which feature would you use to automatically calculate subtotals for a list of expenses grouped by category?",
+      "options": [
+        "AutoSum",
+        "Subtotal (in Outline group)",
+        "Average",
+        "Count"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "The Subtotal command automatically calculates totals for related data groups (e.g., total Food expenses, total Rent expenses)."
+    },
+    {
+      "id": 10,
+      "question": "What is the benefit of maintaining a monthly expense sheet?",
+      "options": [
+        "To spend more money",
+        "To track spending habits and plan for financial goals",
+        "To waste time",
+        "To increase electricity bill"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Tracking expenses helps identify unnecessary spending and ensures you stay within your budget."
+    },
+    {
+      "id": 11,
+      "question": "In the Data Tab, 'Get & Transform Data' (or Connectors) allows you to:",
+      "options": [
+        "Draw pictures",
+        "Import data from external sources like the Web, Text files, or Databases",
+        "Print the sheet",
+        "Change fonts"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Modern Excel provides powerful tools (Power Query) to connect to and import data from various external sources."
+    },
+    {
+      "id": 12,
+      "question": "If you draw a rough circle with a digital pen in the Draw tab, which feature can convert it into a perfect circle?",
+      "options": [
+        "Ink to Math",
+        "Ink to Shape",
+        "Eraser",
+        "Lasso Select"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Ink to Shape recognizes freehand drawings and snaps them into their geometric equivalents."
+    },
+    {
+      "id": 13,
+      "question": "What happens if you try to type a value that violates a Data Validation rule you set up?",
+      "options": [
+        "Excel shuts down",
+        "An error alert pops up and prevents the entry (or warns you)",
+        "It accepts the data anyway",
+        "The cell turns blue"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Data Validation triggers an error message if the input does not match the defined criteria (e.g., typing text in a number-only cell)."
+    },
+    {
+      "id": 14,
+      "question": "Which of these is NOT a tool in the Data Tools group?",
+      "options": [
+        "Text to Columns",
+        "Remove Duplicates",
+        "PivotTable",
+        "Data Validation"
+      ],
+      "answer": 2,
+      "difficulty": "medium",
+      "explanation": "PivotTable is located in the Insert Tab, not the Data Tools group."
+    },
+    {
+      "id": 15,
+      "question": "What is 'What-If Analysis' (often found near Forecast)?",
+      "options": [
+        "A game",
+        "A set of tools (like Goal Seek) to explore different scenarios and how they affect results",
+        "A spell checker",
+        "A virus scanner"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "What-If Analysis tools allow you to change values in cells to see how those changes will affect the outcome of formulas."
+    },
+    {
+      "id": 16,
+      "question": "To select and move a specific drawing or ink stroke in the Draw tab, you should use:",
+      "options": [
+        "The Eraser",
+        "Lasso Select",
+        "Highlighter",
+        "Ruler"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The Lasso Select tool lets you circle ink strokes to select them for manipulation."
+    },
+    {
+      "id": 17,
+      "question": "When planning a budget, expenses that stay the same every month (like Rent) are called:",
+      "options": [
+        "Variable Expenses",
+        "Fixed Expenses",
+        "Unexpected Expenses",
+        "Income"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Fixed expenses are consistent recurring costs, unlike variable expenses (like dining out) which fluctuate."
+    },
+    {
+      "id": 18,
+      "question": "Which function is most useful for calculating the total expenses in your budget sheet?",
+      "options": [
+        "=MAX()",
+        "=SUM()",
+        "=COUNT()",
+        "=AVERAGE()"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The SUM function adds up all the values in a specified range, perfect for totaling expenses."
+    },
+    {
+      "id": 19,
+      "question": "In the context of 'Digital Skills', what is an advantage of using a cloud-based expense tracker (like Excel Online)?",
+      "options": [
+        "It is harder to use",
+        "Real-time access and collaboration from any device",
+        "It uses more paper",
+        "It cannot calculate totals"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Cloud access allows you to update your expenses on the go from your phone or laptop."
+    },
+    {
+      "id": 20,
+      "question": "The 'Ungroup' command is used to:",
+      "options": [
+        "Remove the grouping structure and return data to a flat list",
+        "Delete the data",
+        "Add more groups",
+        "Create a chart"
+      ],
+      "answer": 0,
+      "difficulty": "easy",
+      "explanation": "Ungroup removes the outline levels, expanding the data back to its normal state."
+    }
+  ]
+}

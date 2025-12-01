@@ -1,0 +1,235 @@
+{
+  "meta": {
+    "title": "Session 29: Academic Calendar Design",
+    "description": "Learn to design personalized Academic Calendars with photos using Excel and master digital scheduling with Google Calendar."
+  },
+  "studyTopics": [
+    {
+      "topic": "Academic Calendar Basics",
+      "hint": "A schedule used by schools to plan the year.",
+      "searchQuery": "importance of academic calendar for students and teachers",
+      "learningOutcome": "Understand the purpose of tracking exams, holidays, and terms."
+    },
+    {
+      "topic": "Google Calendar Skills",
+      "hint": "Digital scheduling, reminders, and sharing.",
+      "searchQuery": "how to use google calendar effectively for teachers",
+      "learningOutcome": "Master digital scheduling features like recurring events and calendar sharing."
+    },
+    {
+      "topic": "Excel Calendar Design",
+      "hint": "Using grids and templates to build the layout.",
+      "searchQuery": "how to create a photo calendar in excel tutorial",
+      "learningOutcome": "Create a grid-based calendar layout in Excel from scratch or using templates."
+    },
+    {
+      "topic": "Working with Images in Excel",
+      "hint": "Insert > Pictures > Place in Cell.",
+      "searchQuery": "insert picture in excel cell fit to size",
+      "learningOutcome": "Insert and resize photos to fit perfectly within calendar cells."
+    },
+    {
+      "topic": "AI for Scheduling",
+      "hint": "Tools that optimize your time automatically.",
+      "searchQuery": "AI scheduling tools for productivity",
+      "learningOutcome": "Understand how AI can help optimize schedules and resolve conflicts."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the primary purpose of an 'Academic Calendar'?",
+      "options": [
+        "To check the weather",
+        "To schedule school events, exams, holidays, and terms",
+        "To calculate grades",
+        "To design uniforms"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "An academic calendar serves as the central schedule for an educational institution's yearly activities."
+    },
+    {
+      "id": 2,
+      "question": "Which tab in Excel allows you to insert a photo into your calendar?",
+      "options": [
+        "Data",
+        "View",
+        "Insert",
+        "Formulas"
+      ],
+      "answer": 2,
+      "difficulty": "easy",
+      "explanation": "The Insert tab contains the 'Pictures' command needed to add photos."
+    },
+    {
+      "id": 3,
+      "question": "In Google Calendar, what does a 'Recurring Event' do?",
+      "options": [
+        "Deletes the event",
+        "Automatically repeats the event (e.g., every Monday) without needing to create it again",
+        "Hides the event",
+        "Changes the color"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Recurring events save time by automatically scheduling repeating activities like weekly classes."
+    },
+    {
+      "id": 4,
+      "question": "To quickly create a calendar in Excel without starting from scratch, you should search for a:",
+      "options": [
+        "Macro",
+        "Template",
+        "Formula",
+        "Chart"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Excel offers pre-designed 'Calendar Templates' (File > New) that already have dates and formatting set up."
+    },
+    {
+      "id": 5,
+      "question": "How can teachers use calendars effectively?",
+      "options": [
+        "To track lesson plans, assessment dates, and student progress milestones",
+        "To play games",
+        "To watch movies",
+        "To buy groceries"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "Calendars are essential planning tools for teachers to organize the curriculum and deadlines."
+    },
+    {
+      "id": 6,
+      "question": "If you want your photo to fit exactly inside a calendar box (cell) in Excel, you might need to:",
+      "options": [
+        "Delete the cell",
+        "Resize the image and adjust the Row Height/Column Width",
+        "Change the font",
+        "Use a formula"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Images float over cells by default; you must manually resize them and adjust the grid to make them look like they are 'inside' the box."
+    },
+    {
+      "id": 7,
+      "question": "Which function allows you to share your digital Google Calendar with students or parents?",
+      "options": [
+        "Print Screen",
+        "Share / Add People",
+        "Delete Calendar",
+        "Change View"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Google Calendar allows you to share access via email or a public link so others can view events."
+    },
+    {
+      "id": 8,
+      "question": "[Digital Skill] What is a benefit of using a Cloud-based calendar (like Google Calendar) over a paper one?",
+      "options": [
+        "It uses no electricity",
+        "It syncs across all devices (phone/laptop) and can send automatic reminders",
+        "It is harder to read",
+        "It cannot be edited"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Cloud sync ensures your schedule is always up-to-date on any device you use."
+    },
+    {
+      "id": 9,
+      "question": "To format the days of the week (Mon, Tue, Wed) to look bold and centered, you would use:",
+      "options": [
+        "Insert > Shape",
+        "Home > Bold & Center Align",
+        "Data > Filter",
+        "View > Zoom"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Basic formatting tools on the Home tab allow you to style the text headers."
+    },
+    {
+      "id": 10,
+      "question": "What is the function of the '=TODAY()' formula in Excel?",
+      "options": [
+        "Inserts the current time",
+        "Inserts the current date (updates dynamically)",
+        "Inserts the year only",
+        "Inserts your name"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "TODAY() returns the current system date."
+    },
+    {
+      "id": 11,
+      "question": "Which feature helps you assign a specific color to different types of events (e.g., Red for Exams, Blue for Holidays)?",
+      "options": [
+        "Spell Check",
+        "Color Coding / Fill Color",
+        "Formulas",
+        "Sorting"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Color coding helps visually categorize different types of events for quick recognition."
+    },
+    {
+      "id": 12,
+      "question": "Can you print a Google Calendar?",
+      "options": [
+        "No, it is only digital",
+        "Yes, using the Settings > Print option",
+        "Only if you take a screenshot",
+        "Only in black and white"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Google Calendar has a built-in print feature to generate a physical copy of your schedule."
+    },
+    {
+      "id": 13,
+      "question": "When creating a calendar in Excel, merging cells across the top row is usually done to:",
+      "options": [
+        "Hide data",
+        "Create space for the Month Name and Year title",
+        "Delete columns",
+        "Make the file smaller"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Merging the top cells creates a centered header area for the main title (e.g., 'October 2025')."
+    },
+    {
+      "id": 14,
+      "question": "Which AI capability helps modern calendar apps find the best meeting time for a group?",
+      "options": [
+        "Smart Scheduling / Find a Time",
+        "Image generation",
+        "Video editing",
+        "Music playing"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "AI scheduling tools analyze everyone's availability to suggest optimal meeting slots automatically."
+    },
+    {
+      "id": 15,
+      "question": "To add a border around every day box in your Excel calendar, use:",
+      "options": [
+        "All Borders",
+        "Underline",
+        "Italic",
+        "Strike-through"
+      ],
+      "answer": 0,
+      "difficulty": "easy",
+      "explanation": "The 'All Borders' option applies gridlines around every selected cell, defining the calendar days."
+    }
+  ]
+}

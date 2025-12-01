@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "title": "Session 32: PowerPoint Design & Transitions",
+    "description": "Mastering presentation aesthetics using the Design Tab, applying dynamic Slide Transitions (including Morph), and using AI for image generation."
+  },
+  "studyTopics": [
+    {
+      "topic": "Design Themes & Variants",
+      "hint": "One click changes fonts, colors, and effects for all slides.",
+      "searchQuery": "how to apply themes and variants in powerpoint",
+      "learningOutcome": "Apply consistent professional styling across the entire presentation instantly."
+    },
+    {
+      "topic": "Slide Transitions",
+      "hint": "The animation effect when moving from Slide 1 to Slide 2.",
+      "searchQuery": "apply and time slide transitions powerpoint tutorial",
+      "learningOutcome": "Enhance the flow of the presentation by adding visual effects between slides."
+    },
+    {
+      "topic": "The Morph Transition",
+      "hint": "Smoothly animates objects moving from one position to another.",
+      "searchQuery": "how to use morph transition powerpoint examples",
+      "learningOutcome": "Create cinematic animations by seamlessly morphing objects across duplicate slides."
+    },
+    {
+      "topic": "Slide Size & Background",
+      "hint": "Standard (4:3) vs Widescreen (16:9) and custom colors.",
+      "searchQuery": "change slide size and background format powerpoint",
+      "learningOutcome": "Customize the slide dimensions and background graphics/colors."
+    },
+    {
+      "topic": "AI Image Generation (Leonardo.AI)",
+      "hint": "Creating unique art assets from text prompts.",
+      "searchQuery": "Leonardo.AI features for creators",
+      "learningOutcome": "Leverage AI to generate high-quality custom images for presentation backgrounds or content."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which tab in PowerPoint allows you to change the overall look (colors, fonts, effects) of your entire presentation using 'Themes'?",
+      "options": [
+        "Home",
+        "Insert",
+        "Design",
+        "Transitions"
+      ],
+      "answer": 2,
+      "difficulty": "easy",
+      "explanation": "The Design tab contains the Themes gallery, which applies a consistent design language to all slides."
+    },
+    {
+      "id": 2,
+      "question": "What is a 'Slide Transition'?",
+      "options": [
+        "An animation applied to a specific picture",
+        "The visual effect that occurs when you move from one slide to the next",
+        "Moving a file to a new folder",
+        "Translating the text language"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Transitions control the entrance effect of a slide (e.g., Fade, Push, Wipe) as it appears on the screen."
+    },
+    {
+      "id": 3,
+      "question": "The 'Morph' transition is best used to:",
+      "options": [
+        "Play a sound",
+        "Create a smooth animation of objects moving or resizing between two similar slides",
+        "Check spelling",
+        "Delete slides"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Morph recognizes matching objects on two consecutive slides and animates their movement/change seamlessly."
+    },
+    {
+      "id": 4,
+      "question": "Leonardo.AI is an AI-powered tool primarily used for:",
+      "options": [
+        "Writing code",
+        "Generating and editing high-quality images/art",
+        "Creating spreadsheets",
+        "Recording audio"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Leonardo.AI is a generative AI platform for creating visual assets like game assets, concept art, and illustrations."
+    },
+    {
+      "id": 5,
+      "question": "If you want your transition to apply to every single slide in the presentation, which button should you click?",
+      "options": [
+        "Apply to All",
+        "Copy Paste",
+        "Format Painter",
+        "Duplicate Slide"
+      ],
+      "answer": 0,
+      "difficulty": "easy",
+      "explanation": "The 'Apply to All' button in the Transitions tab copies the current transition settings to every slide in the deck."
+    },
+    {
+      "id": 6,
+      "question": "Where can you change the Slide Size from Standard (4:3) to Widescreen (16:9)?",
+      "options": [
+        "View Tab",
+        "Design Tab > Slide Size",
+        "Home Tab",
+        "Transitions Tab"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Slide Size options are located on the far right of the Design tab ribbon."
+    },
+    {
+      "id": 7,
+      "question": "What allows you to modify the specific colors and fonts of a selected Theme without changing the theme itself?",
+      "options": [
+        "Transitions",
+        "Variants",
+        "Animations",
+        "SmartArt"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Variants (found next to Themes) allow you to keep the theme structure but swap color palettes or font sets."
+    },
+    {
+      "id": 8,
+      "question": "In the Transitions tab, the 'Duration' setting controls:",
+      "options": [
+        "How long the presentation lasts",
+        "The speed (time in seconds) of the transition effect itself",
+        "The volume of the sound",
+        "The number of slides"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Duration determines how fast or slow the transition effect (e.g., the 'Fade') happens."
+    },
+    {
+      "id": 9,
+      "question": "Which pane in PowerPoint suggests professional layout and design options for your content automatically?",
+      "options": [
+        "Selection Pane",
+        "Designer (Design Ideas)",
+        "Animation Pane",
+        "Notes Pane"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "The Designer (formerly Design Ideas) pane analyzes your content and suggests high-quality slide layouts."
+    },
+    {
+      "id": 10,
+      "question": "Can you add sound to a slide transition (e.g., a drum roll or click)?",
+      "options": [
+        "No, PowerPoint is silent",
+        "Yes, using the 'Sound' dropdown in the Transitions tab",
+        "Only if you use a microphone",
+        "Only on the first slide"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The Transitions tab includes a Sound option to play a specific audio clip during the slide change."
+    },
+    {
+      "id": 11,
+      "question": "To format the background of a slide with a picture or texture, which command should you use?",
+      "options": [
+        "Format Background",
+        "Insert Table",
+        "Slide Layout",
+        "Reset"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "Clicking 'Format Background' in the Design tab opens a pane to set solid colors, gradients, pictures, or patterns as the background."
+    },
+    {
+      "id": 12,
+      "question": "Which of the following is a type of 'Subtle' transition?",
+      "options": [
+        "Fade",
+        "Origami (flying bird)",
+        "Crush",
+        "Curtains"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "Fade is a standard, subtle transition. Origami, Crush, and Curtains are generally considered 'Exciting' or complex transitions."
+    },
+    {
+      "id": 13,
+      "question": "How do you advance to the next slide if 'On Mouse Click' is unchecked in the Transitions tab?",
+      "options": [
+        "You cannot advance",
+        "It will only advance automatically after the 'After' time is reached",
+        "It advances by voice command",
+        "It advances when you look at it"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "If 'On Mouse Click' is disabled, the slide will auto-advance only if a specific time is set in the 'After' box."
+    },
+    {
+      "id": 14,
+      "question": "What is the key requirement for the Morph transition to work effectively?",
+      "options": [
+        "The slides must be different colors",
+        "You need two consecutive slides with at least one common object (duplicated and moved)",
+        "You need 10 slides",
+        "You need to delete the text"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "Morph requires a starting slide and an ending slide (usually a duplicate) where objects have been moved or resized."
+    },
+    {
+      "id": 15,
+      "question": "Which feature helps you match the slide colors to a specific logo color?",
+      "options": [
+        "Eyedropper",
+        "Eraser",
+        "Crop",
+        "Zoom"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "The Eyedropper tool allows you to sample a color from an image (like a logo) and apply it to shapes or text."
+    },
+    {
+      "id": 16,
+      "question": "If you apply a background to one slide, how can you make it appear on every slide?",
+      "options": [
+        "Click 'Apply to All' in the Format Background pane",
+        "Copy and paste the slide 100 times",
+        "You cannot do that",
+        "Change the view"
+      ],
+      "answer": 0,
+      "difficulty": "easy",
+      "explanation": "The Format Background pane has an 'Apply to All' button to set the current background for the entire presentation."
+    },
+    {
+      "id": 17,
+      "question": "[Digital Skill] Why might you use AI image generation for a presentation?",
+      "options": [
+        "To make the file size larger",
+        "To create unique, copyright-free visuals that perfectly match your specific topic",
+        "Because stock photos are illegal",
+        "To hide the text"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "AI tools allow for the creation of bespoke imagery that fits specific themes where generic stock photos might fail."
+    },
+    {
+      "id": 18,
+      "question": "Which transition effect mimics the turning of a page in a book?",
+      "options": [
+        "Fade",
+        "Page Curl / Peel Off",
+        "Zoom",
+        "Cut"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Page Curl (or Peel Off) is an exciting transition that looks like a physical page turning."
+    },
+    {
+      "id": 19,
+      "question": "The 'Effect Options' button next to the Transition gallery allows you to:",
+      "options": [
+        "Change the direction or variation of the selected transition (e.g., Wipe from Left vs Wipe from Right)",
+        "Change the color of the text",
+        "Change the slide size",
+        "Add a chart"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "Effect Options refine the behavior of the active transition, such as changing direction or shape."
+    },
+    {
+      "id": 20,
+      "question": "Which view is best for checking how your transitions look and flow?",
+      "options": [
+        "Slide Sorter",
+        "Slide Show / Reading View",
+        "Outline View",
+        "Notes Page"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Slide Show or Reading View plays the actual animations and transitions so you can preview the final experience."
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "title": "Session 34: PowerPoint Review Tab & Business Pitch",
+    "description": "Mastering the Review Tab features (Proofing, Comments, Compare), designing a persuasive Business Pitch for a Cafe, and exploring AI video tools."
+  },
+  "studyTopics": [
+    {
+      "topic": "PowerPoint Review Tab",
+      "hint": "Tools for checking spelling, language, and accessibility.",
+      "searchQuery": "powerpoint review tab features explained",
+      "learningOutcome": "Utilize proofing, language, and accessibility tools to finalize a presentation."
+    },
+    {
+      "topic": "Business Pitch Essentials",
+      "hint": "Slides that sell your idea (Problem, Solution, Market).",
+      "searchQuery": "key elements of a successful business pitch deck",
+      "learningOutcome": "Structure a professional business presentation to attract investors or partners."
+    },
+    {
+      "topic": "Collaboration (Comments & Compare)",
+      "hint": "Leaving feedback and merging differences.",
+      "searchQuery": "how to use comments and compare in powerpoint",
+      "learningOutcome": "Collaborate effectively by adding comments and comparing presentation versions."
+    },
+    {
+      "topic": "AI Creative Tools (Runway & Hedra)",
+      "hint": "AI for video editing and creation.",
+      "searchQuery": "Runway Gen-2 vs Hedra AI features",
+      "learningOutcome": "Understand how AI tools can assist in generating and editing creative video content."
+    },
+    {
+      "topic": "Accessibility in Presentations",
+      "hint": "Making sure everyone can read your slides.",
+      "searchQuery": "check accessibility in powerpoint tutorial",
+      "learningOutcome": "Identify and fix issues that make presentations difficult for people with disabilities."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which tab in PowerPoint contains the 'Spelling' and 'Thesaurus' tools?",
+      "options": [
+        "Home",
+        "Insert",
+        "Review",
+        "View"
+      ],
+      "answer": 2,
+      "difficulty": "easy",
+      "explanation": " The Review tab is the hub for proofing tools like Spelling, Thesaurus, and Translate."
+    },
+    {
+      "id": 2,
+      "question": "What is the primary purpose of a 'Business Pitch'?",
+      "options": [
+        "To write a diary entry",
+        "To persuade investors or partners to support a business idea",
+        "To create a shopping list",
+        "To clean the computer"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "A business pitch is a presentation designed to secure funding, partnerships, or customers for a business venture."
+    },
+    {
+      "id": 3,
+      "question": "Runway is an AI platform primarily known for:",
+      "options": [
+        "Creative tools for video editing and generation",
+        "Spreadsheet calculations",
+        "Antivirus protection",
+        "Sending emails"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "Runway offers a suite of AI tools specifically for creative professionals, focusing on video generation and editing."
+    },
+    {
+      "id": 4,
+      "question": "Which feature in the Review tab checks your presentation for issues that might make it difficult for people with disabilities to read?",
+      "options": [
+        "Spell Check",
+        "Check Accessibility",
+        "Translate",
+        "Compare"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "The 'Check Accessibility' tool scans for missing alt text, low contrast, and other issues affecting accessibility."
+    },
+    {
+      "id": 5,
+      "question": "In a Business Pitch for a Cafe, which slide would typically describe who your customers are?",
+      "options": [
+        "The Team",
+        "Target Market / Audience",
+        "Financial Projections",
+        "Conclusion"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The Target Market slide identifies the demographics and psychographics of the people likely to visit the cafe."
+    },
+    {
+      "id": 6,
+      "question": "What does the 'Compare' feature in the Review tab allow you to do?",
+      "options": [
+        "Compare prices online",
+        "View and merge differences between two versions of the same presentation",
+        "Compare font sizes",
+        "Compare video quality"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "Compare allows you to open a second version of the file and see the changes combined into the current one for review."
+    },
+    {
+      "id": 7,
+      "question": "Which tool would you use to find a synonym (different word with same meaning) for 'Delicious' in your presentation?",
+      "options": [
+        "Translate",
+        "Thesaurus",
+        "Smart Lookup",
+        "Dictionary"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The Thesaurus feature suggests synonyms and antonyms for selected words."
+    },
+    {
+      "id": 8,
+      "question": "Hedra is mentioned as an AI tool for:",
+      "options": [
+        "Video Creation with Advanced AI Models",
+        "Cooking food",
+        "Booking tables",
+        "Fixing printers"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "Hedra is an AI platform focused on revolutionizing video creation."
+    },
+    {
+      "id": 9,
+      "question": "To add a note or feedback to a specific part of a slide for a colleague to read, you should use:",
+      "options": [
+        "Footer",
+        "New Comment",
+        "Text Box",
+        "Header"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Comments are used for collaboration, allowing reviewers to leave feedback without altering the slide content."
+    },
+    {
+      "id": 10,
+      "question": "If you want to translate a selected text on your slide into French, which group in the Review tab should you use?",
+      "options": [
+        "Proofing",
+        "Language",
+        "Comments",
+        "Insights"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The Language group contains the 'Translate' and 'Language' preferences options."
+    },
+    {
+      "id": 11,
+      "question": "What is the 'Problem Slide' in a pitch deck meant to do?",
+      "options": [
+        "Show that the presenter is angry",
+        "Identify a specific gap or pain point in the market that the business will solve",
+        "List the problems with the computer",
+        "Show the cafe menu"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "The Problem slide sets the stage by highlighting the issue the business intends to resolve."
+    },
+    {
+      "id": 12,
+      "question": "Which shortcut key typically opens the Spelling check in Office applications?",
+      "options": [
+        "F1",
+        "F7",
+        "Ctrl + S",
+        "Alt + F4"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "F7 is the standard keyboard shortcut to run the Spelling checker."
+    },
+    {
+      "id": 13,
+      "question": "When 'Showing Comments', where do they usually appear?",
+      "options": [
+        "In the middle of the screen blocking everything",
+        "In a pane on the right side of the window",
+        "In the footer",
+        "In a separate popup window only"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "The Comments Pane typically opens on the right side, showing a thread of all comments on the slide."
+    },
+    {
+      "id": 14,
+      "question": "Why is it important to have a 'Financials' section in a business pitch?",
+      "options": [
+        "To show off math skills",
+        "To demonstrate the profitability and financial viability of the business to investors",
+        "To fill space",
+        "To formatting the slide"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Investors need to know how the business will make money, the costs involved, and projected profits."
+    },
+    {
+      "id": 15,
+      "question": "The 'Ink' group in the Review tab (if available) allows you to:",
+      "options": [
+        "Buy ink cartridges",
+        "Annotate slides with digital pens or hide ink",
+        "Change font color",
+        "Print in color"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "The Ink tools allow for drawing, highlighting, and erasing digital ink annotations."
+    },
+    {
+      "id": 16,
+      "question": "In a pitch, what does the 'USP' stand for?",
+      "options": [
+        "Universal Serial Port",
+        "Unique Selling Proposition",
+        "Under Selling Price",
+        "User Service Protocol"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "USP (Unique Selling Proposition) defines what makes your business different from and better than the competition."
+    },
+    {
+      "id": 17,
+      "question": "Can you Delete all comments on a slide at once?",
+      "options": [
+        "No, you must delete them one by one",
+        "Yes, using the 'Delete' dropdown > 'Delete All Comments on Slide'",
+        "Only if you delete the slide",
+        "Only in Word"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "The Delete menu in the Comments group offers options to delete the current comment or all comments on the slide/presentation."
+    },
+    {
+      "id": 18,
+      "question": "Which tool allows you to look up information on the web without leaving PowerPoint?",
+      "options": [
+        "Smart Lookup / Search",
+        "Find",
+        "Replace",
+        "Zoom"
+      ],
+      "answer": 0,
+      "difficulty": "easy",
+      "explanation": "Smart Lookup provides definitions, Wiki articles, and top related searches directly within the app."
+    },
+    {
+      "id": 19,
+      "question": "When creating a pitch for a Cafe, why use high-quality images of coffee and food?",
+      "options": [
+        "To make people hungry",
+        "To create visual appeal and communicate the quality/vibe of the product",
+        "To use more ink",
+        "To slow down the computer"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Visuals are crucial in a pitch to evoke emotion and demonstrate the product quality."
+    },
+    {
+      "id": 20,
+      "question": "If the 'Spelling' tool finds a word it doesn't recognize, but it is correct (e.g., a brand name), what should you click?",
+      "options": [
+        "Change",
+        "Ignore / Ignore All",
+        "Delete",
+        "Undo"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Clicking 'Ignore' tells PowerPoint to skip that specific instance, while 'Ignore All' skips every instance of that word."
+    }
+  ]
+}

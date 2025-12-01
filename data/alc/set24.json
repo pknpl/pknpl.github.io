@@ -1,0 +1,306 @@
+{
+  "meta": {
+    "title": "Session 24: Developer Tab, Grade Books & Logic Puzzles",
+    "description": "Explores the advanced Developer Tab (Macros, Controls, XML), creating an automated Student Grade Book, and building a Sudoku Puzzle Solver using Excel logic."
+  },
+  "studyTopics": [
+    {
+      "topic": "The Developer Tab",
+      "hint": "It is hidden by default; you must enable it in Options.",
+      "searchQuery": "how to enable developer tab in excel",
+      "learningOutcome": "Activate and navigate the Developer tab to access advanced tools like Macros and Controls."
+    },
+    {
+      "topic": "Form Controls",
+      "hint": "Interactive buttons, checkboxes, and scroll bars.",
+      "searchQuery": "excel insert form controls checkbox button",
+      "learningOutcome": "Insert interactive elements like buttons and checkboxes to make spreadsheets user-friendly."
+    },
+    {
+      "topic": "Student Grade Book Logic",
+      "hint": "Using IF and AVERAGE functions to calculate results.",
+      "searchQuery": "excel formula for student grade pass fail",
+      "learningOutcome": "Apply logical functions to automate grading and performance tracking."
+    },
+    {
+      "topic": "Data Validation (Sudoku Logic)",
+      "hint": "Restricting cell input to numbers 1 through 9.",
+      "searchQuery": "how to use data validation in excel to restrict numbers",
+      "learningOutcome": "Control user input to ensure it meets specific rules (like Sudoku rules)."
+    },
+    {
+      "topic": "Macros & VBA Basics",
+      "hint": "Automating tasks using code.",
+      "searchQuery": "what is VBA and macros in excel for beginners",
+      "learningOutcome": "Understand the concept of using Visual Basic for Applications (VBA) to write code for Excel."
+    },
+    {
+      "topic": "XML in Excel",
+      "hint": "Importing and exporting structured data.",
+      "searchQuery": "import and export XML data in excel",
+      "learningOutcome": "Understand how Excel can interact with XML data sources."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "By default, is the 'Developer Tab' visible in the Excel Ribbon?",
+      "options": [
+        "Yes, it is always there",
+        "No, it is hidden and must be enabled via Excel Options",
+        "Yes, but only in the paid version",
+        "No, it was removed in 2010"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": " The Developer tab is hidden by default because it contains advanced tools that average users might not need daily."
+    },
+    {
+      "id": 2,
+      "question": "Which file extension must be used to save an Excel workbook that contains Macros/VBA code?",
+      "options": [
+        ".xlsx",
+        ".pdf",
+        ".xlsm",
+        ".txt"
+      ],
+      "answer": 2,
+      "difficulty": "medium",
+      "explanation": "Standard .xlsx files remove macros for security. You must save as .xlsm (Excel Macro-Enabled Workbook) to keep the code."
+    },
+    {
+      "id": 3,
+      "question": "In a Student Grade Book, which function would you use to check if a student's marks are above 40 to display 'Pass' or 'Fail'?",
+      "options": [
+        "SUM",
+        "IF",
+        "AVERAGE",
+        "MAX"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The IF function tests a condition (Marks > 40) and returns one value for True ('Pass') and another for False ('Fail')."
+    },
+    {
+      "id": 4,
+      "question": "What is 'Sudoku'?",
+      "options": [
+        "A type of sushi",
+        "A logic-based number-placement puzzle",
+        "A computer virus",
+        "A mathematical formula"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": " Sudoku is a popular puzzle where the objective is to fill a 9x9 grid with digits."
+    },
+    {
+      "id": 5,
+      "question": "Which tool in the Developer tab allows you to insert a clickable button or a checkbox into your sheet?",
+      "options": [
+        "XML Map",
+        "Insert > Form Controls",
+        "Record Macro",
+        "Add-ins"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": " The Insert button in the Controls group provides Form Controls like buttons, checkboxes, and spinners."
+    },
+    {
+      "id": 6,
+      "question": "When creating a Sudoku solver, you want users to ONLY be able to type numbers between 1 and 9. Which feature ensures this?",
+      "options": [
+        "Data Validation",
+        "Spell Check",
+        "Wrap Text",
+        "Pivot Table"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "Data Validation allows you to restrict cell entry to 'Whole Numbers' between a minimum (1) and maximum (9)."
+    },
+    {
+      "id": 7,
+      "question": "What does XML stand for in the context of the Developer Tab?",
+      "options": [
+        "Extra Medium Large",
+        "Extensible Markup Language",
+        "Excel Make Logic",
+        "X-ray Mark Location"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "XML (Extensible Markup Language) is a format used for defining and exchanging structured data."
+    },
+    {
+      "id": 8,
+      "question": "What is an 'Add-in' in Excel?",
+      "options": [
+        "A math formula",
+        "A supplementary program that adds custom commands or features to Excel",
+        "Adding a new row",
+        "Adding a comment"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Add-ins are optional tools (like Solver or Analysis ToolPak) that extend Excel's native capabilities."
+    },
+    {
+      "id": 9,
+      "question": "In a Grade Book, to make all cells with marks below 35 turn red automatically, you should use:",
+      "options": [
+        "Filter",
+        "Conditional Formatting",
+        "Format Painter",
+        "Fill Color"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Conditional Formatting changes the visual style of a cell automatically based on its value (e.g., highlighting failing grades)."
+    },
+    {
+      "id": 10,
+      "question": "Which language is used to write Macros in Excel?",
+      "options": [
+        "HTML",
+        "Python",
+        "VBA (Visual Basic for Applications)",
+        "Java"
+      ],
+      "answer": 2,
+      "difficulty": "hard",
+      "explanation": "VBA is the programming language built into Microsoft Office applications for automation."
+    },
+    {
+      "id": 11,
+      "question": "The 'Solver' tool (often used for complex puzzles or optimization) is an example of an:",
+      "options": [
+        "Excel Add-in",
+        "Excel Font",
+        "Excel Shape",
+        "Excel Virus"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "Solver is a powerful Add-in used for what-if analysis and optimization problems."
+    },
+    {
+      "id": 12,
+      "question": "To open the Visual Basic Editor (where code is written), which button in the Code group do you click?",
+      "options": [
+        "Visual Basic",
+        "Record Macro",
+        "Macro Security",
+        "Design Mode"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "The 'Visual Basic' button (or Alt+F11) opens the dedicated window for writing and editing code."
+    },
+    {
+      "id": 13,
+      "question": "What is the purpose of a 'Scroll Bar' form control?",
+      "options": [
+        "To delete data",
+        "To allow users to increment or decrement a value by sliding or clicking arrows",
+        "To write text",
+        "To lock the sheet"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "A Scroll Bar allows users to quickly change a value over a wide range by sliding the bar."
+    },
+    {
+      "id": 14,
+      "question": "In the context of the Grade Book, which function finds the highest score in the class?",
+      "options": [
+        "MIN",
+        "MAX",
+        "HIGH",
+        "TOP"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The MAX function analyzes a range of numbers and returns the largest value."
+    },
+    {
+      "id": 15,
+      "question": "Why would you 'Map' XML elements in Excel?",
+      "options": [
+        "To find locations on Google Maps",
+        "To link specific cells in Excel to specific data points in an XML file",
+        "To draw a picture",
+        "To clean the data"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "XML Mapping creates a relationship between the cells in your spreadsheet and the schema of an XML data source."
+    },
+    {
+      "id": 16,
+      "question": "What happens if you click 'Record Macro'?",
+      "options": [
+        "Excel records your voice",
+        "Excel starts recording your mouse clicks and keystrokes to save them as a script",
+        "Excel records a video of the screen",
+        "Excel takes a screenshot"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Record Macro captures your actions so they can be repeated automatically later."
+    },
+    {
+      "id": 17,
+      "question": "Which AI-powered digital skill can help you write complex Excel formulas if you don't know them?",
+      "options": [
+        "Using a Calculator",
+        "Using AI Chatbots (like ChatGPT/Copilot) to describe the problem and get the formula syntax",
+        "Guessing",
+        "Using Paint"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Modern AI tools are excellent at generating complex Excel formulas based on plain English descriptions."
+    },
+    {
+      "id": 18,
+      "question": "In a Sudoku puzzle, duplicate numbers in a row are not allowed. Which tool helps you visually spot duplicates?",
+      "options": [
+        "Conditional Formatting > Highlight Cells Rules > Duplicate Values",
+        "Insert Chart",
+        "Data > Sort",
+        "Review > Translate"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "Highlighting Duplicate Values instantly visually alerts the user if they have broken the rules of Sudoku."
+    },
+    {
+      "id": 19,
+      "question": "What is 'Macro Security' used for?",
+      "options": [
+        "To lock the computer",
+        "To control whether macros are allowed to run, protecting against malicious code",
+        "To save the file",
+        "To delete macros"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Since macros can contain viruses, Macro Security settings determine if and when they are allowed to execute."
+    },
+    {
+      "id": 20,
+      "question": "To perform a calculation that depends on multiple conditions (e.g., Average marks ONLY for students in Class 10), which function is best?",
+      "options": [
+        "AVERAGE",
+        "AVERAGEIF or AVERAGEIFS",
+        "SUM",
+        "COUNT"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "AVERAGEIFS allows you to average numbers based on multiple specific criteria."
+    }
+  ]
+}

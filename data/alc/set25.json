@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "title": "Session 25: Exercise Planner & Grocery List",
+    "description": "Learn to create practical lifestyle tools like Exercise Planners and Grocery Lists in Excel using formatting, formulas, and data validation."
+  },
+  "studyTopics": [
+    {
+      "topic": "Exercise Planner Layout",
+      "hint": "Include columns for Date, Activity, Sets, Reps, and Duration.",
+      "searchQuery": "exercise planner excel template columns",
+      "learningOutcome": "Design a structured layout to track fitness progress effectively."
+    },
+    {
+      "topic": "Grocery List Organization",
+      "hint": "Group items by category (e.g., Dairy, Produce) for efficient shopping.",
+      "searchQuery": "how to organize grocery list in excel by category",
+      "learningOutcome": "Categorize data to optimize shopping time and budget management."
+    },
+    {
+      "topic": "Data Validation (Dropdowns)",
+      "hint": "Create a list of options to choose from (e.g., Apple, Banana) to avoid typing.",
+      "searchQuery": "create dropdown list excel data validation tutorial",
+      "learningOutcome": "Implement Dropdown lists to speed up data entry and reduce errors."
+    },
+    {
+      "topic": "Using Simple Formulas",
+      "hint": "Use =SUM() to calculate the total cost or total calories.",
+      "searchQuery": "excel sum formula for household budget",
+      "learningOutcome": "Apply basic math formulas to track costs or fitness metrics."
+    },
+    {
+      "topic": "AI for Health & Diet",
+      "hint": "Apps that plan meals or workouts for you.",
+      "searchQuery": "AI apps for meal planning and workout tracking",
+      "learningOutcome": "Leverage AI tools to personalize fitness routines and diet plans."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the primary benefit of creating a Grocery List before going shopping?",
+      "options": [
+        "To practice handwriting",
+        "To avoid impulse buying and ensure you don't forget essential items",
+        "To waste paper",
+        "To make the bag heavier"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "A grocery list acts as a memory aid and a budgeting tool, preventing unnecessary purchases and ensuring you get what you need."
+    },
+    {
+      "id": 2,
+      "question": "Which Excel feature allows you to create a dropdown menu (e.g., selecting 'Cardio' or 'Strength') in an Exercise Planner?",
+      "options": [
+        "Wrap Text",
+        "Data Validation",
+        "Merge & Center",
+        "Conditional Formatting"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Data Validation with the 'List' option creates a dropdown menu, ensuring consistency in how exercises are recorded."
+    },
+    {
+      "id": 3,
+      "question": "In an Exercise Planner, what does the column 'Reps' (Repetitions) typically stand for?",
+      "options": [
+        "The number of times you go to the gym",
+        "The number of times a specific movement is performed in a single set",
+        "The time of day",
+        "The weight of the dumbbell"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Reps (Repetitions) refer to the number of times you complete a single exercise movement consecutively."
+    },
+    {
+      "id": 4,
+      "question": "To calculate the 'Total Estimated Cost' of your grocery list in Excel, which function should you use?",
+      "options": [
+        "=AVERAGE()",
+        "=SUM()",
+        "=COUNT()",
+        "=MAX()"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The SUM function adds up all the values in the selected range, giving you the total cost."
+    },
+    {
+      "id": 5,
+      "question": "Which AI-powered app is commonly used for tracking diet, calories, and workouts?",
+      "options": [
+        "Netflix",
+        "HealthifyMe / MyFitnessPal",
+        "Candy Crush",
+        "Zoom"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "HealthifyMe and similar apps use AI to track nutrition and suggest fitness plans."
+    },
+    {
+      "id": 6,
+      "question": "If you want to sort your Grocery List so all 'Dairy' items appear together, which tool should you use?",
+      "options": [
+        "Sort & Filter",
+        "Find & Replace",
+        "Spell Check",
+        "Format Painter"
+      ],
+      "answer": 0,
+      "difficulty": "easy",
+      "explanation": "Sorting by the 'Category' column groups similar items together, making shopping more efficient in the store."
+    },
+    {
+      "id": 7,
+      "question": "Which formatting tool helps create a visual 'checkbox' effect (empty square) next to items in your list?",
+      "options": [
+        "Borders",
+        "Bold",
+        "Underline",
+        "Italic"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "Applying a border to a small, empty column next to your list items creates a box that looks like a checkbox for printing."
+    },
+    {
+      "id": 8,
+      "question": "Why is it useful to track 'Duration' in an exercise planner?",
+      "options": [
+        "To check the battery",
+        "To monitor how much time is spent on specific activities for progress tracking",
+        "To see if the gym is open",
+        "To calculate taxes"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Tracking duration helps measure endurance and ensures you are meeting time-based fitness goals."
+    },
+    {
+      "id": 9,
+      "question": "What is the advantage of maintaining a 'Digital' grocery list (on a phone/cloud) over a paper one?",
+      "options": [
+        "It is easy to lose",
+        "It can be shared with family members in real-time and edited anywhere",
+        "It requires a pen",
+        "It fades in the sun"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Digital lists synced to the cloud allow multiple family members to add items and view the list while at the store."
+    },
+    {
+      "id": 10,
+      "question": "To quickly apply a professional look (colors and stripes) to your Exercise Planner, you can format your data range as a:",
+      "options": [
+        "Table",
+        "Chart",
+        "Picture",
+        "Hyperlink"
+      ],
+      "answer": 0,
+      "difficulty": "easy",
+      "explanation": "Formatting as a Table (Ctrl+T) automatically applies banded rows, filter buttons, and a color scheme."
+    },
+    {
+      "id": 11,
+      "question": "Which column would NOT typically be in a Grocery List?",
+      "options": [
+        "Item Name",
+        "Quantity",
+        "Estimated Price",
+        "Date of Birth"
+      ],
+      "answer": 3,
+      "difficulty": "easy",
+      "explanation": "Date of Birth is irrelevant for a shopping list."
+    },
+    {
+      "id": 12,
+      "question": "In Excel, if you want to visually highlight items that are 'High Priority', what feature can automatically turn the cell red?",
+      "options": [
+        "Conditional Formatting",
+        "Wrap Text",
+        "Merge Cells",
+        "Orientation"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "Conditional Formatting changes the cell color based on the cell's value (e.g., If cell contains 'Urgent', make it Red)."
+    },
+    {
+      "id": 13,
+      "question": "When printing your grocery list, if the columns are too wide to fit on one page, you should adjust:",
+      "options": [
+        "Speaker volume",
+        "Scale to Fit / Column Widths",
+        "Screen brightness",
+        "Keyboard language"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Adjusting column widths or using the 'Fit to 1 Page Wide' setting ensures the entire list prints on a single sheet."
+    },
+    {
+      "id": 14,
+      "question": "How can you quickly check off items on a digital Excel list on your mobile?",
+      "options": [
+        "Use a physical eraser on the screen",
+        "Use a Checkbox form control or change the cell color",
+        "Shake the phone",
+        "Yell at the phone"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Interactive checkboxes or simply using the 'fill color' tool are common ways to mark items as done digitally."
+    },
+    {
+      "id": 15,
+      "question": "What does the 'Sets' column in an exercise planner represent?",
+      "options": [
+        "The number of gym clothes you own",
+        "A group of repetitions performed without rest",
+        "The setting of the sun",
+        "The TV set"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "A 'Set' is a collection of reps. For example, 3 sets of 10 pushups means you do 10 pushups, rest, and repeat that 3 times."
+    },
+    {
+      "id": 16,
+      "question": " What does the small arrow in the header of an Excel Table allow you to do?",
+      "options": [
+        "Delete the file",
+        "Sort and Filter the data",
+        "Draw on the screen",
+        "Play a video"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The filter dropdown arrows allow users to sort data (A-Z) or filter out specific rows."
+    },
+    {
+      "id": 17,
+      "question": "To determine which grocery item costs the most, you could use the ______ function.",
+      "options": [
+        "=MIN()",
+        "=MAX()",
+        "=NOW()",
+        "=TODAY()"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The MAX function returns the largest number in a range."
+    },
+    {
+      "id": 18,
+      "question": "Which view in Excel is best for checking how your planner will look on paper before printing?",
+      "options": [
+        "Normal View",
+        "Page Layout View / Print Preview",
+        "Web Layout",
+        "Zoom View"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Page Layout View shows headers, footers, and margins, giving a true representation of the printout."
+    },
+    {
+      "id": 19,
+      "question": "If you want to freeze the top row (headers) of your list so they don't disappear when you scroll down, use:",
+      "options": [
+        "Freeze Panes",
+        "Split Window",
+        "Hide Row",
+        "Lock Cell"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "Freeze Panes locks the top row in place for easy viewing of headers in long lists."
+    },
+    {
+      "id": 20,
+      "question": "Which of these is a benefit of tracking your exercise progress over time?",
+      "options": [
+        "It uses up memory on the computer",
+        "It allows you to identify trends, improvements, and consistency",
+        "It makes you tired",
+        "It stops the internet"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Tracking data reveals progress patterns, helping to maintain motivation and adjust routines."
+    }
+  ]
+}

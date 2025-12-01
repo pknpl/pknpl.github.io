@@ -1,0 +1,306 @@
+{
+  "meta": {
+    "title": "Session 30: 21st Century Study Skills & AI Tools",
+    "description": "Explores modern digital tools for education, including AI coding assistants, language apps, smart research platforms, and productivity trackers."
+  },
+  "studyTopics": [
+    {
+      "topic": "Smart Research Tools",
+      "hint": "Tools like Google Scholar and Perplexity AI for academic data.",
+      "searchQuery": "Google Scholar vs Perplexity AI for research",
+      "learningOutcome": "Distinguish between general search engines and specialized academic research tools."
+    },
+    {
+      "topic": "AI Coding Assistants",
+      "hint": "Apps that help write code like Amazon CodeWhisperer.",
+      "searchQuery": "what is Amazon CodeWhisperer and Mimo app",
+      "learningOutcome": "Identify AI tools that assist in learning and writing computer code."
+    },
+    {
+      "topic": "Visual Learning & OCR",
+      "hint": "Using a camera to solve math or copy text (Google Lens/PhotoMath).",
+      "searchQuery": "how to use Google Lens for homework",
+      "learningOutcome": "Utilize camera-based apps to digitize notes and solve mathematical problems."
+    },
+    {
+      "topic": "Digital Organization & Focus",
+      "hint": "Apps to track habits and block distractions.",
+      "searchQuery": "StayFocusd chrome extension features",
+      "learningOutcome": "Use digital tools to manage time, track habits, and maintain study focus."
+    },
+    {
+      "topic": "Online Learning Platforms (MOOCs)",
+      "hint": "Websites like Coursera and NCERT for courses and books.",
+      "searchQuery": "what are MOOCs and Coursera benefits",
+      "learningOutcome": "Access free and paid online courses and digital textbooks for self-improvement."
+    },
+    {
+      "topic": "AI for Language & Presentations",
+      "hint": "Duolingo for languages, Slidesgo for PPTs.",
+      "searchQuery": "Duolingo features and Slidesgo AI presentation maker",
+      "learningOutcome": "Enhance language skills and create professional presentations using AI."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which mobile application uses your camera to scan and solve mathematical equations instantly?",
+      "options": [
+        "Google Maps",
+        "PhotoMath",
+        "Spotify",
+        "Instagram"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "PhotoMath uses Optical Character Recognition (OCR) to read math problems and provides step-by-step solutions."
+    },
+    {
+      "id": 2,
+      "question": "What is the primary purpose of 'Amazon CodeWhisperer'?",
+      "options": [
+        "To deliver packages",
+        "To suggest and generate computer code using AI",
+        "To play music",
+        "To translate languages"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "Amazon CodeWhisperer is an AI-powered coding companion that generates code suggestions in real-time."
+    },
+    {
+      "id": 3,
+      "question": "Which platform is famous for hosting short, powerful talks on Technology, Entertainment, and Design?",
+      "options": [
+        "Netflix",
+        "TED Talks",
+        "Uber",
+        "Amazon"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "TED Talks are influential videos from expert speakers on education, business, science, and tech."
+    },
+    {
+      "id": 4,
+      "question": "You want to digitize your handwritten notes by taking a photo and copying the text. Which tool should you use?",
+      "options": [
+        "Google Lens",
+        "Calculator",
+        "Flashlight",
+        "Compass"
+      ],
+      "answer": 0,
+      "difficulty": "easy",
+      "explanation": "Google Lens allows you to copy text from the physical world (like handwriting) and paste it to your computer."
+    },
+    {
+      "id": 5,
+      "question": "Which app is designed to help you learn new languages through gamified lessons?",
+      "options": [
+        "Duolingo",
+        "Uber Eats",
+        "Candy Crush",
+        "Photoshop"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "Duolingo is a popular language-learning platform that uses game-like elements to teach vocabulary and grammar."
+    },
+    {
+      "id": 6,
+      "question": "What does 'MOOC' stand for in the context of online education?",
+      "options": [
+        "Massive Open Online Courses",
+        "Money Only On Cash",
+        "Many Offline Open Classes",
+        "Music On Online Computer"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "MOOCs are free or low-cost online courses available to a large number of participants (e.g., Coursera, edX)."
+    },
+    {
+      "id": 7,
+      "question": "Which AI tool helps you create professional presentations quickly by generating slides from a topic?",
+      "options": [
+        "Slidesgo",
+        "Notepad",
+        "Paint",
+        "Calculator"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "Slidesgo offers an AI Presentation Maker that generates slide decks based on your prompts."
+    },
+    {
+      "id": 8,
+      "question": "If you need to find academic research papers and scholarly articles, which search engine is best?",
+      "options": [
+        "Google Scholar",
+        "YouTube",
+        "TikTok",
+        "Facebook"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "Google Scholar is a web search engine that indexes the full text or metadata of scholarly literature."
+    },
+    {
+      "id": 9,
+      "question": "What is the function of the 'StayFocusd' app/extension?",
+      "options": [
+        "To take photos",
+        "To limit the time you spend on distracting websites to improve productivity",
+        "To edit videos",
+        "To order food"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "StayFocusd increases productivity by limiting the amount of time you can spend on time-wasting websites."
+    },
+    {
+      "id": 10,
+      "question": "Perplexity AI is described as:",
+      "options": [
+        "A video game",
+        "An AI-powered search and answer engine that provides cited sources",
+        "A music player",
+        "A fitness tracker"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "Perplexity AI combines search engine capabilities with AI to answer questions directly with citations."
+    },
+    {
+      "id": 11,
+      "question": "Which application allows you to track real-time flight traffic around the world?",
+      "options": [
+        "Flight Radar",
+        "Train Simulator",
+        "Bus Booker",
+        "Car Rental"
+      ],
+      "answer": 0,
+      "difficulty": "easy",
+      "explanation": "Flight Radar displays real-time commercial aircraft flight tracking information on a map."
+    },
+    {
+      "id": 12,
+      "question": "Which tool helps verify if the tone of your writing is confident, friendly, or formal?",
+      "options": [
+        "Grammarly Tone Detector",
+        "Calculator",
+        "Stopwatch",
+        "Weather App"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "Grammarly analyzes your word choice and punctuation to identify the emotional tone of your message."
+    },
+    {
+      "id": 13,
+      "question": "Scite is an AI tool that revolutionizes research by providing:",
+      "options": [
+        "Free food",
+        "Smart Citations (showing if a paper supports or contrasts a claim)",
+        "Video games",
+        "Music lyrics"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "Scite uses deep learning to show the context of citations, indicating if they support, mention, or contrast the claim."
+    },
+    {
+      "id": 14,
+      "question": "Which app is useful for identifying plants by simply taking a picture of them?",
+      "options": [
+        "PlantSnap",
+        "FaceApp",
+        "Truecaller",
+        "WhatsApp"
+      ],
+      "answer": 0,
+      "difficulty": "easy",
+      "explanation": "PlantSnap uses image recognition to identify flowers, trees, succulents, and mushrooms."
+    },
+    {
+      "id": 15,
+      "question": "Google Keep is primarily used for:",
+      "options": [
+        "Video editing",
+        "Note-taking, making lists, and setting reminders",
+        "Playing chess",
+        "Coding"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Google Keep is a note-taking service that supports text, lists, images, and audio."
+    },
+    {
+      "id": 16,
+      "question": "Which website is a popular Q&A forum where you can learn by discussing topics with others?",
+      "options": [
+        "Quora.com",
+        "Netflix.com",
+        "Amazon.com",
+        "Zoom.us"
+      ],
+      "answer": 0,
+      "difficulty": "easy",
+      "explanation": "Quora is a social question-and-answer website where questions are asked, answered, and edited by internet users."
+    },
+    {
+      "id": 17,
+      "question": "Mindly is an app designed for:",
+      "options": [
+        "Creating Mind Maps and organizing thoughts structurally",
+        "Watching movies",
+        "Counting steps",
+        "Booking taxis"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "Mindly helps structure your inner universe by creating visual mind maps for ideas and projects."
+    },
+    {
+      "id": 18,
+      "question": "Which AI platform helps kids learn coding?",
+      "options": [
+        "Tynker",
+        "LinkedIn",
+        "Tinder",
+        "Uber"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "Tynker provides a creative computing platform for kids to learn programming through games and stories."
+    },
+    {
+      "id": 19,
+      "question": "What is the 'NCERT' website useful for in an Indian academic context?",
+      "options": [
+        "Downloading movies",
+        "Downloading official school textbooks and eBooks",
+        "Playing cricket",
+        "Shopping"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The NCERT website provides free access to digital textbooks for students from Class 1 to 12."
+    },
+    {
+      "id": 20,
+      "question": "Which AI tool helps you summarize research papers and understand scientific literature?",
+      "options": [
+        "Semantic Scholar",
+        "Angry Birds",
+        "Candy Crush",
+        "Instagram"
+      ],
+      "answer": 0,
+      "difficulty": "hard",
+      "explanation": "Semantic Scholar is an AI-backed search engine for academic publications that helps researchers find relevant papers faster."
+    }
+  ]
+}

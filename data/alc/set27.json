@@ -1,0 +1,301 @@
+{
+  "meta": {
+    "title": "Session 27: Designing Sales Receipts in Excel",
+    "description": "Learn to create professional sales receipts using Excel, including layout design, calculation formulas, and formatting."
+  },
+  "studyTopics": [
+    {
+      "topic": "Sales Receipt Essentials",
+      "hint": "Who, What, When, and How Much.",
+      "searchQuery": "essential components of a sales receipt",
+      "learningOutcome": "Identify key elements like Date, Receipt Number, Item Details, and Total Amount."
+    },
+    {
+      "topic": "Formulas for Billing",
+      "hint": "Multiply Price by Quantity, then add them up.",
+      "searchQuery": "excel formula for price times quantity and sum",
+      "learningOutcome": "Apply Excel formulas to calculate line item totals and grand totals automatically."
+    },
+    {
+      "topic": "Formatting for Finance",
+      "hint": "Adding currency symbols (₹, $) and decimal places.",
+      "searchQuery": "how to format numbers as currency in excel",
+      "learningOutcome": "Format cells to display monetary values correctly using Accounting or Currency formats."
+    },
+    {
+      "topic": "Receipt Layout & Design",
+      "hint": "Using Borders and Merge Center for structure.",
+      "searchQuery": "designing a receipt template in excel tutorial",
+      "learningOutcome": "Use merging, borders, and alignment to create a clean, professional-looking receipt."
+    },
+    {
+      "topic": "Digital Receipts (E-Receipts)",
+      "hint": "Paperless proof sent via email.",
+      "searchQuery": "benefits of digital receipts vs paper",
+      "learningOutcome": "Understand the modern shift towards eco-friendly digital receipts."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the primary purpose of a 'Sales Receipt'?",
+      "options": [
+        "To invite people to a party",
+        "To serve as proof of purchase and record a transaction",
+        "To calculate the weather",
+        "To order food"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "A sales receipt acts as a legal record that payment has been made for goods or services."
+    },
+    {
+      "id": 2,
+      "question": "In an Excel receipt, if 'Price' is in cell B2 and 'Quantity' is in cell C2, what is the formula to calculate the 'Total'?",
+      "options": [
+        "=B2 + C2",
+        "=B2 * C2",
+        "=B2 / C2",
+        "=SUM(B2, C2)"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The total cost for an item is calculated by multiplying its Unit Price by the Quantity purchased (=B2*C2)."
+    },
+    {
+      "id": 3,
+      "question": "Which Number Format is best used for columns displaying prices or totals?",
+      "options": [
+        "Text",
+        "Date",
+        "Accounting or Currency",
+        "Percentage"
+      ],
+      "answer": 2,
+      "difficulty": "easy",
+      "explanation": "Accounting or Currency formats add currency symbols (like ₹) and fix decimal places for monetary values."
+    },
+    {
+      "id": 4,
+      "question": "Why is a 'Receipt Number' important?",
+      "options": [
+        "It makes the receipt look pretty",
+        "It acts as a unique identifier for tracking the transaction later",
+        "It tells you the time",
+        "It is the price of the item"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "A unique receipt number is crucial for accounting, returns, and tracking specific transactions in the future."
+    },
+    {
+      "id": 5,
+      "question": "To calculate the 'Grand Total' of all items on a receipt, which function should you use?",
+      "options": [
+        "=AVERAGE()",
+        "=SUM()",
+        "=COUNT()",
+        "=MIN()"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The SUM function adds up all the individual line totals to give the final amount to be paid."
+    },
+    {
+      "id": 6,
+      "question": "Which of these information is typically optional or not strictly required on a basic cash receipt?",
+      "options": [
+        "Date of purchase",
+        "Total Amount",
+        "Customer's Date of Birth",
+        "Items purchased"
+      ],
+      "answer": 2,
+      "difficulty": "easy",
+      "explanation": "A customer's birthday is personal data not required for a standard sales transaction record."
+    },
+    {
+      "id": 7,
+      "question": " To distinguish the 'Total' row from the rest of the data, which border style is commonly applied?",
+      "options": [
+        "No Border",
+        "Top and Double Bottom Border",
+        "Diagonal Border",
+        "White Border"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "A Top and Double Bottom border is a standard accounting convention to indicate a final total sum."
+    },
+    {
+      "id": 8,
+      "question": "What is 'Tax' on a receipt?",
+      "options": [
+        "A discount given to the customer",
+        "An additional charge mandated by the government (like GST)",
+        "The shipping cost",
+        "The profit margin"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Tax is a mandatory financial charge added to the subtotal, collected by the seller on behalf of the government."
+    },
+    {
+      "id": 9,
+      "question": "Which Excel feature allows you to center the shop's name across the top of the receipt?",
+      "options": [
+        "Wrap Text",
+        "Merge & Center",
+        "Conditional Formatting",
+        "Sort & Filter"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Merge & Center combines multiple cells into one header cell and centers the text within it."
+    },
+    {
+      "id": 10,
+      "question": "What is an 'E-Receipt'?",
+      "options": [
+        "An error receipt",
+        "An electronic receipt sent via email or SMS instead of paper",
+        "An expensive receipt",
+        "A receipt for buying electricity"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "E-receipts are digital versions of paper receipts, offering an eco-friendly and convenient alternative."
+    },
+    {
+      "id": 11,
+      "question": "If you are creating a receipt template to be printed on standard paper, which size is most common?",
+      "options": [
+        "A4 or Letter",
+        "Passport Size",
+        "A0",
+        "Envelope"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "For invoices and full-page receipts created in offices, A4 or Letter size is the standard."
+    },
+    {
+      "id": 12,
+      "question": "To automatically display the current date on the receipt every time you open the file, you can use the function:",
+      "options": [
+        "=NOW()",
+        "=TODAY()",
+        "=DATE()",
+        "=YEAR()"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "=TODAY() returns the current date and updates whenever the worksheet is recalculated."
+    },
+    {
+      "id": 13,
+      "question": "When designing a receipt, text containing numbers (like Price) is usually aligned to the _______.",
+      "options": [
+        "Left",
+        "Right",
+        "Top",
+        "Bottom"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Financial figures are traditionally right-aligned so that decimal points align vertically for easier reading."
+    },
+    {
+      "id": 14,
+      "question": "What does 'Subtotal' mean?",
+      "options": [
+        "The total after tax",
+        "The sum of items before tax or discounts are applied",
+        "The total weight",
+        "The name of the cashier"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Subtotal is the cost of the goods alone, before adding extra charges like tax or shipping."
+    },
+    {
+      "id": 15,
+      "question": "If you offer a 10% discount, how is it calculated?",
+      "options": [
+        "Subtotal + 10",
+        "Subtotal * 10%",
+        "Subtotal / 10",
+        "Subtotal - 10"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "A percentage discount is calculated by multiplying the subtotal by the percentage (e.g., Price * 0.10)."
+    },
+    {
+      "id": 16,
+      "question": "Which tab in Excel allows you to 'Protect' the receipt template so formulas aren't accidentally deleted?",
+      "options": [
+        "Insert",
+        "Review",
+        "Formulas",
+        "Data"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "The Review tab contains the 'Protect Sheet' option to lock cells containing critical formulas."
+    },
+    {
+      "id": 17,
+      "question": "Can you add a company logo to an Excel receipt?",
+      "options": [
+        "No, Excel is only for numbers",
+        "Yes, using Insert > Pictures",
+        "Only if you use Word",
+        "Yes, but only black and white"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Excel allows inserting images (like logos) to brand your documents professionally."
+    },
+    {
+      "id": 18,
+      "question": "What is the benefit of using an Excel 'Template' for receipts?",
+      "options": [
+        "It costs money every time",
+        "It saves time by providing a pre-made layout and formulas",
+        "It deletes your data",
+        "It uses more ink"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Templates provide a ready-to-use structure, so you don't have to redesign the receipt for every customer."
+    },
+    {
+      "id": 19,
+      "question": "If you want to print two receipts on one sheet of paper to save paper, you should check:",
+      "options": [
+        "Page Layout > Margins",
+        "Print Settings > Pages per sheet",
+        "Format Cells",
+        "Filter Data"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "In printer properties or Excel print settings, selecting '2 pages per sheet' scales the content to fit two copies on one page."
+    },
+    {
+      "id": 20,
+      "question": "Which of the following is NOT a type of receipt?",
+      "options": [
+        "Cash Register Tape",
+        "Handwritten Receipt",
+        "Invoice",
+        "Movie Ticket (technically a receipt)",
+        "Love Letter"
+      ],
+      "answer": 4,
+      "difficulty": "easy",
+      "explanation": "A love letter is a personal correspondence, not a financial transaction record."
+    }
+  ]
+}
