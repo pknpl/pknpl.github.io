@@ -1,0 +1,306 @@
+{
+  "meta": {
+    "title": "Session 46: Cyber Security & Digital Safety",
+    "description": "Comprehensive guide to personal cyber safety, covering social media privacy, device security (IMEI, Antivirus), recognizing scams (Phishing, Fake Calls), and legal implications of digital actions."
+  },
+  "studyTopics": [
+    {
+      "topic": "Mobile Device Security",
+      "hint": "IMEI codes and blocking stolen SIMs.",
+      "searchQuery": "how to find IMEI number and block lost SIM",
+      "learningOutcome": "Secure mobile devices against theft and misuse using unique identifiers and carrier services."
+    },
+    {
+      "topic": "Social Media Safety",
+      "hint": "Privacy settings for Profile Pics (DP) and identifying fake profiles.",
+      "searchQuery": "WhatsApp privacy settings and spotting fake profiles",
+      "learningOutcome": "Manage digital footprints and protect personal reputation on social platforms."
+    },
+    {
+      "topic": "Recognizing Online Scams",
+      "hint": "Phishing emails, lottery calls, and work-from-home fraud.",
+      "searchQuery": "common online scams and how to avoid them",
+      "learningOutcome": "Identify and avoid financial fraud, phishing attempts, and employment scams."
+    },
+    {
+      "topic": "Public Network Safety",
+      "hint": "Dangers of public Wi-Fi and using public computers.",
+      "searchQuery": "risks of using public wifi for banking",
+      "learningOutcome": "Adopt safe habits when using shared or public internet connections."
+    },
+    {
+      "topic": "AI for Cybersecurity",
+      "hint": "Tools like Avast for protection and TryHackMe for learning.",
+      "searchQuery": "TryHackMe features and Avast AI protection",
+      "learningOutcome": "Utilize AI-powered tools to protect devices and learn ethical hacking concepts."
+    },
+    {
+      "topic": "Legal Implications in Cyber World",
+      "hint": "Piracy, defamation, and data tampering laws.",
+      "searchQuery": "legal consequences of software piracy and cyber defamation India",
+      "learningOutcome": "Understand the legal risks associated with downloading pirated content and online behavior."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the 15-digit unique code used to identify a mobile device, which is crucial if the phone is stolen?",
+      "options": [
+        "PIN Code",
+        "IMEI Code",
+        "IFSC Code",
+        "Zip Code"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The IMEI (International Mobile Equipment Identity) number is unique to every mobile device and is used to track or block stolen phones."
+    },
+    {
+      "id": 2,
+      "question": "Why should you always use the 'Safely Remove Hardware' option before unplugging a USB drive?",
+      "options": [
+        "To charge the USB",
+        "To prevent data corruption or loss",
+        "To delete all files",
+        "To change the color of the icon"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Removing a drive abruptly while data is being written can corrupt files; 'Safely Remove' ensures all data operations are complete."
+    },
+    {
+      "id": 3,
+      "question": "Which AI-powered tool is mentioned in the session for mobile protection and antivirus security?",
+      "options": [
+        "Excel",
+        "Avast Antivirus & Security",
+        "Netflix",
+        "Spotify"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Avast uses AI to detect and block malware, viruses, and ransomware in real-time."
+    },
+    {
+      "id": 4,
+      "question": "What is 'Phishing' in the context of cyber security?",
+      "options": [
+        "Catching fish online",
+        "Sending fake emails that look real to steal passwords or money",
+        "Editing photos",
+        "Playing video games"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Phishing involves fraudulent communications (like emails) that appear to come from a reputable source to steal sensitive data."
+    },
+    {
+      "id": 5,
+      "question": "If you receive a phone call saying you won a lottery but must pay a 'processing fee' first, what should you do?",
+      "options": [
+        "Pay immediately",
+        "Give them your bank details",
+        "Disconnect the call and do not pay; it is a scam",
+        "Share the news on Facebook"
+      ],
+      "answer": 2,
+      "difficulty": "easy",
+      "explanation": "Legitimate lotteries do not ask winners to pay fees upfront. This is a common tele-fraud."
+    },
+    {
+      "id": 6,
+      "question": "Using cracked or pirated software is:",
+      "options": [
+        "Safe and legal",
+        "Illegal and carries a high risk of malware infection",
+        "Recommended by the government",
+        "Faster than original software"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Piracy violates copyright laws and cracked software often contains hidden viruses or spyware."
+    },
+    {
+      "id": 7,
+      "question": "What is 'Shoulder Surfing' (Peeping) when using an ATM or typing a password?",
+      "options": [
+        "Swimming in the ocean",
+        "Someone looking over your shoulder to steal your PIN or password",
+        "Surfing the internet",
+        "A type of yoga"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Shoulder surfing is a direct observation technique used to steal credentials by watching the user type them."
+    },
+    {
+      "id": 8,
+      "question": "TryHackMe is a platform designed for:",
+      "options": [
+        "Hacking bank accounts illegally",
+        "Interactive learning of cybersecurity skills through virtual labs",
+        "Booking movie tickets",
+        "Buying clothes"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "TryHackMe is an educational platform that provides gamified lessons to learn ethical hacking and cyber defense."
+    },
+    {
+      "id": 9,
+      "question": "Which setting in WhatsApp helps prevent strangers from seeing your profile picture?",
+      "options": [
+        "Privacy > Profile Photo > My Contacts",
+        "Delete Account",
+        "Turn off Internet",
+        "Airplane Mode"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "Restricting profile photo visibility to 'My Contacts' ensures that unknown numbers cannot harvest your photo."
+    },
+    {
+      "id": 10,
+      "question": "What is the risk of using Public Wi-Fi (e.g., at a cafe) for Online Banking?",
+      "options": [
+        "It saves battery",
+        "Hackers on the same network can intercept your data/passwords",
+        "It is faster than home Wi-Fi",
+        "The bank will charge you extra"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "Public Wi-Fi networks are often unencrypted, making it easy for attackers to snoop on data transmitted over them."
+    },
+    {
+      "id": 11,
+      "question": "Defamation through social media (posting false damaging statements) can lead to:",
+      "options": [
+        "More followers only",
+        "Legal consequences including fines and jail time",
+        "A job offer",
+        "No consequences"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Online defamation is a cybercrime punishable under IT laws and the penal code."
+    },
+    {
+      "id": 12,
+      "question": "To secure a laptop physically in a public place (like a library), you should use:",
+      "options": [
+        "A screen saver",
+        "A Kensington Security Lock (Physical cable lock)",
+        "A strong password",
+        "An antivirus"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "A physical cable lock attaches the laptop to a heavy object (like a desk) to prevent theft."
+    },
+    {
+      "id": 13,
+      "question": "What is 'Malware'?",
+      "options": [
+        "Hardware for the computer",
+        "Malicious Software designed to damage or gain unauthorized access to a system",
+        "A type of kitchenware",
+        "A good software"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Malware is an umbrella term for viruses, worms, trojans, and other harmful programs."
+    },
+    {
+      "id": 14,
+      "question": "What should you verify before accepting a 'Work from Home' job offer that asks for money?",
+      "options": [
+        "Verify the company's legitimacy; legitimate jobs do not ask you to pay to work",
+        "Pay the money immediately",
+        "Share your credit card details",
+        "Quit your current job"
+      ],
+      "answer": 0,
+      "difficulty": "easy",
+      "explanation": "Job scams often require upfront payments for 'training' or 'equipment'. Real employers pay you, not the other way around."
+    },
+    {
+      "id": 15,
+      "question": "The Swachhata App allows citizens to:",
+      "options": [
+        "Play games",
+        "Post civic issues (like garbage dumps) to alert authorities for a cleaner city",
+        "Watch movies",
+        "Order food"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The Swachhata App is a government initiative empowering citizens to report civic issues directly to municipal corporations."
+    },
+    {
+      "id": 16,
+      "question": "Data Tampering refers to:",
+      "options": [
+        "Cleaning the data",
+        "The deliberate and unauthorized modification of data (changing records)",
+        "Backing up data",
+        "Printing data"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "Data tampering is an integrity attack where data is altered without authorization."
+    },
+    {
+      "id": 17,
+      "question": "Why is it dangerous to use the 'Remember Password' feature on a public computer?",
+      "options": [
+        "It uses too much memory",
+        "The next person who uses that computer can access your account",
+        "The internet will stop working",
+        "It changes your password"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Public computers are shared; saving credentials gives subsequent users access to your private accounts."
+    },
+    {
+      "id": 18,
+      "question": "What is the safest way to dispose of a credit/debit card receipt or statement containing your details?",
+      "options": [
+        "Throw it on the street",
+        "Shred it or tear it into tiny pieces",
+        "Keep it in the pocket",
+        "Post a picture of it online"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Physical dumpster diving is a method identity thieves use; shredding documents prevents this."
+    },
+    {
+      "id": 19,
+      "question": "Using a mobile phone while walking on the road or driving is:",
+      "options": [
+        "Multitasking",
+        "A safety hazard that can lead to accidents",
+        "Recommended for saving time",
+        "Good exercise"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Distracted walking/driving significantly reduces situational awareness and increases accident risks."
+    },
+    {
+      "id": 20,
+      "question": "To prevent unwanted Pop-ups and Ads, you can install:",
+      "options": [
+        "More RAM",
+        "An Ad-Blocker extension",
+        "A new mouse",
+        "A printer driver"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Ad-blockers are browser extensions that prevent advertisements and pop-ups from loading."
+    }
+  ]
+}

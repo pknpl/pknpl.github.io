@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "title": "Session 43: Mastering ChatGPT & AI Tools",
+    "description": "Introduction to ChatGPT, setting up accounts, prompt optimization, and exploring advanced AI tools for design, video, and productivity like Copilot, InVideo, and Luma AI."
+  },
+  "studyTopics": [
+    {
+      "topic": "Getting Started with ChatGPT",
+      "hint": "Creating an account and navigating the dashboard.",
+      "searchQuery": "how to sign up and use chatgpt for beginners",
+      "learningOutcome": "Create an account, log in, and navigate the ChatGPT user interface."
+    },
+    {
+      "topic": "Optimizing Inputs (Prompt Engineering)",
+      "hint": "Better instructions lead to better answers.",
+      "searchQuery": "tips for writing effective chatgpt prompts",
+      "learningOutcome": "Craft clear, specific prompts to get accurate and useful responses from AI."
+    },
+    {
+      "topic": "Microsoft 365 Copilot",
+      "hint": "AI integrated into Word, Excel, and PowerPoint.",
+      "searchQuery": "what is microsoft 365 copilot features",
+      "learningOutcome": "Understand how Copilot assists with documents, data analysis, and presentations."
+    },
+    {
+      "topic": "AI for Video Creation",
+      "hint": "Tools like InVideo and Hailuo AI turn text into video.",
+      "searchQuery": "InVideo AI text to video features",
+      "learningOutcome": "Leverage AI tools to generate professional videos from simple text descriptions."
+    },
+    {
+      "topic": "AI Design & Visuals",
+      "hint": "Canva and Luma AI for stunning graphics.",
+      "searchQuery": "Canva AI magic design tools tutorial",
+      "learningOutcome": "Use AI-powered design tools to create visual masterpieces and marketing assets."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is ChatGPT primarily designed to be?",
+      "options": [
+        "A video player",
+        "An AI-Powered Conversational Assistant",
+        "A social media platform",
+        "A spreadsheet software"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "ChatGPT is a language model designed to hold conversations, answer questions, and assist with text-based tasks."
+    },
+    {
+      "id": 2,
+      "question": "To start using ChatGPT, what is the first step you typically need to take?",
+      "options": [
+        "Install a graphics card",
+        "Create an account and log in",
+        "Buy a printer",
+        "Learn Python coding"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Accessing ChatGPT usually requires signing up for an account with OpenAI using an email or social login."
+    },
+    {
+      "id": 3,
+      "question": "In the ChatGPT dashboard, where can you usually find your previous conversations?",
+      "options": [
+        "In the Recycle Bin",
+        "In the History sidebar (usually on the left)",
+        "On the desktop wallpaper",
+        "They are deleted immediately"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "The sidebar stores chat history, allowing users to revisit and continue past conversations."
+    },
+    {
+      "id": 4,
+      "question": "What does 'Optimizing input' mean when using AI tools?",
+      "options": [
+        "Typing faster",
+        "Refining your prompt (instructions) to get a more specific and desired output",
+        "Cleaning the keyboard",
+        "Using a bigger monitor"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Optimizing input, or prompt engineering, involves clearly stating context and requirements to improve the AI's response."
+    },
+    {
+      "id": 5,
+      "question": "Which AI tool is described as an 'All-in-One AI Assistant' integrated into Office apps like Word and Excel?",
+      "options": [
+        "Microsoft 365 Copilot",
+        "Paint 3D",
+        "Notepad",
+        "Calculator"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "Microsoft 365 Copilot is integrated into the Office ecosystem to assist with productivity tasks directly within the apps."
+    },
+    {
+      "id": 6,
+      "question": "Sider.ai is primarily used as:",
+      "options": [
+        "A cooking app",
+        "A comprehensive AI assistant for enhanced browsing (browser sidebar)",
+        "A video game",
+        "A music player"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Sider.ai operates as a browser extension/sidebar, providing AI assistance while you browse the web."
+    },
+    {
+      "id": 7,
+      "question": "Which platform uses AI to help you find 'Stunning Free Stock Media' with smart search?",
+      "options": [
+        "Pexels",
+        "Excel",
+        "PowerPoint",
+        "Word"
+      ],
+      "answer": 0,
+      "difficulty": "easy",
+      "explanation": "Pexels is a stock media site that uses AI algorithms to help users find relevant free photos and videos."
+    },
+    {
+      "id": 8,
+      "question": "InVideo AI is capable of:",
+      "options": [
+        "Revolutionizing video creation by generating videos from text prompts",
+        "Ordering pizza",
+        "Driving cars",
+        "Cleaning files"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "InVideo AI allows users to type a topic or script, and it generates a complete video with stock footage and voiceover."
+    },
+    {
+      "id": 9,
+      "question": "What is the key benefit of 'Canva with AI Features'?",
+      "options": [
+        "It makes the computer heavy",
+        "It allows anyone to create professional designs easily using tools like Magic Edit and Magic Write",
+        "It stops the internet",
+        "It deletes photos"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Canva's AI tools democratize design, allowing users to generate images, edit photos, and write text easily."
+    },
+    {
+      "id": 10,
+      "question": "Luma AI's 'Dream Machine' is focused on:",
+      "options": [
+        "Sleeping aids",
+        "Unleashing creativity through AI-driven visual masterpieces (often 3D or high-quality video)",
+        "Writing emails",
+        "Sorting numbers"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "Dream Machine by Luma AI is a high-quality video generation model capable of creating realistic shots."
+    },
+    {
+      "id": 11,
+      "question": "When conversing with ChatGPT, if the answer is not quite right, what should you do?",
+      "options": [
+        "Buy a new computer",
+        "Provide follow-up instructions or clarify your prompt (Iterate)",
+        "Give up",
+        "Close the browser"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "ChatGPT remembers conversation context, so you can ask it to refine, shorten, or correct its previous answer."
+    },
+    {
+      "id": 12,
+      "question": "DeepSeek is introduced as:",
+      "options": [
+        "A new AI Assistant",
+        "A hide and seek game",
+        "A file explorer",
+        "A search engine for deep ocean"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "DeepSeek is an advanced AI model/assistant designed for coding, reasoning, and general assistance."
+    },
+    {
+      "id": 13,
+      "question": "Hailuo AI is noted for:",
+      "options": [
+        "Next-Gen AI-Powered Video and Image Generation",
+        "Playing chess",
+        "Weather forecasting",
+        "Sending SMS"
+      ],
+      "answer": 0,
+      "difficulty": "hard",
+      "explanation": "Hailuo AI is a tool focused on generative media, specifically creating high-quality videos and images."
+    },
+    {
+      "id": 14,
+      "question": "How does ChatGPT act as a 'Personal Assistant'?",
+      "options": [
+        "It brings you coffee",
+        "It can draft emails, schedule ideas, summarize text, and provide recommendations",
+        "It drives your car",
+        "It cleans your room"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "ChatGPT assists with digital tasks like drafting communication, planning, and summarizing information."
+    },
+    {
+      "id": 15,
+      "question": "The 'Regenerate' button in ChatGPT allows you to:",
+      "options": [
+        "Delete the account",
+        "Get a new/different response to the same prompt",
+        "Turn off the screen",
+        "Save the chat"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "If you don't like the first answer, 'Regenerate' asks the AI to try answering again."
+    },
+    {
+      "id": 16,
+      "question": "Understanding 'Conversation Flow' in ChatGPT means:",
+      "options": [
+        "Knowing that the AI remembers what was said earlier in the chat session (Context)",
+        "Knowing how to type fast",
+        "Knowing how to speak loudly",
+        "Knowing how to print"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "ChatGPT maintains context, meaning you can refer to previous messages without repeating the full details."
+    },
+    {
+      "id": 17,
+      "question": "Which of these is a good practice for 'Staying updated' with AI tools?",
+      "options": [
+        "Never checking for new features",
+        "Regularly exploring new updates, features, and capabilities as the models evolve",
+        "Using only the version from 10 years ago",
+        "Ignoring all news"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The AI landscape evolves rapidly; staying updated ensures you are using the most efficient tools available."
+    },
+    {
+      "id": 18,
+      "question": "What is required to log in to ChatGPT?",
+      "options": [
+        "A physical key",
+        "Credentials (email/password) or a linked account (Google/Microsoft)",
+        "A microphone only",
+        "A printer"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Standard authentication involves an email/password or Single Sign-On (SSO) provider."
+    },
+    {
+      "id": 19,
+      "question": "Which application of ChatGPT is useful for students?",
+      "options": [
+        "Cheating on exams",
+        "Explaining complex concepts simply or summarizing study notes",
+        "Playing video games",
+        "Downloading RAM"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "ChatGPT is an excellent study buddy for simplifying topics, creating quizzes, and summarizing long texts."
+    },
+    {
+      "id": 20,
+      "question": "If you want to create a visual masterpiece or 3D asset, which tool is most relevant?",
+      "options": [
+        "Luma AI / Meshy AI",
+        "Excel",
+        "Word",
+        "Notepad"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "Tools like Luma AI are specifically built for high-end visual and 3D generation."
+    }
+  ]
+}

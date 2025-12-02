@@ -1,0 +1,306 @@
+{
+  "meta": {
+    "title": "Session 44: MS Outlook Configuration & Management",
+    "description": "Comprehensive guide to configuring Gmail in Outlook 2019, managing contacts and groups, and utilizing AI tools like LinkedIn for networking."
+  },
+  "studyTopics": [
+    {
+      "topic": "Outlook & PIM",
+      "hint": "Outlook is more than email; it manages your life.",
+      "searchQuery": "what is personal information manager PIM in outlook",
+      "learningOutcome": "Define Outlook as a PIM that manages emails, calendars, contacts, and tasks."
+    },
+    {
+      "topic": "Configuring Gmail in Outlook",
+      "hint": "You might need to enable IMAP in Gmail settings first.",
+      "searchQuery": "how to configure gmail in outlook 2019 advanced options",
+      "learningOutcome": "Set up a Gmail account in Outlook using automatic or advanced (manual IMAP/POP) configuration."
+    },
+    {
+      "topic": "Email Signatures & Stationery",
+      "hint": "Personalize every email with your name and logo automatically.",
+      "searchQuery": "how to add signature and stationery in outlook",
+      "learningOutcome": "Create professional signatures and apply background stationery to outgoing messages."
+    },
+    {
+      "topic": "Contact Groups (Distribution Lists)",
+      "hint": "Emailing 'Project Team' instead of adding 10 people individually.",
+      "searchQuery": "creating contact group in outlook 2019",
+      "learningOutcome": "Create and manage Contact Groups to send emails to multiple people at once."
+    },
+    {
+      "topic": "Reply vs. Forward",
+      "hint": "Reply goes back; Forward goes to someone new.",
+      "searchQuery": "difference between reply reply all and forward",
+      "learningOutcome": "Distinguish between Reply, Reply All, and Forward functions and when to use each."
+    },
+    {
+      "topic": "AI for Networking (LinkedIn)",
+      "hint": "Using AI to optimize your profile and job search.",
+      "searchQuery": "LinkedIn AI features for career growth",
+      "learningOutcome": "Leverage LinkedIn's AI features for professional networking and career development."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is Microsoft Outlook primarily known as?",
+      "options": [
+        "A Database Management System",
+        "A Personal Information Manager (PIM)",
+        "A Photo Editor",
+        "A Web Browser"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Outlook is a PIM because it integrates email, calendar, contacts, and tasks in one application."
+    },
+    {
+      "id": 2,
+      "question": "When configuring Gmail in Outlook 2019 manually (Advanced Options), which protocol is commonly used to sync emails across devices?",
+      "options": [
+        "HTTP",
+        "IMAP",
+        "FTP",
+        "SMS"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "IMAP (Internet Message Access Protocol) keeps emails synced on the server, allowing access from multiple devices."
+    },
+    {
+      "id": 3,
+      "question": "What is an 'Email Signature'?",
+      "options": [
+        "Signing your name on the monitor with a pen",
+        "A block of text/images (like name, phone, logo) automatically added to the end of outgoing emails",
+        "A password",
+        "A virus"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Signatures provide contact information and branding at the bottom of every email you send."
+    },
+    {
+      "id": 4,
+      "question": "In Outlook, what is a 'Contact Group' (formerly Distribution List)?",
+      "options": [
+        "A group of people you blocked",
+        "A single email address that sends messages to multiple people at once",
+        "A folder for spam",
+        "A calendar event"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Contact Groups allow you to bundle multiple email addresses under one name (e.g., 'Sales Team') for easy emailing."
+    },
+    {
+      "id": 5,
+      "question": "If you receive an email with an attachment, what icon usually indicates this?",
+      "options": [
+        "A smiley face",
+        "A paperclip",
+        "A trash can",
+        "A printer"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The paperclip icon is the universal symbol for files attached to an email."
+    },
+    {
+      "id": 6,
+      "question": "What is the difference between 'Reply' and 'Reply All'?",
+      "options": [
+        "They are exactly the same",
+        "Reply sends to the sender only; Reply All sends to the sender and everyone else on the 'To' and 'Cc' lines",
+        "Reply All deletes the email",
+        "Reply sends to everyone"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Reply All includes all original recipients in your response, which is useful for group discussions."
+    },
+    {
+      "id": 7,
+      "question": "When you start writing an email but don't send it, where is it saved?",
+      "options": [
+        "Inbox",
+        "Drafts",
+        "Sent Items",
+        "Deleted Items"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Unfinished emails are automatically saved in the 'Drafts' folder so you can finish them later."
+    },
+    {
+      "id": 8,
+      "question": "What does the 'Bcc' (Blind Carbon Copy) field do?",
+      "options": [
+        "Makes the email bold",
+        "Sends a copy to recipients whose names are hidden from other recipients",
+        "Sends the email back to you",
+        "Blocks the contact"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Bcc allows you to send an email to someone without the other recipients knowing."
+    },
+    {
+      "id": 9,
+      "question": "Which AI-powered platform is mentioned for 'Professional Networking & Career Growth'?",
+      "options": [
+        "Instagram",
+        "LinkedIn",
+        "Snapchat",
+        "TikTok"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "LinkedIn uses AI to connect professionals, suggest jobs, and optimize profiles for career advancement."
+    },
+    {
+      "id": 10,
+      "question": "What happens when you 'Forward' an email?",
+      "options": [
+        "It goes back to the sender",
+        "It sends a copy of the email (and attachments) to a new recipient",
+        "It deletes the email",
+        "It prints the email"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Forwarding allows you to share an email you received with a third party."
+    },
+    {
+      "id": 11,
+      "question": "In Outlook, which module would you click to view your schedule?",
+      "options": [
+        "Mail (Envelope icon)",
+        "Calendar (Calendar icon)",
+        "People (Person icon)",
+        "Tasks (Clipboard icon)"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The Calendar icon in the navigation bar switches the view to your schedule and appointments."
+    },
+    {
+      "id": 12,
+      "question": "What is 'Stationery' in the context of Outlook emails?",
+      "options": [
+        "Paper and pens",
+        "Backgrounds, patterns, and fonts used to personalize the look of emails",
+        "A stationary object",
+        "The settings menu"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Stationery refers to themes that apply colorful backgrounds and specific fonts to your messages."
+    },
+    {
+      "id": 13,
+      "question": "If you delete an email by mistake, where should you look first to recover it?",
+      "options": [
+        "Spam",
+        "Deleted Items / Trash",
+        "Drafts",
+        "Outbox"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Deleted emails are moved to the 'Deleted Items' folder and can usually be recovered from there."
+    },
+    {
+      "id": 14,
+      "question": "To add a new person to your address book, you should create a new:",
+      "options": [
+        "Folder",
+        "Contact",
+        "Calendar",
+        "Note"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Creating a 'Contact' allows you to save details like name, email, and phone number."
+    },
+    {
+      "id": 15,
+      "question": "Why might you need an 'App Password' when configuring Gmail in Outlook?",
+      "options": [
+        "To make it harder",
+        "If 2-Step Verification is enabled on your Google Account, a standard password might not work",
+        "To delete the account",
+        "To change the theme"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "For security, Google often requires a specific App Password for third-party clients like Outlook if 2FA is on."
+    },
+    {
+      "id": 16,
+      "question": "Which of these is NOT a standard Outlook folder?",
+      "options": [
+        "Inbox",
+        "Sent Items",
+        "Recycle Bin",
+        "Junk Email"
+      ],
+      "answer": 2,
+      "difficulty": "medium",
+      "explanation": "In Windows, it's called 'Recycle Bin', but inside Outlook, the folder is named 'Deleted Items' or 'Trash'."
+    },
+    {
+      "id": 17,
+      "question": "The 'People' pane in Outlook allows you to:",
+      "options": [
+        "Edit photos",
+        "Manage your contacts and address books",
+        "Watch videos",
+        "Write code"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The People module is the dedicated space for managing contact information."
+    },
+    {
+      "id": 18,
+      "question": "When configuring email manually, 'SMTP' is used for:",
+      "options": [
+        "Receiving email",
+        "Sending email",
+        "Deleting email",
+        "Storing email"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "SMTP (Simple Mail Transfer Protocol) is the standard protocol for sending emails."
+    },
+    {
+      "id": 19,
+      "question": "How can LinkedIn's AI help with your profile?",
+      "options": [
+        "It can write a summary and suggest skills based on your experience",
+        "It deletes your profile",
+        "It changes your name",
+        "It applies for loans"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "LinkedIn AI tools can generate profile summaries and headlines to make you more attractive to recruiters."
+    },
+    {
+      "id": 20,
+      "question": "What happens to an email in the 'Outbox'?",
+      "options": [
+        "It has been sent successfully",
+        "It is waiting to be sent (e.g., if there is no internet)",
+        "It is deleted",
+        "It is received"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "The Outbox holds emails temporarily until they are successfully transmitted to the mail server."
+    }
+  ]
+}

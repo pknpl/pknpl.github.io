@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "title": "Session 42: Prompt Engineering & AI Innovations",
+    "description": "Introduction to the art of Prompt Engineering, understanding different types of prompts, and exploring advanced AI tools for video, music, coding, and productivity."
+  },
+  "studyTopics": [
+    {
+      "topic": "Fundamentals of Prompts",
+      "hint": "A prompt is the input or instruction you give to an AI.",
+      "searchQuery": "what is prompt engineering for beginners",
+      "learningOutcome": "Define what a prompt is and understand its critical role in interacting with AI systems."
+    },
+    {
+      "topic": "Types of Prompts",
+      "hint": "Prompts can be Written (text), Visual (images), or Verbal (voice).",
+      "searchQuery": "examples of visual verbal and written prompts",
+      "learningOutcome": "Differentiate between various modes of prompting like verbal, visual, and interactive."
+    },
+    {
+      "topic": "Crafting Effective Prompts",
+      "hint": "Balance simplicity with necessary details for the best result.",
+      "searchQuery": "how to write clear and specific AI prompts",
+      "learningOutcome": "Learn strategies to tailor prompts to specific goals and learning styles."
+    },
+    {
+      "topic": "AI for Content Creation (Video & Music)",
+      "hint": "Pictory turns text to video; Udio creates music.",
+      "searchQuery": "Pictory vs VEED.IO vs Udio features",
+      "learningOutcome": "Utilize AI tools to generate multimedia content like videos and music from simple inputs."
+    },
+    {
+      "topic": "AI for Productivity & Coding",
+      "hint": "ClickUp manages tasks; Google Colab runs Python code.",
+      "searchQuery": "google colab features and clickup AI benefits",
+      "learningOutcome": "Apply AI tools to streamline project management and write code in the cloud."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is a 'Prompt' in the context of Artificial Intelligence?",
+      "options": [
+        "A computer virus",
+        "The input or instruction given to an AI model to generate a specific output",
+        "A type of hardware",
+        "The speed of the internet"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "A prompt is the text, image, or audio input provided by a user to guide the AI's response."
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is an example of a 'Verbal Prompt'?",
+      "options": [
+        "Typing a search query into Google",
+        "Showing a picture to a camera",
+        "Asking 'Hey Google, what is the weather?' using your voice",
+        "Clicking a button on a website"
+      ],
+      "answer": 2,
+      "difficulty": "easy",
+      "explanation": "Verbal prompts involve speaking commands aloud to voice-activated AI assistants."
+    },
+    {
+      "id": 3,
+      "question": "Pictory is an AI tool designed to:",
+      "options": [
+        "Clean your house",
+        "Transform text scripts and blog posts into captivating short videos",
+        "Write Python code",
+        "Manage spreadsheets"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Pictory uses AI to automatically convert written content (text) into engaging videos with stock footage."
+    },
+    {
+      "id": 4,
+      "question": "What is the main benefit of 'Prompt Engineering'?",
+      "options": [
+        "It makes the computer slower",
+        "It helps you get more accurate, relevant, and high-quality responses from AI",
+        "It deletes your data",
+        "It increases battery life"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Prompt engineering is the skill of refining inputs to ensure the AI understands exactly what you want."
+    },
+    {
+      "id": 5,
+      "question": "Which AI platform is known for 'Collaborative Python Coding in the Cloud' without needing installation?",
+      "options": [
+        "Google Colab",
+        "Microsoft Paint",
+        "Spotify",
+        "Netflix"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "Google Colab (Colaboratory) allows you to write and execute Python code in your browser with zero configuration."
+    },
+    {
+      "id": 6,
+      "question": "If you want to create a custom song or music track using AI, which tool should you use?",
+      "options": [
+        "Excel",
+        "Udio",
+        "ClickUp",
+        "SocialBee"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Udio is a generative AI music creation tool that builds songs based on user prompts."
+    },
+    {
+      "id": 7,
+      "question": "What is a 'Visual Prompt'?",
+      "options": [
+        "A written sentence",
+        "An image or video used as input to guide the AI (e.g., 'Make this photo look like a painting')",
+        "A loud noise",
+        "A mathematical formula"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Visual prompts use images as the primary input data for the AI to analyze or transform."
+    },
+    {
+      "id": 8,
+      "question": "Claude AI is best known for having:",
+      "options": [
+        "Advanced reasoning skills and handling large amounts of text context",
+        "Video editing capabilities only",
+        "Music generation features",
+        "No intelligence"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "Claude (by Anthropic) is recognized for its strong reasoning capabilities, safety features, and large context window."
+    },
+    {
+      "id": 9,
+      "question": "Which tool would you use to manage social media posts across multiple platforms using AI?",
+      "options": [
+        "SocialBee",
+        "Google Maps",
+        "Calculator",
+        "Notepad"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "SocialBee is a social media management tool that uses AI to generate content and schedule posts."
+    },
+    {
+      "id": 10,
+      "question": "ClickUp uses AI to revolutionize:",
+      "options": [
+        "Cooking",
+        "Productivity and Project Management (summarizing tasks, writing updates)",
+        "Gaming",
+        "Driving"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "ClickUp integrates AI to help manage tasks, summarize documents, and automate project workflows."
+    },
+    {
+      "id": 11,
+      "question": "When creating a prompt, why is 'Context' important?",
+      "options": [
+        "It confuses the AI",
+        "It provides background information so the AI understands the specific situation and gives a better answer",
+        "It makes the prompt too long",
+        "It is not important"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Giving context (e.g., 'Act as a teacher...') narrows down the infinite possibilities to the specific output you need."
+    },
+    {
+      "id": 12,
+      "question": "VEED.IO is an AI-powered platform for:",
+      "options": [
+        "Online Video Editing (adding subtitles, cutting, effects)",
+        "Planting trees",
+        "Writing music",
+        "Booking flights"
+      ],
+      "answer": 0,
+      "difficulty": "easy",
+      "explanation": "VEED.IO is an online video editor that uses AI for tasks like auto-subtitling and noise removal."
+    },
+    {
+      "id": 13,
+      "question": "Which of the following is an example of an 'Interactive Prompt'?",
+      "options": [
+        "Reading a book",
+        "A quiz or game where the AI responds to your choices in real-time",
+        "A static picture",
+        "A printed poster"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Interactive prompts involve a two-way exchange where the user and the system respond to each other."
+    },
+    {
+      "id": 14,
+      "question": "Why should you tailor prompts to different 'Learning Styles'?",
+      "options": [
+        "To make learning harder",
+        "To ensure the output matches how the user learns best (e.g., visual diagrams for visual learners)",
+        "To break the AI",
+        "To save electricity"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Tailoring prompts helps personalize the educational experience, providing text for readers or images for visual learners."
+    },
+    {
+      "id": 15,
+      "question": "In the context of prompts, what does 'Balancing complexity and simplicity' mean?",
+      "options": [
+        "Making the prompt as confusing as possible",
+        "Providing enough detail to be accurate without being overwhelmingly complicated",
+        "Using only one word",
+        "Writing a whole book"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "Effective prompts strike a balance: they are detailed enough to guide the AI but clear enough to avoid confusion."
+    },
+    {
+      "id": 16,
+      "question": "Which of these is a 'Written Prompt'?",
+      "options": [
+        "A voice command",
+        "A typed sentence in a Chatbot like 'Write a poem about rain'",
+        "A hand gesture",
+        "A facial expression"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Written prompts consist of text input typed by the user."
+    },
+    {
+      "id": 17,
+      "question": "Google Colab is particularly useful for which programming language?",
+      "options": [
+        "Python",
+        "Latin",
+        "French",
+        "Music notes"
+      ],
+      "answer": 0,
+      "difficulty": "easy",
+      "explanation": "Google Colab is a hosted Jupyter Notebook service that requires no setup to use, primarily for Python."
+    },
+    {
+      "id": 18,
+      "question": "If an AI generates a generic or wrong answer, what is the best next step?",
+      "options": [
+        "Give up immediately",
+        "Refine the prompt by adding more specific details or constraints (Iterative prompting)",
+        "Turn off the computer",
+        "Yell at the screen"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Iterative prompting involves adjusting and improving your input based on the previous output to get a better result."
+    },
+    {
+      "id": 19,
+      "question": "Which tool would allow you to edit a video by simply editing the text transcript?",
+      "options": [
+        "Descript / VEED.IO (advanced features)",
+        "Paint",
+        "Calculator",
+        "Notepad"
+      ],
+      "answer": 0,
+      "difficulty": "hard",
+      "explanation": "Modern AI video editors (like Descript and advanced features in VEED) allow text-based video editing."
+    },
+    {
+      "id": 20,
+      "question": "Real-life examples of prompts include:",
+      "options": [
+        "Search engine queries",
+        "Voice commands to smart speakers (Alexa/Siri)",
+        "Instructions typed into ChatGPT",
+        "All of the above"
+      ],
+      "answer": 3,
+      "difficulty": "easy",
+      "explanation": "We use prompts daily, from Googling information to asking Siri to set a timer."
+    }
+  ]
+}

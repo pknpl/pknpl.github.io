@@ -6,7 +6,7 @@ function attemptLogin() {
     errorMsg.style.display = 'none';
     
     if (!inputVal) {
-        errorMsg.innerText = "Please enter an AO Code.";
+        errorMsg.innerText = "Please enter an AO / ALC Code.";
         errorMsg.style.display = 'block';
         return;
     }

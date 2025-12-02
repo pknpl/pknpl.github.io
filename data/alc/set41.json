@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "title": "Session 41: NGO Donation & Grant Proposals",
+    "description": "Learn the professional skill of writing NGO donation proposals, understanding their structure, purpose, and how to format them effectively using MS Word."
+  },
+  "studyTopics": [
+    {
+      "topic": "Grant Proposal Basics",
+      "hint": "A formal request for funds.",
+      "searchQuery": "what is an NGO grant proposal and its purpose",
+      "learningOutcome": "Understand the definition and primary goal of creating a donation proposal."
+    },
+    {
+      "topic": "Structure of a Proposal",
+      "hint": "Key sections like Problem, Solution, and Budget.",
+      "searchQuery": "standard sections of a grant proposal",
+      "learningOutcome": "Identify the essential components required in a professional grant proposal."
+    },
+    {
+      "topic": "Problem Statement",
+      "hint": "Defining the 'Why' behind the project.",
+      "searchQuery": "how to write a problem statement for grant proposal",
+      "learningOutcome": "Articulate the specific issue or need that the NGO aims to address."
+    },
+    {
+      "topic": "Budgeting in Proposals",
+      "hint": "Using Tables to show costs clearly.",
+      "searchQuery": "how to present budget in grant proposal",
+      "learningOutcome": "Present financial requirements transparently using tables and clear formatting."
+    },
+    {
+      "topic": "AI for Proposal Writing",
+      "hint": "Using AI to draft and refine text.",
+      "searchQuery": "using AI for grant writing and editing",
+      "learningOutcome": "Leverage AI tools to draft persuasive content and check for clarity."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the primary purpose of an NGO Donation Proposal?",
+      "options": [
+        "To write a story",
+        "To request financial support or resources from donors for a specific cause",
+        "To invite people to a party",
+        "To complain about the government"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "A donation proposal is a written request asking potential donors for funds or resources to support a project."
+    },
+    {
+      "id": 2,
+      "question": "Which section of the proposal describes the specific issue the NGO intends to solve?",
+      "options": [
+        "Budget",
+        "Problem Statement / Needs Assessment",
+        "Cover Page",
+        "Conclusion"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "The Problem Statement clearly defines the community need or issue that makes the project necessary."
+    },
+    {
+      "id": 3,
+      "question": "Which Microsoft Office application is most suitable for writing and formatting a detailed text-based grant proposal?",
+      "options": [
+        "Microsoft Excel",
+        "Microsoft Word",
+        "Microsoft PowerPoint",
+        "Microsoft Paint"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "MS Word is the standard word processing tool for creating professional multi-page documents like proposals."
+    },
+    {
+      "id": 4,
+      "question": "What should be included in the 'Budget' section of a proposal?",
+      "options": [
+        "Photos of the staff",
+        "A detailed breakdown of estimated costs and how the funds will be used",
+        "A list of holidays",
+        "The history of the world"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The Budget section provides transparency on financial requirements, showing donors exactly where their money will go."
+    },
+    {
+      "id": 5,
+      "question": "What is an 'Executive Summary' in a grant proposal?",
+      "options": [
+        "The last page",
+        "A brief overview at the beginning that summarizes the entire proposal",
+        "A list of employees",
+        "A signature block"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "The Executive Summary gives busy donors a quick snapshot of the project's goals, methods, and needs."
+    },
+    {
+      "id": 6,
+      "question": "Why is it important to add a 'Cover Page' to your proposal?",
+      "options": [
+        "It protects the paper from rain",
+        "It provides a professional first impression with the title, NGO name, and contact info",
+        "It hides the content",
+        "It is not important"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "A professional Cover Page establishes credibility and provides essential identification details immediately."
+    },
+    {
+      "id": 7,
+      "question": "Which feature in MS Word helps generate an automatic 'Table of Contents' for long proposals?",
+      "options": [
+        "SmartArt",
+        "Heading Styles (Heading 1, Heading 2)",
+        "Bold Text",
+        "Bullets"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Using Heading Styles allows Word to automatically recognize sections and build a navigable Table of Contents."
+    },
+    {
+      "id": 8,
+      "question": "In the context of a proposal, what does 'Impact' refer to?",
+      "options": [
+        "The font size",
+        "The positive changes or benefits the project will bring to the community",
+        "The cost of printing",
+        "The number of pages"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Donors want to know the 'Impact'—the tangible results and improvements their money will achieve."
+    },
+    {
+      "id": 9,
+      "question": "[Digital Skill] How can AI writing assistants help with grant proposals?",
+      "options": [
+        "They can print the document",
+        "They can help draft persuasive text, check grammar, and improve clarity",
+        "They can open the bank account",
+        "They can drive to the donor's house"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "AI tools can assist in overcoming writer's block, refining tone to be more persuasive, and proofreading."
+    },
+    {
+      "id": 10,
+      "question": "Which formatting tool allows you to present the budget numbers in a neat, aligned grid?",
+      "options": [
+        "Table",
+        "WordArt",
+        "Shapes",
+        "Hyperlink"
+      ],
+      "answer": 0,
+      "difficulty": "easy",
+      "explanation": "Tables are the standard way to present numerical data like budgets clearly and professionally."
+    },
+    {
+      "id": 11,
+      "question": "What is a 'Grant'?",
+      "options": [
+        "A loan you must pay back",
+        "A sum of money given by an organization/government for a specific purpose, usually not repaid",
+        "A type of computer",
+        "A password"
+      ],
+      "answer": 1,
+      "difficulty": "hard",
+      "explanation": "Unlike a loan, a grant is a financial award given to an entity to facilitate a goal or project."
+    },
+    {
+      "id": 12,
+      "question": "Why should you research the donor before sending a proposal?",
+      "options": [
+        "To find their home address",
+        "To ensure your project aligns with their funding goals and values",
+        "To guess their password",
+        "To avoid them"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Targeting the right donor ensures that your proposal is relevant to their interests, increasing the chance of success."
+    },
+    {
+      "id": 13,
+      "question": "Which element adds credibility to your proposal?",
+      "options": [
+        "Spelling mistakes",
+        "Testimonials, data/statistics, and past success stories",
+        "Using comic sans font",
+        "Drawing cartoons"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Evidence of past success and data-driven arguments build trust with the potential donor."
+    },
+    {
+      "id": 14,
+      "question": "To ensure the proposal looks consistent, you should use:",
+      "options": [
+        "Different fonts on every page",
+        "Consistent fonts, headings, and margins throughout the document",
+        "Rainbow colors",
+        "Random font sizes"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Consistency in formatting makes the document look professional and easier to read."
+    },
+    {
+      "id": 15,
+      "question": "What is the 'Timeline' section of a proposal?",
+      "options": [
+        "A clock",
+        "A schedule showing when project activities will happen",
+        "A list of names",
+        "A map"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The Timeline outlines the project schedule, showing donors that the plan is realistic and time-bound."
+    },
+    {
+      "id": 16,
+      "question": "If you want to save the proposal so it can't be easily edited by others, which format should you use?",
+      "options": [
+        ".docx",
+        ".pdf (Portable Document Format)",
+        ".txt",
+        ".xlsx"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "PDFs preserve formatting and prevent accidental changes, making them the standard for sharing final documents."
+    },
+    {
+      "id": 17,
+      "question": "Which tool in Word helps check for spelling errors before printing?",
+      "options": [
+        "Spelling & Grammar (F7)",
+        "Insert Picture",
+        "Mail Merge",
+        "Macros"
+      ],
+      "answer": 0,
+      "difficulty": "easy",
+      "explanation": "Always run a Spell Check to ensure the document is error-free and professional."
+    },
+    {
+      "id": 18,
+      "question": "The 'Conclusion' of a proposal should:",
+      "options": [
+        "Start a new topic",
+        "Summarize the main points and reiterate the request for support",
+        "List grocery items",
+        "Be blank"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "The conclusion wraps up the argument and leaves a final strong impression on the donor."
+    },
+    {
+      "id": 19,
+      "question": "What is the purpose of adding 'Headers and Footers'?",
+      "options": [
+        "To make the page smaller",
+        "To repeat information (like page numbers or NGO name) on every page automatically",
+        "To delete text",
+        "To change text color"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Headers and Footers add professional polish and help navigation (page numbers)."
+    },
+    {
+      "id": 20,
+      "question": "When emailing a proposal, what should be in the subject line?",
+      "options": [
+        "Hi",
+        "Clear and professional title (e.g., 'Grant Proposal: Clean Water Project - [NGO Name]')",
+        "Money please",
+        "Urgent open now"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "A clear subject line ensures the email is opened and routed to the correct person."
+    }
+  ]
+}

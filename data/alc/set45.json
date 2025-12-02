@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "title": "Session 45: Outlook Organization, Scheduling & Tasks",
+    "description": "Mastering Outlook's organizational tools (Categories, Flags, Folders), Calendar scheduling (Appointments vs. Events), Task tracking, and AI-powered job search."
+  },
+  "studyTopics": [
+    {
+      "topic": "Organizing the Mailbox",
+      "hint": "Use Color Categories and Folders to sort email.",
+      "searchQuery": "how to organize outlook email folders and categories",
+      "learningOutcome": "Manage inbox clutter using categories, flags for follow-up, and custom folders."
+    },
+    {
+      "topic": "Calendar Management",
+      "hint": "Appointments are for you; Meetings are for groups.",
+      "searchQuery": "outlook appointment vs meeting vs event difference",
+      "learningOutcome": "Distinguish between appointments, events, and meetings, and schedule them effectively."
+    },
+    {
+      "topic": "Task Tracking (To-Do)",
+      "hint": "Create tasks to track progress on items.",
+      "searchQuery": "how to manage tasks and to-do list in outlook",
+      "learningOutcome": "Create, edit, and mark tasks as complete to manage daily workload."
+    },
+    {
+      "topic": "Newsletters & Mail Merge",
+      "hint": "Sending one email to many people using Word.",
+      "searchQuery": "send email newsletter using word mail merge to outlook",
+      "learningOutcome": "Integrate Word and Outlook to dispatch newsletters to a contact list."
+    },
+    {
+      "topic": "AI for Career & Email",
+      "hint": "Copilot writes emails; Naukri finds jobs.",
+      "searchQuery": "Microsoft Copilot for Outlook features",
+      "learningOutcome": "Use AI to draft professional emails and optimize job search strategies."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the primary function of 'Color Categories' in Outlook?",
+      "options": [
+        "To delete emails",
+        "To visually organize items (emails, appointments) by topic or project",
+        "To change the font color",
+        "To encrypt emails"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Color categories allow you to tag items with a color and label (e.g., 'Red' for Urgent) to sort and identify them quickly."
+    },
+    {
+      "id": 2,
+      "question": "What is the key difference between an 'Appointment' and a 'Meeting' in Outlook?",
+      "options": [
+        "Appointments are longer",
+        "A Meeting includes invitations to other people; an Appointment is just for you",
+        "Meetings are always online",
+        "There is no difference"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "An Appointment is a scheduled activity in your calendar that does not involve inviting others. A Meeting invites attendees."
+    },
+    {
+      "id": 3,
+      "question": "If you want to be reminded to reply to an email later, which feature should you use?",
+      "options": [
+        "Delete",
+        "Flag for Follow Up",
+        "Archive",
+        "Reply All"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Flagging an email adds it to the To-Do bar and can set a reminder to ensure you follow up on it."
+    },
+    {
+      "id": 4,
+      "question": "What defines an 'Event' in the Outlook Calendar?",
+      "options": [
+        "An activity that lasts 24 hours or more (All-Day)",
+        "A 30-minute meeting",
+        "A phone call",
+        "A task"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "An Event is an activity that lasts for an entire day or longer (e.g., a holiday, conference) and doesn't block out specific hours."
+    },
+    {
+      "id": 5,
+      "question": "Microsoft Copilot in Outlook is designed to:",
+      "options": [
+        "Repair the computer",
+        "Draft, summarize, and polish emails using AI",
+        "Print documents",
+        "Sort contacts alphabetically"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Copilot uses AI to help you write emails faster, summarize long threads, and adjust the tone of your messages."
+    },
+    {
+      "id": 6,
+      "question": "Which view allows you to see your tasks and calendar side-by-side with your email?",
+      "options": [
+        "Reading Pane",
+        "To-Do Bar",
+        "Folder Pane",
+        "Navigation Bar"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "The To-Do Bar (usually on the right) displays your upcoming calendar events and task list within the Mail view."
+    },
+    {
+      "id": 7,
+      "question": "If you have a weekly team status call, how should you schedule it to avoid creating a new entry every week?",
+      "options": [
+        "Copy and paste it 52 times",
+        "Set it as a 'Recurring' appointment/meeting",
+        "Send an email instead",
+        "Use a sticky note"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Recurrence allows you to set a pattern (e.g., Every Monday at 10 AM) for the appointment to repeat automatically."
+    },
+    {
+      "id": 8,
+      "question": "Which platform is mentioned as an AI-Enhanced Job Search and Career Development tool?",
+      "options": [
+        "Foundit (formerly Monster)",
+        "Netflix",
+        "Uber",
+        "Spotify"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "Foundit uses AI to help job seekers find relevant roles and develop their careers."
+    },
+    {
+      "id": 9,
+      "question": "To create a Newsletter using Outlook contact lists but designing it in Word, you would use which feature?",
+      "options": [
+        "Mail Merge",
+        "Spell Check",
+        "Track Changes",
+        "WordArt"
+      ],
+      "answer": 0,
+      "difficulty": "medium",
+      "explanation": "Mail Merge allows you to create a document in Word and send it as an email to multiple Outlook contacts."
+    },
+    {
+      "id": 10,
+      "question": "What happens when you mark a Task as 'Complete'?",
+      "options": [
+        "It is deleted permanently",
+        "It is crossed out (strikethrough) and usually removed from the active list",
+        "It turns red",
+        "It is sent to the Outbox"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Marking a task complete indicates it is done; Outlook typically strikes it through or moves it to a completed folder."
+    },
+    {
+      "id": 11,
+      "question": "If you want to move emails from a specific sender into a specific place automatically, what should you create?",
+      "options": [
+        "A new window",
+        "A Rule (or simply move to a Folder)",
+        "A Flag",
+        "A Calendar event"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Creating specific Folders helps organize emails. Rules automate this, but manually moving them is the basic skill."
+    },
+    {
+      "id": 12,
+      "question": "Naukri.com uses AI to assist with:",
+      "options": [
+        "Cooking recipes",
+        "Job search and Resume Optimization",
+        "Weather forecasting",
+        "Video editing"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Naukri is a job portal that uses AI to match candidates with jobs and optimize resumes."
+    },
+    {
+      "id": 13,
+      "question": "Which of the following is NOT a standard Calendar View in Outlook?",
+      "options": [
+        "Day",
+        "Work Week",
+        "Year",
+        "Timeline (usually Schedule View)"
+      ],
+      "answer": 2,
+      "difficulty": "hard",
+      "explanation": "While Month view exists, a full 'Year' view is less common or requires specific navigation compared to Day/Week/Month."
+    },
+    {
+      "id": 14,
+      "question": "When creating a Task, what can you set to ensure you finish it on time?",
+      "options": [
+        "A Due Date and Reminder",
+        "A font color",
+        "A picture",
+        "A signature"
+      ],
+      "answer": 0,
+      "difficulty": "easy",
+      "explanation": "Setting a Due Date and a Reminder popup ensures you are alerted before the task deadline."
+    },
+    {
+      "id": 15,
+      "question": "To convert an existing Appointment into a Meeting, you must:",
+      "options": [
+        "Delete it and start over",
+        "Invite Attendees",
+        "Change the color",
+        "Print it"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Adding email addresses to the 'Invite Attendees' field transforms a personal appointment into a meeting request."
+    },
+    {
+      "id": 16,
+      "question": "How can you quickly find an email from 'John' sent 'Last Week'?",
+      "options": [
+        "Scroll manually through thousands of emails",
+        "Use the Search Bar and Filter options",
+        "Restart Outlook",
+        "Delete all other emails"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The Search Bar allows you to type keywords and filter results by sender, date, or subject."
+    },
+    {
+      "id": 17,
+      "question": "Why would you use 'Sort' in your Inbox?",
+      "options": [
+        "To make emails disappear",
+        "To arrange emails by Date, Sender, or Subject to find things easier",
+        "To send emails",
+        "To change the background"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Sorting rearranges the list view (e.g., Newest on Top, or Alphabetical by Sender) for better visibility."
+    },
+    {
+      "id": 18,
+      "question": "A 'Meeting Request' sent from Outlook automatically appears in the recipient's:",
+      "options": [
+        "Deleted Items",
+        "Inbox (as an invitation to Accept/Decline)",
+        "Contacts",
+        "Notes"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "Meeting requests arrive as emails with buttons to Accept, Tentative, or Decline, which then updates the calendar."
+    },
+    {
+      "id": 19,
+      "question": "Can you assign a Task to someone else in Outlook?",
+      "options": [
+        "No, tasks are private",
+        "Yes, using the 'Assign Task' feature",
+        "Only if you pay",
+        "Only in Excel"
+      ],
+      "answer": 1,
+      "difficulty": "medium",
+      "explanation": "Outlook allows you to assign tasks to others via email; they can accept or decline the responsibility."
+    },
+    {
+      "id": 20,
+      "question": "The 'Reminder' window in Outlook pops up to alert you about:",
+      "options": [
+        "Only emails",
+        "Upcoming Appointments, Meetings, and Task deadlines",
+        "System updates only",
+        "Viruses"
+      ],
+      "answer": 1,
+      "difficulty": "easy",
+      "explanation": "The unified Reminder window aggregates alerts for calendar items and due tasks."
+    }
+  ]
+}
